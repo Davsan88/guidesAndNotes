@@ -48,8 +48,7 @@
 ### CMD
 
 - **Create a File**  
- ```bash
- echo.> filename
+ ```bash echo.> filename
 
 - **Remove a File**
   ```bash 
