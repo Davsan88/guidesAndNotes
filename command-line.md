@@ -32,3 +32,25 @@
   ```bash
   cd
 
+## Creating and Removing Files
+
+### Bash & PowerShell
+
+- **Create a File**
+  ```bash
+  touch filename  # Bash
+  New-Item filename -Type file  # PowerShell
+  
+- **Remove a File**
+  ```bash
+  rm filename
+  
+### CMD
+
+- **Create a File**  
+ ```bash
+ echo.> filename
+
+- **Remove a File**
+  ```bash 
+  del filename
