@@ -20,3 +20,15 @@
 
 ### Windows Command Prompt (CMD)
 
+- **List Files and Directories**
+  ```bash
+  dir
+
+- **Change Directory**
+  ```bash
+  cd \path\to\directory
+
+- **Print Working Directory**
+  ```bash
+  cd
+
