@@ -1,7 +1,9 @@
 # Command Line Reference Guide
 
 
+
 ## Navigating the File System
+
 
 ### Bash (Linux/macOS) & PowerShell
 
@@ -19,6 +21,7 @@
   pwd  # Bash
   Get-Location  # PowerShell, alias: pwd
 
+
 ### Windows Command Prompt (CMD)
 
 - **List Files and Directories**
@@ -34,7 +37,9 @@
   cd
 
 
+
 ## Creating and Removing Files
+
 
 ### Bash & PowerShell
 
@@ -47,6 +52,7 @@
   ```bash
   rm filename
   
+
 ### CMD
 
 - **Create a File**  
@@ -58,7 +64,9 @@
   del filename
 
 
+
 ## Creating and Removing Directories
+
 
 ### Bash & PowerShell
 
@@ -72,6 +80,7 @@
   rm -r directoryname  # If contains files (Bash)
   Remove-Item directoryname -Recurse  # PowerShell
 
+
 ### CMD
 
 - **Create a Directory**
@@ -83,7 +92,9 @@
   rmdir /s /q directoryname
 
 
+
 ## File Manipulation
+
 
 ### Bash & PowerShell
 
@@ -94,6 +105,7 @@
 - **Move/Rename Files**
   ```bash
   mv source destination
+
 
 ### CMD
 
@@ -106,7 +118,9 @@
   move source destination
 
 
+
 ## Searching and Finding Files
+
 
 ### Bash
 
@@ -117,6 +131,7 @@
 - **Search Inside Files**
   ```bash
   grep "search text" /path/to/search
+
 
 ### PowerShell
 
@@ -139,4 +154,32 @@
   ```cmd
   MD lacks a built-in command similar to `grep` in Bash or `Select-String` in PowerShell. You might need to use third-party tools or batch scripts for similar functionality.
 
+
+
+# Enhanced Command Line Reference Guide
+
+
+## General CLI Operations
+
+- **Clear the Terminal**
+  - Bash/PowerShell: `clear` (On some systems, `Ctrl` + `L` also works)
+  - CMD: `cls`
+- **Autocomplete File or Directory Names**
+  - Press `Tab` to autocomplete the name of a file or directory.
+- **Cycling Through Previous Commands**
+  - Use the `↑` (up arrow) and `↓` (down arrow) keys to cycle through previously entered commands.
+
+
+
+## File and Directory Management
+
+
+### Listing Contents
+
+- **List All Contents** including hidden files (`-a`), in long format (`-l`), and ordered by modification time (`-t`):
+  ```bash
+  ls -a  # Include hidden files
+  ls -l  # Long format
+  ls -t  # Order by modification time
+  ls -alt # Combined options
 
