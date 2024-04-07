@@ -198,11 +198,11 @@
 
 ### CMD
 - Create a File
-  
+  ```cmd
   echo.> filename`
 
 - Remove a File
-  
+  ```cmd
   del filename`
 
 ## Creating and Removing Directories
