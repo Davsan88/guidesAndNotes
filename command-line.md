@@ -58,73 +58,54 @@
   del filename
 
 
-### Creating and Removing Directories
+## Creating and Removing Directories
 
-<!-- Creating and Removing Directories
-Bash & PowerShell
-Create a Directory
-bash
-Copy code
-mkdir directoryname
-Remove a Directory
-bash
-Copy code
-rmdir directoryname  # If empty
-rm -r directoryname  # If contains files (Bash)
-Remove-Item directoryname -Recurse  # PowerShell
-CMD
-Create a Directory
-cmd
-Copy code
-mkdir directoryname
-Remove a Directory
-cmd
-Copy code
-rmdir /s /q directoryname
-File Manipulation
-Bash & PowerShell
-Copy Files
-bash
-Copy code
-cp source destination
-Move/Rename Files
-bash
-Copy code
-mv source destination
-CMD
-Copy Files
-cmd
-Copy code
-copy source destination
-Move/Rename Files
-cmd
-Copy code
-move source destination
-Searching and Finding Files
-Bash
-Find Files
-bash
-Copy code
-find /path/to/search -name "filename"
-Search Inside Files
-bash
-Copy code
-grep "search text" /path/to/search
-PowerShell
-Find Files
-powershell
-Copy code
-Get-ChildItem -Path /path/to/search -Name "filename"
-Search Inside Files
-powershell
-Copy code
-Select-String "search text" /path/to/files/*
-CMD
-Find Files
-cmd
-Copy code
-dir /s /b "filename"
-Search Inside Files
-CMD lacks a built-in command similar to grep in Bash or Select-String in PowerShell. You might need to use third-party tools or batch scripts for similar functionality. -->
+### Bash & PowerShell
+- Create a Directory
+  - `mkdir directoryname`
+- Remove a Directory
+  - `rmdir directoryname`  # If empty
+  - `rm -r directoryname`  # If contains files (Bash)
+  - `Remove-Item directoryname -Recurse`  # PowerShell
+
+### CMD
+- Create a Directory
+  - `mkdir directoryname`
+- Remove a Directory
+  - `rmdir /s /q directoryname`
+
+## File Manipulation
+
+### Bash & PowerShell
+- Copy Files
+  - `cp source destination`
+- Move/Rename Files
+  - `mv source destination`
+
+### CMD
+- Copy Files
+  - `copy source destination`
+- Move/Rename Files
+  - `move source destination`
+
+## Searching and Finding Files
+
+### Bash
+- Find Files
+  - `find /path/to/search -name "filename"`
+- Search Inside Files
+  - `grep "search text" /path/to/search`
+
+### PowerShell
+- Find Files
+  - `Get-ChildItem -Path /path/to/search -Name "filename"`
+- Search Inside Files
+  - `Select-String "search text" /path/to/files/*`
+
+### CMD
+- Find Files
+  - `dir /s /b "filename"`
+- Search Inside Files
+  - CMD lacks a built-in command similar to `grep` in Bash or `Select-String` in PowerShell. You might need to use third-party tools or batch scripts for similar functionality.
 
 
