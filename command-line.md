@@ -82,38 +82,61 @@
   ```cmd
   rmdir /s /q directoryname
 
+
 ## File Manipulation
 
 ### Bash & PowerShell
+
 - **Copy Files**
+  ```bash
   cp source destination
+
 - **Move/Rename Files**
+  ```bash
   mv source destination
 
 ### CMD
+
 - **Copy Files**
+  ```cmd
   copy source destination
+
 - **Move/Rename Files**
+  ```cmd
   move source destination
+
 
 ## Searching and Finding Files
 
 ### Bash
+
 - **Find Files**
+  ```bash
   Find /path/to/search -name "filename"
+
 - **Search Inside Files**
+  ```bash
   grep "search text" /path/to/search
 
 ### PowerShell
+
 - **Find Files**
+  ```bash
   Get-ChildItem -Path /path/to/search -Name "filename"
+
 - **Search Inside Files**
+  ```bash
   Select-String "search text" /path/to/files/*
 
+
 ### CMD
+
 - **Find Files**
+  ```cmd
   dir /s /b "filename"
+
 - **Search Inside Files**
+  ```cmd
   MD lacks a built-in command similar to `grep` in Bash or `Select-String` in PowerShell. You might need to use third-party tools or batch scripts for similar functionality.
 
 
