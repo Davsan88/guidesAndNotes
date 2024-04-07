@@ -170,9 +170,40 @@
   - Use the `↑` (up arrow) and `↓` (down arrow) keys to cycle through previously entered commands.
 
 
+## Using Wildcards
 
-## File and Directory Management
+Wildcards are characters that enable you to select multiple files or directories based on pattern matching. The most common wildcard is `*`, which matches any number of characters.
 
+### Delete all `.txt` files in a directory:
+
+- **Bash/PowerShell**: `rm *.txt`
+- **CMD**: `del *.txt`
+
+### List Detailed Contents Including Hidden Files, Sorted by Time
+
+  - **Bash/PowerShell**: `ls -alt`
+  - **CMD**: `dir /a /o-d`
+
+### Copy Files Using Wildcards
+
+  - **Bash/PowerShell**: `cp *.txt /path/to/destination/`
+  - **CMD**: `copy *.txt C:\path\to\destination\`
+
+### Move and Rename a File
+
+  - **Bash/PowerShell**: `mv oldname.txt newname.txt`
+  - **CMD**: `rename oldname.txt newname.txt`
+
+### Remove All .log Files in the Current Directory
+
+  - **Bash/PowerShell**: `rm *.log`
+  - **CMD**: `del *.log`
+
+
+
+## Options and Modifiers
+
+Options, typically prefixed with a dash (`-`), modify the behavior of commands to make them more versatile. As shown with the `ls` command, multiple options can be used together to refine the output.
 
 ### Listing Contents
 
@@ -182,52 +213,6 @@
   ls -l  # Long format
   ls -t  # Order by modification time
   ls -alt # Combined options
-
-
-## Creating and Removing Files
-
-### Bash & PowerShell
-- Create a File
-  ```bash
-  touch filename`  # Bash
-  New-Item filename -Type file`  # PowerShell
-
-- Remove a File
-  ```bash
-  rm filename`
-
-### CMD
-- Create a File
-  ```cmd
-  echo.> filename`
-
-- Remove a File
-  ```cmd
-  del filename`
-
-## Creating and Removing Directories
-
-### Bash & PowerShell
-
-- Create a Directory
-  ```bash
-  mkdir directoryname
-
-- Remove a Directory
-  ```bash
-  rmdir directoryname  # If empty
-  rm -r directoryname  # If contains files (Bash)
-  Remove-Item directoryname -Recurse  # PowerShell
-
-### CMD
-
-- Create a Directory
-  ```cmd
-  mkdir directoryname
-
-- Remove a Directory
-  ```cmd
-  rmdir /s /q directoryname
 
 
 ## File Manipulation
