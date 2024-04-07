@@ -267,3 +267,75 @@ Options, typically prefixed with a dash (`-`), modify the behavior of commands t
 
 - Search Inside Files
   CMD lacks a built-in command similar to `grep` in Bash or `Select-String` in PowerShell. You might need to use third-party tools or batch scripts for similar functionality.
+
+
+
+# Command Reference Guide for Bash and CMD
+
+## Basic Commands
+
+### cat (Bash)
+- Concatenates and displays files.
+- Usage: `cat file.txt`
+
+### echo 
+- **Bash/CMD**: Outputs the given text to the terminal.
+- Usage: `echo "Hello World"`
+
+## Standard Streams
+
+- **stdin (standard input)**: The default input stream, providing input to commands.
+- **stdout (standard output)**: The default output stream for commands.
+- **stderr (standard error)**: The default error stream for commands.
+
+## Redirection in Bash and CMD
+
+- `>`: Redirects standard output to a file, overwriting existing content.
+  - Bash/CMD: `echo "Hello" > file.txt`
+- `>>`: Redirects standard output to a file, appending to existing content.
+  - Bash/CMD: `echo "World" >> file.txt`
+- `<`: Redirects standard input from a file to a command.
+  - Bash: `grep "search" < file.txt`
+  - CMD: Similar concept, but used differently.
+- `|`: Pipes standard output of one command to another command.
+  - Bash/CMD: `cat file.txt | grep "search"`
+
+## Commands with Redirection
+
+### sort 
+- **Bash**: Sorts lines of text alphabetically.
+  - Options:
+    - `-r`: Reverses the result of comparisons.
+    - `-n`: Compares according to string numerical value.
+  - Usage: `sort file.txt`
+
+### uniq (Bash)
+- Filters duplicate, adjacent lines of text.
+  - Options:
+    - `-c`: Prefix lines by the number of occurrences.
+    - `-d`: Only print duplicate lines.
+  - Usage: `sort file.txt | uniq`
+
+### grep (Bash)
+- Searches for a text pattern and outputs it.
+  - Options:
+    - `-i`: Ignore case distinctions.
+    - `-v`: Invert the sense of matching, to select non-matching lines.
+  - Usage: `grep "pattern" file.txt`
+
+### sed (Bash)
+- Searches for a text pattern, modifies it, and outputs it.
+  - Options:
+    - `-e script`: Add the script to the commands to be executed.
+    - `-n`: Suppress automatic printing of pattern space.
+  - Usage: `sed 's/original/replacement/' file.txt`
+
+### find (Bash/CMD)
+- **Bash**: Searches for files in a directory hierarchy.
+  - `-name "pattern"`: Search for files that match the pattern.
+  - Usage: `find . -name "file.txt"`
+- **CMD**: Searches for a file or files in a directory.
+  - `/R`: Recursive search.
+  - Usage: `dir /R file.txt`
+  
+**Note**: Some options and commands are specific to Bash (Linux, macOS) and may not have direct equivalents in CMD (Windows), but similar functionality can often be achieved with different syntax or by using additional tools like PowerShell for Windows users.
