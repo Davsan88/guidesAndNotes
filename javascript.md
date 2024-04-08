@@ -28,3 +28,22 @@ This is a multi-line comment
 which spans over multiple lines
 */
 ```
+
+## Data Types
+
+JavaScript supports dynamic types; this means you don't have to declare the type of a variable ahead of time. The main data types are:
+
+- **String**: Represents textual data, e.g., `"hello"`.
+- **Number**: Represents both integer and floating-point numbers, e.g., `42` or `3.14`.
+- **Boolean**: Represents a logical entity having two values: `true` and `false`.
+- **Undefined**: Represents a variable that has not been assigned a value.
+- **Null**: Represents the intentional absence of any object value.
+- **Object**: Collections of properties, e.g., `{name: "Alice", age: 30}`.
+- **Symbol**: Represents a unique identifier.
+
+Example:
+```javascript
+let name = "Alice"; // String
+let age = 30; // Number
+let isStudent = false; // Boolean
+```
