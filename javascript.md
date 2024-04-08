@@ -133,3 +133,54 @@ let uppercasedMessage = message.toUpperCase();
 console.log(uppercasedMessage); // "HELLO, WORLD!"
 ```
 
+## Properties
+
+Properties are values associated with objects in JavaScript. Every object has properties, and these properties can be both primitive values or functions (in which case, the properties are called methods).
+
+Example:
+```javascript
+let person = {
+    name: "Alice",
+    age: 30
+};
+
+console.log(person.name); // "Alice"
+console.log(person.age); // 30
+```
+
+## Methods
+
+Methods are functions that are stored as object properties. JavaScript provides numerous built-in methods to manipulate objects, arrays, strings, etc.
+
+Example:
+```javascript
+let message = "Hello, world!";
+let length = message.length; // 13
+console.log(length);
+
+let uppercasedMessage = message.toUpperCase();
+console.log(uppercasedMessage); // "HELLO, WORLD!"
+```
+
+## Built-in Objects
+
+JavaScript comes with a number of built-in objects that provide functionality necessary for scripting web pages. These objects include, but are not limited to, `Array`, `Date`, `Math`, and `RegExp`.
+
+Examples:
+```javascript
+// Array
+let fruits = ["Apple", "Banana", "Cherry"];
+console.log(fruits.length); // 3
+
+// Date
+let now = new Date();
+console.log(now);
+
+// Math
+let pi = Math.PI;
+console.log(pi); // 3.141592653589793
+
+// RegExp
+let pattern = /hello/;
+console.log(pattern.test("hello world!")); // true
+```
