@@ -47,3 +47,30 @@ let name = "Alice"; // String
 let age = 30; // Number
 let isStudent = false; // Boolean
 ```
+
+## Arithmetic Operators
+
+JavaScript supports several arithmetic operators, including:
+
+- `+` Addition
+- `-` Subtraction
+- `*` Multiplication
+- `/` Division
+- `%` Modulus (remainder)
+- `++` Increment
+- `--` Decrement
+
+Example:
+```javascript
+let result;
+
+result = 10 + 5; // 15
+result = 10 - 5; // 5
+result = 10 * 5; // 50
+result = 10 / 5; // 2
+result = 10 % 3; // 1
+
+let x = 5;
+x++; // x is now 6
+x--; // x is now 5 again
+```
