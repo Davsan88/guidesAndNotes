@@ -74,3 +74,18 @@ let x = 5;
 x++; // x is now 6
 x--; // x is now 5 again
 ```
+
+## String Concatenations
+
+In JavaScript, strings can be concatenated using the `+` operator or the `${}` syntax within template literals for more readability and ease, especially when variables are involved.
+
+Examples:
+```javascript
+let greeting = "Hello, " + "world!";
+console.log(greeting); // "Hello, world!"
+
+let name = "Alice";
+let personalizedGreeting = `Hello, ${name}!`;
+console.log(personalizedGreeting); // "Hello, Alice!"
+```
+
