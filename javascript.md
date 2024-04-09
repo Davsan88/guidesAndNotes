@@ -182,3 +182,14 @@ let counter = 0;
 counter++; // counter is now 1
 counter--; // counter is back to 0
 ```
+
+## String Concatenation with Variables
+
+Strings can be concatenated using the `+` operator along with variables.
+
+Example:
+```javascript
+let greeting = "Hello";
+let name = "Alice";
+console.log(greeting + ", " + name + "!"); // "Hello, Alice!"
+```
