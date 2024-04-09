@@ -193,3 +193,18 @@ let greeting = "Hello";
 let name = "Alice";
 console.log(greeting + ", " + name + "!"); // "Hello, Alice!"
 ```
+
+## String Interpolation
+
+String interpolation is a method of inserting values into a string. It is accomplished with template literals.
+
+### Template Literals
+
+Template literals are string literals allowing embedded expressions, denoted by the backtick (`) characters.
+
+Example:
+```javascript
+let name = "Alice";
+console.log(`Hello, ${name}!`); // "Hello, Alice!"
+```
+
