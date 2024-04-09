@@ -157,3 +157,17 @@ var oldWay = "I'm old school";
 let newWay = "I prefer block scope";
 const unchangeable = "You can't change me";
 ```
+
+## Mathematical Assignment Operators
+
+JavaScript provides operators that perform mathematical operations and assign the result to a variable, such as `+=`, `-=`, `*=`, `/=`, and `%=`.
+
+Example:
+```javascript
+let x = 10;
+x += 5; // x is now 15
+x -= 3; // x is now 12
+x *= 2; // x is now 24
+x /= 4; // x is now 6
+x %= 5; // x is now 1
+```
