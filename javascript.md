@@ -140,3 +140,20 @@ console.log(pi); // 3.141592653589793
 let pattern = /hello/;
 console.log(pattern.test("hello world!")); // true
 ```
+
+# Variables
+
+Variables are used to store data values. JavaScript uses `var`, `let`, and `const` for variable declarations, each with its own scope and use case.
+
+## var, let, const
+
+- **var**: Declares a variable, optionally initializing it to a value. `var` is function-scoped.
+- **let**: Declares a block-scoped, local variable, optionally initializing it to a value.
+- **const**: Declares a block-scoped, read-only named constant.
+
+Example:
+```javascript
+var oldWay = "I'm old school";
+let newWay = "I prefer block scope";
+const unchangeable = "You can't change me";
+```
