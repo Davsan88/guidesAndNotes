@@ -208,3 +208,14 @@ let name = "Alice";
 console.log(`Hello, ${name}!`); // "Hello, Alice!"
 ```
 
+## typeof operator
+
+The `typeof` operator is used to determine the type of a JavaScript variable.
+
+Example:
+```javascript
+console.log(typeof "Hello, world!"); // "string"
+console.log(typeof 42); // "number"
+console.log(typeof true); // "boolean"
+```
+
