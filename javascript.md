@@ -103,3 +103,17 @@ let person = {
 console.log(person.name); // "Alice"
 console.log(person.age); // 30
 ```
+
+## Methods
+
+Methods are functions that are stored as object properties. JavaScript provides numerous built-in methods to manipulate objects, arrays, strings, etc.
+
+Example:
+```javascript
+let message = "Hello, world!";
+let length = message.length; // 13
+console.log(length);
+
+let uppercasedMessage = message.toUpperCase();
+console.log(uppercasedMessage); // "HELLO, WORLD!"
+```
