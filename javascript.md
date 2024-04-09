@@ -171,3 +171,14 @@ x *= 2; // x is now 24
 x /= 4; // x is now 6
 x %= 5; // x is now 1
 ```
+
+## Increment and Decrement Operator
+
+The `++` and `--` operators increment and decrement a variable's value by one, respectively.
+
+Example:
+```javascript
+let counter = 0;
+counter++; // counter is now 1
+counter--; // counter is back to 0
+```
