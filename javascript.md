@@ -350,9 +350,11 @@ if (temperature > 30) {
 
 Conditional statements are fundamental in programming, allowing for more complex and dynamic web applications by controlling the flow of execution based on conditions.
 
+
 # Functions
 
 Functions in JavaScript are blocks of code designed to perform a particular task. They are fundamental to writing JavaScript programs, allowing code to be called multiple times from different parts of the script or even from different scripts.
+
 
 ## Function Declarations
 
@@ -365,6 +367,7 @@ function greet() {
 }
 ```
 This function, named `greet`, prints "Hello, world!" to the console when it is called.
+
 
 ## Calling a Function
 
@@ -387,3 +390,18 @@ function greet(name) {
 greet("Alice"); // Prints "Hello, Alice!" to the console.
 ```
 In this example, `name` is a parameter of the `greet` function, and `"Alice"` is the argument passed to the function when it is called.
+
+
+## Default Parameters
+
+Default parameters allow named parameters to be initialized with default values if no value or `undefined` is passed.
+
+Example:
+```javascript
+function greet(name = "Guest") {
+    console.log("Hello, " + name + "!");
+}
+greet(); // Prints "Hello, Guest!" to the console.
+greet("Alice"); // Prints "Hello, Alice!" to the console.
+```
+In this example, the function `greet` will greet "Guest" if no name is provided.
