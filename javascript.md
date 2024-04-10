@@ -313,3 +313,20 @@ Example:
 let result = condition ? value1 : value2;
 ```
 
+## Switch Statement
+
+The switch statement is used to perform different actions based on different conditions. It's a type of conditional statement that evaluates an expression, matching the expression's value to a case clause and executing statements associated with that case.
+
+Example:
+```javascript
+switch(expression) {
+  case x:
+    // code block
+    break;
+  case y:
+    // code block
+    break;
+  default:
+    // code block
+}
+```
