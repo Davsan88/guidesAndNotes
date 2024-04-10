@@ -272,7 +272,24 @@ if (age > 18 && nationality === 'Canadian') {
 }
 ```
 
+### Short Circuit Evaluation
 
+Conditionally executing code without the need for `if` statements.
+
+- **`||` (Logical OR)**: In an expression of the form `A || B`, JavaScript evaluates `A`. If `A` can be converted to `true`, it returns `A`; otherwise, it returns `B`. This means if `A` is truthy, `B` is not even evaluated.
+
+Example:
+```javascript
+let result = someValue || 'default value';
+```
+In this example, `result` will be assigned `someValue` if `someValue` is truthy; otherwise, it will be assigned `'default value'`.
+
+- **`&&` (Logical AND)**: In an expression of the form `A && B`, JavaScript evaluates `A`. If `A` can be converted to `false`, it returns `A`; otherwise, it returns `B`. This means if `A` is falsy, `B` is not even evaluated.
+
+Example:
+```javascript
+let result = value1 && value2;
+```
 
 
 
