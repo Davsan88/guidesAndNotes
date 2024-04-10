@@ -347,3 +347,5 @@ if (temperature > 30) {
     console.log("It's cold outside!");
 }
 ```
+
+Conditional statements are fundamental in programming, allowing for more complex and dynamic web applications by controlling the flow of execution based on conditions.
