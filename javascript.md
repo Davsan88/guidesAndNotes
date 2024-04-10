@@ -237,3 +237,27 @@ if (condition1) {
    // block of code to be executed if the condition1 is false and condition2 is false
 }
 ```
+## Comparison Operators
+
+Comparison operators are used in logical statements to determine equality or difference between variables or values.
+
+- `==` equal to
+- `===` strictly equal (value and type)
+- `!=` not equal
+- `!==` strictly not equal
+- `>` greater than
+- `<` less than
+- `>=` greater than or equal to
+- `<=` less than or equal to
+
+Example:
+```javascript
+if (age >= 18) {
+    console.log("You are an adult.");
+}
+```
+
+
+
+
+
