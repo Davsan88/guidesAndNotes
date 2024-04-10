@@ -291,5 +291,17 @@ Example:
 let result = value1 && value2;
 ```
 
+## Truthy vs Falsy Values
+
+In JavaScript, values can be truthy or falsy. Falsy values include `false`, `0`, `""` (empty string), `null`, `undefined`, and `NaN`. All other values are considered truthy.
+
+Example:
+```javascript
+if (value) {
+    // code here will execute if value is truthy
+} else {
+    // code here will execute if value is falsy
+}
+```
 
 
