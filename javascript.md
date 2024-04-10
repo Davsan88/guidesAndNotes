@@ -257,6 +257,21 @@ if (age >= 18) {
 }
 ```
 
+## Logical Operators
+
+Logical operators are used to determine the logic between variables or values.
+
+- `&&` logical and
+- `||` logical or
+- `!` logical not
+
+Example:
+```javascript
+if (age > 18 && nationality === 'Canadian') {
+    console.log("You are a Canadian adult.");
+}
+```
+
 
 
 
