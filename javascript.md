@@ -353,3 +353,15 @@ Conditional statements are fundamental in programming, allowing for more complex
 # Functions
 
 Functions in JavaScript are blocks of code designed to perform a particular task. They are fundamental to writing JavaScript programs, allowing code to be called multiple times from different parts of the script or even from different scripts.
+
+## Function Declarations
+
+A function declaration defines a function with the specified parameters.
+
+Example:
+```javascript
+function greet() {
+    console.log("Hello, world!");
+}
+```
+This function, named `greet`, prints "Hello, world!" to the console when it is called.
