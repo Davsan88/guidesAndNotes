@@ -219,3 +219,21 @@ console.log(typeof 42); // "number"
 console.log(typeof true); // "boolean"
 ```
 
+# Conditional Statements
+
+Conditional statements are used to perform different actions based on different conditions. In JavaScript, we have several types of conditional statements.
+
+## if, else if, and else statements
+
+The `if` statement executes a block of code if a specified condition is true. If the condition is false, another block of code can be executed using `else`. The `else if` statement can specify a new condition if the first condition is false.
+
+Example:
+```javascript
+if (condition1) {
+   // block of code to be executed if condition1 is true
+} else if (condition2) {
+   // block of code to be executed if the condition1 is false and condition2 is true
+} else {
+   // block of code to be executed if the condition1 is false and condition2 is false
+}
+```
