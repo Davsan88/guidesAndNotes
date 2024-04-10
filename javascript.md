@@ -374,3 +374,16 @@ Example:
 ```javascript
 greet(); // Calls the function, resulting in "Hello, world!" being printed to the console.
 ```
+
+## Parameters and Arguments
+
+Functions can take parameters, allowing you to pass values into the function. These values, called arguments, can be used within the function.
+
+Example:
+```javascript
+function greet(name) {
+    console.log("Hello, " + name + "!");
+}
+greet("Alice"); // Prints "Hello, Alice!" to the console.
+```
+In this example, `name` is a parameter of the `greet` function, and `"Alice"` is the argument passed to the function when it is called.
