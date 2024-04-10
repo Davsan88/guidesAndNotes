@@ -304,4 +304,12 @@ if (value) {
 }
 ```
 
+## Ternary Operators
+
+The ternary operator is a shorthand for the `if-else` statement and is represented by `?` and `:`.
+
+Example:
+```javascript
+let result = condition ? value1 : value2;
+```
 
