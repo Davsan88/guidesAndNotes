@@ -330,3 +330,20 @@ switch(expression) {
     // code block
 }
 ```
+
+## Else If Statements
+
+The `else if` statement in JavaScript is used to specify a new condition if the previous condition is false. It allows for multiple conditions to be tested in sequence, each with its own block of code to be executed if the condition is true.
+
+Example:
+```javascript
+if (temperature > 30) {
+    console.log("It's hot outside!");
+} else if (temperature > 20) {
+    console.log("It's nice outside!");
+} else if (temperature > 10) {
+    console.log("It's chilly outside!");
+} else {
+    console.log("It's cold outside!");
+}
+```
