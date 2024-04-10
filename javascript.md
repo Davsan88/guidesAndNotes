@@ -349,3 +349,7 @@ if (temperature > 30) {
 ```
 
 Conditional statements are fundamental in programming, allowing for more complex and dynamic web applications by controlling the flow of execution based on conditions.
+
+# Functions
+
+Functions in JavaScript are blocks of code designed to perform a particular task. They are fundamental to writing JavaScript programs, allowing code to be called multiple times from different parts of the script or even from different scripts.
