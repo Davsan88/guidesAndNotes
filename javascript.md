@@ -365,3 +365,12 @@ function greet() {
 }
 ```
 This function, named `greet`, prints "Hello, world!" to the console when it is called.
+
+## Calling a Function
+
+To execute the function, you call it by its name followed by parentheses.
+
+Example:
+```javascript
+greet(); // Calls the function, resulting in "Hello, world!" being printed to the console.
+```
