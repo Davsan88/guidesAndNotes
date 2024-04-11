@@ -494,6 +494,18 @@ Example:
 var globalVar = "I'm a global variable!";
 ```
 
+## Block Scope
+
+Introduced in ES6 with `let` and `const`, block scope restricts variable access to the block in which they are declared, such as within `if` statements or loops.
+
+Example:
+```javascript
+if (true) {
+    let blockScopedVar = "I'm block scoped!";
+    console.log(blockScopedVar); // Accessible here
+}
+console.log(blockScopedVar); // ReferenceError: blockScopedVar is not defined
+```
 
 
 
