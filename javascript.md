@@ -521,6 +521,10 @@ myFunction();
 console.log(localVar); // ReferenceError: localVar is not defined
 ```
 
+## Global Namespace
+
+The global namespace is the space in which global variables and functions are declared. Overuse of the global namespace can lead to conflicts and overwrites between different parts of a program, especially in large applications or when integrating multiple scripts.
+
 
 
 
