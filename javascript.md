@@ -436,3 +436,16 @@ function square(n) {
 
 console.log(square(4)); // Outputs: 16
 ```
+
+## Function Expressions
+
+A function expression assigns a function to a variable. Function expressions can be anonymous or named and do not need function names.
+
+Example:
+```javascript
+const greet = function(name) {
+    console.log("Hello, " + name + "!");
+};
+
+greet("Alice"); // Outputs: Hello, Alice!
+```
