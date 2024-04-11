@@ -449,3 +449,16 @@ const greet = function(name) {
 
 greet("Alice"); // Outputs: Hello, Alice!
 ```
+
+## Arrow Functions
+
+Arrow functions provide a concise syntax for writing function expressions. They do not have their own `this`, `arguments`, `super`, or `new.target` bindings.
+
+Example:
+```javascript
+const add = (a, b) => {
+    return a + b;
+};
+
+console.log(add(5, 3)); // Outputs: 8
+```
