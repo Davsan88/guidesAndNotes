@@ -525,7 +525,13 @@ console.log(localVar); // ReferenceError: localVar is not defined
 
 The global namespace is the space in which global variables and functions are declared. Overuse of the global namespace can lead to conflicts and overwrites between different parts of a program, especially in large applications or when integrating multiple scripts.
 
+## Scope Pollution
 
+Scope pollution occurs when too many variables are declared in the global scope, or when block or function scopes are not properly used. This can lead to unexpected behavior in code due to variable name conflicts or unintended variable reassignments.
+
+Avoiding scope pollution involves using local variables whenever possible and being mindful of the scope in which you declare variables and functions.
+
+Understanding scope and managing variables carefully is crucial for writing robust and maintainable JavaScript code.
 
 
 
