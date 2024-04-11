@@ -485,7 +485,14 @@ Scope in JavaScript determines the accessibility of variables, functions, and ob
 
 When a variable is declared outside any function or block, it's in the global scope, making it accessible from any part of the code.
 
+## Global Variables
 
+Variables defined in the global scope are known as global variables. They can be accessed and modified from any part of the program, which makes them highly flexible but also prone to unintended modifications.
+
+Example:
+```javascript
+var globalVar = "I'm a global variable!";
+```
 
 
 
