@@ -419,3 +419,20 @@ function sum(a, b) {
 }
 console.log(sum(5, 3)); // Outputs: 8
 ```
+
+## Helper Functions
+
+Helper functions are functions that are used within another function. They help in breaking down large problems into smaller, more manageable tasks.
+
+Example:
+```javascript
+function multiply(a, b) {
+    return a * b;
+}
+
+function square(n) {
+    return multiply(n, n);
+}
+
+console.log(square(4)); // Outputs: 16
+```
