@@ -219,6 +219,8 @@ console.log(typeof 42); // "number"
 console.log(typeof true); // "boolean"
 ```
 
+
+
 # Conditional Statements
 
 Conditional statements are used to perform different actions based on different conditions. In JavaScript, we have several types of conditional statements.
@@ -405,3 +407,15 @@ greet(); // Prints "Hello, Guest!" to the console.
 greet("Alice"); // Prints "Hello, Alice!" to the console.
 ```
 In this example, the function `greet` will greet "Guest" if no name is provided.
+
+## Return
+
+The `return` statement ends function execution and specifies a value to be returned to the function caller.
+
+Example:
+```javascript
+function sum(a, b) {
+    return a + b;
+}
+console.log(sum(5, 3)); // Outputs: 8
+```
