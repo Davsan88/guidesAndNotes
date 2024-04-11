@@ -507,7 +507,19 @@ if (true) {
 console.log(blockScopedVar); // ReferenceError: blockScopedVar is not defined
 ```
 
+## Local Variables
 
+Variables declared within a function are local to that function. They can only be accessed within the function, not from the outside.
+
+Example:
+```javascript
+function myFunction() {
+    let localVar = "I'm a local variable!";
+    console.log(localVar); // Accessible here
+}
+myFunction();
+console.log(localVar); // ReferenceError: localVar is not defined
+```
 
 
 
