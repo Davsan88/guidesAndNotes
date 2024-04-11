@@ -462,3 +462,16 @@ const add = (a, b) => {
 
 console.log(add(5, 3)); // Outputs: 8
 ```
+
+## Concise Body Arrow Functions
+
+If an arrow function contains only one statement that returns a value, you can omit the `return` keyword and the curly braces for an even shorter syntax.
+
+Example:
+```javascript
+const add = (a, b) => a + b;
+
+console.log(add(5, 3)); // Outputs: 8
+```
+
+Arrow functions make the code cleaner and more readable, especially for small functions that are passed as arguments to higher-order functions.
