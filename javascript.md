@@ -475,3 +475,27 @@ console.log(add(5, 3)); // Outputs: 8
 ```
 
 Arrow functions make the code cleaner and more readable, especially for small functions that are passed as arguments to higher-order functions.
+
+
+# Scope
+
+Scope in JavaScript determines the accessibility of variables, functions, and objects from different parts of the code.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
