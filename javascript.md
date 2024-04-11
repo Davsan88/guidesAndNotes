@@ -481,6 +481,11 @@ Arrow functions make the code cleaner and more readable, especially for small fu
 
 Scope in JavaScript determines the accessibility of variables, functions, and objects from different parts of the code.
 
+## Global Scope
+
+When a variable is declared outside any function or block, it's in the global scope, making it accessible from any part of the code.
+
+
 
 
 
