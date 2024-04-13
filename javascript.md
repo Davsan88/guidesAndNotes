@@ -558,6 +558,18 @@ let firstFruit = fruits[0]; // apple
 console.log(firstFruit);
 ```
 
+## Update Elements
+
+You can update an element in an array by assigning a new value to it at a specific index.
+
+Example:
+```javascript
+fruits[0] = "avocado"; // Update the first element
+console.log(fruits); // ["avocado", "banana", "cherry"]
+```
+
+
+
 
 
 
