@@ -599,6 +599,17 @@ console.log(numbers); // [1, 2, 3, 4]
 console.log(numbersCount); // 4
 ```
 
+## The .pop() Method
+
+The `.pop()` method removes the last element from an array and returns that element.
+
+Example:
+```javascript
+let lastNumber = numbers.pop(); // Removes 4
+console.log(numbers); // [1, 2, 3]
+console.log(lastNumber); // 4
+```
+
 
 
 
