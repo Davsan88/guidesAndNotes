@@ -614,6 +614,18 @@ console.log(lastNumber); // 4
 
 For additional methods to manipulate arrays, such as `slice()`, `splice()`, `map()`, and many others, see the detailed documentation.
 
+## Arrays and Functions
+
+Arrays can be passed to functions as arguments. Changes to the array within the function can affect the original array.
+
+Example:
+```javascript
+function addElement(arr) {
+    arr.push("new element");
+}
+addElement(fruits);
+console.log(fruits); // ["avocado", "banana", "cherry", "new element"]
+```
 
 
 
