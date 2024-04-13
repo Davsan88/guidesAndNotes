@@ -588,6 +588,17 @@ Example:
 console.log(fruits.length); // 3
 ```
 
+## The .push() Method
+
+The `.push()` method adds one or more elements to the end of an array and returns the new length of the array.
+
+Example:
+```javascript
+let numbersCount = numbers.push(4); // Adds 4 to the end
+console.log(numbers); // [1, 2, 3, 4]
+console.log(numbersCount); // 4
+```
+
 
 
 
