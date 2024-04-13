@@ -538,6 +538,15 @@ Understanding scope and managing variables carefully is crucial for writing robu
 
 Arrays in JavaScript are used to store multiple values in a single variable. They are objects that can hold a list of items.
 
+## Create an Array
+
+Arrays can be created using array literals or the Array constructor.
+
+Example:
+```javascript
+let fruits = ["apple", "banana", "cherry"]; // Array literal
+let numbers = new Array(1, 2, 3); // Array constructor
+```
 
 
 
