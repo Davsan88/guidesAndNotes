@@ -568,6 +568,17 @@ fruits[0] = "avocado"; // Update the first element
 console.log(fruits); // ["avocado", "banana", "cherry"]
 ```
 
+## Arrays with let and const
+
+You can declare arrays using `let` or `const`. The `const` declaration doesn't prevent the modification of the array (such as adding or removing elements), it only prevents reassignment of the array variable.
+
+Example:
+```javascript
+const myArray = ["initial"];
+myArray.push("another"); // Valid
+// myArray = []; // This would throw an error because reassignment is not allowed
+```
+
 
 
 
