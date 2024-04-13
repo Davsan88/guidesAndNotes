@@ -548,6 +548,15 @@ let fruits = ["apple", "banana", "cherry"]; // Array literal
 let numbers = new Array(1, 2, 3); // Array constructor
 ```
 
+## Accessing Elements
+
+Elements in an array are accessed by their index, starting from zero.
+
+Example:
+```javascript
+let firstFruit = fruits[0]; // apple
+console.log(firstFruit);
+```
 
 
 
