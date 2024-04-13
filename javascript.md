@@ -627,6 +627,17 @@ addElement(fruits);
 console.log(fruits); // ["avocado", "banana", "cherry", "new element"]
 ```
 
+## Nested Arrays
+
+Arrays can contain other arrays. This is useful for creating multidimensional arrays, like matrices.
+
+Example:
+```javascript
+let nestedArray = [[1, 2], [3, 4]];
+console.log(nestedArray[0][1]); // 2
+```
+
+Arrays are versatile and essential for managing collections of data in JavaScript.
 
 
 
