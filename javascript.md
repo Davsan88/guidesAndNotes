@@ -610,6 +610,9 @@ console.log(numbers); // [1, 2, 3]
 console.log(lastNumber); // 4
 ```
 
+## [More Array Methods](https://www.codecademy.com/resources/docs/javascript/arrays)
+
+For additional methods to manipulate arrays, such as `slice()`, `splice()`, `map()`, and many others, see the detailed documentation.
 
 
 
