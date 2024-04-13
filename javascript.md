@@ -579,6 +579,15 @@ myArray.push("another"); // Valid
 // myArray = []; // This would throw an error because reassignment is not allowed
 ```
 
+## The .length property
+
+The `.length` property of an array returns the number of elements in the array.
+
+Example:
+```javascript
+console.log(fruits.length); // 3
+```
+
 
 
 
