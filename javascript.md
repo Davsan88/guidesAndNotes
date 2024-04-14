@@ -644,4 +644,14 @@ Arrays are versatile and essential for managing collections of data in JavaScrip
 
 Loops are fundamental to programming, allowing you to repeat actions efficiently. JavaScript provides several types of loops to handle repetitive tasks.
 
+## The For Loop
 
+The `for` loop repeats a block of code a specified number of times, or while a specified condition is true.
+
+Example:
+```javascript
+for (let i = 0; i < 5; i++) {
+    console.log(i);
+}
+// This loop logs numbers 0 through 4 to the console.
+```
