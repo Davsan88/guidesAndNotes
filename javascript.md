@@ -681,3 +681,23 @@ for (let i = 0; i < fruits.length; i++) {
 }
 // This loop logs "apple", "banana", "cherry" to the console.
 ```
+
+## Nested Loops
+
+A nested loop is a loop inside another loop. Nested loops are useful for iterating over items in multi-dimensional arrays or grids.
+
+Example:
+```javascript
+const matrix = [
+    [1, 2],
+    [3, 4]
+];
+for (let i = 0; i < matrix.length; i++) {
+    for (let j = 0; j < matrix[i].length; j++) {
+        console.log(matrix[i][j]);
+    }
+}
+// This loop logs "1", "2", "3", "4" to the console.
+```
+
+Loops offer powerful ways to process data and manage repetitive tasks in your JavaScript code.
