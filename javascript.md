@@ -655,3 +655,17 @@ for (let i = 0; i < 5; i++) {
 }
 // This loop logs numbers 0 through 4 to the console.
 ```
+
+## Looping in Reverse
+
+You can also loop through elements in reverse order by modifying the indices and conditions in the `for` loop.
+
+Example:
+```javascript
+const array = ['one', 'two', 'three', 'four'];
+for (let i = array.length - 1; i >= 0; i--) {
+    console.log(array[i]);
+}
+// This loop prints "four", "three", "two", "one"
+```
+
