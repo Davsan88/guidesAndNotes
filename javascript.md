@@ -640,5 +640,8 @@ console.log(nestedArray[0][1]); // 2
 Arrays are versatile and essential for managing collections of data in JavaScript.
 
 
+# Loops
+
+Loops are fundamental to programming, allowing you to repeat actions efficiently. JavaScript provides several types of loops to handle repetitive tasks.
 
 
