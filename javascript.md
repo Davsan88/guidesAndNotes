@@ -669,3 +669,15 @@ for (let i = array.length - 1; i >= 0; i--) {
 // This loop prints "four", "three", "two", "one"
 ```
 
+## Looping through Arrays
+
+Using a `for` loop to iterate through array elements is a common practice.
+
+Example:
+```javascript
+const fruits = ["apple", "banana", "cherry"];
+for (let i = 0; i < fruits.length; i++) {
+    console.log(fruits[i]);
+}
+// This loop logs "apple", "banana", "cherry" to the console.
+```
