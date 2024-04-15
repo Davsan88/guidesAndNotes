@@ -701,3 +701,26 @@ for (let i = 0; i < matrix.length; i++) {
 ```
 
 Loops offer powerful ways to process data and manage repetitive tasks in your JavaScript code.
+
+## The While Loop
+
+The `while` loop executes a block of code as long as a specified condition is true.
+
+Example:
+```javascript
+let i = 0;
+while (i < 5) {
+    console.log(i);
+    i++;
+}
+// This loop logs numbers 0 through 4 to the console.
+```
+
+
+
+
+
+
+# Iterators
+## The .forEach() Method
+
