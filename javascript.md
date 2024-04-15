@@ -773,7 +773,7 @@ function repeatLog(n, action) {
 repeatLog(3, console.log); // Logs 0, 1, 2 to the console.
 ```
 
-
+Higher-order functions enhance flexibility and reusability in your code by abstracting actions away from specific data, which makes your functions more general and versatile.
 
 
 
