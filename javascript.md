@@ -747,6 +747,21 @@ for (let k = 0; k < 10; k++) {
 
 Higher-order functions are functions that operate on other functions, either by taking them as arguments or by returning them.
 
+## Functions as Data
+
+In JavaScript, functions are first-class objects, which means they can be assigned to variables, passed as arguments to other functions, and returned from functions.
+
+Example:
+```javascript
+const greet = function() { return "Hello there!"; };
+const sayHello = greet;
+console.log(sayHello()); // Outputs: "Hello there!"
+```
+
+
+
+
+
 
 # Iterators
 ## The .forEach() Method
