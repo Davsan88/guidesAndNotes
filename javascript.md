@@ -730,6 +730,18 @@ do {
 // This loop logs numbers 0 through 4 to the console.
 ```
 
+## The break Keyword
+
+The `break` keyword is used to exit a loop early, stopping the execution of the loop entirely.
+
+Example:
+```javascript
+for (let k = 0; k < 10; k++) {
+    if (k === 3) break;
+    console.log(k);
+}
+// This loop logs the numbers 0, 1, and 2, then stops.
+```
 
 
 
