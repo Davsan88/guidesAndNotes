@@ -716,7 +716,19 @@ while (i < 5) {
 // This loop logs numbers 0 through 4 to the console.
 ```
 
+## Do...While Statements
 
+The `do...while` loop is a variant of the `while` loop that will execute the block of code once before checking if the condition is true, then it will repeat the loop as long as the condition remains true.
+
+Example:
+```javascript
+let j = 0;
+do {
+    console.log(j);
+    j++;
+} while (j < 5);
+// This loop logs numbers 0 through 4 to the console.
+```
 
 
 
