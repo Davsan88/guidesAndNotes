@@ -758,6 +758,20 @@ const sayHello = greet;
 console.log(sayHello()); // Outputs: "Hello there!"
 ```
 
+## Functions as Parameters
+
+Higher-order functions can take other functions as parameters, allowing for abstraction and easier manipulation of behaviors.
+
+Example:
+```javascript
+function repeatLog(n, action) {
+    for (let i = 0; i < n; i++) {
+        action(i);
+    }
+}
+
+repeatLog(3, console.log); // Logs 0, 1, 2 to the console.
+```
 
 
 
