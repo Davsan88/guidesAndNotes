@@ -743,6 +743,9 @@ for (let k = 0; k < 10; k++) {
 // This loop logs the numbers 0, 1, and 2, then stops.
 ```
 
+# Higher-Order Function
+
+Higher-order functions are functions that operate on other functions, either by taking them as arguments or by returning them.
 
 
 # Iterators
