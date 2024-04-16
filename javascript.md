@@ -825,3 +825,16 @@ console.log(firstEven);
 // This will log: 1 (the index of the first even number, which is 2)
 ```
 
+## The .reduce() Method
+
+The `.reduce()` method executes a reducer function on each element of the array, resulting in a single output value.
+
+Example:
+```javascript
+const total = numbers.reduce((accumulator, currentValue) => accumulator + currentValue);
+console.log(total);
+// This will log: 15 (the sum of all numbers)
+```
+
+
+
