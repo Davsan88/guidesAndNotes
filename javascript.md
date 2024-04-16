@@ -803,5 +803,15 @@ console.log(squares);
 // This will log: [1, 4, 9, 16, 25]
 ```
 
+## The .filter() Method
+
+The `.filter()` method creates a new array with all elements that pass the test implemented by the provided function.
+
+Example:
+```javascript
+const evens = numbers.filter(number => number % 2 === 0);
+console.log(evens);
+// This will log: [2, 4]
+```
 
 
