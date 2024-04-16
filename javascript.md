@@ -781,5 +781,16 @@ Higher-order functions enhance flexibility and reusability in your code by abstr
 
 Iterators are methods that operate on collections such as arrays and strings, providing various ways to manipulate and process the data.
 
+## The .forEach() Method
+
+The `.forEach()` method executes a provided function once for each array element.
+
+Example:
+```javascript
+const numbers = [1, 2, 3, 4, 5];
+numbers.forEach(number => console.log(number));
+// This will log each number in the array: 1, 2, 3, 4, 5
+```
+
 
 
