@@ -792,5 +792,16 @@ numbers.forEach(number => console.log(number));
 // This will log each number in the array: 1, 2, 3, 4, 5
 ```
 
+## The .map() Method
+
+The `.map()` method creates a new array populated with the results of calling a provided function on every element in the calling array.
+
+Example:
+```javascript
+const squares = numbers.map(number => number * number);
+console.log(squares);
+// This will log: [1, 4, 9, 16, 25]
+```
+
 
 
