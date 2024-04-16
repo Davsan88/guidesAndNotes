@@ -778,5 +778,8 @@ Higher-order functions enhance flexibility and reusability in your code by abstr
 
 
 # Iterators
-## The .forEach() Method
+
+Iterators are methods that operate on collections such as arrays and strings, providing various ways to manipulate and process the data.
+
+
 
