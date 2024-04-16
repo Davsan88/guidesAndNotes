@@ -836,5 +836,15 @@ console.log(total);
 // This will log: 15 (the sum of all numbers)
 ```
 
+## The .every() Method
+
+The `.every()` method tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value.
+
+Example:
+```javascript
+const allEven = numbers.every(number => number % 2 === 0);
+console.log(allEven);
+// This will log: false (not all numbers in the array are even)
+```
 
 
