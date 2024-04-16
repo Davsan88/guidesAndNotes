@@ -814,4 +814,14 @@ console.log(evens);
 // This will log: [2, 4]
 ```
 
+## The .findIndex() Method
+
+The `.findIndex()` method returns the index of the first element in the array that satisfies the provided testing function. If no elements satisfy the testing function, it returns -1.
+
+Example:
+```javascript
+const firstEven = numbers.findIndex(number => number % 2 === 0);
+console.log(firstEven);
+// This will log: 1 (the index of the first even number, which is 2)
+```
 
