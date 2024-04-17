@@ -876,3 +876,13 @@ Example:
 console.log(dog.name); // Outputs: Rex
 ```
 
+## Bracket Notation
+
+Bracket notation allows you to access properties using a string. This is particularly useful when the property name is dynamic or not a valid identifier.
+
+Example:
+```javascript
+const property = "age";
+console.log(dog[property]); // Outputs: 4
+```
+
