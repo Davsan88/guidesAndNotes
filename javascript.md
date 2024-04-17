@@ -886,3 +886,14 @@ const property = "age";
 console.log(dog[property]); // Outputs: 4
 ```
 
+
+## Property Assignment
+
+Properties on objects can be assigned new values or new properties can be added to an object.
+
+Example:
+```javascript
+dog.breed = "Golden Retriever"; // Changes the breed
+dog.color = "golden"; // Adds a new property
+```
+
