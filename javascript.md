@@ -853,3 +853,16 @@ Iterators provide powerful, high-level ways to work with data in JavaScript, all
 # Objects
 
 Objects in JavaScript are collections of properties. They are used to store various keyed collections and more complex entities.
+
+## Creating Object Literals
+
+Object literals are defined using curly braces `{}` and have zero or more properties consisting of key-value pairs.
+
+Example:
+```javascript
+const dog = {
+    name: "Rex",
+    age: 4,
+    breed: "Labrador"
+};
+```
