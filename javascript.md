@@ -866,3 +866,13 @@ const dog = {
     breed: "Labrador"
 };
 ```
+
+## Accessing Properties
+
+You can access properties of an object using dot notation. This is useful when you know the name of the property you want to access.
+
+Example:
+```javascript
+console.log(dog.name); // Outputs: Rex
+```
+
