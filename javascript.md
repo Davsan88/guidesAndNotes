@@ -908,3 +908,20 @@ dog.speak = function() {
 };
 console.log(dog.speak()); // Outputs: Woof!
 ```
+
+## Nested Objects
+
+Objects can contain other objects as values, allowing you to create complex data structures.
+
+Example:
+```javascript
+const student = {
+    name: "Alice",
+    age: 25,
+    course: {
+        name: "Computer Science",
+        year: 3
+    }
+};
+console.log(student.course.name); // Outputs: Computer Science
+```
