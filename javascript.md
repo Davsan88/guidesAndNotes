@@ -937,3 +937,15 @@ const obj2 = obj1;
 obj2.value = 20;
 console.log(obj1.value); // Outputs: 20
 ```
+
+## Looping Through Objects
+
+You can loop through the properties of an object using the `for...in` loop.
+
+Example:
+```javascript
+for (const key in dog) {
+    console.log(key, dog[key]);
+}
+// This loop will output each property and its value in the dog object.
+```
