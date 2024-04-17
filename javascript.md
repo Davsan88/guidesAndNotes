@@ -925,3 +925,15 @@ const student = {
 };
 console.log(student.course.name); // Outputs: Computer Science
 ```
+
+## Pass By Reference
+
+Objects in JavaScript are passed by reference, meaning that if you assign an object to another variable and then modify it, both references will see the modification.
+
+Example:
+```javascript
+const obj1 = { value: 10 };
+const obj2 = obj1;
+obj2.value = 20;
+console.log(obj1.value); // Outputs: 20
+```
