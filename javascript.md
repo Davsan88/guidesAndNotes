@@ -850,3 +850,6 @@ console.log(allEven);
 Iterators provide powerful, high-level ways to work with data in JavaScript, allowing for elegant and concise data processing.
 
 
+# Objects
+
+Objects in JavaScript are collections of properties. They are used to store various keyed collections and more complex entities.
