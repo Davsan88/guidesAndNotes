@@ -949,3 +949,5 @@ for (const key in dog) {
 }
 // This loop will output each property and its value in the dog object.
 ```
+
+Objects provide a powerful way to organize data and functionality in JavaScript.
