@@ -897,3 +897,14 @@ dog.breed = "Golden Retriever"; // Changes the breed
 dog.color = "golden"; // Adds a new property
 ```
 
+## Methods
+
+Methods are functions that are stored as object properties.
+
+Example:
+```javascript
+dog.speak = function() {
+    return "Woof!";
+};
+console.log(dog.speak()); // Outputs: Woof!
+```
