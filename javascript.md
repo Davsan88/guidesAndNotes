@@ -1001,3 +1001,19 @@ const bankAccount = {
 };
 ```
 
+## Getters
+
+Getters are methods that get the value of a specific property. They are used to access the values of an object without exposing the private variables directly.
+
+Example:
+```javascript
+const person = {
+    firstName: "John",
+    lastName: "Doe",
+    get fullName() {
+        return `${this.firstName} ${this.lastName}`;
+    }
+};
+console.log(person.fullName); // Outputs: John Doe
+```
+
