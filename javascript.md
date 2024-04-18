@@ -957,3 +957,19 @@ Objects provide a powerful way to organize data and functionality in JavaScript.
 
 In JavaScript, advanced object concepts enhance the ways you can interact and manage objects.
 
+## The this Keyword
+
+The `this` keyword refers to the object it belongs to, providing a way to access properties and methods on the same object.
+
+Example:
+```javascript
+const person = {
+    firstName: "John",
+    lastName: "Doe",
+    fullName: function() {
+        return `${this.firstName} ${this.lastName}`;
+    }
+};
+console.log(person.fullName()); // Outputs: John Doe
+```
+
