@@ -973,3 +973,20 @@ const person = {
 console.log(person.fullName()); // Outputs: John Doe
 ```
 
+## Arrow Functions and this
+
+Arrow functions do not have their own `this` context, instead, they inherit `this` from the parent scope when defined.
+
+Example:
+```javascript
+const person = {
+    firstName: "John",
+    lastName: "Doe",
+    fullName: () => {
+        // This will not work as expected if used in a method
+        return `${this.firstName} ${this.lastName}`;
+    }
+};
+console.log(person.fullName()); // Incorrectly outputs: undefined undefined
+```
+
