@@ -951,3 +951,9 @@ for (const key in dog) {
 ```
 
 Objects provide a powerful way to organize data and functionality in JavaScript.
+
+
+# Advanced Objects
+
+In JavaScript, advanced object concepts enhance the ways you can interact and manage objects.
+
