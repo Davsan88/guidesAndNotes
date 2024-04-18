@@ -990,3 +990,14 @@ const person = {
 console.log(person.fullName()); // Incorrectly outputs: undefined undefined
 ```
 
+## Privacy
+
+In JavaScript, privacy refers to encapsulating properties and methods from outside access. While JavaScript does not have built-in support for private properties (traditionally), naming conventions like prefixing property names with an underscore `_` indicate that a property should not be altered directly.
+
+Example:
+```javascript
+const bankAccount = {
+    _balance: 1000
+};
+```
+
