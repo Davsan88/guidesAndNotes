@@ -1036,3 +1036,22 @@ person.fullName = "Jane Smith";
 console.log(person.firstName); // Outputs: Jane
 ```
 
+## Factory Functions
+
+Factory functions are functions that return new objects. They can be used to create multiple instances of similar objects.
+
+Example:
+```javascript
+function createPerson(name, age) {
+    return {
+        name: name,
+        age: age,
+        greet() {
+            return `Hi, my name is ${this.name} and I am ${this.age} years old.`;
+        }
+    };
+}
+const alice = createPerson("Alice", 30);
+console.log(alice.greet()); // Outputs: Hi, my name is Alice and I am 30 years old.
+```
+
