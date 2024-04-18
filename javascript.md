@@ -1017,3 +1017,22 @@ const person = {
 console.log(person.fullName); // Outputs: John Doe
 ```
 
+## Setters
+
+Setters are methods that set the value of a specific property. They allow you to control how important values are updated within an object.
+
+Example:
+```javascript
+const person = {
+    firstName: "John",
+    lastName: "Doe",
+    set fullName(name) {
+        const parts = name.split(' ');
+        this.firstName = parts[0];
+        this.lastName = parts[1];
+    }
+};
+person.fullName = "Jane Smith";
+console.log(person.firstName); // Outputs: Jane
+```
+
