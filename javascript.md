@@ -1119,7 +1119,16 @@ for (const [key, value] of Object.entries(object)) {
 // Output: "a: 1", "b: 2", "c: 3"
 ```
 
+### Object.keys()
 
+`Object.keys()` returns an array of a given object's own enumerable property names, iterated in the same order that a normal loop would.
+
+Example:
+```javascript
+const object = { a: 1, b: 2, c: 3 };
+const keys = Object.keys(object);
+console.log(keys); // Outputs: ["a", "b", "c"]
+```
 
 
 Advanced object techniques in JavaScript help create more structured and maintainable code, allowing for better data management and functionality.
