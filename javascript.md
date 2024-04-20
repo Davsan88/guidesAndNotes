@@ -1071,6 +1071,22 @@ const person = {
 console.log(person); // Outputs: { name: "Alice", age: 25 }
 ```
 
+## Destructured Assignment
+
+Destructured assignment in JavaScript makes it possible to unpack values from arrays or properties from objects into distinct variables.
+
+Example:
+```javascript
+const userProfile = {
+    username: "techguru",
+    email: "tech@example.com"
+};
+
+// Destructure properties into variables
+const { username, email } = userProfile;
+console.log(username); // Outputs: techguru
+```
+
 
 
 Advanced object techniques in JavaScript help create more structured and maintainable code, allowing for better data management and functionality.
