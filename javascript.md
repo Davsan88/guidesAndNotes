@@ -1091,6 +1091,22 @@ console.log(username); // Outputs: techguru
 
 JavaScript provides several built-in methods to work with objects. These include `Object.assign()`, `Object.entries()`, and `Object.keys()` among others.
 
+### Object.assign()
+
+`Object.assign()` is used to copy the values of all enumerable own properties from one or more source objects to a target object.
+
+Example:
+```javascript
+const target = { a: 1, b: 2 };
+const source = { b: 4, c: 5 };
+
+const returnedTarget = Object.assign(target, source);
+
+console.log(target);       // Outputs: { a: 1, b: 4, c: 5 }
+console.log(returnedTarget); // Outputs: { a: 1, b: 4, c: 5 }
+```
+
+
 
 
 Advanced object techniques in JavaScript help create more structured and maintainable code, allowing for better data management and functionality.
