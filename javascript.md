@@ -1087,6 +1087,10 @@ const { username, email } = userProfile;
 console.log(username); // Outputs: techguru
 ```
 
+## Built-in Object Methods
+
+JavaScript provides several built-in methods to work with objects. These include `Object.assign()`, `Object.entries()`, and `Object.keys()` among others.
+
 
 
 Advanced object techniques in JavaScript help create more structured and maintainable code, allowing for better data management and functionality.
