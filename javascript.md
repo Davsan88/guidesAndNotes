@@ -1055,6 +1055,21 @@ const alice = createPerson("Alice", 30);
 console.log(alice.greet()); // Outputs: Hi, my name is Alice and I am 30 years old.
 ```
 
+## Property Value Shorthand
+
+In ES6, JavaScript allows you to use a shorthand when initializing object properties with variables of the same name.
+
+Example:
+```javascript
+const name = "Alice";
+const age = 25;
+
+const person = {
+    name, // Same as name: name
+    age   // Same as age: age
+};
+console.log(person); // Outputs: { name: "Alice", age: 25 }
+```
 
 
 
