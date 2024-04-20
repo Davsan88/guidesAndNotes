@@ -1106,6 +1106,19 @@ console.log(target);       // Outputs: { a: 1, b: 4, c: 5 }
 console.log(returnedTarget); // Outputs: { a: 1, b: 4, c: 5 }
 ```
 
+### Object.entries()
+
+`Object.entries()` returns an array of a given object's own enumerable string-keyed property `[key, value]` pairs.
+
+Example:
+```javascript
+const object = { a: 1, b: 2, c: 3 };
+for (const [key, value] of Object.entries(object)) {
+    console.log(`${key}: ${value}`);
+}
+// Output: "a: 1", "b: 2", "c: 3"
+```
+
 
 
 
