@@ -46,16 +46,25 @@ Example:
 
 `<figure>` and `<figcaption>`: Used together to associate a caption with a figure.
 
+
 ## Attributes
 
 class: Groups elements for CSS or JavaScript.
+
 id: Identifies an element uniquely in the document.
+
 style: Applies inline CSS styles.
+
 href: Specifies link targets.
+
 src: Sets source URLs for media.
+
 alt: Provides text alternatives for images.
+
 title: Gives additional information, usually displayed as a tooltip.
+
 placeholder: Shows hint text in input fields.
+
 type: Defines input types in forms.
 
 
