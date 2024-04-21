@@ -32,13 +32,19 @@ Example:
 
 `<ul>`, `<ol>`, `<li>`: Create unordered and ordered lists.
 
-<div>: Serves as a generic container for content, with no semantic meaning.
-<section>: Groups thematically related content, typically includes a heading.
-<span>: A generic inline container.
-<form>, <input>: Used to create an interactive form for user input.
-<article>: Represents a self-contained composition in a document.
-<aside>: Denotes content indirectly related to the main content.
-<figure> and <figcaption>: Used together to associate a caption with a figure.
+`<div>`: Serves as a generic container for content, with no semantic meaning.
+
+`<section>`: Groups thematically related content, typically includes a heading.
+
+`<span>`: A generic inline container.
+
+`<form>`, `<input>`: Used to create an interactive form for user input.
+
+`<article>`: Represents a self-contained composition in a document.
+
+`<aside>`: Denotes content indirectly related to the main content.
+
+`<figure>` and `<figcaption>`: Used together to associate a caption with a figure.
 
 ## Attributes
 
