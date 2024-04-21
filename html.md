@@ -49,23 +49,23 @@ Example:
 
 ## Attributes
 
-class: Groups elements for CSS or JavaScript.
+`class`: Groups elements for CSS or JavaScript.
 
-id: Identifies an element uniquely in the document.
+`id`: Identifies an element uniquely in the document.
 
-style: Applies inline CSS styles.
+`style`: Applies inline CSS styles.
 
-href: Specifies link targets.
+`href`: Specifies link targets.
 
-src: Sets source URLs for media.
+`src`: Sets source URLs for media.
 
-alt: Provides text alternatives for images.
+`alt`: Provides text alternatives for images.
 
-title: Gives additional information, usually displayed as a tooltip.
+`title`: Gives additional information, usually displayed as a tooltip.
 
-placeholder: Shows hint text in input fields.
+`placeholder`: Shows hint text in input fields.
 
-type: Defines input types in forms.
+`type`: Defines input types in forms.
 
 
 ## Basic Text Formatting:
