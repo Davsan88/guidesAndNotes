@@ -23,10 +23,15 @@ Example:
 ## Common Tags
 
 `<h1>` to `<h6>`: Define headings with different levels of importance, `<h1>` being the most important.
+
 `<p>`: Represents a paragraph.
+
 `<a href="URL">`: Creates a hyperlink.
+
 `<img src="image.jpg" alt="description">`: Embeds an image.
+
 `<ul>`, `<ol>`, `<li>`: Create unordered and ordered lists.
+
 <div>: Serves as a generic container for content, with no semantic meaning.
 <section>: Groups thematically related content, typically includes a heading.
 <span>: A generic inline container.
