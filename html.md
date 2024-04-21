@@ -1,18 +1,23 @@
 # HTML Reference Guide
 
 ## Basic Structure
-<q>
+
+The basic structure of an HTML document includes the `<!DOCTYPE html>` declaration, `<html>`, `<head>`, and `<body>` tags.
+
+Example:
 ```html
-!DOCTYPE html
-html
-head
-    titlePage Title/title
-/head
-body
-    h1This is a Heading/h1
-    pThis is a paragraph./p
-/body
-/html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Title</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+</body>
+</html>
+```
 
 
 ## Common Tags
