@@ -139,10 +139,13 @@ These elements typically form a visible block on a page, like a paragraph or a d
 ### Inline-level HTML Elements
 These elements are contained within block-level elements and do not start on a new line. Examples include:
 
-<b>, <i>, <em>, <strong>: Bold, italic, emphasized text, and strong importance respectively.
-<br>: Line break.
-<input>, <label>: Form input and its label.
-<cite>, <code>: Reference to a cited work and a piece of computer code.
+`<b>`, `<i>`, `<em>`, `<strong>`: Bold, italic, emphasized text, and strong importance respectively.
+
+`<br>`: Line break.
+
+`<input>`, `<label>`: Form input and its label.
+
+`<cite>`, `<code>`: Reference to a cited work and a piece of computer code.
 
 
 ## Positioning in CSS. 
