@@ -56,3 +56,14 @@ NameError occurs when the Python interpreter sees a word it does not recognize.
   print(test)
   ```
 
+## Numbers
+
+Python supports various types of numbers, such as integers and floating-point numbers.
+
+- Example:
+  ```python
+  x = 10    # Integer
+  y = 10.5  # Floating-point number
+  print(x, y)
+  ```
+
