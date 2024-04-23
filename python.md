@@ -19,3 +19,15 @@ The `print()` function is used to output data to the standard output device (scr
   ```python
   print("Hello, world!")
   ```
+
+## Strings
+
+Strings in Python are sequences of characters enclosed in quotes. You can use either single quotes (`'`) or double quotes (`"`).
+
+- Example:
+  ```python
+  print("This is a string.")
+  print('This is also a string.')
+  ```
+
+  
