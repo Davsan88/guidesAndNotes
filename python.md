@@ -116,4 +116,14 @@ The modulo operator (`%`) in Python returns the remainder of a division operatio
   print(10 % 3)  # Outputs: 1 because 10 divided by 3 leaves a remainder of 1
   ```
 
-  
+## Concatenation
+
+In Python, you can concatenate strings using the `+` operator, which combines them into one string.
+
+- Example:
+  ```python
+  greeting = "Hello"
+  name = "Alice"
+  message = greeting + " " + name + "!"
+  print(message)  # Outputs: Hello Alice!
+  ```
