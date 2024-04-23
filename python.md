@@ -138,3 +138,18 @@ The `+=` operator in Python is used to add the right operand to the left operand
   count += 1  # Equivalent to count = count + 1
   print(count)  # Outputs: 1
   ```
+
+## Multi-line Strings
+
+Multi-line strings in Python can be created using triple quotes (`'''` or `"""`). This is useful for strings that span multiple lines.
+
+- Example:
+  ```python
+  multi_line_string = """
+  This is a string that
+  spans multiple lines
+  in Python.
+  """
+  print(multi_line_string)
+  ```
+
