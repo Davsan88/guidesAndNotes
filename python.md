@@ -67,3 +67,15 @@ Python supports various types of numbers, such as integers and floating-point nu
   print(x, y)
   ```
 
+## Calculations
+
+Python can be used as a calculator to perform arithmetic.
+
+- Example:
+  ```python
+  print(1 + 1)  # Addition
+  print(2 * 3)  # Multiplication
+  print(5 - 3)  # Subtraction
+  print(8 / 2)  # Division
+  ```
+
