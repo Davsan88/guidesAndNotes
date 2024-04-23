@@ -153,3 +153,4 @@ Multi-line strings in Python can be created using triple quotes (`'''` or `"""`)
   print(multi_line_string)
   ```
 
+>This guide provides a brief overview of basic concepts in Python to get you started with writing simple programs. Python's simplicity and readability make it an excellent choice for beginners and experts alike.
