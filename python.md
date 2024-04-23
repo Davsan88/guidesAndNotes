@@ -106,3 +106,14 @@ Python supports exponents as well, which allows for power calculations.
   # 2 raised to the power of 3
   print(2 ** 3)
   ```
+
+## Modulo
+
+The modulo operator (`%`) in Python returns the remainder of a division operation between two numbers.
+
+- Example:
+  ```python
+  print(10 % 3)  # Outputs: 1 because 10 divided by 3 leaves a remainder of 1
+  ```
+
+  
