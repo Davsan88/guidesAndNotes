@@ -97,4 +97,12 @@ Variables that are assigned numeric values can be treated the same as the number
     print(coffee_price * number_of_coffees)
   ```
 
-  
+## Exponents
+
+Python supports exponents as well, which allows for power calculations.
+
+- Example:
+  ```python
+  # 2 raised to the power of 3
+  print(2 ** 3)
+  ```
