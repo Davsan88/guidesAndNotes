@@ -10,3 +10,12 @@ Comments in Python are created using the `#` symbol. Anything following the `#` 
   ```python
   # This is a comment in Python
   ```
+
+## Print
+
+The `print()` function is used to output data to the standard output device (screen).
+
+- Example:
+  ```python
+  print("Hello, world!")
+  ```
