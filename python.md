@@ -127,3 +127,14 @@ In Python, you can concatenate strings using the `+` operator, which combines th
   message = greeting + " " + name + "!"
   print(message)  # Outputs: Hello Alice!
   ```
+
+## Plus Equals
+
+The `+=` operator in Python is used to add the right operand to the left operand and assign the result to the left operand. It's commonly used to shorten the syntax for incrementing the value of a variable.
+
+- Example:
+  ```python
+  count = 0
+  count += 1  # Equivalent to count = count + 1
+  print(count)  # Outputs: 1
+  ```
