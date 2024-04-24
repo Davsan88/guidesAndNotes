@@ -166,6 +166,12 @@ In Python, user input can be obtained using the `input()` function. This functio
 
 >This guide provides a brief overview of basic concepts in Python to get you started with writing simple programs. Python's simplicity and readability make it an excellent choice for beginners and experts alike.
 
+
+# Control Flow
+
+Control flow in Python refers to the sequence in which code statements are executed. It can be managed using various control structures such as conditional statements and loops.
+
+
 ## User Input
 # Control Flow
 ## Boolean Expressions
