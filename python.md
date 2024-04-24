@@ -191,7 +191,16 @@ Relational operators compare the values on either side of them and decide the re
   print(5 != 5)   # Outputs: False
   ```
 
+## Boolean Variables
 
+Boolean variables are variables that are either set to `True` or `False`.
+
+- Example:
+  ```python
+  is_logged_in = True
+  if is_logged_in:
+      print("User is logged in.")
+  ```
 
 
 
