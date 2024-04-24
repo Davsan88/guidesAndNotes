@@ -171,6 +171,16 @@ In Python, user input can be obtained using the `input()` function. This functio
 
 Control flow in Python refers to the sequence in which code statements are executed. It can be managed using various control structures such as conditional statements and loops.
 
+## Boolean Expressions
+
+A Boolean expression is an expression that evaluates to produce a result which is either `True` or `False`.
+
+- Example:
+  ```python
+  print(10 > 9)  # Outputs: True
+  print(10 == 9) # Outputs: False
+  ```
+
 
 ## User Input
 # Control Flow
