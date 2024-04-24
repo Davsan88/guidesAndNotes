@@ -202,6 +202,16 @@ Boolean variables are variables that are either set to `True` or `False`.
       print("User is logged in.")
   ```
 
+## If Statement
+
+The `if` statement is used to test a specific condition. If the condition is true, a block of code will be executed.
+
+- Example:
+  ```python
+  age = 20
+  if age >= 18:
+      print("You are old enough to vote.")
+  ```
 
 
 ## User Input
