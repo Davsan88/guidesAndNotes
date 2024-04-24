@@ -181,6 +181,19 @@ A Boolean expression is an expression that evaluates to produce a result which i
   print(10 == 9) # Outputs: False
   ```
 
+## Relational Operators: Equals and Not Equals
+
+Relational operators compare the values on either side of them and decide the relation among them. `==` is the equals operator, and `!=` is the not equals operator.
+
+- Example:
+  ```python
+  print(5 == 5)   # Outputs: True
+  print(5 != 5)   # Outputs: False
+  ```
+
+
+
+
 
 ## User Input
 # Control Flow
