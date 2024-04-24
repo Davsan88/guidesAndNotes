@@ -153,4 +153,30 @@ Multi-line strings in Python can be created using triple quotes (`'''` or `"""`)
   print(multi_line_string)
   ```
 
+## User Input
+
+In Python, user input can be obtained using the `input()` function. This function pauses the program and waits for the user to enter some input from the keyboard.
+
+- Example:
+  ```python
+  user_name = input("Enter your name: ")
+  print(f"Hello, {user_name}!")
+  ```
+
+
 >This guide provides a brief overview of basic concepts in Python to get you started with writing simple programs. Python's simplicity and readability make it an excellent choice for beginners and experts alike.
+
+## User Input
+# Control Flow
+## Boolean Expressions
+## Relational Operators: Equals and Not Equals
+## Boolean Variables
+## If Statement
+## Relational Operators II 
+    > greater than
+    >= greater than or equal to
+    < less than
+    <= less than or equal to
+## Boolean Operators: and
+## Boolean Operators: or
+## Boolean Operators: not
