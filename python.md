@@ -239,3 +239,13 @@ The `and` operator returns `True` if both the operands (left side and right side
   print(True and True)   # Outputs: True
   print(True and False)  # Outputs: False
   ```
+
+  ## Boolean Operators: or
+
+The `or` operator returns `True` if at least one of the operands is true.
+
+- Example:
+  ```python
+  print(True or False)  # Outputs: True
+  print(False or False) # Outputs: False
+  ```
