@@ -213,18 +213,19 @@ The `if` statement is used to test a specific condition. If the condition is tru
       print("You are old enough to vote.")
   ```
 
+## Relational Operators II
 
-## User Input
-# Control Flow
-## Boolean Expressions
-## Relational Operators: Equals and Not Equals
-## Boolean Variables
-## If Statement
-## Relational Operators II 
-    > greater than
-    >= greater than or equal to
-    < less than
-    <= less than or equal to
-## Boolean Operators: and
-## Boolean Operators: or
-## Boolean Operators: not
+Relational operators are used to compare two values. Here are more examples:
+
+- `>` (greater than)
+- `>=` (greater than or equal to)
+- `<` (less than)
+- `<=` (less than or equal to)
+
+- Example:
+  ```python
+  print(10 > 5)   # Outputs: True
+  print(10 >= 10) # Outputs: True
+  print(5 < 10)   # Outputs: True
+  print(5 <= 4)   # Outputs: False
+  ```
