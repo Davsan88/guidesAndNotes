@@ -288,4 +288,4 @@ The `elif` (short for else if) statement allows you to check multiple expression
       print("You are an adult.")
   ```
 
-These operators and control statements form the basis of decision-making in Python, allowing for more complex and dynamic behavior in programs.
+>These operators and control statements form the basis of decision-making in Python, allowing for more complex and dynamic behavior in programs.
