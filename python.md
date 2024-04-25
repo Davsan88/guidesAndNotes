@@ -249,3 +249,13 @@ The `or` operator returns `True` if at least one of the operands is true.
   print(True or False)  # Outputs: True
   print(False or False) # Outputs: False
   ```
+
+  ## Boolean Operators: not
+
+The `not` operator returns `True` if the operand is false.
+
+- Example:
+  ```python
+  print(not False)  # Outputs: True
+  print(not True)   # Outputs: False
+  ```
