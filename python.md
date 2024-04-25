@@ -273,4 +273,19 @@ The `else` statement follows an `if` statement, and its block of code runs if th
       print("You are not old enough to vote.")
   ```
 
-  
+  ## Else If Statements
+
+The `elif` (short for else if) statement allows you to check multiple expressions for `True` and execute a block of code as soon as one of the conditions evaluates to `True`.
+
+- Example:
+  ```python
+  age = 20
+  if age < 13:
+      print("You are a child.")
+  elif age < 20:
+      print("You are a teenager.")
+  else:
+      print("You are an adult.")
+  ```
+
+These operators and control statements form the basis of decision-making in Python, allowing for more complex and dynamic behavior in programs.
