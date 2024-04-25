@@ -325,4 +325,4 @@ Type errors occur when an operation or function is applied to an object of inapp
   # Trying to add a string to an integer, which will raise a TypeError.
   ```
 
-Understanding these errors will help you debug your Python code more efficiently, preventing common mistakes and improving your coding skills.
+>Understanding these errors will help you debug your Python code more efficiently, preventing common mistakes and improving your coding skills.
