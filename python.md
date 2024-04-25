@@ -304,3 +304,13 @@ Syntax errors occur when Python can't understand what you've written due to inco
   print("Hello world"
   # Missing closing parenthesis, will cause a syntax error
   ```
+
+## Name Errors
+
+A NameError is thrown when Python tries to evaluate a variable that has not been assigned yet.
+
+- Example:
+  ```python
+  print(age)
+  # If 'age' is not defined before this line, this will raise a NameError.
+  ```
