@@ -289,3 +289,8 @@ The `elif` (short for else if) statement allows you to check multiple expression
   ```
 
 >These operators and control statements form the basis of decision-making in Python, allowing for more complex and dynamic behavior in programs.
+
+
+# Errors in Python
+
+Python can encounter various types of errors, and understanding them is key to effective debugging. Here are some common errors:
