@@ -294,3 +294,13 @@ The `elif` (short for else if) statement allows you to check multiple expression
 # Errors in Python
 
 Python can encounter various types of errors, and understanding them is key to effective debugging. Here are some common errors:
+
+## Syntax Errors
+
+Syntax errors occur when Python can't understand what you've written due to incorrect syntax. These are the most common kind of errors you encounter while learning Python.
+
+- Example:
+  ```python
+  print("Hello world"
+  # Missing closing parenthesis, will cause a syntax error
+  ```
