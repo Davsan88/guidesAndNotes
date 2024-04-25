@@ -259,3 +259,18 @@ The `not` operator returns `True` if the operand is false.
   print(not False)  # Outputs: True
   print(not True)   # Outputs: False
   ```
+
+## Else Statements
+
+The `else` statement follows an `if` statement, and its block of code runs if the `if` statement condition is false.
+
+- Example:
+  ```python
+  age = 16
+  if age >= 18:
+      print("You are old enough to vote.")
+  else:
+      print("You are not old enough to vote.")
+  ```
+
+  
