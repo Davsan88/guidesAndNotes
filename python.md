@@ -314,3 +314,15 @@ A NameError is thrown when Python tries to evaluate a variable that has not been
   print(age)
   # If 'age' is not defined before this line, this will raise a NameError.
   ```
+
+## Type Errors
+
+Type errors occur when an operation or function is applied to an object of inappropriate type.
+
+- Example:
+  ```python
+  '5' + 5
+  # Trying to add a string to an integer, which will raise a TypeError.
+  ```
+
+Understanding these errors will help you debug your Python code more efficiently, preventing common mistakes and improving your coding skills.
