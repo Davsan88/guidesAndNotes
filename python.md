@@ -229,3 +229,13 @@ Relational operators are used to compare two values. Here are more examples:
   print(5 < 10)   # Outputs: True
   print(5 <= 4)   # Outputs: False
   ```
+
+## Boolean Operators: and
+
+The `and` operator returns `True` if both the operands (left side and right side) are true.
+
+- Example:
+  ```python
+  print(True and True)   # Outputs: True
+  print(True and False)  # Outputs: False
+  ```
