@@ -342,7 +342,16 @@ Python provides several methods that you can use to manipulate lists, such as `a
   print(fruits)  # Outputs: ['apple', 'banana', 'cherry', 'orange']
   ```
 
+## Growing a List: Append
 
+The `append()` method adds a single item to the end of the list.
+
+- Example:
+  ```python
+  fruits = ['apple', 'banana', 'cherry']
+  fruits.append('orange')
+  print(fruits)  # Outputs: ['apple', 'banana', 'cherry', 'orange']
+  ```
 
 
 ## Modifying List Elements
