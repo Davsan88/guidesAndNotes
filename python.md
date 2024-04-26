@@ -423,7 +423,17 @@ Elements in a 2D list are accessed using two indices: the first specifies the ro
   print(matrix[0][1])  # Outputs: 2 (First row, second column)
   ```
 
-  
+  ### Modifying 2D Lists
+
+You can modify an element in a 2D list by accessing its row and column indices and assigning a new value.
+
+- Example:
+  ```python
+  matrix[1][1] = 99  # Changes the value of the second row and second column to 99
+  print(matrix)  # Outputs: [[1, 2, 3], [4, 99, 6], [7, 8, 9]]
+  ```
+
+
 
 
 
