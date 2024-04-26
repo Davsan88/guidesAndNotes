@@ -326,3 +326,14 @@ Type errors occur when an operation or function is applied to an object of inapp
   ```
 
 >Understanding these errors will help you debug your Python code more efficiently, preventing common mistakes and improving your coding skills.
+
+# Lists
+
+Lists in Python are ordered collections that are changeable and can contain items of different types.
+
+## Modifying List Elements
+## Shrinking a List: Remove
+## Two-Dimensional (2D) Lists
+### Accessing 2D Lists
+### Modifying 2D Lists
+### Shrinking a 2D List: Remove
