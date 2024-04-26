@@ -353,6 +353,20 @@ The `append()` method adds a single item to the end of the list.
   print(fruits)  # Outputs: ['apple', 'banana', 'cherry', 'orange']
   ```
 
+## Growing a List: Plus (+)
+
+You can concatenate two lists using the `+` operator to create a new list.
+
+- Example:
+  ```python
+  fruits = ['apple', 'banana', 'cherry']
+  other_fruits = ['mango', 'pineapple']
+  all_fruits = fruits + other_fruits
+  print(all_fruits)  # Outputs: ['apple', 'banana', 'cherry', 'mango', 'pineapple']
+  ```
+
+
+
 
 ## Modifying List Elements
 ## Shrinking a List: Remove
