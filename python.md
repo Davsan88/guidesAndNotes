@@ -409,7 +409,21 @@ The `remove()` method removes the first occurrence of a specified value from a l
 
 A two-dimensional (2D) list is essentially a list of lists and can be used to store tables or matrix-like structures.
 
+### Accessing 2D Lists
 
+Elements in a 2D list are accessed using two indices: the first specifies the row, and the second specifies the column.
+
+- Example:
+  ```python
+  matrix = [
+      [1, 2, 3],
+      [4, 5, 6],
+      [7, 8, 9]
+  ]
+  print(matrix[0][1])  # Outputs: 2 (First row, second column)
+  ```
+
+  
 
 
 
