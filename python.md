@@ -331,6 +331,20 @@ Type errors occur when an operation or function is applied to an object of inapp
 
 Lists in Python are ordered collections that are changeable and can contain items of different types.
 
+## List Methods
+
+Python provides several methods that you can use to manipulate lists, such as `append()`, `extend()`, `pop()`, `remove()`, and more.
+
+- Example:
+  ```python
+  fruits = ['apple', 'banana', 'cherry']
+  fruits.append('orange')  # Adds 'orange' to the end
+  print(fruits)  # Outputs: ['apple', 'banana', 'cherry', 'orange']
+  ```
+
+
+
+
 ## Modifying List Elements
 ## Shrinking a List: Remove
 ## Two-Dimensional (2D) Lists
