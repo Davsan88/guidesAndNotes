@@ -405,7 +405,11 @@ The `remove()` method removes the first occurrence of a specified value from a l
   print(fruits)  # Outputs: ['apple', 'cherry']
   ```
 
-  
+  ## Two-Dimensional (2D) Lists
+
+A two-dimensional (2D) list is essentially a list of lists and can be used to store tables or matrix-like structures.
+
+
 
 
 
