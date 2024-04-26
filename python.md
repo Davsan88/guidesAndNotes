@@ -384,12 +384,32 @@ Negative indices can be used to access elements from the end of the list, starti
   print(fruits[-2])  # Outputs: 'banana' (second to last element)
   ```
 
-
-
-
 ## Modifying List Elements
-## Shrinking a List: Remove
-## Two-Dimensional (2D) Lists
-### Accessing 2D Lists
-### Modifying 2D Lists
-### Shrinking a 2D List: Remove
+
+You can modify an element in a list by accessing it through its index and assigning a new value.
+
+- Example:
+  ```python
+  fruits = ['apple', 'banana', 'cherry']
+  fruits[1] = 'mango'  # Change 'banana' to 'mango'
+  print(fruits)  # Outputs: ['apple', 'mango', 'cherry']
+  ```
+
+  
+
+
+
+
+
+
+## Working with Lists
+### Adding by Index: Insert
+### Removing by Index: Pop
+### Consecutive Lists: Range
+### Length
+### Slicing Lists
+### Counting in a List
+### Sorting Lists I sort()
+### Sorting Lists II sorted()
+## Tuples
+## Combining Lists: The Zip Function
