@@ -395,6 +395,16 @@ You can modify an element in a list by accessing it through its index and assign
   print(fruits)  # Outputs: ['apple', 'mango', 'cherry']
   ```
 
+  ## Shrinking a List: Remove
+
+The `remove()` method removes the first occurrence of a specified value from a list.
+
+- Example:
+  ```python
+  fruits.remove('mango')  # Removes 'mango' from the list
+  print(fruits)  # Outputs: ['apple', 'cherry']
+  ```
+
   
 
 
