@@ -446,7 +446,7 @@ You can remove an entire row from a 2D list using the `remove()` method or delet
   print(matrix)  # Outputs: [[1, 3], [7, 8, 9]]
   ```
 
-Manipulating 2D lists is fundamental in applications where data is structured in a tabular form, such as in spreadsheets or databases.
+>Manipulating 2D lists is fundamental in applications where data is structured in a tabular form, such as in spreadsheets or databases.
 
 
 
