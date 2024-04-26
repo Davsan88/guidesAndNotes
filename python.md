@@ -433,7 +433,20 @@ You can modify an element in a 2D list by accessing its row and column indices a
   print(matrix)  # Outputs: [[1, 2, 3], [4, 99, 6], [7, 8, 9]]
   ```
 
+### Shrinking a 2D List: Remove
 
+You can remove an entire row from a 2D list using the `remove()` method or delete an item from a specific row.
+
+- Example:
+  ```python
+  matrix.remove([4, 99, 6])  # Removes the entire row
+  print(matrix)  # Outputs: [[1, 2, 3], [7, 8, 9]]
+
+  del matrix[0][1]  # Deletes the second item of the first row
+  print(matrix)  # Outputs: [[1, 3], [7, 8, 9]]
+  ```
+
+Manipulating 2D lists is fundamental in applications where data is structured in a tabular form, such as in spreadsheets or databases.
 
 
 
