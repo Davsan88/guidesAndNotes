@@ -365,6 +365,15 @@ You can concatenate two lists using the `+` operator to create a new list.
   print(all_fruits)  # Outputs: ['apple', 'banana', 'cherry', 'mango', 'pineapple']
   ```
 
+## Accessing List Elements
+
+List elements can be accessed by their index, starting from 0 for the first element.
+
+- Example:
+  ```python
+  print(fruits[0])  # Outputs: 'apple'
+  ```
+
 
 
 
