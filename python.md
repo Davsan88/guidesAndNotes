@@ -374,6 +374,16 @@ List elements can be accessed by their index, starting from 0 for the first elem
   print(fruits[0])  # Outputs: 'apple'
   ```
 
+## Accessing List Elements: Negative Index
+
+Negative indices can be used to access elements from the end of the list, starting with -1 for the last element.
+
+- Example:
+  ```python
+  print(fruits[-1])  # Outputs: 'cherry' (the last element)
+  print(fruits[-2])  # Outputs: 'banana' (second to last element)
+  ```
+
 
 
 
