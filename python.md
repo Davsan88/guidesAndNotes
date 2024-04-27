@@ -463,6 +463,20 @@ The `insert()` method inserts an element at a specified position in the list.
   print(fruits)  # Outputs: ['apple', 'banana', 'mango', 'cherry']
   ```
 
+## Removing by Index: Pop
+
+The `pop()` method removes the element at the specified position in the list and returns it. If no index is specified, `pop()` removes and returns the last item in the list.
+
+- Example:
+  ```python
+  last_fruit = fruits.pop()  # Removes the last item
+  print(last_fruit)  # Outputs: 'cherry'
+  print(fruits)  # Outputs: ['apple', 'banana', 'mango']
+  ```
+
+
+
+
 
 
 ## Working with Lists
