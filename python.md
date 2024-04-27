@@ -502,7 +502,16 @@ Slicing in Python allows you to create a new list from a subset of an existing l
   print(fruits[1:3])  # Outputs: ['banana', 'mango']
   ```
 
+## Counting in a List
 
+The `count()` method returns the number of times a specified value appears in the list.
+
+- Example:
+  ```python
+  print(fruits.count('banana'))  # Outputs: 1
+  ```
+
+  
 
 
 
