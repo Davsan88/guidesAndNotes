@@ -531,6 +531,16 @@ The `sorted()` function returns a new list containing all items from the origina
   print(sorted_fruits)  # Outputs: ['mango', 'banana', 'apple']
   ```
 
+## Tuples
+
+Tuples are immutable sequences, typically used to store collections of heterogeneous data.
+
+- Example:
+  ```python
+  tuple_example = (1, 'hello', 3.14)
+  print(tuple_example)  # Outputs: (1, 'hello', 3.14)
+  ```
+
 
 
 
