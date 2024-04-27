@@ -452,7 +452,16 @@ You can remove an entire row from a 2D list using the `remove()` method or delet
 
 Working with lists in Python involves manipulating them through various methods and functions, allowing for dynamic and flexible data management.
 
+## Adding by Index: Insert
 
+The `insert()` method inserts an element at a specified position in the list.
+
+- Example:
+  ```python
+  fruits = ['apple', 'mango', 'cherry']
+  fruits.insert(1, 'banana')  # Inserts 'banana' at index 1
+  print(fruits)  # Outputs: ['apple', 'banana', 'mango', 'cherry']
+  ```
 
 
 
