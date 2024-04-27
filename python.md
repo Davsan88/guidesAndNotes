@@ -511,7 +511,17 @@ The `count()` method returns the number of times a specified value appears in th
   print(fruits.count('banana'))  # Outputs: 1
   ```
 
-  
+  ## Sorting Lists I: sort()
+
+The `sort()` method sorts the list in place.
+
+- Example:
+  ```python
+  fruits.sort()
+  print(fruits)  # Outputs: ['apple', 'banana', 'mango']
+  ```
+
+
 
 
 
