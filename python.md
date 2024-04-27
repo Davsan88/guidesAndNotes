@@ -493,6 +493,15 @@ The `len()` function returns the number of items in a list.
   print(len(fruits))  # Outputs: 3
   ```
 
+## Slicing Lists
+
+Slicing in Python allows you to create a new list from a subset of an existing list.
+
+- Example:
+  ```python
+  print(fruits[1:3])  # Outputs: ['banana', 'mango']
+  ```
+
 
 
 
