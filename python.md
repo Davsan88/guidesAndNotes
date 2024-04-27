@@ -521,6 +521,16 @@ The `sort()` method sorts the list in place.
   print(fruits)  # Outputs: ['apple', 'banana', 'mango']
   ```
 
+## Sorting Lists II: sorted()
+
+The `sorted()` function returns a new list containing all items from the original list in ascending order.
+
+- Example:
+  ```python
+  sorted_fruits = sorted(fruits, reverse=True)  # Sorts the list in descending order
+  print(sorted_fruits)  # Outputs: ['mango', 'banana', 'apple']
+  ```
+
 
 
 
