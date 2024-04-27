@@ -474,7 +474,15 @@ The `pop()` method removes the element at the specified position in the list and
   print(fruits)  # Outputs: ['apple', 'banana', 'mango']
   ```
 
+## Consecutive Lists: Range
 
+The `range()` function generates a sequence of numbers, which is often used to iterate over with for loops to perform actions a certain number of times.
+
+- Example:
+  ```python
+  numbers = list(range(1, 6))  # Creates a list of numbers from 1 to 5
+  print(numbers)  # Outputs: [1, 2, 3, 4, 5]
+  ```
 
 
 
