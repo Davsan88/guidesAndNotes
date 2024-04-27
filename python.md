@@ -553,7 +553,7 @@ The `zip()` function is used to combine several lists into a tuple of pairs.
   print(combined)  # Outputs: [('Alice', 25), ('Bob', 30), ('Charlie', 35)]
   ```
 
-These methods and functions provide comprehensive ways to manipulate and utilize lists in Python, crucial for effective data handling and operations.
+>These methods and functions provide comprehensive ways to manipulate and utilize lists in Python, crucial for effective data handling and operations.
 
 
 
