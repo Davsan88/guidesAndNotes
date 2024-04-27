@@ -484,6 +484,16 @@ The `range()` function generates a sequence of numbers, which is often used to i
   print(numbers)  # Outputs: [1, 2, 3, 4, 5]
   ```
 
+## Length
+
+The `len()` function returns the number of items in a list.
+
+- Example:
+  ```python
+  print(len(fruits))  # Outputs: 3
+  ```
+
+
 
 
 
