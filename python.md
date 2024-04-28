@@ -556,15 +556,30 @@ The `zip()` function is used to combine several lists into a tuple of pairs.
 >These methods and functions provide comprehensive ways to manipulate and utilize lists in Python, crucial for effective data handling and operations.
 
 
+# Loops
 
-## Working with Lists
-### Adding by Index: Insert
-### Removing by Index: Pop
-### Consecutive Lists: Range
-### Length
-### Slicing Lists
-### Counting in a List
-### Sorting Lists I sort()
-### Sorting Lists II sorted()
-## Tuples
-## Combining Lists: The Zip Function
+Loops in Python are a fundamental concept used to repeat a block of code multiple times.
+
+
+
+
+
+
+
+
+# Loops
+## For Loops: Introduction
+## For Loops: Using Range
+## While Loops: Introduction
+## While Loops: Lists
+## Infinite Loops
+## Loop Control: Break
+## Loop Control: Continue
+## Nested Loops
+## List Comprehensions: Introduction
+## List Comprehensions: Conditionals
+  numbers = [2, -1, 79, 33, -45]
+
+  no_if   = [num * 2 for num in numbers]
+  if_only = [num * 2 for num in numbers if num < 0]
+  if_else = [num * 2 if num < 0 else num * 3 for num in numbers]
