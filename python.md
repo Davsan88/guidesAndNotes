@@ -560,7 +560,17 @@ The `zip()` function is used to combine several lists into a tuple of pairs.
 
 Loops in Python are a fundamental concept used to repeat a block of code multiple times.
 
+## For Loops: Introduction
 
+For loops are used for iterating over a sequence (such as a list, tuple, dictionary, set, or string).
+
+- Example:
+  ```python
+  for item in ['apple', 'banana', 'cherry']:
+      print(item)
+  ```
+
+  
 
 
 
