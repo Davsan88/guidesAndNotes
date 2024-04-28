@@ -637,6 +637,17 @@ The `continue` statement skips the current iteration of the loop and moves to th
       print(num)
   ```
 
+## Nested Loops
+
+A nested loop is a loop inside a loop.
+
+- Example:
+  ```python
+  for i in range(3):
+      for j in range(3):
+          print(i, j)
+  ```
+
 
 
 
