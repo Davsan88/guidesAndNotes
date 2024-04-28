@@ -648,6 +648,16 @@ A nested loop is a loop inside a loop.
           print(i, j)
   ```
 
+## List Comprehensions: Introduction
+
+List comprehensions provide a concise way to create lists. It involves brackets containing an expression followed by a `for` clause.
+
+- Example:
+  ```python
+  squares = [x**2 for x in range(10)]
+  print(squares)
+  ```
+
 
 
 
