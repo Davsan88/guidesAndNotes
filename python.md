@@ -625,6 +625,20 @@ The `break` statement is used to exit a loop when a certain condition is met.
       print(num)
   ```
 
+## Loop Control: Continue
+
+The `continue` statement skips the current iteration of the loop and moves to the next iteration.
+
+- Example:
+  ```python
+  for num in range(10):
+      if num % 2 == 0:
+          continue  # Skips the print statement for even numbers
+      print(num)
+  ```
+
+
+
 
 
 
