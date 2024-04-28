@@ -603,7 +603,15 @@ While loops can be used to iterate through lists when the length of the list is 
       print(fruits.pop())
   ```
 
+## Infinite Loops
 
+An infinite loop occurs when the condition of the loop can never become false. These are generally used deliberately, such as in server processes that run continuously.
+
+- Example:
+  ```python
+  while True:
+      print("This is an infinite loop")
+  ```
 
 
 # Loops
