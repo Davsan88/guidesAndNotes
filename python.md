@@ -658,7 +658,17 @@ List comprehensions provide a concise way to create lists. It involves brackets 
   print(squares)
   ```
 
+## List Comprehensions: Conditionals
 
+List comprehensions can also contain conditionals.
+
+- Example:
+  ```python
+  even_squares = [x**2 for x in range(10) if x % 2 == 0]
+  print(even_squares)
+  ```
+
+Loops and list comprehensions are powerful tools in Python, allowing for efficient and readable data processing and manipulation.
 
 
 
