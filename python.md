@@ -580,7 +580,17 @@ The `range()` function is commonly used with for loops to specify the number of 
       print(i)
   ```
 
+## While Loops: Introduction
 
+While loops repeat as long as a certain boolean condition is met.
+
+- Example:
+  ```python
+  count = 0
+  while count < 5:
+      print(count)
+      count += 1
+  ```
 
 
 
