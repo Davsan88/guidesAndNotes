@@ -674,22 +674,3 @@ List comprehensions can also contain conditionals.
 
 >Loops and list comprehensions are powerful tools in Python, allowing for efficient and readable data processing and manipulation.
 
-
-
-
-# Loops
-## For Loops: Introduction
-## For Loops: Using Range
-## While Loops: Introduction
-## While Loops: Lists
-## Infinite Loops
-## Loop Control: Break
-## Loop Control: Continue
-## Nested Loops
-## List Comprehensions: Introduction
-## List Comprehensions: Conditionals
-  numbers = [2, -1, 79, 33, -45]
-
-  no_if   = [num * 2 for num in numbers]
-  if_only = [num * 2 for num in numbers if num < 0]
-  if_else = [num * 2 if num < 0 else num * 3 for num in numbers]
