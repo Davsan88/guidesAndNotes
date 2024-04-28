@@ -613,6 +613,20 @@ An infinite loop occurs when the condition of the loop can never become false. T
       print("This is an infinite loop")
   ```
 
+## Loop Control: Break
+
+The `break` statement is used to exit a loop when a certain condition is met.
+
+- Example:
+  ```python
+  for num in range(10):
+      if num == 5:
+          break  # Breaks out of the loop when num is 5
+      print(num)
+  ```
+
+
+
 
 # Loops
 ## For Loops: Introduction
