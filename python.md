@@ -672,7 +672,7 @@ List comprehensions can also contain conditionals.
   if_else = [x * 2 if num < 0 else x * 3 for x in numbers]
   ```
 
-Loops and list comprehensions are powerful tools in Python, allowing for efficient and readable data processing and manipulation.
+>Loops and list comprehensions are powerful tools in Python, allowing for efficient and readable data processing and manipulation.
 
 
 
