@@ -592,6 +592,17 @@ While loops repeat as long as a certain boolean condition is met.
       count += 1
   ```
 
+## While Loops: Lists
+
+While loops can be used to iterate through lists when the length of the list is unknown or to apply complex conditional logic.
+
+- Example:
+  ```python
+  fruits = ['apple', 'banana', 'cherry']
+  while fruits:
+      print(fruits.pop())
+  ```
+
 
 
 
