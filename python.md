@@ -570,7 +570,15 @@ For loops are used for iterating over a sequence (such as a list, tuple, diction
       print(item)
   ```
 
-  
+## For Loops: Using Range
+
+The `range()` function is commonly used with for loops to specify the number of iterations.
+
+- Example:
+  ```python
+  for i in range(5):  # Iterates over a sequence of numbers from 0 to 4
+      print(i)
+  ```
 
 
 
