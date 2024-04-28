@@ -666,11 +666,11 @@ List comprehensions can also contain conditionals.
   ```python
   even_squares = [x**2 for x in range(10) if x % 2 == 0]
   print(even_squares)
-  ```
-
+  
   no_if   = [x * 2 for x in numbers]
   if_only = [x * 2 for x in numbers if x < 0]
   if_else = [x * 2 if num < 0 else x * 3 for x in numbers]
+  ```
 
 Loops and list comprehensions are powerful tools in Python, allowing for efficient and readable data processing and manipulation.
 
