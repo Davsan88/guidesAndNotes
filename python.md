@@ -699,6 +699,16 @@ A function is called by writing the function's name followed by parentheses.
   ```
 
 ## Whitespace & Execution Flow
+
+In Python, whitespace is used to define the scope of loops, functions, and classes. The code block within a function must be indented.
+
+- Example:
+  ```python
+  def function():
+      print("Inside function")  # Correct indentation
+  # print("Outside function")  # This line is not part of the function due to incorrect indentation
+  ```
+
 ## Parameters & Arguments
 ### Multiple Parameters
 ### Types of Arguments 
