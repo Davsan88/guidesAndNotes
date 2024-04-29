@@ -724,8 +724,21 @@ Functions can accept more than one parameter.
   add(5, 3)  # Outputs: 8
   ```
 
-### Types of Arguments 
-  (Positional, Keyword, Default)
+### Types of Arguments
+
+- **Positional Arguments:** Arguments that need to be included in the proper position or order.
+- **Keyword Arguments:** Arguments identified by the parameter name.
+- **Default Arguments:** Arguments that assume a default value if a value is not provided in the function call.
+
+- Example:
+  ```python
+  def display_info(name, age=30):
+      print(f"Name: {name}, Age: {age}")
+  display_info("Alice", age=25)  # Outputs: Name: Alice, Age: 25
+  display_info("Bob")            # Outputs: Name: Bob, Age: 30
+  ```
+
+
 ## [Built-in Functions vs User Defined Functions](https://docs.python.org/3/library/functions.html)
 ## Variable Access
 ## Returns
