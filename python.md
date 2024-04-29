@@ -757,6 +757,9 @@ Variables defined inside a function are local to that function, while variables 
   ```
 
 ## Returns
+
+Functions can return values using the `return` statement.
+
 ### Multiple Returns
 
 
