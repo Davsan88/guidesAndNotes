@@ -689,8 +689,15 @@ Functions are defined using the `def` keyword followed by a name, parentheses, a
       print("Hello, World!")
   ```
 
-
 ## Calling a Function
+
+A function is called by writing the function's name followed by parentheses.
+
+- Example:
+  ```python
+  greet()  # Outputs: Hello, World!
+  ```
+
 ## Whitespace & Execution Flow
 ## Parameters & Arguments
 ### Multiple Parameters
