@@ -714,6 +714,16 @@ In Python, whitespace is used to define the scope of loops, functions, and class
 Parameters are specified in the function definition and represent the data that can be input into a function. Arguments are the actual values passed to the function.
 
 ### Multiple Parameters
+
+Functions can accept more than one parameter.
+
+- Example:
+  ```python
+  def add(a, b):
+      print(a + b)
+  add(5, 3)  # Outputs: 8
+  ```
+
 ### Types of Arguments 
   (Positional, Keyword, Default)
 ## [Built-in Functions vs User Defined Functions](https://docs.python.org/3/library/functions.html)
