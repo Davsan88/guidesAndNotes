@@ -680,6 +680,16 @@ List comprehensions can also contain conditionals.
 Functions in Python are blocks of code that execute a specific task and can be reused throughout your programs.
 
 ## Defining a Function
+
+Functions are defined using the `def` keyword followed by a name, parentheses, and a colon. The indented block of code following the colon is executed when the function is called.
+
+- Example:
+  ```python
+  def greet():
+      print("Hello, World!")
+  ```
+
+
 ## Calling a Function
 ## Whitespace & Execution Flow
 ## Parameters & Arguments
