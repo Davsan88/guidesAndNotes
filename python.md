@@ -674,3 +674,34 @@ List comprehensions can also contain conditionals.
 
 >Loops and list comprehensions are powerful tools in Python, allowing for efficient and readable data processing and manipulation.
 
+
+# Functions
+
+Functions in Python are blocks of code that execute a specific task and can be reused throughout your programs.
+
+## Defining a Function
+## Calling a Function
+## Whitespace & Execution Flow
+## Parameters & Arguments
+### Multiple Parameters
+### Types of Arguments 
+  (Positional, Keyword, Default)
+## [Built-in Functions vs User Defined Functions](https://docs.python.org/3/library/functions.html)
+## Variable Access
+## Returns
+### Multiple Returns
+
+
+
+# Strings
+## Strings are Lists
+## Slicing a String
+### Slicing using len()
+## Concatenating Strings
+## Negative Indices
+## Strings are Immutable
+## Escape Characters
+## Iterating through Strings 
+### Using counter variables
+## Strings and Conditionals
+
