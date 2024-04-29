@@ -762,6 +762,21 @@ Functions can return values using the `return` statement.
 
 ### Multiple Returns
 
+A function can return multiple values separated by commas, which Python will automatically package into a tuple.
+
+- Example:
+  ```python
+  def get_data():
+      name = "Alice"
+      age = 25
+      return name, age  # Returns a tuple ('Alice', 25)
+  
+  result = get_data()
+  print(result)  # Outputs: ('Alice', 25)
+  ```
+
+Functions are a crucial part of Python programming, helping to keep your code organized, reusable, and maintainable.
+
 
 
 # Strings
