@@ -742,8 +742,20 @@ Functions can accept more than one parameter.
 
 Python provides many built-in functions like `print()`, `len()`, and `range()`, which are documented in the Python Standard Library. Users can also define their own functions to perform custom tasks.
 
-
 ## Variable Access
+
+Variables defined inside a function are local to that function, while variables defined outside are global and can be accessed by any function within the same program.
+
+- Example:
+  ```python
+  x = "global"
+  
+  def access_variable():
+      print(x)
+  
+  access_variable()  # Outputs: global
+  ```
+
 ## Returns
 ### Multiple Returns
 
