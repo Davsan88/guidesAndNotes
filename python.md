@@ -738,8 +738,11 @@ Functions can accept more than one parameter.
   display_info("Bob")            # Outputs: Name: Bob, Age: 30
   ```
 
-
 ## [Built-in Functions vs User Defined Functions](https://docs.python.org/3/library/functions.html)
+
+Python provides many built-in functions like `print()`, `len()`, and `range()`, which are documented in the Python Standard Library. Users can also define their own functions to perform custom tasks.
+
+
 ## Variable Access
 ## Returns
 ### Multiple Returns
