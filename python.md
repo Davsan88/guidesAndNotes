@@ -861,6 +861,17 @@ Strings can be iterated over with a loop to access each character.
       print(my_string[i])
   ```
 
+## Strings and Conditionals
+
+You can use conditionals to check for the presence of a specific character or substring within a string.
+
+- Example:
+  ```python
+  if "e" in my_string:
+      print("'e' is in the string.")
+  ```
+
+
 
 
 
