@@ -840,7 +840,14 @@ Once a string is created, the elements within it cannot be changed.
   # my_string[0] = 'Y'  # This would raise a TypeError
   ```
 
+## Escape Characters
 
+Escape characters let you include special characters in strings.
+
+- Example:
+  ```python
+  print("He said, \"Hello, World!\"")  # Outputs: He said, "Hello, World!"
+  ```
 
 
 # String Methods
