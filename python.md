@@ -822,14 +822,17 @@ Strings can be concatenated using the `+` operator to combine them into one stri
   print(full_name)  # Outputs: 'John Doe'
   ```
 
-
-
 ## Negative Indices
-## Strings are Immutable
-## Escape Characters
-## Iterating through Strings 
-### Using counter variables
-## Strings and Conditionals
+
+Negative indices can be used to access characters from the end of the string.
+
+- Example:
+  ```python
+  print(my_string[-1])  # Outputs: 'o', the last character of "Hello"
+  ```
+
+
+
 
 # String Methods
 ## Formatting Methods
