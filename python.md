@@ -801,9 +801,16 @@ Slicing is used to get a substring of the string. It is done by specifying the s
   print(my_string[1:4])  # Outputs: 'ell'
   ```
 
-
-
 ### Slicing using len()
+
+You can use the `len()` function with slicing to extract characters from the string up to its length.
+
+- Example:
+  ```python
+  print(my_string[:len(my_string)])  # Outputs: 'Hello'
+  ```
+
+  
 ## Concatenating Strings
 ## Negative Indices
 ## Strings are Immutable
