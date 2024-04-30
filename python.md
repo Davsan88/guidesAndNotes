@@ -778,8 +778,10 @@ A function can return multiple values separated by commas, which Python will aut
 >Functions are a crucial part of Python programming, helping to keep your code organized, reusable, and maintainable.
 
 
-
 # Strings
+
+Strings in Python are sequences of characters used for storing and manipulating text.
+
 ## Strings are Lists
 ## Slicing a String
 ### Slicing using len()
@@ -791,3 +793,21 @@ A function can return multiple values separated by commas, which Python will aut
 ### Using counter variables
 ## Strings and Conditionals
 
+# String Methods
+## Formatting Methods
+  .lower() .upper() .title()
+## Splitting Strings
+### Splitting Strings with Escape Sequences
+## Joining Strings
+## .strip()
+## .replace()
+## .find()
+## .format()
+
+
+# Modules
+## Modules Python Datetime
+## Modules Python Random
+## Modules Python Namespaces
+## Modules Python Decimals
+## Modules Python Files and Scope
