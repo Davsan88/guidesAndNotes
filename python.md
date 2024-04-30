@@ -831,6 +831,15 @@ Negative indices can be used to access characters from the end of the string.
   print(my_string[-1])  # Outputs: 'o', the last character of "Hello"
   ```
 
+## Strings are Immutable
+
+Once a string is created, the elements within it cannot be changed.
+
+- Example:
+  ```python
+  # my_string[0] = 'Y'  # This would raise a TypeError
+  ```
+
 
 
 
