@@ -792,9 +792,17 @@ Technically, strings are not lists, but they can be treated similarly because th
   print(my_string[0])  # Outputs: 'H'
   ```
 
-
-  
 ## Slicing a String
+
+Slicing is used to get a substring of the string. It is done by specifying the start index and the end index, separated by a colon, within square brackets.
+
+- Example:
+  ```python
+  print(my_string[1:4])  # Outputs: 'ell'
+  ```
+
+
+
 ### Slicing using len()
 ## Concatenating Strings
 ## Negative Indices
