@@ -810,8 +810,20 @@ You can use the `len()` function with slicing to extract characters from the str
   print(my_string[:len(my_string)])  # Outputs: 'Hello'
   ```
 
-  
 ## Concatenating Strings
+
+Strings can be concatenated using the `+` operator to combine them into one string.
+
+- Example:
+  ```python
+  first_name = "John"
+  last_name = "Doe"
+  full_name = first_name + " " + last_name
+  print(full_name)  # Outputs: 'John Doe'
+  ```
+
+
+
 ## Negative Indices
 ## Strings are Immutable
 ## Escape Characters
