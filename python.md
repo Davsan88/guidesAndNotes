@@ -871,7 +871,7 @@ You can use conditionals to check for the presence of a specific character or su
       print("'e' is in the string.")
   ```
 
-Strings are a fundamental type in Python that are used in almost every aspect of the language, from data manipulation to outputs. Knowing how to work with strings effectively is crucial for any Python programmer.
+>Strings are a fundamental type in Python that are used in almost every aspect of the language, from data manipulation to outputs. Knowing how to work with strings effectively is crucial for any Python programmer.
 
 
 
