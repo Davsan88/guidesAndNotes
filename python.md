@@ -849,6 +849,20 @@ Escape characters let you include special characters in strings.
   print("He said, \"Hello, World!\"")  # Outputs: He said, "Hello, World!"
   ```
 
+## Iterating through Strings
+
+Strings can be iterated over with a loop to access each character.
+
+### Using counter variables
+
+- Example:
+  ```python
+  for i in range(len(my_string)):
+      print(my_string[i])
+  ```
+
+
+
 
 # String Methods
 ## Formatting Methods
