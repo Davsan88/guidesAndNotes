@@ -925,6 +925,16 @@ The `.join()` method combines a list of strings into a single string with a spec
   print(sentence)  # Outputs: 'Earth, Mars, Venus'
   ```
 
+## Joining Strings
+
+The `.join()` method combines a list of strings into a single string with a specified separator.
+
+- Example:
+  ```python
+  words = ['Earth', 'Mars', 'Venus']
+  sentence = ", ".join(words)
+  print(sentence)  # Outputs: 'Earth, Mars, Venus'
+  ```
 
 
 
