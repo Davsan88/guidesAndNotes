@@ -874,18 +874,19 @@ You can use conditionals to check for the presence of a specific character or su
 >Strings are a fundamental type in Python that are used in almost every aspect of the language, from data manipulation to outputs. Knowing how to work with strings effectively is crucial for any Python programmer.
 
 
-
-
 # String Methods
-## Formatting Methods
-  .lower() .upper() .title()
-## Splitting Strings
-### Splitting Strings with Escape Sequences
-## Joining Strings
-## .strip()
-## .replace()
-## .find()
-## .format()
+
+String methods in Python are built-in functionalities that you can call on string objects to perform common tasks.
+
+
+
+
+
+
+
+
+
+
 
 
 # Modules
@@ -894,3 +895,23 @@ You can use conditionals to check for the presence of a specific character or su
 ## Modules Python Namespaces
 ## Modules Python Decimals
 ## Modules Python Files and Scope
+
+# Dictionaries: Creating Dictionaries
+## Introduction to Python Dictionaries
+## Make a Dictionary
+## Invalid Keys
+## Empty Dictionary
+## Add A Key
+## Add Multiple Keys
+    .update()
+## Overwrite Values
+## Dict Comprehensions
+    zip()
+
+# Dictionaies: Using Dictionaries
+## Get a Key
+## Get an Invalid Key
+## Safely Get a Key
+    .get()
+## Delete a Key
+## 
