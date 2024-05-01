@@ -878,7 +878,19 @@ You can use conditionals to check for the presence of a specific character or su
 
 String methods in Python are built-in functionalities that you can call on string objects to perform common tasks.
 
+## Formatting Methods
 
+- `.lower()`: Converts all characters in the string to lowercase.
+- `.upper()`: Converts all characters in the string to uppercase.
+- `.title()`: Converts the first character of each word to uppercase and the rest to lowercase.
+
+- Example:
+  ```python
+  greeting = "Hello, World!"
+  print(greeting.lower())  # Outputs: 'hello, world!'
+  print(greeting.upper())  # Outputs: 'HELLO, WORLD!'
+  print(greeting.title())  # Outputs: 'Hello, World!'
+  ```
 
 
 
