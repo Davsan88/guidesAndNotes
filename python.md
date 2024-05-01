@@ -985,7 +985,16 @@ The `datetime` module provides classes for manipulating dates and times.
   print(now)  # Outputs the current date and time, e.g., 2023-04-12 14:23:05.678937
   ```
 
-  
+## Modules Python Random
+
+The `random` module is used to perform random generations, from picking a random element from a range or list to generating random numbers.
+
+- Example:
+  ```python
+  import random
+  print(random.randint(1, 100))  # Outputs a random integer between 1 and 100
+  ```
+
 
 
 
