@@ -974,7 +974,18 @@ The `.join()` method combines a list of strings into a single string with a spec
 
 Modules in Python are files containing Python code. They can include functions, classes, and variables that you can use in your programs.
 
+## Modules Python Datetime
 
+The `datetime` module provides classes for manipulating dates and times.
+
+- Example:
+  ```python
+  import datetime
+  now = datetime.datetime.now()
+  print(now)  # Outputs the current date and time, e.g., 2023-04-12 14:23:05.678937
+  ```
+
+  
 
 
 
