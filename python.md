@@ -936,7 +936,18 @@ The `.join()` method combines a list of strings into a single string with a spec
   print(sentence)  # Outputs: 'Earth, Mars, Venus'
   ```
 
+## .replace()
 
+`.replace()` replaces a specified phrase with another specified phrase.
+
+- Example:
+  ```python
+  text = "Hello, Mars!"
+  text = text.replace("Mars", "World")
+  print(text)  # Outputs: 'Hello, World!'
+  ```
+
+  
 
 
 
