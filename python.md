@@ -947,7 +947,17 @@ The `.join()` method combines a list of strings into a single string with a spec
   print(text)  # Outputs: 'Hello, World!'
   ```
 
-  
+  ## .find()
+
+`.find()` searches the string for a specified value and returns the position of where it was found or `-1` if it's not found.
+
+- Example:
+  ```python
+  position = greeting.find("World")
+  print(position)  # Outputs: 7
+  ```
+
+
 
 
 
