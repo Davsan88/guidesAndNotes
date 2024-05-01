@@ -970,17 +970,16 @@ The `.join()` method combines a list of strings into a single string with a spec
 >These string methods enhance the functionality of handling and manipulating strings in Python, making string operations more efficient and streamlined.
 
 
-
-
-
-
-
 # Modules
-## Modules Python Datetime
-## Modules Python Random
-## Modules Python Namespaces
-## Modules Python Decimals
-## Modules Python Files and Scope
+
+Modules in Python are files containing Python code. They can include functions, classes, and variables that you can use in your programs.
+
+
+
+
+
+
+
 
 # Dictionaries: Creating Dictionaries
 ## Introduction to Python Dictionaries
