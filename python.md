@@ -903,7 +903,18 @@ The `.split()` method divides a string into a list where each word is a list ite
   print(words)  # Outputs: ['Hello', 'world', 'welcome to Python.']
   ```
 
+### Splitting Strings with Escape Sequences
 
+You can use escape sequences like `\n` (new line) or `\t` (tab) as separators.
+
+- Example:
+  ```python
+  data = "Hello\nWorld\nPython"
+  lines = data.split("\n")
+  print(lines)  # Outputs: ['Hello', 'World', 'Python']
+  ```
+
+  
 
 
 
