@@ -1009,6 +1009,17 @@ Namespaces in Python are mappings from names to objects. They help avoid naming 
   module2.greet()  # Calls the 'greet' function from module2
   ```
 
+## Modules Python Decimals
+
+The `decimal` module provides support for fast correctly-rounded decimal floating point arithmetic.
+
+- Example:
+  ```python
+  from decimal import Decimal
+  result = Decimal('0.1') + Decimal('0.2')
+  print(result)  # Outputs: 0.3, correctly handling floating-point arithmetic that can be problematic with floats
+  ```
+
 
 
 
