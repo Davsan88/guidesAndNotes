@@ -892,6 +892,17 @@ String methods in Python are built-in functionalities that you can call on strin
   print(greeting.title())  # Outputs: 'Hello, World!'
   ```
 
+  ## Splitting Strings
+
+The `.split()` method divides a string into a list where each word is a list item.
+
+- Example:
+  ```python
+  sentence = "Hello, world, welcome to Python."
+  words = sentence.split(", ")
+  print(words)  # Outputs: ['Hello', 'world', 'welcome to Python.']
+  ```
+
 
 
 
