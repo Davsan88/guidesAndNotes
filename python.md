@@ -995,6 +995,20 @@ The `random` module is used to perform random generations, from picking a random
   print(random.randint(1, 100))  # Outputs a random integer between 1 and 100
   ```
 
+## Modules Python Namespaces
+
+Namespaces in Python are mappings from names to objects. They help avoid naming conflicts by isolating identifiers within modules.
+
+- Example:
+  ```python
+  # Suppose we have two modules, module1 and module2, each with a function named 'greet'
+  import module1
+  import module2
+
+  module1.greet()  # Calls the 'greet' function from module1
+  module2.greet()  # Calls the 'greet' function from module2
+  ```
+
 
 
 
