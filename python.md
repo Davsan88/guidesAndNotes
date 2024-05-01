@@ -1020,7 +1020,21 @@ The `decimal` module provides support for fast correctly-rounded decimal floatin
   print(result)  # Outputs: 0.3, correctly handling floating-point arithmetic that can be problematic with floats
   ```
 
+## Modules Python Files and Scope
 
+Modules also define their own scope, meaning that variables defined in a module are generally only accessible within that module unless explicitly exported.
+
+- Example:
+  ```python
+  # In a module file called 'mymodule.py', define:
+  my_var = "visible in module"
+
+  # In another Python script:
+  import mymodule
+  print(mymodule.my_var)  # Access the variable 'my_var' from 'mymodule'
+  ```
+
+  
 
 
 
