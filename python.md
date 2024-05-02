@@ -1065,6 +1065,15 @@ Keys in dictionaries must be of a type that is immutable. This means you can use
   # my_dict = {[1,2,3]: "Numbers"}
   ```
 
+## Empty Dictionary
+
+You can create an empty dictionary to which you can add keys and values later.
+
+- Example:
+  ```python
+  empty_dict = {}
+  print(empty_dict)  # Outputs: {}
+  ```
 
 
 
