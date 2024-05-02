@@ -1075,6 +1075,17 @@ You can create an empty dictionary to which you can add keys and values later.
   print(empty_dict)  # Outputs: {}
   ```
 
+## Add A Key
+
+Adding or updating a key-value pair is straightforward by using the key index.
+
+- Example:
+  ```python
+  person['email'] = 'john@example.com'
+  print(person)  # Outputs: {'name': 'John', 'age': 30, 'city': 'New York', 'email': 'john@example.com'}
+  ```
+
+
 
 
 
