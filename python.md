@@ -1055,6 +1055,15 @@ You can create a dictionary by placing a sequence of elements within curly brace
   print(person)  # Outputs: {'name': 'John', 'age': 30, 'city': 'New York'}
   ```
 
+## Invalid Keys
+
+Keys in dictionaries must be of a type that is immutable. This means you can use strings, numbers, and tuples as dictionary keys but not lists, dictionaries, or other mutable types.
+
+- Example:
+  ```python
+  # This will cause an error because lists are mutable and cannot be keys
+  # my_dict = {[1,2,3]: "Numbers"}
+  ```
 
 
 
