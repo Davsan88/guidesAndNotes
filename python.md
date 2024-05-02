@@ -1205,6 +1205,16 @@ The `.values()` method returns a list of all the values in the dictionary.
   print(values)  # Outputs: ['John']
   ```
 
+## Get All Items
+
+The `.items()` method returns a list of tuples, each containing a key-value pair.
+
+- Example:
+  ```python
+  items = list(person.items())
+  print(items)  # Outputs: [('name', 'John')]
+  ```
+
 
 
 
