@@ -1041,6 +1041,16 @@ Modules also define their own scope, meaning that variables defined in a module 
 
 Dictionaries in Python are data structures used to store data values in key:value pairs.
 
+## Introduction to Python Dictionaries
+
+A dictionary is a collection which is unordered, changeable, and indexed. In Python, dictionaries are written with curly brackets, and they have keys and values.
+
+
+
+
+
+
+
 
 # Dictionaies: Using Dictionaries
 ## Get a Key
