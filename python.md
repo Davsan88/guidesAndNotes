@@ -1045,6 +1045,16 @@ Dictionaries in Python are data structures used to store data values in key:valu
 
 A dictionary is a collection which is unordered, changeable, and indexed. In Python, dictionaries are written with curly brackets, and they have keys and values.
 
+## Make a Dictionary
+
+You can create a dictionary by placing a sequence of elements within curly braces `{}` separated by commas. Each element is a pair expressed as `key: value`.
+
+- Example:
+  ```python
+  person = {"name": "John", "age": 30, "city": "New York"}
+  print(person)  # Outputs: {'name': 'John', 'age': 30, 'city': 'New York'}
+  ```
+
 
 
 
