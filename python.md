@@ -1134,6 +1134,40 @@ You can use `zip()` to create dictionaries from two lists that you want to pair 
 
 Dictionaries in Python provide a flexible way to access, modify, and remove key-value pairs.
 
+## Get a Key
+
+To retrieve the value for a specific key in a dictionary, you simply use the square brackets `[]` with the key.
+
+- Example:
+  ```python
+  person = {"name": "John", "age": 30}
+  print(person["name"])  # Outputs: 'John'
+  ```
+
+## Get a Key
+
+To retrieve the value for a specific key in a dictionary, you simply use the square brackets `[]` with the key.
+
+- Example:
+  ```python
+  person = {"name": "John", "age": 30}
+  print(person["name"])  # Outputs: 'John'
+  ```
+
+## Get an Invalid Key
+
+Attempting to access a key that does not exist in the dictionary will raise a `KeyError`.
+
+- Example:
+  ```python
+  # print(person["address"])  # This would raise a KeyError because 'address' is not a key in the dictionary
+  ```
+
+
+
+
+
+
 
 
 
