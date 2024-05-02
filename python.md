@@ -1085,6 +1085,16 @@ Adding or updating a key-value pair is straightforward by using the key index.
   print(person)  # Outputs: {'name': 'John', 'age': 30, 'city': 'New York', 'email': 'john@example.com'}
   ```
 
+## Add Multiple Keys
+
+You can add multiple keys and values using the `.update()` method.
+
+- Example:
+  ```python
+  person.update({"height": 175, "weight": 70})
+  print(person)  # Outputs: {'name': 'John', 'age': 30, 'city': 'New York', 'email': 'john@example.com', 'height': 175, 'weight': 70}
+  ```
+
 
 
 
