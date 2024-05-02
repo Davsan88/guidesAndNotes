@@ -1195,6 +1195,16 @@ To get a list of all the keys in a dictionary, you can use the `.keys()` method.
   print(keys)  # Outputs: ['name']
   ```
 
+## Get All Values
+
+The `.values()` method returns a list of all the values in the dictionary.
+
+- Example:
+  ```python
+  values = list(person.values())
+  print(values)  # Outputs: ['John']
+  ```
+
 
 
 
