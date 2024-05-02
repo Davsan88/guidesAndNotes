@@ -1173,6 +1173,18 @@ The `.get()` method allows you to retrieve a value for a given key without the r
   print(address)  # Outputs: 'No address provided'
   ```
 
+## Delete a Key
+
+To delete a key and its corresponding value from a dictionary, you can use the `del` statement or the `.pop()` method.
+
+- Example:
+  ```python
+  del person["age"]
+  # or
+  # age = person.pop("age")
+  print(person)  # Outputs: {'name': 'John'}
+  ```
+
 
 
 
