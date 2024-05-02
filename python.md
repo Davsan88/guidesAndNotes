@@ -1115,6 +1115,18 @@ Dictionary comprehensions offer a concise way to create dictionaries.
   print(squares)  # Outputs: {0: 0, 1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
   ```
 
+### Using `zip()`
+
+You can use `zip()` to create dictionaries from two lists that you want to pair up as keys and values.
+
+- Example:
+  ```python
+  keys = ['name', 'age', 'city']
+  values = ['Alice', 28, 'London']
+  dictionary = dict(zip(keys, values))
+  print(dictionary)  # Outputs: {'name': 'Alice', 'age': 28, 'city': 'London'}
+  ```
+
 
 
 
