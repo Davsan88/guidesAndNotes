@@ -1163,6 +1163,16 @@ Attempting to access a key that does not exist in the dictionary will raise a `K
   # print(person["address"])  # This would raise a KeyError because 'address' is not a key in the dictionary
   ```
 
+## Safely Get a Key
+
+The `.get()` method allows you to retrieve a value for a given key without the risk of a `KeyError`. It returns `None` if the key is not found, unless a default value is provided.
+
+- Example:
+  ```python
+  address = person.get("address", "No address provided")
+  print(address)  # Outputs: 'No address provided'
+  ```
+
 
 
 
