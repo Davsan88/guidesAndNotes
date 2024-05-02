@@ -1185,6 +1185,16 @@ To delete a key and its corresponding value from a dictionary, you can use the `
   print(person)  # Outputs: {'name': 'John'}
   ```
 
+## Get All Keys
+
+To get a list of all the keys in a dictionary, you can use the `.keys()` method.
+
+- Example:
+  ```python
+  keys = list(person.keys())
+  print(keys)  # Outputs: ['name']
+  ```
+
 
 
 
