@@ -1215,7 +1215,7 @@ The `.items()` method returns a list of tuples, each containing a key-value pair
   print(items)  # Outputs: [('name', 'John')]
   ```
 
-Using these methods and techniques to manipulate dictionaries enhances data handling capabilities in Python, making it easier to implement more complex data structures and algorithms efficiently.
+>Using these methods and techniques to manipulate dictionaries enhances data handling capabilities in Python, making it easier to implement more complex data structures and algorithms efficiently.
 
 
 
@@ -1224,14 +1224,5 @@ Using these methods and techniques to manipulate dictionaries enhances data hand
 
 
 
-# Dictionaies: Using Dictionaries
-## Get a Key
-## Get an Invalid Key
-## Safely Get a Key
-    .get()
-## Delete a Key
-## Get All Keys
-    list() & .keys()
-## Get All Values
-## Get All Items
+# Classes
 
