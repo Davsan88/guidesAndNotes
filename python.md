@@ -1037,20 +1037,10 @@ Modules also define their own scope, meaning that variables defined in a module 
 >Python's modularity is one of its most significant features, allowing developers to organize their code neatly and reuse code effectively.
 
 
-
-
-
 # Dictionaries: Creating Dictionaries
-## Introduction to Python Dictionaries
-## Make a Dictionary
-## Invalid Keys
-## Empty Dictionary
-## Add A Key
-## Add Multiple Keys
-    .update()
-## Overwrite Values
-## Dict Comprehensions
-    zip()
+
+Dictionaries in Python are data structures used to store data values in key:value pairs.
+
 
 # Dictionaies: Using Dictionaries
 ## Get a Key
@@ -1058,4 +1048,8 @@ Modules also define their own scope, meaning that variables defined in a module 
 ## Safely Get a Key
     .get()
 ## Delete a Key
-## 
+## Get All Keys
+    list() & .keys()
+## Get All Values
+## Get All Items
+
