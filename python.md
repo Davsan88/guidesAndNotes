@@ -1127,7 +1127,7 @@ You can use `zip()` to create dictionaries from two lists that you want to pair 
   print(dictionary)  # Outputs: {'name': 'Alice', 'age': 28, 'city': 'London'}
   ```
 
-Dictionaries are a versatile way to store and manage data in Python, allowing for efficient lookups, insertion, and removal of data entries.
+>Dictionaries are a versatile way to store and manage data in Python, allowing for efficient lookups, insertion, and removal of data entries.
 
 
 
