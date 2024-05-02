@@ -1095,6 +1095,16 @@ You can add multiple keys and values using the `.update()` method.
   print(person)  # Outputs: {'name': 'John', 'age': 30, 'city': 'New York', 'email': 'john@example.com', 'height': 175, 'weight': 70}
   ```
 
+## Overwrite Values
+
+If the key already exists, setting a new value will overwrite the existing value associated with that key.
+
+- Example:
+  ```python
+  person['name'] = 'Jane'
+  print(person)  # Outputs: {'name': 'Jane', 'age': 30, 'city': 'New York', 'email': 'john@example.com', 'height': 175, 'weight': 70}
+  ```
+
 
 
 
