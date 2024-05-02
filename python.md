@@ -1105,6 +1105,16 @@ If the key already exists, setting a new value will overwrite the existing value
   print(person)  # Outputs: {'name': 'Jane', 'age': 30, 'city': 'New York', 'email': 'john@example.com', 'height': 175, 'weight': 70}
   ```
 
+## Dict Comprehensions
+
+Dictionary comprehensions offer a concise way to create dictionaries.
+
+- Example:
+  ```python
+  squares = {x: x*x for x in range(6)}
+  print(squares)  # Outputs: {0: 0, 1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
+  ```
+
 
 
 
