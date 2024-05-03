@@ -1218,11 +1218,30 @@ The `.items()` method returns a list of tuples, each containing a key-value pair
 >Using these methods and techniques to manipulate dictionaries enhances data handling capabilities in Python, making it easier to implement more complex data structures and algorithms efficiently.
 
 
+# Files
 
-
+Handling files in Python allows for data persistence and manipulation of different file formats.
 
 
 
 
 # Classes
+## Types
+  type()
+## Class
+## Instantiation 
+## Object-Oriented Programming
+## Class Variables
+## Methods
+## Methods with Arguments
+## Constructors
+## Instance Variables
+## Attribute Functions
+  hasattr() & getattr()
+## Self
+
+## Everything is an Object
+  dir()
+## String Representation
+  __repr__
 
