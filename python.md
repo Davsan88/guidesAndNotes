@@ -1281,6 +1281,10 @@ The `with` statement automatically manages file opening and closing. It ensures 
 
 - `.close()`: It is important to close a file; failing to do so can lead to corrupted or incomplete files. Using `with` automatically handles this.
 
+## What Is a CSV File?
+
+A CSV (Comma-Separated Values) file stores tabular data in plain text, with each line corresponding to a data record. Each record consists of fields, delimited by commas.
+
 
 
 
