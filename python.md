@@ -1298,6 +1298,18 @@ To read from a CSV file, you can use Python's `csv` module, which allows you to 
           print(row)
   ```
 
+## Reading Different Types of CSV Files
+
+Sometimes CSV files use different delimiters like semicolons. You can specify the delimiter in the `csv.reader()` method.
+
+- Example:
+  ```python
+  with open('semicolon.csv', 'r') as file:
+      reader = csv.reader(file, delimiter=';')
+      for row in reader:
+          print(row)
+  ```
+
 
 
 
