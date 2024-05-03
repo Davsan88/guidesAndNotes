@@ -1244,6 +1244,16 @@ You can iterate through each line of a file using a for loop, which is useful fo
           print(line.strip())
   ```
 
+## Reading a Line
+
+To read a single line from a file, use the `.readline()` method.
+
+- Example:
+  ```python
+  with open('example.txt', 'r') as file:
+      first_line = file.readline()
+      print(first_line.strip())
+  ```
 
 
 
