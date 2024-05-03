@@ -1222,7 +1222,18 @@ The `.items()` method returns a list of tuples, each containing a key-value pair
 
 Handling files in Python allows for data persistence and manipulation of different file formats.
 
+## Reading a File
 
+To read the entire contents of a file, you can use the `open()` function with the `'r'` mode, which stands for "read".
+
+- Example:
+  ```python
+  with open('example.txt', 'r') as file:
+      content = file.read()
+      print(content)
+  ```
+
+  
 
 
 # Classes
