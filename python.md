@@ -1255,7 +1255,17 @@ To read a single line from a file, use the `.readline()` method.
       print(first_line.strip())
   ```
 
+## Writing a File
 
+To write to a file, open it in `'w'` mode (write). This will overwrite any existing content in the file.
+
+- Example:
+  ```python
+  with open('newfile.txt', 'w') as file:
+      file.write("Hello, World!\n")
+  ```
+
+  
 
 
 
