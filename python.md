@@ -1333,6 +1333,7 @@ JSON files can be easily managed in Python using the `json` module. To read a JS
       data = json.load(file)
       print(data)
   ```
+  
 ## Reading a JSON File
 
 JSON files can be easily managed in Python using the `json` module. To read a JSON file, use the `.load()` method.
