@@ -1275,6 +1275,11 @@ To append text to an existing file, open it in `'a'` mode (append).
       file.write("Another line\n")
   ```
 
+## What's With "with"?
+
+The `with` statement automatically manages file opening and closing. It ensures that the file is properly closed after its suite finishes, even if an exception is raised on the way.
+
+- `.close()`: It is important to close a file; failing to do so can lead to corrupted or incomplete files. Using `with` automatically handles this.
 
 
 
