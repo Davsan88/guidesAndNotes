@@ -1322,6 +1322,29 @@ You can write to a CSV file using `csv.writer()`.
       writer.writerow(['Alice', 24])
   ```
 
+## Reading a JSON File
+
+JSON files can be easily managed in Python using the `json` module. To read a JSON file, use the `.load()` method.
+
+- Example:
+  ```python
+  import json
+  with open('data.json', 'r') as file:
+      data = json.load(file)
+      print(data)
+  ```
+## Reading a JSON File
+
+JSON files can be easily managed in Python using the `json` module. To read a JSON file, use the `.load()` method.
+
+- Example:
+  ```python
+  import json
+  with open('data.json', 'r') as file:
+      data = json.load(file)
+      print(data)
+  ```
+
 
 
 
