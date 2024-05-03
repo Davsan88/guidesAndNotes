@@ -1285,6 +1285,19 @@ The `with` statement automatically manages file opening and closing. It ensures 
 
 A CSV (Comma-Separated Values) file stores tabular data in plain text, with each line corresponding to a data record. Each record consists of fields, delimited by commas.
 
+## Reading a CSV File
+
+To read from a CSV file, you can use Python's `csv` module, which allows you to iterate over rows of the CSV.
+
+- Example:
+  ```python
+  import csv
+  with open('example.csv', 'r') as file:
+      reader = csv.reader(file)
+      for row in reader:
+          print(row)
+  ```
+
 
 
 
