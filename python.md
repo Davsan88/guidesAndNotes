@@ -1233,7 +1233,23 @@ To read the entire contents of a file, you can use the `open()` function with th
       print(content)
   ```
 
-  
+## Iterating Through Lines
+
+You can iterate through each line of a file using a for loop, which is useful for processing each line separately.
+
+- Example:
+  ```python
+  with open('example.txt', 'r') as file:
+      for line in file:
+          print(line.strip())
+  ```
+
+
+
+
+
+
+
 
 
 # Classes
