@@ -1265,7 +1265,15 @@ To write to a file, open it in `'w'` mode (write). This will overwrite any exist
       file.write("Hello, World!\n")
   ```
 
-  
+## Appending to a File
+
+To append text to an existing file, open it in `'a'` mode (append).
+
+- Example:
+  ```python
+  with open('example.txt', 'a') as file:
+      file.write("Another line\n")
+  ```
 
 
 
