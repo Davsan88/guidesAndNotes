@@ -1345,7 +1345,27 @@ JSON files can be easily managed in Python using the `json` module. To read a JS
       print(data)
   ```
 
+## Writing a JSON File
 
+To write to a JSON file, use the `.dump()` method of the `json` module.
+
+- Example:
+  ```python
+  with open('data.json', 'w') as file:
+      json.dump({"Name": "John", "Age": 30}, file)
+  ```
+
+## Writing a JSON File
+
+To write to a JSON file, use the `.dump()` method of the `json` module.
+
+- Example:
+  ```python
+  with open('data.json', 'w') as file:
+      json.dump({"Name": "John", "Age": 30}, file)
+  ```
+
+  
 
 
 
