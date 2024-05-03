@@ -1310,6 +1310,18 @@ Sometimes CSV files use different delimiters like semicolons. You can specify th
           print(row)
   ```
 
+## Writing a CSV File
+
+You can write to a CSV file using `csv.writer()`. 
+
+- Example:
+  ```python
+  with open('output.csv', 'w', newline='') as file:
+      writer = csv.writer(file)
+      writer.writerow(['Name', 'Age'])
+      writer.writerow(['Alice', 24])
+  ```
+
 
 
 
