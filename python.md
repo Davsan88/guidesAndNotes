@@ -1407,4 +1407,15 @@ A class is a blueprint for creating objects (a particular data structure), provi
 
 Object-Oriented Programming (OOP) is a programming paradigm based on the concept of "objects", which can contain data, in the form of fields, and code, in the form of procedures.
 
+## Class Variables
+
+Class variables are variables that are shared by all instances of a class.
+
+- Example:
+  ```python
+  class Dog:
+      species = "Canis familiaris"
+  print(Dog.species)  # Outputs: 'Canis familiaris'
+  ```
+
 
