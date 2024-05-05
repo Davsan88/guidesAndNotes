@@ -1444,4 +1444,15 @@ Methods can accept arguments to pass specific data to the method.
   print(my_dog.bark("Bow wow"))  # Outputs: 'Bow wow!'
   ```
 
+## Constructors
+
+Constructors are generally used for initializing instance members of the class.
+
+- Example:
+  ```python
+  class Dog:
+      def __init__(self, name):
+          self.name = name
+  ```
+
 
