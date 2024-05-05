@@ -1369,25 +1369,8 @@ To write to a JSON file, use the `.dump()` method of the `json` module.
 >Handling files in Python is crucial for a wide array of tasks, from data analysis to automation.
 
 
-
-
 # Classes
-## Types
-  type()
-## Class
-## Instantiation 
-## Object-Oriented Programming
-## Class Variables
-## Methods
-## Methods with Arguments
-## Constructors
-## Instance Variables
-## Attribute Functions
-  hasattr() & getattr()
-## Self
 
-## Everything is an Object
-  dir()
-## String Representation
-  __repr__
+Classes provide a means of bundling data and functionality together. Creating new classes creates new types of objects, allowing new instances of that type to be made.
+
 
