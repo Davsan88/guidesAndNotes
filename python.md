@@ -1431,4 +1431,17 @@ Methods in objects are functions that belong to the object.
   print(my_dog.bark())  # Outputs: 'Woof!'
   ```
 
+## Methods with Arguments
+
+Methods can accept arguments to pass specific data to the method.
+
+- Example:
+  ```python
+  class Dog:
+      def bark(self, sound):
+          return f"{sound}!"
+  my_dog = Dog()
+  print(my_dog.bark("Bow wow"))  # Outputs: 'Bow wow!'
+  ```
+
 
