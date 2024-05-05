@@ -1478,4 +1478,17 @@ Instance variables are for data unique to each instance and are defined inside m
   print(getattr(my_dog, 'name'))  # Rex
   ```
 
+## Self
+
+The `self` parameter in Python is used to represent the instance of the class and allows access to its attributes and methods.
+
+- Example:
+  ```python
+  class Dog:
+      def __init__(self, name):
+          self.name = name
+      def say_hello(self):
+          return f"Hello, my name is {self.name}"
+  ```
   
+    
