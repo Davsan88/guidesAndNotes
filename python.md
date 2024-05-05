@@ -1490,5 +1490,14 @@ The `self` parameter in Python is used to represent the instance of the class an
       def say_hello(self):
           return f"Hello, my name is {self.name}"
   ```
-  
-    
+
+## Everything is an Object
+
+In Python, everything is an object, and you can use `dir()` to inspect what methods and attributes belong to an object.
+
+- Example:
+  ```python
+  print(dir(my_dog))
+  ```
+
+
