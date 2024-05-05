@@ -1418,4 +1418,17 @@ Class variables are variables that are shared by all instances of a class.
   print(Dog.species)  # Outputs: 'Canis familiaris'
   ```
 
+## Methods
+
+Methods in objects are functions that belong to the object.
+
+- Example:
+  ```python
+  class Dog:
+      def bark(self):
+          return "Woof!"
+  my_dog = Dog()
+  print(my_dog.bark())  # Outputs: 'Woof!'
+  ```
+
 
