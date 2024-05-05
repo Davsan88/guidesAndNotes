@@ -1500,4 +1500,17 @@ In Python, everything is an object, and you can use `dir()` to inspect what meth
   print(dir(my_dog))
   ```
 
+## String Representation
 
+The `__repr__` method is used to provide an official string representation of an object, which can be useful for debugging.
+
+- Example:
+  ```python
+  class Dog:
+      def __init__(self, name):
+          self.name = name
+      def __repr__(self):
+          return f"Dog('{self.name}')"
+  ```
+
+  
