@@ -1393,4 +1393,14 @@ A class is a blueprint for creating objects (a particular data structure), provi
       pass
   ```
 
+## Class
+
+A class is a blueprint for creating objects (a particular data structure), providing initial values for state (properties), and implementations of behavior (methods).
+
+- Example:
+  ```python
+  class Dog:
+      pass
+  ```
+
 
