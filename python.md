@@ -1466,4 +1466,16 @@ Instance variables are for data unique to each instance and are defined inside m
           self.name = name  # instance variable
   ```
 
+## Attribute Functions
+
+- `hasattr()` checks if an object has an attribute.
+- `getattr()` retrieves the value of an attribute.
+
+- Example:
+  ```python
+  my_dog = Dog("Rex")
+  print(hasattr(my_dog, 'name'))  # True
+  print(getattr(my_dog, 'name'))  # Rex
+  ```
+
   
