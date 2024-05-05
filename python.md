@@ -1373,4 +1373,14 @@ To write to a JSON file, use the `.dump()` method of the `json` module.
 
 Classes provide a means of bundling data and functionality together. Creating new classes creates new types of objects, allowing new instances of that type to be made.
 
+## Types
+
+The `type()` function is used to determine the type of an object.
+
+- Example:
+  ```python
+  x = 5
+  print(type(x))  # Outputs: <class 'int'>
+  ```
+
 
