@@ -1455,4 +1455,15 @@ Constructors are generally used for initializing instance members of the class.
           self.name = name
   ```
 
+## Instance Variables
 
+Instance variables are for data unique to each instance and are defined inside methods.
+
+- Example:
+  ```python
+  class Dog:
+      def __init__(self, name):
+          self.name = name  # instance variable
+  ```
+
+  
