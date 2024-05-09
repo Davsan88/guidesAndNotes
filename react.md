@@ -212,3 +212,27 @@ Before JSX, elements were created with `React.createElement`. JSX compiles down 
   ```
 
 >Understanding these advanced aspects of JSX and React will significantly improve your ability to write and manage React applications efficiently.  
+
+
+
+# React Components
+## Your First React Component
+### React Components
+### Import React
+  In a React application, the App.js file typically is the top level of your application, and index.js is the entry point.
+### Import ReactDOM
+  The DOM is used in React applications, but it isn’t part of React. After all, the DOM is also used in countless non-React applications.
+### Create a Function Component
+### Name a Functional Component
+  PascalCase
+### Function Component Instructions
+### The Return Keyword in Functional Components
+### Importing and Exporting React Components
+### Using and Rendering a Component
+  
+
+
+
+
+
+
