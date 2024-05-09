@@ -157,6 +157,16 @@ Traditional `if` statements don't work directly inside JSX. This is because JSX 
 
 To use conditions in JSX, you can use ternary operators or logical operators, or encapsulate conditions in a function or method outside of the JSX.
 
+## JSX Conditionals: The Ternary Operator
 
+The ternary operator is an inline conditional expression that works inside JSX.
+
+- Example:
+  ```jsx
+  const isLoggedIn = true;
+  const element = <h1>{isLoggedIn ? 'Welcome, user!' : 'Please log in.'}</h1>;
+  ```
+
+  
 
 
