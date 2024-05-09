@@ -109,4 +109,13 @@ You can embed JavaScript expressions inside JSX by wrapping them in curly braces
   const name = "React";
   const element = <h1>Hello, {name}</h1>;
   ```
-  
+
+## Curly Braces in JSX
+
+Curly braces are used in JSX to evaluate JavaScript expressions within the JSX code.
+
+- Example:
+  ```jsx
+  const element = <div>{1 + 1}</div>; // Outputs: 2
+  ```
+
