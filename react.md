@@ -153,6 +153,10 @@ Event listeners can be added directly to elements in JSX similar to HTML, but us
 
 Traditional `if` statements don't work directly inside JSX. This is because JSX is just syntactic sugar for function calls and object construction.
 
+## JSX Conditionals: If Statements That Do Work
+
+To use conditions in JSX, you can use ternary operators or logical operators, or encapsulate conditions in a function or method outside of the JSX.
+
 
 
 
