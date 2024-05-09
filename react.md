@@ -176,7 +176,17 @@ You can use the logical `&&` operator to conditionally render a component.
   const messages = ['React', 'Re: React', 'Re:Re: React'];
   const element = <div>{messages.length > 0 && <h1>You have {messages.length} messages.</h1>}</div>;
   ```
+
+## .map in JSX
+
+`.map()` can be used to render lists of components or elements.
+
+- Example:
+  ```jsx
+  const items = ['One', 'Two', 'Three'];
+  const listItems = items.map((item) => <li>{item}</li>);
+  ```
   
-   
+     
 
 
