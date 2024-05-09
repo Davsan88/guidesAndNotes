@@ -91,4 +91,13 @@ In JSX, you use `className` instead of `class` to add CSS classes, as `class` is
   const element = <div className="my-class">Hello, World!</div>;
   ```
 
-  
+## Self-Closing Tags
+
+In JSX, every tag must be closed. Tags that do not have children can be self-closed using a slash at the end.
+
+- Example:
+  ```jsx
+  const image = <img src="logo.png" alt="Logo" />;
+  ```
+
+
