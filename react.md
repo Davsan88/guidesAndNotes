@@ -129,6 +129,16 @@ Variables can be inserted directly into JSX using curly braces.
   const element = <h1>Hello, {user}</h1>;
   ```
 
+## Variable Attributes in JSX
 
+You can use variables for attribute values in JSX by placing the variable in curly braces.
+
+- Example:
+  ```jsx
+  const imageUrl = "http://example.com/logo.png";
+  const element = <img src={imageUrl} alt="Example Logo" />;
+  ```
+
+  
 
 
