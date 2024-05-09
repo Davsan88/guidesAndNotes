@@ -82,3 +82,13 @@ The Virtual DOM is a concept implemented by libraries like React to improve perf
 
 As you delve deeper into React, understanding the nuances of JSX and React's rendering optimizations will help you write more efficient and cleaner code.
 
+## class vs className
+
+In JSX, you use `className` instead of `class` to add CSS classes, as `class` is a reserved word in JavaScript.
+
+- Example:
+  ```jsx
+  const element = <div className="my-class">Hello, World!</div>;
+  ```
+
+  
