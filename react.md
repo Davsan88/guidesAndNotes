@@ -2,6 +2,16 @@
 
 React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It allows developers to create large web applications that can change data without reloading the page.
 
+## What's JSX
+
+JSX stands for JavaScript XML. It allows you to write HTML in React and is a syntax extension for JavaScript. JSX makes it easier to write and add HTML in React.
+
+
+
+
+
+
+
 
 
 # Advance React
