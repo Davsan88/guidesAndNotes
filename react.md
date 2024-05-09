@@ -38,7 +38,21 @@ JSX elements can be nested inside each other to create complex layouts.
   );
   ```
 
-  
+## JSX Outer Elements
+
+When returning JSX elements from a component or including them in a variable, there must be only one outermost element.
+
+- Example:
+  ```jsx
+  const element = (
+    <div> {/* This div is the outer element */}
+      <h1>Welcome</h1>
+      <h2>To React</h2>
+    </div>
+  );
+  ```
+
+
 
 
 
