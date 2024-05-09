@@ -100,4 +100,13 @@ In JSX, every tag must be closed. Tags that do not have children can be self-clo
   const image = <img src="logo.png" alt="Logo" />;
   ```
 
+## JavaScript In Your JSX In Your JavaScript
 
+You can embed JavaScript expressions inside JSX by wrapping them in curly braces.
+
+- Example:
+  ```jsx
+  const name = "React";
+  const element = <h1>Hello, {name}</h1>;
+  ```
+  
