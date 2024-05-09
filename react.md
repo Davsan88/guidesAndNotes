@@ -78,23 +78,7 @@ The Virtual DOM is a concept implemented by libraries like React to improve perf
 >This provides a high-level introduction to key aspects of React, particularly its syntax and the integration of JSX in applications. React's model facilitates the efficient update of the user interface, which makes it a powerful tool for developing dynamic web applications.
 
 
+# Advanced React
 
+As you delve deeper into React, understanding the nuances of JSX and React's rendering optimizations will help you write more efficient and cleaner code.
 
-
-
-
-# Advance React
-## class vs className
-## Self-Closing Tags
-## JavaScript In Your JSX In Your JavaScript
-## Curly Braces in JSX
-## Variables in JSX
-## Variable Attributes in JSX
-## Event Listeners in JSX
-## JSX Conditionals: If Statements That Don't Work
-## JSX Conditionals: If Statements That Do Work
-## JSX Conditionals: The Ternary Operator
-## JSX Conditionals: &&
-## .map in JSX
-## Keys
-## React.createElement
