@@ -167,6 +167,16 @@ The ternary operator is an inline conditional expression that works inside JSX.
   const element = <h1>{isLoggedIn ? 'Welcome, user!' : 'Please log in.'}</h1>;
   ```
 
+ ## JSX Conditionals: &&
+
+You can use the logical `&&` operator to conditionally render a component.
+
+- Example:
+  ```jsx
+  const messages = ['React', 'Re: React', 'Re:Re: React'];
+  const element = <div>{messages.length > 0 && <h1>You have {messages.length} messages.</h1>}</div>;
+  ```
   
+   
 
 
