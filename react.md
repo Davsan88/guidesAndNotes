@@ -24,7 +24,21 @@ JSX elements can use attributes just like HTML, including classes, ids, and data
   const element = <img src="logo.png" className="logo" />;
   ```
 
+## Nested JSX
 
+JSX elements can be nested inside each other to create complex layouts.
+
+- Example:
+  ```jsx
+  const element = (
+    <div>
+      <h1>Title</h1>
+      <p>This is a paragraph.</p>
+    </div>
+  );
+  ```
+
+  
 
 
 
