@@ -139,6 +139,16 @@ You can use variables for attribute values in JSX by placing the variable in cur
   const element = <img src={imageUrl} alt="Example Logo" />;
   ```
 
+## Event Listeners in JSX
+
+Event listeners can be added directly to elements in JSX similar to HTML, but use camelCase.
+
+- Example:
+  ```jsx
+  const handleClick = () => alert('Clicked');
+  const button = <button onClick={handleClick}>Click Me</button>;
+  ```
   
+    
 
 
