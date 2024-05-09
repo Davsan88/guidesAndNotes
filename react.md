@@ -186,7 +186,16 @@ You can use the logical `&&` operator to conditionally render a component.
   const items = ['One', 'Two', 'Three'];
   const listItems = items.map((item) => <li>{item}</li>);
   ```
-  
-     
+
+## Keys
+
+Keys help React identify which items have changed, are added, or are removed. Keys should be given to the elements inside an array to give the elements a stable identity.
+
+- Example:
+  ```jsx
+  const todoItems = todos.map((todo) =>
+    <li key={todo.id}>{todo.text}</li>
+  );
+  ```     
 
 
