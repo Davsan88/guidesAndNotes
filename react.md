@@ -211,4 +211,4 @@ Before JSX, elements were created with `React.createElement`. JSX compiles down 
   );
   ```
 
-Understanding these advanced aspects of JSX and React will significantly improve your ability to write and manage React applications efficiently.  
+>Understanding these advanced aspects of JSX and React will significantly improve your ability to write and manage React applications efficiently.  
