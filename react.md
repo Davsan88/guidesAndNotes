@@ -1,12 +1,8 @@
 # Intro to React
-## What's JSX
-## JSX Elements
-## Attributes In JSX
-## Nested JSX
-## JSX Outer Elements
-## Rendering JSX
-## Passing a Variable to render()
-## The Virtual DOM
+
+React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It allows developers to create large web applications that can change data without reloading the page.
+
+
 
 # Advance React
 ## class vs className
