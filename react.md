@@ -148,7 +148,11 @@ Event listeners can be added directly to elements in JSX similar to HTML, but us
   const handleClick = () => alert('Clicked');
   const button = <button onClick={handleClick}>Click Me</button>;
   ```
-  
-    
+
+## JSX Conditionals: If Statements That Don't Work
+
+Traditional `if` statements don't work directly inside JSX. This is because JSX is just syntactic sugar for function calls and object construction.
+
+
 
 
