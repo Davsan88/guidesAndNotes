@@ -61,7 +61,17 @@ To render JSX into the DOM, React uses the `ReactDOM.render()` method.
   ReactDOM.render(element, document.getElementById('root'));
   ```
 
-  
+## Passing a Variable to render()
+
+You can pass variables or expressions as content to be rendered by React.
+
+- Example:
+  ```jsx
+  const name = 'World';
+  ReactDOM.render(<h1>Hello, {name}!</h1>, document.getElementById('root'));
+  ```
+
+
 
 
 
