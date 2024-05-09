@@ -119,3 +119,16 @@ Curly braces are used in JSX to evaluate JavaScript expressions within the JSX c
   const element = <div>{1 + 1}</div>; // Outputs: 2
   ```
 
+## Variables in JSX
+
+Variables can be inserted directly into JSX using curly braces.
+
+- Example:
+  ```jsx
+  const user = 'John Doe';
+  const element = <h1>Hello, {user}</h1>;
+  ```
+
+
+
+
