@@ -279,7 +279,20 @@ In a functional component, the `return` keyword is used to specify what the comp
   }
   ```
 
+### Importing and Exporting React Components
+
+Components can be exported from one file and imported into another, making them reusable across your application.
+
+- Example:
+  ```jsx
+  // Exporting
+  export default UserProfile;
+
+  // Importing
+  import UserProfile from './UserProfile';
+  ```
   
+    
 
 
 
