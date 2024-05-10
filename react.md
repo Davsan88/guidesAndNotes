@@ -218,6 +218,8 @@ Before JSX, elements were created with `React.createElement`. JSX compiles down 
 
 React components are the building blocks of any React application, and understanding how to define and use them is crucial for developing React apps.
 
+## Your First React Component
+
 
 
 
