@@ -263,8 +263,13 @@ When naming a React functional component, use PascalCase (each word starts with 
       return <h1>Welcome to React!</h1>;
   }
   ```
-  
-      
+
+ ### Function Component Instructions
+
+To create a functional component, define a JavaScript function that returns JSX or calls `React.createElement`.
+
+
+
 
 
 
