@@ -224,6 +224,15 @@ React components are the building blocks of any React application, and understan
 
 Components in React can be defined as JavaScript functions or classes that can accept inputs and return React elements that describe how a part of the UI should appear.
 
+### Import React
+
+To use React, you first need to import it into your component file. This is necessary even if you're using JSX because JSX compiles down to React function calls.
+
+- Example:
+  ```jsx
+  import React from 'react';
+  ```
+
 
 
 
