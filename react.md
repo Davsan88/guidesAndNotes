@@ -312,7 +312,7 @@ To use a React component, you include it in the JSX of another component's rende
   ReactDOM.render(<App />, document.getElementById('root'));
   ```
 
-Understanding these fundamental concepts is key to starting with React components, enabling you to build and manage complex applications efficiently. React's component-based architecture not only promotes reusability but also helps in managing the UI's state and logic effectively.
+>Understanding these fundamental concepts is key to starting with React components, enabling you to build and manage complex applications efficiently. React's component-based architecture not only promotes reusability but also helps in managing the UI's state and logic effectively.
 
 
 
