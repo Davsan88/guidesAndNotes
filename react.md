@@ -252,8 +252,19 @@ A function component in React is a JavaScript function that returns a React elem
       return <h1>Hello, World!</h1>;
   }
   ```
+
+### Name a Functional Component
+
+When naming a React functional component, use PascalCase (each word starts with a capital letter).
+
+- Example:
+  ```jsx
+  function MyFirstComponent() {
+      return <h1>Welcome to React!</h1>;
+  }
+  ```
   
-    
+      
 
 
 
