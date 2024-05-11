@@ -319,7 +319,7 @@ To use a React component, you include it in the JSX of another component's rende
 
 React's JSX syntax and components can be enhanced with more complex JavaScript logic, allowing for dynamic and interactive web applications.
 
-## Use Multiline JSX in a Component
+### Use Multiline JSX in a Component
 
 To include multiline JSX in a component, you need to wrap the JSX code in parentheses. This helps to avoid unexpected errors and improve readability.
 
