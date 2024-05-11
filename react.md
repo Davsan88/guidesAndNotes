@@ -353,3 +353,33 @@ You can dynamically set JSX attributes using variables, which allows your compon
   <UserProfile userName="JohnDoe" />
   ```
 
+## Putting Logic in a Function Component
+
+You can include any JavaScript logic inside a function component by inserting it before the return statement.
+
+- Example:
+  ```jsx
+  function TimeOfDay() {
+      const date = new Date();
+      const hours = date.getHours();
+      let timeOfDay;
+
+      if (hours < 12) timeOfDay = "morning";
+      else if (hours >= 12 && hours < 17) timeOfDay = "afternoon";
+      else timeOfDay = "evening";
+
+      return <h1>Good {timeOfDay}!</h1>;
+  }
+  ```
+
+
+
+
+
+
+
+
+
+
+
+
