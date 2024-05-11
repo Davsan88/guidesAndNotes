@@ -335,7 +335,7 @@ To include multiline JSX in a component, you need to wrap the JSX code in parent
   }
   ```
 
-## Use a Variable Attribute in a Component
+### Use a Variable Attribute in a Component
 
 You can dynamically set JSX attributes using variables, which allows your component to be more dynamic and reusable.
 
