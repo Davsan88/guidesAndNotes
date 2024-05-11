@@ -372,7 +372,7 @@ You can include any JavaScript logic inside a function component by inserting it
   }
   ```
 
-## Use a Conditional in a Function Component
+### Use a Conditional in a Function Component
 
 Conditionals like `if` statements can be used inside function components to control what the component renders.
 
