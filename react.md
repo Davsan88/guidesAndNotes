@@ -407,7 +407,7 @@ React makes it easy to handle events by adding event listeners in the JSX. You d
   }
   ```
 
-These techniques enable you to build more functional and responsive UIs using React. Each concept allows components to handle real-world scenarios where user input, data manipulation, and conditional logic dictate the component's behavior and presentation.
+>These techniques enable you to build more functional and responsive UIs using React. Each concept allows components to handle real-world scenarios where user input, data manipulation, and conditional logic dictate the component's behavior and presentation.
 
 
 
