@@ -49,6 +49,14 @@ Cloud computing addresses various challenges, including:
 
 ### Cloud Computing Types
 
+#### Types of Cloud Computing
+
+Cloud computing services are primarily categorized into three types, which differ in the level of control and management required from the user:
+
+- **Infrastructure as a Service (IaaS)**: Provides virtualized computing resources over the internet. Users have an allocated storage capacity and can run any software, including operating systems and applications. This service offers the highest level of flexibility and management control over your IT resources.
+- **Platform as a Service (PaaS)**: Offers hardware and software tools available over the internet. These services are mainly used by developers who are building software or applications. PaaS provides a platform allowing customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure.
+- **Software as a Service (SaaS)**: Delivers software applications over the internet, on-demand and typically on a subscription basis. With SaaS, cloud providers host and manage the software application and underlying infrastructure and handle any maintenance, such as software upgrades and security patching.
+
 
 
 
