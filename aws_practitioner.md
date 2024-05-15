@@ -82,7 +82,7 @@ The AWS Shared Responsibility Model outlines the security responsibilities of AW
 - **AWS Responsibility**: "Security of the Cloud" - AWS is responsible for protecting the infrastructure that runs all of the services offered in the AWS Cloud.
 - **Customer Responsibility**: "Security in the Cloud" - Customers are responsible for security measures based on the AWS services they utilize. This can include updating and patching software, configuring AWS managed services, and securing application data.
 
-Understanding these foundational elements about AWS and cloud computing types enhances your ability to leverage the AWS platform effectively, aligning with the AWS Certified Cloud Practitioner exam's requirements.
+>Understanding these foundational elements about AWS and cloud computing types enhances your ability to leverage the AWS platform effectively, aligning with the AWS Certified Cloud Practitioner exam's requirements.
 
 
 
