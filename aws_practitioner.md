@@ -100,15 +100,3 @@ The AWS Shared Responsibility Model outlines the security responsibilities of AW
 
 
 
-### Cloud Computing Types
-#### Types of Cloud Computing
-    IaaS
-    Pass
-    Saas
-#### Example of CC Types
-#### PPricing of the Cloud (AWS)
-    Compute
-    Storage
-    Data transfer OUT of the cloud
-### AWS Cloud Overview
-### AWS Shared Responsibility
