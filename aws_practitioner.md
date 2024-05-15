@@ -63,6 +63,14 @@ Cloud computing services are primarily categorized into three types, which diffe
 - **PaaS**: AWS Elastic Beanstalk provides an environment to easily deploy and run applications without worrying about the infrastructure.
 - **SaaS**: Amazon Chime is an example of a SaaS offering for video conferencing services.
 
+#### Pricing of the Cloud (AWS)
+
+Pricing in the cloud is a critical factor and varies based on the service model:
+
+- **Compute**: Charged based on the compute capacity per hour or per second depending on the instance type rented.
+- **Storage**: Priced per gigabyte per month based on the type of storage used (e.g., Amazon S3).
+- **Data transfer OUT of the cloud**: Generally free for data transfer into the cloud but charged for data transfer out, depending on the amount of data moved and the destination.
+
 
 
 
