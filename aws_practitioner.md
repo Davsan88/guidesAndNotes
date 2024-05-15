@@ -18,6 +18,9 @@ A private cloud consists of computing resources used exclusively by one business
 #### Public Cloud
 Public clouds are owned and operated by third-party cloud service providers, which deliver their computing resources like servers and storage over the Internet. AWS is an example of a public cloud provider.
 
+#### Hybrid Cloud
+A hybrid cloud combines public and private clouds, bound together by technology that allows data and applications to be shared between them. This provides businesses greater flexibility and more deployment options by allowing data and applications to move between private and public clouds.
+
 
 
 
