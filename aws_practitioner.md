@@ -21,6 +21,14 @@ Public clouds are owned and operated by third-party cloud service providers, whi
 #### Hybrid Cloud
 A hybrid cloud combines public and private clouds, bound together by technology that allows data and applications to be shared between them. This provides businesses greater flexibility and more deployment options by allowing data and applications to move between private and public clouds.
 
+### Characteristics of Cloud Computing
+
+- **On-demand self-service**: Users can provision resources as needed, automatically, without requiring human interaction with the service provider.
+- **Broad network access**: Capabilities are available over the network and accessed through standard mechanisms that promote use by heterogeneous thin or thick client platforms (e.g., mobile phones, laptops, and PDAs).
+- **Multi-tenancy and resource pooling**: Multiple customers can share the same physical infrastructures or applications, yet remain securely isolated, while resources can be dynamically allocated and reallocated according to demand.
+- **Rapid elasticity and scalability**: Capabilities can be elastically provisioned and released to scale rapidly outward and inward commensurate with demand.
+- **Measured service**: Cloud systems automatically control and optimize resource use by leveraging a metering capability at some level of abstraction appropriate to the type of service (e.g., storage, processing, bandwidth, and active user accounts).
+
 
 
 
