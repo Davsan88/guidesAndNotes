@@ -15,6 +15,9 @@ Cloud computing is the delivery of computing services—including servers, stora
 #### Private Cloud
 A private cloud consists of computing resources used exclusively by one business or organization. The private cloud can be physically located at the organization’s on-site datacenter, or it can be hosted by a third-party service provider. But in either case, the services and infrastructure are always maintained on a private network.
 
+#### Public Cloud
+Public clouds are owned and operated by third-party cloud service providers, which deliver their computing resources like servers and storage over the Internet. AWS is an example of a public cloud provider.
+
 
 
 
