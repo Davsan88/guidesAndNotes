@@ -71,6 +71,10 @@ Pricing in the cloud is a critical factor and varies based on the service model:
 - **Storage**: Priced per gigabyte per month based on the type of storage used (e.g., Amazon S3).
 - **Data transfer OUT of the cloud**: Generally free for data transfer into the cloud but charged for data transfer out, depending on the amount of data moved and the destination.
 
+### AWS Cloud Overview
+
+AWS provides a broad set of infrastructure services, such as computing power, storage options, networking, and databases, delivered as a utility: on-demand, available in seconds, with pay-as-you-go pricing.
+
 
 
 
