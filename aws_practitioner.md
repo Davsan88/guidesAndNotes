@@ -75,6 +75,15 @@ Pricing in the cloud is a critical factor and varies based on the service model:
 
 AWS provides a broad set of infrastructure services, such as computing power, storage options, networking, and databases, delivered as a utility: on-demand, available in seconds, with pay-as-you-go pricing.
 
+### AWS Shared Responsibility Model
+
+The AWS Shared Responsibility Model outlines the security responsibilities of AWS and the customer to help ensure a secure and compliant environment. AWS is responsible for protecting the infrastructure that runs AWS services in the AWS Cloud. The customer responsibility is determined by the AWS service used. Customers retain control of the security measures they choose to protect their own content, platform, applications, systems, and networks.
+
+- **AWS Responsibility**: "Security of the Cloud" - AWS is responsible for protecting the infrastructure that runs all of the services offered in the AWS Cloud.
+- **Customer Responsibility**: "Security in the Cloud" - Customers are responsible for security measures based on the AWS services they utilize. This can include updating and patching software, configuring AWS managed services, and securing application data.
+
+Understanding these foundational elements about AWS and cloud computing types enhances your ability to leverage the AWS platform effectively, aligning with the AWS Certified Cloud Practitioner exam's requirements.
+
 
 
 
