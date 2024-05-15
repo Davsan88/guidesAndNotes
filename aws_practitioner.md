@@ -10,6 +10,11 @@ Cloud computing has revolutionized how businesses scale and manage their IT reso
 
 Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet ("the cloud") to offer faster innovation, flexible resources, and economies of scale.
 
+### Cloud Computing Deployment Models
+
+#### Private Cloud
+A private cloud consists of computing resources used exclusively by one business or organization. The private cloud can be physically located at the organization’s on-site datacenter, or it can be hosted by a third-party service provider. But in either case, the services and infrastructure are always maintained on a private network.
+
 
 
 
