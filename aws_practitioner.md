@@ -6,6 +6,9 @@
 
 Cloud computing has revolutionized how businesses scale and manage their IT resources. By leveraging cloud services, organizations can reduce operational costs, improve efficiency, and enhance scalability and flexibility in their operations.
 
+### What is Cloud Computing
+
+Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet ("the cloud") to offer faster innovation, flexible resources, and economies of scale.
 
 
 
