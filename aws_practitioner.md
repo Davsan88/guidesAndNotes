@@ -47,6 +47,8 @@ Cloud computing addresses various challenges, including:
 - **Maintenance overheads**: Lowering the cost and effort associated with IT system upkeep.
 - **Global reach**: Providing the ability to serve users worldwide efficiently.
 
+### Cloud Computing Types
+
 
 
 
