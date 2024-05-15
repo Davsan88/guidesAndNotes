@@ -29,6 +29,15 @@ A hybrid cloud combines public and private clouds, bound together by technology 
 - **Rapid elasticity and scalability**: Capabilities can be elastically provisioned and released to scale rapidly outward and inward commensurate with demand.
 - **Measured service**: Cloud systems automatically control and optimize resource use by leveraging a metering capability at some level of abstraction appropriate to the type of service (e.g., storage, processing, bandwidth, and active user accounts).
 
+### Advantages of Cloud Computing
+
+- **Trade capital expense (CAPEX) for operational expense (OPEX)**: Instead of investing heavily in data centers and servers before knowing how you'll use them, you pay only when you consume computing resources and pay only for how much you consume.
+- **Economies of scale**: Achieve a lower variable cost than you can get on your own because usage from hundreds of thousands of customers is aggregated in the cloud.
+- **Stop guessing capacity**: Eliminate guessing on your infrastructure capacity needs. When you make a capacity decision prior to deploying an application, you often either end up sitting on expensive idle resources or dealing with limited capacity.
+- **Increase speed and agility**: In a cloud computing environment, new IT resources are only a click away, which means that you reduce the time to make those resources available to your developers from weeks to just minutes.
+- **Focus on projects that differentiate your business**, not the infrastructure. Cloud computing lets you focus on your own customers, rather than on the heavy lifting of racking, stacking, and powering servers.
+- **Go global in minutes**: Easily deploy your application in multiple regions around the world with just a few clicks. This means you can provide lower latency and a better experience for your customers at minimal cost.
+
 
 
 
