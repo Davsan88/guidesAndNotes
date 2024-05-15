@@ -38,6 +38,15 @@ A hybrid cloud combines public and private clouds, bound together by technology 
 - **Focus on projects that differentiate your business**, not the infrastructure. Cloud computing lets you focus on your own customers, rather than on the heavy lifting of racking, stacking, and powering servers.
 - **Go global in minutes**: Easily deploy your application in multiple regions around the world with just a few clicks. This means you can provide lower latency and a better experience for your customers at minimal cost.
 
+### Problems Solved by the Cloud
+
+Cloud computing addresses various challenges, including:
+
+- **Scalability issues**: Handling sudden increases in workload by enabling rapid expansion.
+- **Capital cost concerns**: Reducing the need for upfront infrastructure investments.
+- **Maintenance overheads**: Lowering the cost and effort associated with IT system upkeep.
+- **Global reach**: Providing the ability to serve users worldwide efficiently.
+
 
 
 
