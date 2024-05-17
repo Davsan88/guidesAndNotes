@@ -30,3 +30,13 @@ The landscape of CSPs includes several major players, each offering a range of c
 
 The Gartner Magic Quadrant for Cloud Infrastructure and Platform Services (CIPS) evaluates cloud providers based on their completeness of vision and ability to execute. AWS consistently ranks as a leader in this quadrant, highlighting its strong market presence and comprehensive service offerings.
 
+### Common Cloud Services
+
+Common cloud services provided by CSPs include:
+
+- **Compute**: Virtual machines, containers, serverless computing.
+- **Storage**: Object storage, file storage, block storage.
+- **Databases**: Managed relational and NoSQL databases.
+- **Networking**: Virtual private clouds, load balancers, VPNs.
+- **Security**: Identity and access management, encryption, compliance services.
+
