@@ -17,3 +17,8 @@ Amazon.com, Inc. is a multinational technology company based in Seattle, Washing
 ### What is AWS?
 
 Amazon Web Services (AWS) is a subsidiary of Amazon providing on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis. AWS offers scalable, reliable, and low-latency cloud services.
+
+### What is a CSP?
+
+A Cloud Service Provider (CSP) is a company that offers a component of cloud computing—typically Infrastructure as a Service (IaaS), Software as a Service (SaaS), or Platform as a Service (PaaS)—to other businesses or individuals.
+
