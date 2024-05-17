@@ -2,3 +2,11 @@
 
 ## Cloud Concepts
 
+### What is Cloud Computing?
+
+Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like AWS.
+
+### Evolution of Cloud Hosting
+
+Cloud hosting has evolved from traditional physical servers to virtualized infrastructure and now to fully managed cloud services. This progression has led to increased scalability, flexibility, and cost-efficiency, allowing businesses to adapt quickly to changing needs and demands.
+
