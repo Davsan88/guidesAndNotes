@@ -22,3 +22,11 @@ Amazon Web Services (AWS) is a subsidiary of Amazon providing on-demand cloud co
 
 A Cloud Service Provider (CSP) is a company that offers a component of cloud computing—typically Infrastructure as a Service (IaaS), Software as a Service (SaaS), or Platform as a Service (PaaS)—to other businesses or individuals.
 
+### Landscapes of CSPs
+
+The landscape of CSPs includes several major players, each offering a range of cloud services. Key players include AWS, Microsoft Azure, Google Cloud Platform (GCP), IBM Cloud, and Oracle Cloud. Each provider has its own strengths and specialties.
+
+### Gartner Magic Quadrant for Cloud
+
+The Gartner Magic Quadrant for Cloud Infrastructure and Platform Services (CIPS) evaluates cloud providers based on their completeness of vision and ability to execute. AWS consistently ranks as a leader in this quadrant, highlighting its strong market presence and comprehensive service offerings.
+
