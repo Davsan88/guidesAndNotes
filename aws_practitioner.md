@@ -54,3 +54,6 @@ Some of the key AWS services include:
 - **AWS Lambda**: Serverless computing.
 - **Amazon VPC**: Virtual Private Cloud for secure networking.
 
+### Evolution of Computing
+
+The evolution of computing has transitioned from mainframes to client-server models, to virtualization, and now to cloud computing. This shift has enabled more efficient and scalable computing solutions that are accessible on-demand.
