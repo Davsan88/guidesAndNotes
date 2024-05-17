@@ -57,3 +57,12 @@ Some of the key AWS services include:
 ### Evolution of Computing
 
 The evolution of computing has transitioned from mainframes to client-server models, to virtualization, and now to cloud computing. This shift has enabled more efficient and scalable computing solutions that are accessible on-demand.
+
+### Types of Cloud Computing
+
+Cloud computing services are generally categorized into three types:
+
+- **Infrastructure as a Service (IaaS)**: Provides virtualized computing resources over the internet.
+- **Platform as a Service (PaaS)**: Provides hardware and software tools over the internet, typically for application development.
+- **Software as a Service (SaaS)**: Delivers software applications over the internet, on-demand, and typically on a subscription basis.
+
