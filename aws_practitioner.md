@@ -40,3 +40,7 @@ Common cloud services provided by CSPs include:
 - **Networking**: Virtual private clouds, load balancers, VPNs.
 - **Security**: Identity and access management, encryption, compliance services.
 
+### AWS Technology Overview
+
+AWS provides a comprehensive suite of cloud services that support a wide range of applications, including computing, storage, databases, analytics, networking, mobile, developer tools, management tools, IoT, security, and enterprise applications.
+
