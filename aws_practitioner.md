@@ -66,3 +66,9 @@ Cloud computing services are generally categorized into three types:
 - **Platform as a Service (PaaS)**: Provides hardware and software tools over the internet, typically for application development.
 - **Software as a Service (SaaS)**: Delivers software applications over the internet, on-demand, and typically on a subscription basis.
 
+### Cloud Computing Deployment Models
+
+- **Private Cloud**: Cloud infrastructure operated solely for a single organization.
+- **Public Cloud**: Cloud infrastructure made available to the general public or a large industry group and owned by an organization selling cloud services.
+- **Hybrid Cloud**: A composition of two or more distinct cloud infrastructures (private, community, or public) that remain unique entities but are bound together by standardized or proprietary technology.
+
