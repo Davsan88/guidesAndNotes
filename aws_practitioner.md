@@ -28,7 +28,7 @@ The landscape of CSPs includes several major players, each offering a range of c
 
 ### Gartner Magic Quadrant for Cloud
 
-The Gartner Magic Quadrant for Cloud Infrastructure and Platform Services (CIPS) evaluates cloud providers based on their completeness of vision and ability to execute. AWS consistently ranks as a leader in this quadrant, highlighting its strong market presence and comprehensive service offerings.
+The Gartner Magic Quadrant (MQ) for Cloud Infrastructure and Platform Services (CIPS) evaluates cloud providers based on their completeness of vision and ability to execute. AWS consistently ranks as a leader in this quadrant, highlighting its strong market presence and comprehensive service offerings.
 
 ### Common Cloud Services
 
