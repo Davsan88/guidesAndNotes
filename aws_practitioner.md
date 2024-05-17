@@ -72,4 +72,4 @@ Cloud computing services are generally categorized into three types:
 - **Public Cloud**: Cloud infrastructure made available to the general public or a large industry group and owned by an organization selling cloud services.
 - **Hybrid Cloud**: A composition of two or more distinct cloud infrastructures (private, community, or public) that remain unique entities but are bound together by standardized or proprietary technology.
 
-Understanding these core concepts provides a solid foundation for leveraging AWS services effectively and aligns with the AWS Certified Cloud Practitioner exam requirements.
+>Understanding these core concepts provides a solid foundation for leveraging AWS services effectively and aligns with the AWS Certified Cloud Practitioner exam requirements.
