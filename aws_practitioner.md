@@ -44,15 +44,12 @@ Common cloud services provided by CSPs include:
 
 AWS provides a comprehensive suite of cloud services that support a wide range of applications, including computing, storage, databases, analytics, networking, mobile, developer tools, management tools, IoT, security, and enterprise applications.
 
-
 ### Evolution of Computing
 
 - **Dedicated Servers**: Dedicated servers are physical machines allocated to a single application or task, often resulting in underutilized resources and high operational costs.
 - **Virtual Machines**: Virtual Machines (VMs) allow multiple virtual servers to run on a single physical machine through a hypervisor, improving resource utilization and scalability.
 - **Containers**: Containers provide OS-level virtualization, enabling multiple isolated applications to run on a single OS kernel, offering faster start-up times and efficient resource utilization.
 - **Functions**: Serverless computing, or Functions as a Service (FaaS), lets developers run code in response to events without managing servers, with automatic scaling and pay-as-you-go pricing.
-
-
 
 ### Types of Cloud Computing
 
@@ -67,5 +64,13 @@ Cloud computing services are generally categorized into three types:
 - **Private Cloud**: Cloud infrastructure operated solely for a single organization.
 - **Public Cloud**: Cloud infrastructure made available to the general public or a large industry group and owned by an organization selling cloud services.
 - **Hybrid Cloud**: A composition of two or more distinct cloud infrastructures (private, community, or public) that remain unique entities but are bound together by standardized or proprietary technology.
+- **Cross-Cloud**: When using multiple cloud providers.
 
 >Understanding these core concepts provides a solid foundation for leveraging AWS services effectively and aligns with the AWS Certified Cloud Practitioner exam requirements.
+
+## Digital Transformation
+### Innovation Waves
+### Burning Platform
+### Digital Transformation Checklist
+### Evolution of Computing Power
+### Amazon Bracket
