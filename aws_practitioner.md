@@ -13,3 +13,7 @@ Cloud hosting has evolved from traditional physical servers to virtualized infra
 ### What is Amazon?
 
 Amazon.com, Inc. is a multinational technology company based in Seattle, Washington, that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. It is one of the Big Five companies in the U.S. information technology industry.
+
+### What is AWS?
+
+Amazon Web Services (AWS) is a subsidiary of Amazon providing on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis. AWS offers scalable, reliable, and low-latency cloud services.
