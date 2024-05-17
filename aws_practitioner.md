@@ -44,3 +44,13 @@ Common cloud services provided by CSPs include:
 
 AWS provides a comprehensive suite of cloud services that support a wide range of applications, including computing, storage, databases, analytics, networking, mobile, developer tools, management tools, IoT, security, and enterprise applications.
 
+### AWS Services Preview
+
+Some of the key AWS services include:
+
+- **Amazon EC2**: Scalable virtual servers.
+- **Amazon S3**: Scalable object storage.
+- **Amazon RDS**: Managed relational database service.
+- **AWS Lambda**: Serverless computing.
+- **Amazon VPC**: Virtual Private Cloud for secure networking.
+
