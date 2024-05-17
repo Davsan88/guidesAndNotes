@@ -44,19 +44,15 @@ Common cloud services provided by CSPs include:
 
 AWS provides a comprehensive suite of cloud services that support a wide range of applications, including computing, storage, databases, analytics, networking, mobile, developer tools, management tools, IoT, security, and enterprise applications.
 
-### AWS Services Preview
-
-Some of the key AWS services include:
-
-- **Amazon EC2**: Scalable virtual servers.
-- **Amazon S3**: Scalable object storage.
-- **Amazon RDS**: Managed relational database service.
-- **AWS Lambda**: Serverless computing.
-- **Amazon VPC**: Virtual Private Cloud for secure networking.
 
 ### Evolution of Computing
 
-The evolution of computing has transitioned from mainframes to client-server models, to virtualization, and now to cloud computing. This shift has enabled more efficient and scalable computing solutions that are accessible on-demand.
+- **Dedicated Servers**: Dedicated servers are physical machines allocated to a single application or task, often resulting in underutilized resources and high operational costs.
+- **Virtual Machines**: Virtual Machines (VMs) allow multiple virtual servers to run on a single physical machine through a hypervisor, improving resource utilization and scalability.
+- **Containers**: Containers provide OS-level virtualization, enabling multiple isolated applications to run on a single OS kernel, offering faster start-up times and efficient resource utilization.
+- **Functions**: Serverless computing, or Functions as a Service (FaaS), lets developers run code in response to events without managing servers, with automatic scaling and pay-as-you-go pricing.
+
+
 
 ### Types of Cloud Computing
 
