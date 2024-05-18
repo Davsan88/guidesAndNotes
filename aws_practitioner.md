@@ -176,3 +176,8 @@ AWS Local Zones place compute, storage, and other select AWS services closer to 
 ### Wavelength Zones
 
 Wavelength Zones extend AWS infrastructure to the edge of the 5G network, minimizing latency to deliver ultra-low latency applications for mobile and connected devices.
+
+### Data Residency
+
+Data residency refers to the physical or geographic location of data and its implications for data sovereignty and compliance with local regulations.
+
