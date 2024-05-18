@@ -201,3 +201,7 @@ AWS is committed to sustainability through initiatives like achieving 100% renew
 
 AWS Ground Station provides fully managed ground station services, enabling customers to control satellite communications, process data, and scale operations without managing ground station infrastructure.
 
+### AWS Outposts
+
+AWS Outposts extends AWS infrastructure, services, APIs, and tools to virtually any datacenter, co-location space, or on-premises facility for a truly consistent hybrid experience.
+
