@@ -149,3 +149,7 @@ Regions consist of multiple AZs, and visualizing this setup helps understand how
 
 Fault tolerance refers to the ability of a system to continue operating without interruption when one or more of its components fail, which AWS achieves through its AZs and regions.
 
+### AWS Global Network
+
+The AWS Global Network is a highly available, low-latency global network infrastructure that interconnects AWS regions, AZs, and edge locations.
+
