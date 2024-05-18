@@ -185,3 +185,7 @@ Data residency refers to the physical or geographic location of data and its imp
 
 AWS for Government provides cloud services that meet the unique regulatory, security, and compliance requirements of government agencies.
 
+### GovCloud
+
+AWS GovCloud (US) is an isolated AWS region designed to host sensitive data and regulated workloads in the cloud, ensuring compliance with US government requirements.
+
