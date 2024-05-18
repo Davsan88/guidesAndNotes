@@ -79,6 +79,9 @@ Innovation waves refer to the successive phases of technological advancements th
 A burning platform is a compelling and urgent need for change within an organization, often driven by market pressures, competition, or technological advancements, necessitating a rapid transformation strategy.
 
 ### Digital Transformation Checklist
+
+A digital transformation checklist includes key steps such as assessing current capabilities, setting clear objectives, leveraging cloud technologies, fostering a culture of innovation, and continuously measuring and optimizing the transformation efforts.
+
 ### Evolution of Computing Power
 ### Amazon Bracket
 
