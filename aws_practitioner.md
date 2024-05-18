@@ -133,3 +133,7 @@ AWS Global Infrastructure is designed to provide a secure, scalable, and highly 
 
 Regions are separate geographic areas that AWS uses to host data centers, enabling data redundancy and locality for compliance and latency purposes.
 
+### Regions vs Global Services
+
+Regions provide localized services within specific geographic areas, while global services, such as IAM, Route 53, and CloudFront, operate across multiple regions.
+
