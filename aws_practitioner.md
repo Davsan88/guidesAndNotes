@@ -197,3 +197,7 @@ AWS operates AWS China (Beijing) and AWS China (Ningxia) regions in compliance w
 
 AWS is committed to sustainability through initiatives like achieving 100% renewable energy usage for global infrastructure and continuous efforts to improve energy efficiency.
 
+### AWS Ground Station
+
+AWS Ground Station provides fully managed ground station services, enabling customers to control satellite communications, process data, and scale operations without managing ground station infrastructure.
+
