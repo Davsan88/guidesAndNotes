@@ -153,3 +153,7 @@ Fault tolerance refers to the ability of a system to continue operating without 
 
 The AWS Global Network is a highly available, low-latency global network infrastructure that interconnects AWS regions, AZs, and edge locations.
 
+### Points of Presence (PoP)
+
+Points of Presence (PoPs) are data centers used by AWS to deliver low-latency content to users globally, primarily through services like CloudFront and Route 53.
+
