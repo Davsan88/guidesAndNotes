@@ -137,3 +137,6 @@ Regions are separate geographic areas that AWS uses to host data centers, enabli
 
 Regions provide localized services within specific geographic areas, while global services, such as IAM, Route 53, and CloudFront, operate across multiple regions.
 
+### Availability Zones
+
+Availability Zones (AZs) are distinct locations within a region, each with independent power, cooling, and networking, providing high availability and fault tolerance.
