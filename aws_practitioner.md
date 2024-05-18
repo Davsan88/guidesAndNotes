@@ -169,3 +169,7 @@ AWS Direct Connect provides a dedicated network connection from your premises to
 
 Direct Connect Locations are specific facilities where AWS Direct Connect is available, enabling customers to establish private connectivity to AWS.
 
+### AWS Local Zones
+
+AWS Local Zones place compute, storage, and other select AWS services closer to large population, industry, and IT centers for applications that require single-digit millisecond latency.
+
