@@ -181,3 +181,7 @@ Wavelength Zones extend AWS infrastructure to the edge of the 5G network, minimi
 
 Data residency refers to the physical or geographic location of data and its implications for data sovereignty and compliance with local regulations.
 
+### AWS for Government
+
+AWS for Government provides cloud services that meet the unique regulatory, security, and compliance requirements of government agencies.
+
