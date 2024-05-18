@@ -75,6 +75,9 @@ Cloud computing services are generally categorized into three types:
 Innovation waves refer to the successive phases of technological advancements that drive significant changes in industries, such as the shift from mainframes to personal computers, the internet, and now to cloud computing and AI.
 
 ### Burning Platform
+
+A burning platform is a compelling and urgent need for change within an organization, often driven by market pressures, competition, or technological advancements, necessitating a rapid transformation strategy.
+
 ### Digital Transformation Checklist
 ### Evolution of Computing Power
 ### Amazon Bracket
