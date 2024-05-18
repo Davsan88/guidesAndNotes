@@ -69,8 +69,38 @@ Cloud computing services are generally categorized into three types:
 >Understanding these core concepts provides a solid foundation for leveraging AWS services effectively and aligns with the AWS Certified Cloud Practitioner exam requirements.
 
 ## Digital Transformation
+
 ### Innovation Waves
+
+Innovation waves refer to the successive phases of technological advancements that drive significant changes in industries, such as the shift from mainframes to personal computers, the internet, and now to cloud computing and AI.
+
 ### Burning Platform
 ### Digital Transformation Checklist
 ### Evolution of Computing Power
 ### Amazon Bracket
+
+## The Benefits of Cloud
+### The 6 Advantages of Cloud
+### The 7 Advantages of Cloud
+
+## Global Infrastructure
+### Global Infra Overview
+### Regions
+### Regions vs Global Services
+### Availability Zones
+### Regions vs AZ Visualised
+###  Fault Tolerance
+### AWS Global Network
+### Points of Presence (PoP)
+### POP's Tier 1
+### AWS Direct Connect
+### Direct Connect Locations
+### AWS Local Zones
+### Wavelength Zones
+### Data Residency
+### AWS fro Government
+### GovCloud
+### AWS in China
+### Sustainability
+### AWS Ground Station
+### AWS Outposts
