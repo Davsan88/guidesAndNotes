@@ -83,11 +83,36 @@ A burning platform is a compelling and urgent need for change within an organiza
 A digital transformation checklist includes key steps such as assessing current capabilities, setting clear objectives, leveraging cloud technologies, fostering a culture of innovation, and continuously measuring and optimizing the transformation efforts.
 
 ### Evolution of Computing Power
+
+The evolution of computing power highlights the dramatic improvements in processing capabilities from mainframes and personal computers to today's cloud-based infrastructures, enabling more complex and large-scale computations.
+
 ### Amazon Bracket
 
+Amazon Bracket is a fully managed service that provides a development environment for quantum algorithms, helping researchers and developers to explore and experiment with quantum computing using simulators and quantum hardware.
+
+
 ## The Benefits of Cloud
+
 ### The 6 Advantages of Cloud
-### The 7 Advantages of Cloud
+
+1. **Trade Capital Expense (CAPEX) for Operational Expense (OPEX)**:
+   Move from large upfront capital investments to pay-as-you-go pricing, reducing financial risk and improving cash flow.
+
+2. **Benefit from Massive Economies of Scale**:
+   AWS aggregates usage from hundreds of thousands of customers, achieving higher economies of scale and passing the savings onto customers.
+
+3. **Stop Guessing Capacity**:
+   Eliminate the need to guess infrastructure capacity needs, reducing the risk of over-provisioning or under-provisioning resources.
+
+4. **Increase Speed and Agility**:
+   Quickly deploy new resources and scale infrastructure in minutes, allowing for rapid innovation and time-to-market.
+
+5. **Stop Spending Money on Running and Maintaining Data Centers**:
+   Focus on projects that differentiate your business, not the infrastructure, by outsourcing data center operations to AWS.
+
+6. **Go Global in Minutes**:
+   Easily deploy applications in multiple regions around the world to provide lower latency and a better experience for customers.
+
 
 ## Global Infrastructure
 ### Global Infra Overview
