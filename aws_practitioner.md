@@ -193,3 +193,7 @@ AWS GovCloud (US) is an isolated AWS region designed to host sensitive data and 
 
 AWS operates AWS China (Beijing) and AWS China (Ningxia) regions in compliance with Chinese regulations, through a partnership with local providers.
 
+### Sustainability
+
+AWS is committed to sustainability through initiatives like achieving 100% renewable energy usage for global infrastructure and continuous efforts to improve energy efficiency.
+
