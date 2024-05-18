@@ -161,3 +161,7 @@ Points of Presence (PoPs) are data centers used by AWS to deliver low-latency co
 
 Tier 1 PoPs are strategically located to provide optimal performance and reliability for content delivery and other global services.
 
+### AWS Direct Connect
+
+AWS Direct Connect provides a dedicated network connection from your premises to AWS, offering more consistent network performance and lower latency compared to internet-based connections.
+
