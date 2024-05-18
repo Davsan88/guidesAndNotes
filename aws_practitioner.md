@@ -140,3 +140,7 @@ Regions provide localized services within specific geographic areas, while globa
 ### Availability Zones
 
 Availability Zones (AZs) are distinct locations within a region, each with independent power, cooling, and networking, providing high availability and fault tolerance.
+
+### Regions vs AZ Visualized
+
+Regions consist of multiple AZs, and visualizing this setup helps understand how AWS ensures high availability by distributing resources across multiple AZs within a region.
