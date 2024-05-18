@@ -120,7 +120,7 @@ In addition to the six advantages mentioned above, the seventh advantage is ofte
 7. **Improved Security**:
    Benefit from a data center and network architecture built to meet the requirements of the most security-sensitive organizations, with comprehensive security and compliance controls.
 
-Understanding these advantages helps organizations leverage cloud computing effectively, aligning with business goals and enhancing overall efficiency and innovation.
+>Understanding these advantages helps organizations leverage cloud computing effectively, aligning with business goals and enhancing overall efficiency and innovation.
 
 
 ## Global Infrastructure
