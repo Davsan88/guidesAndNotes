@@ -129,3 +129,7 @@ In addition to the six advantages mentioned above, the seventh advantage is ofte
 
 AWS Global Infrastructure is designed to provide a secure, scalable, and highly available environment for deploying cloud applications and services.
 
+### Regions
+
+Regions are separate geographic areas that AWS uses to host data centers, enabling data redundancy and locality for compliance and latency purposes.
+
