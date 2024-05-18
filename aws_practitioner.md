@@ -157,3 +157,7 @@ The AWS Global Network is a highly available, low-latency global network infrast
 
 Points of Presence (PoPs) are data centers used by AWS to deliver low-latency content to users globally, primarily through services like CloudFront and Route 53.
 
+### PoP's Tier 1
+
+Tier 1 PoPs are strategically located to provide optimal performance and reliability for content delivery and other global services.
+
