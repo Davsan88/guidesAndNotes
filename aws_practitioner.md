@@ -189,3 +189,7 @@ AWS for Government provides cloud services that meet the unique regulatory, secu
 
 AWS GovCloud (US) is an isolated AWS region designed to host sensitive data and regulated workloads in the cloud, ensuring compliance with US government requirements.
 
+### AWS in China
+
+AWS operates AWS China (Beijing) and AWS China (Ningxia) regions in compliance with Chinese regulations, through a partnership with local providers.
+
