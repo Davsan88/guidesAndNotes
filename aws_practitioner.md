@@ -173,3 +173,6 @@ Direct Connect Locations are specific facilities where AWS Direct Connect is ava
 
 AWS Local Zones place compute, storage, and other select AWS services closer to large population, industry, and IT centers for applications that require single-digit millisecond latency.
 
+### Wavelength Zones
+
+Wavelength Zones extend AWS infrastructure to the edge of the 5G network, minimizing latency to deliver ultra-low latency applications for mobile and connected devices.
