@@ -165,3 +165,7 @@ Tier 1 PoPs are strategically located to provide optimal performance and reliabi
 
 AWS Direct Connect provides a dedicated network connection from your premises to AWS, offering more consistent network performance and lower latency compared to internet-based connections.
 
+### Direct Connect Locations
+
+Direct Connect Locations are specific facilities where AWS Direct Connect is available, enabling customers to establish private connectivity to AWS.
+
