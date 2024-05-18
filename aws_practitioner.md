@@ -144,3 +144,8 @@ Availability Zones (AZs) are distinct locations within a region, each with indep
 ### Regions vs AZ Visualized
 
 Regions consist of multiple AZs, and visualizing this setup helps understand how AWS ensures high availability by distributing resources across multiple AZs within a region.
+
+### Fault Tolerance
+
+Fault tolerance refers to the ability of a system to continue operating without interruption when one or more of its components fail, which AWS achieves through its AZs and regions.
+
