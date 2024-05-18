@@ -124,23 +124,8 @@ In addition to the six advantages mentioned above, the seventh advantage is ofte
 
 
 ## Global Infrastructure
+
 ### Global Infra Overview
-### Regions
-### Regions vs Global Services
-### Availability Zones
-### Regions vs AZ Visualised
-###  Fault Tolerance
-### AWS Global Network
-### Points of Presence (PoP)
-### POP's Tier 1
-### AWS Direct Connect
-### Direct Connect Locations
-### AWS Local Zones
-### Wavelength Zones
-### Data Residency
-### AWS fro Government
-### GovCloud
-### AWS in China
-### Sustainability
-### AWS Ground Station
-### AWS Outposts
+
+AWS Global Infrastructure is designed to provide a secure, scalable, and highly available environment for deploying cloud applications and services.
+
