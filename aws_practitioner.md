@@ -210,6 +210,15 @@ AWS Outposts extends AWS infrastructure, services, APIs, and tools to virtually 
 
 ### Cloud Architecture Terminologies
 
+#### Solutions Architect
+A Solutions Architect designs comprehensive cloud solutions, ensuring they meet business requirements, are cost-effective, and leverage AWS services optimally.
+
+
+
+
+
+
+
 
 ## Management and Developer Tools
 ### AWS API
