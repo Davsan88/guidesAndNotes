@@ -230,6 +230,11 @@ High scalability refers to the ability of a cloud system to handle growing amoun
 #### Auto Scaling Groups (ASG)
 Auto Scaling Groups (ASG) allow automatic scaling of Amazon EC2 instances based on demand, ensuring the application can handle varying loads efficiently.
 
+### Highly Fault Tolerant
+
+#### RDS Multi-AZ
+Amazon RDS Multi-AZ deployments provide enhanced availability and durability for database instances, automatically replicating data to a standby instance in a different Availability Zone.
+
 
 
 
