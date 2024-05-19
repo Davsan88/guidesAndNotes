@@ -245,6 +245,9 @@ CloudEndure Disaster Recovery enables fast and reliable recovery of physical, vi
 #### Recovery Point Objective (RPO)
 Recovery Point Objective (RPO) defines the maximum acceptable amount of data loss measured in time, ensuring that data can be recovered within a specified timeframe before a disruption.
 
+#### Recovery Time Objective (RTO)
+Recovery Time Objective (RTO) specifies the maximum acceptable amount of time to restore a system or service after a disruption, minimizing downtime and ensuring business continuity.
+
 
 
 
