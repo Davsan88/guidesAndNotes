@@ -218,6 +218,9 @@ A Cloud Architect focuses on designing and implementing cloud environments, ensu
 
 ### High Availability
 
+#### Elastic Load Balancer
+An Elastic Load Balancer (ELB) automatically distributes incoming application traffic across multiple targets, such as Amazon EC2 instances, ensuring high availability and reliability.
+
 
 
 
