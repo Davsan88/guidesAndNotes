@@ -225,7 +225,10 @@ An Elastic Load Balancer (ELB) automatically distributes incoming application tr
 
 High scalability refers to the ability of a cloud system to handle growing amounts of work by adding resources dynamically, ensuring performance remains consistent.
 
+### High Elasticity
 
+#### Auto Scaling Groups (ASG)
+Auto Scaling Groups (ASG) allow automatic scaling of Amazon EC2 instances based on demand, ensuring the application can handle varying loads efficiently.
 
 
 
