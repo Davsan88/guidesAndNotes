@@ -205,3 +205,28 @@ AWS Ground Station provides fully managed ground station services, enabling cust
 
 AWS Outposts extends AWS infrastructure, services, APIs, and tools to virtually any datacenter, co-location space, or on-premises facility for a truly consistent hybrid experience.
 
+
+## Cloud Architecture
+
+### Cloud Architecture Terminologies
+
+
+## Management and Developer Tools
+### AWS API
+### AWS Mgmt Console
+### Service Console
+### AWS Account ID
+### AWS Tools for PowerShell
+### Amazon Resource Names (ARNs)
+### AWS CLI
+### AWS SDK
+### AWS CloudShell
+### Infrastructure as Code
+### CloudFormation
+### CDK (Cloud Development Kit)
+### AWS Toolkit for VSCode
+### Access Keys
+	
+### AWS Documentation
+	  
+      [text](https://www.youtube.com/watch?v=NhDYbskXRgc&t=15186s)
