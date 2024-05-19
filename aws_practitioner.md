@@ -240,6 +240,12 @@ Amazon RDS Multi-AZ deployments provide enhanced availability and durability for
 #### CloudEndure Disaster Recovery
 CloudEndure Disaster Recovery enables fast and reliable recovery of physical, virtual, and cloud-based servers into AWS, ensuring data durability and minimizing downtime.
 
+### Business Continuity Plan (BCP)
+
+#### Recovery Point Objective (RPO)
+Recovery Point Objective (RPO) defines the maximum acceptable amount of data loss measured in time, ensuring that data can be recovered within a specified timeframe before a disruption.
+
+
 
 
 
