@@ -217,6 +217,8 @@ A Solutions Architect designs comprehensive cloud solutions, ensuring they meet 
 A Cloud Architect focuses on designing and implementing cloud environments, ensuring that they are scalable, secure, and aligned with best practices.
 
 ### High Availability
+Refers to systems that are durable and likely to operate continuously without failure for a long time. AWS ensures high availability through services like Elastic Load Balancer (ELB).
+
 
 #### Elastic Load Balancer
 An Elastic Load Balancer (ELB) automatically distributes incoming application traffic across multiple targets, such as Amazon EC2 instances, ensuring high availability and reliability.
