@@ -216,6 +216,8 @@ A Solutions Architect designs comprehensive cloud solutions, ensuring they meet 
 #### Cloud Architect
 A Cloud Architect focuses on designing and implementing cloud environments, ensuring that they are scalable, secure, and aligned with best practices.
 
+### High Availability
+
 
 
 
