@@ -235,6 +235,11 @@ Auto Scaling Groups (ASG) allow automatic scaling of Amazon EC2 instances based 
 #### RDS Multi-AZ
 Amazon RDS Multi-AZ deployments provide enhanced availability and durability for database instances, automatically replicating data to a standby instance in a different Availability Zone.
 
+### High Durability
+
+#### CloudEndure Disaster Recovery
+CloudEndure Disaster Recovery enables fast and reliable recovery of physical, virtual, and cloud-based servers into AWS, ensuring data durability and minimizing downtime.
+
 
 
 
