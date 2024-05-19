@@ -253,6 +253,9 @@ Recovery Time Objective (RTO) specifies the maximum acceptable amount of time to
 #### Backup & Restore (Hours)
 Backup & Restore involves regularly backing up data and restoring it in case of failure, suitable for recovery times measured in hours.
 
+#### Pilot Light (10 mins)
+Pilot Light involves maintaining a minimal version of an environment always running, allowing quick scaling up in the event of a disaster, typically within 10 minutes.
+
 
 
 
