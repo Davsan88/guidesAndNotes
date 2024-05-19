@@ -256,6 +256,9 @@ Backup & Restore involves regularly backing up data and restoring it in case of 
 #### Pilot Light (10 mins)
 Pilot Light involves maintaining a minimal version of an environment always running, allowing quick scaling up in the event of a disaster, typically within 10 minutes.
 
+#### Warm Standby (Minutes)
+Warm Standby maintains a scaled-down but fully functional version of a production environment, allowing rapid scaling and minimal downtime, typically within minutes.
+
 
 
 
