@@ -250,6 +250,9 @@ Recovery Time Objective (RTO) specifies the maximum acceptable amount of time to
 
 ### Discover Recovery Options
 
+#### Backup & Restore (Hours)
+Backup & Restore involves regularly backing up data and restoring it in case of failure, suitable for recovery times measured in hours.
+
 
 
 
