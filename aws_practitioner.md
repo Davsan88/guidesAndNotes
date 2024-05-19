@@ -259,6 +259,9 @@ Pilot Light involves maintaining a minimal version of an environment always runn
 #### Warm Standby (Minutes)
 Warm Standby maintains a scaled-down but fully functional version of a production environment, allowing rapid scaling and minimal downtime, typically within minutes.
 
+#### Multi-site Active/Active (Real-time)
+Multi-site Active/Active refers to running multiple instances of an application across multiple locations simultaneously, providing real-time data synchronization and seamless failover.
+
 
 
 
