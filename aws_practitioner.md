@@ -235,11 +235,14 @@ Allows systems to automatically adapt to workload changes by provisioning and de
 Auto Scaling Groups (ASG) allow automatic scaling of Amazon EC2 instances based on demand, ensuring the application can handle varying loads efficiently.
 
 ### Highly Fault Tolerant
+Highly fault-tolerant systems can continue operating properly in the event of the failure of some of its components. AWS enhances fault tolerance with services like Amazon RDS Multi-AZ.
+
 
 #### RDS Multi-AZ
 Amazon RDS Multi-AZ deployments provide enhanced availability and durability for database instances, automatically replicating data to a standby instance in a different Availability Zone.
 
 ### High Durability
+
 
 #### CloudEndure Disaster Recovery
 CloudEndure Disaster Recovery enables fast and reliable recovery of physical, virtual, and cloud-based servers into AWS, ensuring data durability and minimizing downtime.
