@@ -213,6 +213,8 @@ AWS Outposts extends AWS infrastructure, services, APIs, and tools to virtually 
 #### Solutions Architect
 A Solutions Architect designs comprehensive cloud solutions, ensuring they meet business requirements, are cost-effective, and leverage AWS services optimally.
 
+#### Cloud Architect
+A Cloud Architect focuses on designing and implementing cloud environments, ensuring that they are scalable, secure, and aligned with best practices.
 
 
 
