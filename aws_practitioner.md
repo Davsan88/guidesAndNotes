@@ -436,7 +436,7 @@ Elastic Load Balancer (ELB) automatically distributes incoming application traff
 #### AWS Elastic Beanstalk (EB)
 AWS Elastic Beanstalk (EB) is an easy-to-use service for deploying and scaling web applications and services, automatically handling capacity provisioning, load balancing, and scaling.
 
-
+>Understanding these compute services and cost management tools helps you efficiently leverage AWS resources to build, deploy, and manage applications.
 
 
 
