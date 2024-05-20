@@ -387,6 +387,11 @@ Virtual Machines (VMs) allow you to run applications in isolated environments, p
 #### Containers
 Containers provide a lightweight way to encapsulate and run applications with their dependencies, ensuring consistency across multiple environments.
 
+- **Elastic Container Service (ECS)**: A highly scalable container orchestration service that supports Docker containers.
+- **Elastic Container Registry (ECR)**: A fully managed Docker container registry that makes it easy to store, manage, and deploy container images.
+- **ECS Fargate**: A serverless compute engine for containers that works with ECS to run containers without managing servers.
+- **Elastic Kubernetes Service (EKS)**: A managed service that makes it easy to run Kubernetes on AWS without needing to install and operate your own Kubernetes control plane.
+
 #### Serverless
 Serverless computing lets you run code without provisioning or managing servers, automatically scaling with demand and charging only for the compute time used.
 
