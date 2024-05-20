@@ -328,7 +328,15 @@ The AWS Shared Responsibility Model defines the division of security responsibil
 - **Customers are responsible for Security in the Cloud**: This includes securing data, managing user access, configuring security settings, and ensuring application security.
 - **AWS is responsible for Security of the Cloud**: AWS manages and secures the infrastructure that runs all of the services offered in the AWS Cloud, including hardware, software, networking, and facilities.
 
+### Types of Cloud Responsibilities
+Cloud responsibilities are divided between AWS and the customer:
 
+- **Customer Responsibilities**:
+  - Data protection and encryption.
+  - Identity and access management (IAM).
+  - Application security and network traffic protection.
+  - Operating system and network configuration.
+  - Client-side and server-side data protection.
 
 
 
