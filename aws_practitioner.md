@@ -406,6 +406,8 @@ HPC on AWS provides the infrastructure and tools needed to run large-scale compu
 #### AWS ParallelCluster
 - **AWS ParallelCluster**: An AWS-supported open-source cluster management tool that makes it easy to deploy and manage HPC clusters on AWS.
 
+### Edge & Hybrid
+AWS offers solutions like Outposts, Wavelength, and Local Zones to extend AWS services to edge locations and on-premises environments, ensuring low-latency and hybrid cloud capabilities.
 
 
 
