@@ -421,6 +421,8 @@ AWS offers solutions like Outposts, Wavelength, and Local Zones to extend AWS se
 - **Reserved Instances**: Offer significant discounts compared to on-demand pricing in exchange for a commitment to use AWS compute capacity for a one- or three-year term.
 - **Savings Plans**: Provide flexible pricing with lower rates for a commitment to consistent usage (measured in $/hour) for a one- or three-year term.
 
+#### AWS Batch
+AWS Batch enables you to run batch computing workloads on the AWS Cloud, efficiently provisioning resources based on the volume and specific resource requirements of the jobs submitted.
 
 
 
