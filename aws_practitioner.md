@@ -338,7 +338,11 @@ Cloud responsibilities are divided between AWS and the customer:
   - Operating system and network configuration.
   - Client-side and server-side data protection.
 
-
+- **AWS Responsibilities**:
+  - Physical security of data centers.
+  - Hardware and software infrastructure.
+  - Network infrastructure and virtualization.
+  - AWS global network security.
 
 
 
