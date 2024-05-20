@@ -430,6 +430,14 @@ AWS Compute Optimizer analyzes your AWS resources and usage patterns to recommen
 #### EC2 Auto Scaling Group (ASGs)
 Auto Scaling Groups (ASGs) ensure you have the right number of EC2 instances available to handle the load for your applications, automatically scaling up or down based on demand.
 
+#### Elastic Load Balancer (ELB)
+Elastic Load Balancer (ELB) automatically distributes incoming application traffic across multiple targets, such as EC2 instances, containers, and IP addresses, enhancing fault tolerance and availability.
+
+
+
+
+
+
 
 ### VMs, Containers & Serverless
    VMSs
