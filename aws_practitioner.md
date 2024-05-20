@@ -409,6 +409,11 @@ HPC on AWS provides the infrastructure and tools needed to run large-scale compu
 ### Edge & Hybrid
 AWS offers solutions like Outposts, Wavelength, and Local Zones to extend AWS services to edge locations and on-premises environments, ensuring low-latency and hybrid cloud capabilities.
 
+- **AWS Outposts**: Extends AWS infrastructure and services to virtually any data center, co-location space, or on-premises facility for a truly consistent hybrid experience.
+- **AWS Wavelength**: Enables developers to build applications that deliver ultra-low latencies to mobile and connected devices by deploying AWS compute and storage services at the edge of telecom networks.
+- **VMWare Cloud on AWS**: Allows you to run a VMware software-defined data center (SDDC) on AWS infrastructure, enabling seamless migration and hybrid cloud strategies.
+- **AWS Local Zones**: Places AWS compute, storage, database, and other select services closer to large population, industry, and IT centers for applications that require single-digit millisecond latency.
+
 
 
 
