@@ -344,7 +344,13 @@ Cloud responsibilities are divided between AWS and the customer:
   - Network infrastructure and virtualization.
   - AWS global network security.
 
+### Shared Responsibility for Compute
+In compute services, AWS manages the underlying physical infrastructure, including servers, storage, and networking, while customers are responsible for managing their operating systems, applications, and data.
 
+- **AWS Responsibilities**:
+  - Physical server management.
+  - Network infrastructure.
+  - Hypervisor security.
 
 
 
