@@ -433,6 +433,8 @@ Auto Scaling Groups (ASGs) ensure you have the right number of EC2 instances ava
 #### Elastic Load Balancer (ELB)
 Elastic Load Balancer (ELB) automatically distributes incoming application traffic across multiple targets, such as EC2 instances, containers, and IP addresses, enhancing fault tolerance and availability.
 
+#### AWS Elastic Beanstalk (EB)
+AWS Elastic Beanstalk (EB) is an easy-to-use service for deploying and scaling web applications and services, automatically handling capacity provisioning, load balancing, and scaling.
 
 
 
