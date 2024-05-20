@@ -292,6 +292,8 @@ AWS Tools for PowerShell enable developers and administrators to manage AWS serv
 ### Amazon Resource Names (ARNs)
 Amazon Resource Names (ARNs) uniquely identify AWS resources, allowing users to specify resources across all AWS services in a standardized format.
 
+### AWS CLI
+The AWS Command Line Interface (CLI) is a unified tool to manage AWS services, enabling users to control multiple AWS services from the command line and automate tasks through scripts.
 
 
 
