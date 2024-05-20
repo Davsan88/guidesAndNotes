@@ -397,6 +397,8 @@ Serverless computing lets you run code without provisioning or managing servers,
 
 - **AWS Lambda**: Lets you run code without provisioning or managing servers, charging you only for the compute time you consume.
 
+### High Performance Compute (HPC)
+HPC on AWS provides the infrastructure and tools needed to run large-scale compute and data-intensive workloads efficiently.
 
 
 
