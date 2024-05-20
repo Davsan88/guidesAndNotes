@@ -272,24 +272,93 @@ Multi-site Active/Active refers to running multiple instances of an application 
 >Understanding these concepts and strategies is crucial for designing resilient, scalable, and efficient cloud architectures that meet business needs and ensure operational continuity.
 
 
-
-
 ## Management and Developer Tools
+
 ### AWS API
+The AWS API allows developers to interact with AWS services programmatically, enabling automation and integration with various applications through RESTful APIs.
+
 ### AWS Mgmt Console
-### Service Console
-### AWS Account ID
-### AWS Tools for PowerShell
-### Amazon Resource Names (ARNs)
-### AWS CLI
-### AWS SDK
-### AWS CloudShell
-### Infrastructure as Code
-### CloudFormation
-### CDK (Cloud Development Kit)
-### AWS Toolkit for VSCode
-### Access Keys
-	
-### AWS Documentation
-	  
-      [text](https://www.youtube.com/watch?v=NhDYbskXRgc&t=15186s)
+The AWS Management Console is a web-based user interface that allows users to manage and configure their AWS services and resources easily.
+
+
+
+## Shared Responsibility Model
+### AWS Shared Responsibility Model
+   Customers are responsible for Security **in** the Cloud
+   AWS is responsible for Security **of** the Cloud
+### Types of Cloud Responsibilities
+### Shared Responsibility for Compute
+### Shared Responsibility Model Alternate
+### Shared Responsibility Model Architecture
+
+## Compute
+### VMs, Containers & Serverless
+   VMSs
+      Amazon LightSail
+   Containers
+      Elastic Container Service (ECS)
+      Elastic Container Registry (ECR)
+      ECS Fargate
+      Elastic Kubernetes Service (EKS)
+   Serverless
+      AWS Lambda  
+### High Performace Compute (HPC)
+#### Bottlerocket
+#### AWS ParallelCluster
+### Edge & Hybrid
+   AWS Outposts
+   AWS Wavelength
+   VMWare Cloud on AWS
+   AWS Local Zones
+### Cost & Capacity Mgmt
+
+## Storage Services
+### Types of STorate Services
+    Elastic Block Store (EBS) - Block
+    AWS Elastic File System (EFS) - File
+    Amazon Simple Storage Service (S3) - Object
+### Intro to S3
+### S3 Storage Classes
+### AWS Snow Family
+### Storage Services
+   Simple Storage Service (S3)
+   S3 Glacier
+   Elastic Block Store (EBS)
+   AWS Elastic File System (EFS)
+   Storage Gateway
+      Flie Gateway
+      Volume Gateway
+      Tape Gateway
+   AWS Snow Family
+   AWS Backup
+   CloudEndure Disaster Recovery
+   Amazon FSx
+      SMB
+      Lustre
+
+
+
+## Databases
+### Data Warehouses
+### Key Value Store
+### Document Database
+### NoSQL Database Services
+### Relational Database Services
+### Other Database Services
+
+## Networking
+### Cloud-Native Networking Services
+### Enterprise/Hybrid Networking Services
+### VPC & Subnets
+### Security Groups vs NACLs
+### AWS CloudFront
+
+## EC2
+### EC2 Instance Families
+### EC2 Instance Types
+### Dedicated Host vs Dedicated Instances
+### EC2 Tenancy
+### Launch an EC2, SSH & Session Manager
+### Launch an ASG (Auto Scaling Group)
+### Launch an ALB (Application Load Balancer)
+### EC2 Cleanup
