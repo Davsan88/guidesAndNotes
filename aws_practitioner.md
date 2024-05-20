@@ -313,6 +313,8 @@ The AWS Cloud Development Kit (CDK) is an open-source software development frame
 ### AWS Toolkit for VSCode
 The AWS Toolkit for Visual Studio Code (VSCode) is an extension that integrates AWS services with the VSCode IDE, providing tools to create, debug, and deploy applications on AWS.
 
+### Access Keys
+Access keys are a combination of an access key ID and a secret access key used to sign programmatic requests to AWS, providing secure access to AWS services.
 
 
 
