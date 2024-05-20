@@ -310,6 +310,8 @@ AWS CloudFormation is a service that enables you to model and set up your AWS re
 ### CDK (Cloud Development Kit)
 The AWS Cloud Development Kit (CDK) is an open-source software development framework that allows you to define cloud infrastructure using familiar programming languages.
 
+### AWS Toolkit for VSCode
+The AWS Toolkit for Visual Studio Code (VSCode) is an extension that integrates AWS services with the VSCode IDE, providing tools to create, debug, and deploy applications on AWS.
 
 
 
