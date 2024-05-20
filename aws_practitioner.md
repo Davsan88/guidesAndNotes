@@ -304,6 +304,13 @@ AWS CloudShell is a browser-based shell that provides a command-line environment
 ### Infrastructure as Code
 Infrastructure as Code (IaC) is the practice of managing and provisioning computing infrastructure through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools.
 
+### CloudFormation
+AWS CloudFormation is a service that enables you to model and set up your AWS resources using templates, automating the process of resource creation and management.
+
+
+
+
+
 
 
 ## Shared Responsibility Model
