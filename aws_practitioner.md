@@ -374,10 +374,26 @@ The architecture of the Shared Responsibility Model ensures clear delineation of
 >Understanding the Shared Responsibility Model is crucial for securing AWS environments, ensuring that both AWS and the customer fulfill their respective security obligations.
 
 
-
-
-
 ## Compute
+
+### VMs, Containers & Serverless
+
+#### VMs
+Virtual Machines (VMs) allow you to run applications in isolated environments, providing control over the operating system and installed software.
+
+#### Containers
+Containers provide a lightweight way to encapsulate and run applications with their dependencies, ensuring consistency across multiple environments.
+
+#### Serverless
+Serverless computing lets you run code without provisioning or managing servers, automatically scaling with demand and charging only for the compute time used.
+
+
+
+
+
+
+
+
 ### VMs, Containers & Serverless
    VMSs
       Amazon LightSail
