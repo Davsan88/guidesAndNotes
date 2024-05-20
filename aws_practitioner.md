@@ -414,6 +414,12 @@ AWS offers solutions like Outposts, Wavelength, and Local Zones to extend AWS se
 - **VMWare Cloud on AWS**: Allows you to run a VMware software-defined data center (SDDC) on AWS infrastructure, enabling seamless migration and hybrid cloud strategies.
 - **AWS Local Zones**: Places AWS compute, storage, database, and other select services closer to large population, industry, and IT centers for applications that require single-digit millisecond latency.
 
+### Cost & Capacity Management
+
+#### EC2 Spot Instances, Reserved Instances, and Savings Plan
+- **EC2 Spot Instances**: Allow you to use spare AWS compute capacity at reduced rates, ideal for flexible and fault-tolerant applications.
+- **Reserved Instances**: Offer significant discounts compared to on-demand pricing in exchange for a commitment to use AWS compute capacity for a one- or three-year term.
+- **Savings Plans**: Provide flexible pricing with lower rates for a commitment to consistent usage (measured in $/hour) for a one- or three-year term.
 
 
 
