@@ -364,8 +364,14 @@ In Platform as a Service (PaaS) and Software as a Service (SaaS) models, the bal
 - **PaaS**: AWS manages the infrastructure, operating systems, and platform services, while customers manage the applications they deploy and their data.
 - **SaaS**: AWS handles most of the responsibilities, including infrastructure, platform services, and application management, while customers focus on data protection and user access management.
 
+### Shared Responsibility Model Architecture
+The architecture of the Shared Responsibility Model ensures clear delineation of responsibilities:
 
+- **Infrastructure as a Service (IaaS)**: Customers manage the most aspects, including the OS, applications, and data.
+- **Platform as a Service (PaaS)**: AWS manages the infrastructure and platform, with customers focusing on applications and data.
+- **Software as a Service (SaaS)**: AWS handles almost everything, with customers managing user access and data.
 
+Understanding the Shared Responsibility Model is crucial for securing AWS environments, ensuring that both AWS and the customer fulfill their respective security obligations.
 
 
 
