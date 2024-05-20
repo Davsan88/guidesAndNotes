@@ -381,6 +381,9 @@ The architecture of the Shared Responsibility Model ensures clear delineation of
 #### VMs
 Virtual Machines (VMs) allow you to run applications in isolated environments, providing control over the operating system and installed software.
 
+- **Amazon LightSail**: Provides easy-to-use cloud resources like virtual private servers, storage, and networking for simple web applications and websites.
+
+
 #### Containers
 Containers provide a lightweight way to encapsulate and run applications with their dependencies, ensuring consistency across multiple environments.
 
