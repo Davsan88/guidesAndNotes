@@ -395,6 +395,9 @@ Containers provide a lightweight way to encapsulate and run applications with th
 #### Serverless
 Serverless computing lets you run code without provisioning or managing servers, automatically scaling with demand and charging only for the compute time used.
 
+- **AWS Lambda**: Lets you run code without provisioning or managing servers, charging you only for the compute time you consume.
+
+
 
 
 
