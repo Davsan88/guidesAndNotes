@@ -307,6 +307,8 @@ Infrastructure as Code (IaC) is the practice of managing and provisioning comput
 ### CloudFormation
 AWS CloudFormation is a service that enables you to model and set up your AWS resources using templates, automating the process of resource creation and management.
 
+### CDK (Cloud Development Kit)
+The AWS Cloud Development Kit (CDK) is an open-source software development framework that allows you to define cloud infrastructure using familiar programming languages.
 
 
 
