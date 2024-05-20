@@ -280,6 +280,14 @@ The AWS API allows developers to interact with AWS services programmatically, en
 ### AWS Mgmt Console
 The AWS Management Console is a web-based user interface that allows users to manage and configure their AWS services and resources easily.
 
+### Service Console
+Service consoles are specific sections within the AWS Management Console dedicated to individual AWS services, providing targeted interfaces for managing those services.
+
+
+
+
+
+
 
 
 ## Shared Responsibility Model
