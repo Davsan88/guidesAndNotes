@@ -352,6 +352,17 @@ In compute services, AWS manages the underlying physical infrastructure, includi
   - Network infrastructure.
   - Hypervisor security.
 
+- **Customer Responsibilities**:
+  - Instance operating system (OS) patches and updates.
+  - Application software and utilities.
+  - Data encryption and security.
+
+
+
+
+
+
+
 
 
 ## Compute
