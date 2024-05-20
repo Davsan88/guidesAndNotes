@@ -301,6 +301,8 @@ The AWS Software Development Kit (SDK) provides language-specific APIs that simp
 ### AWS CloudShell
 AWS CloudShell is a browser-based shell that provides a command-line environment pre-configured with AWS CLI and other essential tools, making it easy to manage AWS resources without local setup.
 
+### Infrastructure as Code
+Infrastructure as Code (IaC) is the practice of managing and provisioning computing infrastructure through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools.
 
 
 
