@@ -358,6 +358,12 @@ In compute services, AWS manages the underlying physical infrastructure, includi
   - Data encryption and security.
 
 
+### Shared Responsibility Model Alternate
+In Platform as a Service (PaaS) and Software as a Service (SaaS) models, the balance of responsibilities shifts more towards AWS:
+
+- **PaaS**: AWS manages the infrastructure, operating systems, and platform services, while customers manage the applications they deploy and their data.
+- **SaaS**: AWS handles most of the responsibilities, including infrastructure, platform services, and application management, while customers focus on data protection and user access management.
+
 
 
 
