@@ -321,13 +321,20 @@ AWS Documentation is the comprehensive and official resource for learning about 
 
 
 ## Shared Responsibility Model
+
 ### AWS Shared Responsibility Model
-   Customers are responsible for Security **in** the Cloud
-   AWS is responsible for Security **of** the Cloud
-### Types of Cloud Responsibilities
-### Shared Responsibility for Compute
-### Shared Responsibility Model Alternate
-### Shared Responsibility Model Architecture
+The AWS Shared Responsibility Model defines the division of security responsibilities between AWS and the customer.
+
+- **Customers are responsible for Security in the Cloud**: This includes securing data, managing user access, configuring security settings, and ensuring application security.
+- **AWS is responsible for Security of the Cloud**: AWS manages and secures the infrastructure that runs all of the services offered in the AWS Cloud, including hardware, software, networking, and facilities.
+
+
+
+
+
+
+
+
 
 ## Compute
 ### VMs, Containers & Serverless
