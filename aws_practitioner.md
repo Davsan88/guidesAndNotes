@@ -283,7 +283,8 @@ The AWS Management Console is a web-based user interface that allows users to ma
 ### Service Console
 Service consoles are specific sections within the AWS Management Console dedicated to individual AWS services, providing targeted interfaces for managing those services.
 
-
+### AWS Account ID
+An AWS Account ID is a unique identifier assigned to each AWS account, used to distinguish resources and users within the AWS environment.
 
 
 
