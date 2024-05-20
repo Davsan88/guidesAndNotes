@@ -295,6 +295,8 @@ Amazon Resource Names (ARNs) uniquely identify AWS resources, allowing users to 
 ### AWS CLI
 The AWS Command Line Interface (CLI) is a unified tool to manage AWS services, enabling users to control multiple AWS services from the command line and automate tasks through scripts.
 
+### AWS SDK
+The AWS Software Development Kit (SDK) provides language-specific APIs that simplify the process of integrating AWS services into your applications, supporting languages like Python, Java, JavaScript, and more.
 
 
 
