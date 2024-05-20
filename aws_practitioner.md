@@ -400,6 +400,9 @@ Serverless computing lets you run code without provisioning or managing servers,
 ### High Performance Compute (HPC)
 HPC on AWS provides the infrastructure and tools needed to run large-scale compute and data-intensive workloads efficiently.
 
+#### Bottlerocket
+- **Bottlerocket**: An open-source, Linux-based operating system designed specifically for running containers, ensuring security and efficiency.
+
 
 
 
