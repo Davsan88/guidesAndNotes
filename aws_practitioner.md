@@ -424,6 +424,8 @@ AWS offers solutions like Outposts, Wavelength, and Local Zones to extend AWS se
 #### AWS Batch
 AWS Batch enables you to run batch computing workloads on the AWS Cloud, efficiently provisioning resources based on the volume and specific resource requirements of the jobs submitted.
 
+#### AWS Compute Optimizer
+AWS Compute Optimizer analyzes your AWS resources and usage patterns to recommend optimal configurations to reduce cost and improve performance.
 
 
 
