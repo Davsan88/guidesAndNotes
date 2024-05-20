@@ -403,6 +403,8 @@ HPC on AWS provides the infrastructure and tools needed to run large-scale compu
 #### Bottlerocket
 - **Bottlerocket**: An open-source, Linux-based operating system designed specifically for running containers, ensuring security and efficiency.
 
+#### AWS ParallelCluster
+- **AWS ParallelCluster**: An AWS-supported open-source cluster management tool that makes it easy to deploy and manage HPC clusters on AWS.
 
 
 
