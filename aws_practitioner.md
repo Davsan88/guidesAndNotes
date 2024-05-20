@@ -289,6 +289,9 @@ An AWS Account ID is a unique identifier assigned to each AWS account, used to d
 ### AWS Tools for PowerShell
 AWS Tools for PowerShell enable developers and administrators to manage AWS services from the PowerShell command line, facilitating automation and scripting.
 
+### Amazon Resource Names (ARNs)
+Amazon Resource Names (ARNs) uniquely identify AWS resources, allowing users to specify resources across all AWS services in a standardized format.
+
 
 
 
