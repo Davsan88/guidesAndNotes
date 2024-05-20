@@ -316,7 +316,8 @@ The AWS Toolkit for Visual Studio Code (VSCode) is an extension that integrates 
 ### Access Keys
 Access keys are a combination of an access key ID and a secret access key used to sign programmatic requests to AWS, providing secure access to AWS services.
 
-
+### AWS Documentation
+AWS Documentation is the comprehensive and official resource for learning about AWS services, including guides, tutorials, API references, and best practices to help users effectively utilize AWS services.
 
 
 ## Shared Responsibility Model
