@@ -298,6 +298,8 @@ The AWS Command Line Interface (CLI) is a unified tool to manage AWS services, e
 ### AWS SDK
 The AWS Software Development Kit (SDK) provides language-specific APIs that simplify the process of integrating AWS services into your applications, supporting languages like Python, Java, JavaScript, and more.
 
+### AWS CloudShell
+AWS CloudShell is a browser-based shell that provides a command-line environment pre-configured with AWS CLI and other essential tools, making it easy to manage AWS resources without local setup.
 
 
 
