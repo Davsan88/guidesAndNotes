@@ -371,7 +371,7 @@ The architecture of the Shared Responsibility Model ensures clear delineation of
 - **Platform as a Service (PaaS)**: AWS manages the infrastructure and platform, with customers focusing on applications and data.
 - **Software as a Service (SaaS)**: AWS handles almost everything, with customers managing user access and data.
 
-Understanding the Shared Responsibility Model is crucial for securing AWS environments, ensuring that both AWS and the customer fulfill their respective security obligations.
+>Understanding the Shared Responsibility Model is crucial for securing AWS environments, ensuring that both AWS and the customer fulfill their respective security obligations.
 
 
 
