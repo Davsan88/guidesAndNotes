@@ -427,6 +427,8 @@ AWS Batch enables you to run batch computing workloads on the AWS Cloud, efficie
 #### AWS Compute Optimizer
 AWS Compute Optimizer analyzes your AWS resources and usage patterns to recommend optimal configurations to reduce cost and improve performance.
 
+#### EC2 Auto Scaling Group (ASGs)
+Auto Scaling Groups (ASGs) ensure you have the right number of EC2 instances available to handle the load for your applications, automatically scaling up or down based on demand.
 
 
 ### VMs, Containers & Serverless
