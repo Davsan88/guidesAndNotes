@@ -509,8 +509,10 @@ Key-value stores are non-relational databases that store data as key-value pairs
 Document databases store data in JSON-like document formats, allowing for flexible and semi-structured data models. Amazon DocumentDB (with MongoDB compatibility) is a fast, scalable, highly available, and fully managed document database service that supports MongoDB workloads.
 
 ### NoSQL Database Services
-NoSQL databases provide a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. Amazon DynamoDB and Amazon DocumentDB are examples of AWS's NoSQL offerings, providing flexible schemas and scalable performance.
+NoSQL databases provide a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. 
 
+### Relational Database Services
+Relational databases store data in tables and use SQL for database access. Amazon RDS (Relational Database Service) simplifies the setup, operation, and scaling of a relational database in the cloud, supporting multiple database engines like Amazon Aurora, PostgreSQL, MySQL, MariaDB, Oracle, and Microsoft SQL Server.
 
 
 
