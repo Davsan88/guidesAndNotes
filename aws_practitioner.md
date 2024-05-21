@@ -476,6 +476,7 @@ The AWS Snow Family includes physical devices to help physically transport up to
 
 - **S3 Glacier** - low-cost storage for data archiving, with flexible retrieval times ranging from minutes to hours.
 
+- **Elastic Block Store (EBS)** - high-performance block storage for use with EC2 instances, suitable for a wide range of workloads.
 
 
 
