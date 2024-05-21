@@ -523,6 +523,15 @@ Relational databases store data in tables and use SQL for database access. A
 - **Aurora Serverless**: An on-demand, auto-scaling configuration for Aurora where the database automatically starts up, shuts down, and scales capacity based on your application's needs.
 - **RDS on VMware**: Allows you to deploy managed databases in on-premises VMware environments using Amazon RDS technology.
 
+### Other Database Services
+- **Redshift**: A fast, scalable data warehouse that makes it simple and cost-effective to analyze all your data across your data warehouse and data lake.
+- **ElastiCache**: A fully managed in-memory data store and cache service that supports Redis and Memcached.
+- **Neptune**: A fast, reliable, fully managed graph database service that makes it easy to build and run applications that work with highly connected datasets.
+- **Amazon Timestream**: A fast, scalable, and fully managed time series database service for IoT and operational applications that makes it easy to store and analyze trillions of events per day.
+- **Amazon Quantum Ledger Database (QLDB)**: A fully managed ledger database that provides a transparent, immutable, and cryptographically verifiable transaction log.
+- **Database Migration Service (DMS)**: Helps you migrate databases to AWS easily and securely, supporting homogeneous migrations (e.g., Oracle to Oracle) and heterogeneous migrations (e.g., Oracle to Amazon Aurora).
+
+>Understanding these database services and their specific use cases helps you select the right database solution for your application, ensuring optimal performance, scalability, and cost-efficiency.
 
 
 
