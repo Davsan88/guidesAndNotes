@@ -505,6 +505,14 @@ A data warehouse is a central repository for structured and unstructured data th
 ### Key-Value Store
 Key-value stores are non-relational databases that store data as key-value pairs, enabling fast retrieval of data. Amazon DynamoDB is a fully managed key-value and document database that delivers single-digit millisecond performance at any scale.
 
+### Document Database
+Document databases store data in JSON-like document formats, allowing for flexible and semi-structured data models. Amazon DocumentDB (with MongoDB compatibility) is a fast, scalable, highly available, and fully managed document database service that supports MongoDB workloads.
+
+### NoSQL Database Services
+NoSQL databases provide a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. Amazon DynamoDB and Amazon DocumentDB are examples of AWS's NoSQL offerings, providing flexible schemas and scalable performance.
+
+
+
 
 
 
