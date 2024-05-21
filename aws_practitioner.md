@@ -478,6 +478,8 @@ The AWS Snow Family includes physical devices to help physically transport up to
 
 - **Elastic Block Store (EBS)** - high-performance block storage for use with EC2 instances, suitable for a wide range of workloads.
 
+- **AWS Elastic File System (EFS)** - scalable file storage for use with AWS Cloud services and on-premises resources, supporting file-based workloads.
+
 
 
 
