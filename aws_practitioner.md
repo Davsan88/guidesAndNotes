@@ -441,32 +441,16 @@ AWS Elastic Beanstalk (EB) is an easy-to-use service for deploying and scaling w
 
 
 
-### VMs, Containers & Serverless
-   VMSs
-      Amazon LightSail
-   Containers
-      Elastic Container Service (ECS)
-      Elastic Container Registry (ECR)
-      ECS Fargate
-      Elastic Kubernetes Service (EKS)
-   Serverless
-      AWS Lambda  
-### High Performace Compute (HPC)
-#### Bottlerocket
-#### AWS ParallelCluster
-### Edge & Hybrid
-   AWS Outposts
-   AWS Wavelength
-   VMWare Cloud on AWS
-   AWS Local Zones
-### Cost & Capacity Mgmt
 
 ## Storage Services
+
 ### Types of STorate Services
-    Elastic Block Store (EBS) - Block
-    AWS Elastic File System (EFS) - File
-    Amazon Simple Storage Service (S3) - Object
-### Intro to S3
+   - **Block**: Elastic Block Store (EBS) provides persistent block storage volumes for use with Amazon EC2 instances, offering high performance for both throughput and transaction-intensive workloads.
+
+   - **File**: AWS Elastic File System (EFS) provides scalable file storage for use with AWS Cloud services and on-premises resources, allowing you to create and configure file systems quickly and easily.
+
+   - **Object**: Amazon Simple Storage Service (S3) is an object storage service that offers industry-leading scalability, data availability, security, and performance, making it easy to store and retrieve any amount of data from anywhere.
+
 ### S3 Storage Classes
 ### AWS Snow Family
 ### Storage Services
@@ -492,12 +476,40 @@ AWS Elastic Beanstalk (EB) is an easy-to-use service for deploying and scaling w
 ### Key Value Store
 ### Document Database
 ### NoSQL Database Services
+   DynamoDB
+   DocumentDB
+   Amazon Keyspaces
 ### Relational Database Services
+   Relational Database Service (RDS)
+   Aurora
+   Aurora Serverless
+   RDS on VMware
 ### Other Database Services
+   Redsfhit
+   ElastiCache
+   Neptune
+   Amazon Timestreams
+   Amazon Quantum Ledger Database
+   Database Migration Service (DMS)
+
+
+
+
 
 ## Networking
 ### Cloud-Native Networking Services
+   VPC
+   Internet Gateway
+   Route Tables
+   NACL
+   Region
+   AZ
+   Subnet
+   Security Group
 ### Enterprise/Hybrid Networking Services
+   AWS Virtual Private Network (VPN)
+   DirectConnect
+   PrivateLinks
 ### VPC & Subnets
 ### Security Groups vs NACLs
 ### AWS CloudFront
@@ -507,7 +519,19 @@ AWS Elastic Beanstalk (EB) is an easy-to-use service for deploying and scaling w
 ### EC2 Instance Types
 ### Dedicated Host vs Dedicated Instances
 ### EC2 Tenancy
-### Launch an EC2, SSH & Session Manager
-### Launch an ASG (Auto Scaling Group)
-### Launch an ALB (Application Load Balancer)
-### EC2 Cleanup
+
+
+
+##  EC2 Pricing Models
+### On-Demand
+### Reserved (Reserved Instances)
+### RI (Reserved Instances) Attributes
+### Regional & Zonal RI
+### RI Limits
+### Capacity Reservations
+### Standard vs Convertible RI
+### RI Marketplace
+### Spot
+### AWS Batch
+### Dedicated
+### Savings Plan			
