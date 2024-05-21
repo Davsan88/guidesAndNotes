@@ -568,30 +568,8 @@ AWS CloudFront is a fast content delivery network (CDN) service that securely de
 >Understanding these networking services helps you design, deploy, and manage your applications in the AWS cloud effectively, ensuring security, performance, and scalability.
 
 
-
-## Networking
-### Cloud-Native Networking Services
-   VPC
-   Internet Gateway
-   Route Tables
-   NACL
-   Region
-   AZ
-   Subnet
-   Security Group
-### Enterprise/Hybrid Networking Services
-   AWS Virtual Private Network (VPN)
-   DirectConnect
-   PrivateLinks
-### VPC & Subnets
-### Security Groups vs NACLs
-### AWS CloudFront
-
 ## EC2
-### EC2 Instance Families
-### EC2 Instance Types
-### Dedicated Host vs Dedicated Instances
-### EC2 Tenancy
+Amazon Elastic Compute Cloud (EC2) provides scalable computing capacity in the AWS cloud, allowing you to launch virtual servers as needed. Understanding EC2 is crucial for managing your compute resources effectively.
 
 
 
