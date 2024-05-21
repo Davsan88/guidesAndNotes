@@ -489,6 +489,11 @@ The AWS Snow Family includes physical devices to help physically transport up to
 
 - **CloudEndure Disaster Recovery** - minimizes downtime and data loss by enabling fast and reliable recovery of physical, virtual, and cloud-based servers into AWS.
 
+- **Amazon FSx**
+   + *FSx for Windows File Server (SMB)*: Provides fully managed, highly reliable, and scalable file storage accessible over the industry-standard Server Message Block (SMB) protocol.
+   + *FSx for Lustre*: Offers high-performance file systems optimized for fast processing of workloads such as machine learning, high-performance computing (HPC), and media data processing workflows.
+
+>Understanding these storage services and their use cases enables you to choose the right storage solution for your needs, ensuring optimal performance, cost-efficiency, and scalability.
 
 
 
