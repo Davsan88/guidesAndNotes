@@ -571,6 +571,14 @@ AWS CloudFront is a fast content delivery network (CDN) service that securely de
 ## EC2
 Amazon Elastic Compute Cloud (EC2) provides scalable computing capacity in the AWS cloud, allowing you to launch virtual servers as needed. Understanding EC2 is crucial for managing your compute resources effectively.
 
+### EC2 Instance Families
+EC2 instance families are grouped by their capabilities, optimized for different use cases:
+
+- **General Purpose**: Balanced compute, memory, and networking resources (e.g., t3, m5).
+- **Compute Optimized**: High compute-to-memory ratio (e.g., c5).
+- **Memory Optimized**: High memory-to-compute ratio (e.g., r5, x1).
+- **Storage Optimized**: High, sequential read and write access to large data sets (e.g., i3).
+- **Accelerated Computing**: Use hardware accelerators, or co-processors, to perform functions such as floating-point number calculations, graphics processing, or data pattern matching (e.g., p3, g4).
 
 
 ##  EC2 Pricing Models
