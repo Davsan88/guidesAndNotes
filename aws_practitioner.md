@@ -499,6 +499,8 @@ The AWS Snow Family includes physical devices to help physically transport up to
 ## Databases
 Databases are organized collections of structured or unstructured data that can be easily accessed, managed, and updated, serving as the backbone for storing and retrieving information in various applications and services.
 
+### Data Warehouses
+A data warehouse is a central repository for structured and unstructured data that is used for reporting and data analysis. Amazon Redshift is AWS's fast, scalable data warehouse that makes it simple and cost-effective to analyze all your data across your data warehouse and data lake.
 
 
 
