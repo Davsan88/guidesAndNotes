@@ -471,6 +471,10 @@ The AWS Snow Family includes physical devices to help physically transport up to
 - **AWS Snowball Edge**: Data transfer device with on-board storage and compute capabilities.
 - **AWS Snowmobile**: Exabyte-scale data transfer service using a 45-foot shipping container.
 
+### Storage Services
+
+#### Simple Storage Service (S3)
+Amazon S3 provides scalable object storage with high durability, availability, and security.
 
 
 
