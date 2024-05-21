@@ -474,6 +474,8 @@ The AWS Snow Family includes physical devices to help physically transport up to
 ### Storage Services
 - **Simple Storage Service (S3)** - scalable object storage with high durability, availability, and security.
 
+- **S3 Glacier** - low-cost storage for data archiving, with flexible retrieval times ranging from minutes to hours.
+
 
 
 
