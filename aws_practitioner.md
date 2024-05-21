@@ -515,9 +515,13 @@ NoSQL databases provide a mechanism for storage and retrieval of data that is mo
 - **DocumentDB**: A fast, scalable, highly available, and fully managed document database service that supports MongoDB workloads.
 - **Amazon Keyspaces**: A scalable, highly available, and managed Apache Cassandra-compatible database service.
 
-
 ### Relational Database Services
-Relational databases store data in tables and use SQL for database access. Amazon RDS (Relational Database Service) simplifies the setup, operation, and scaling of a relational database in the cloud, supporting multiple database engines like Amazon Aurora, PostgreSQL, MySQL, MariaDB, Oracle, and Microsoft SQL Server.
+Relational databases store data in tables and use SQL for database access. A
+
+- **Relational Database Service (RDS)**: Simplifies the setup, operation, and scaling of a relational database in the cloud, supporting engines like PostgreSQL, MySQL, MariaDB, Oracle, and Microsoft SQL Server.
+- **Aurora**: A MySQL and PostgreSQL-compatible relational database built for the cloud, offering high performance and availability.
+- **Aurora Serverless**: An on-demand, auto-scaling configuration for Aurora where the database automatically starts up, shuts down, and scales capacity based on your application's needs.
+- **RDS on VMware**: Allows you to deploy managed databases in on-premises VMware environments using Amazon RDS technology.
 
 
 
