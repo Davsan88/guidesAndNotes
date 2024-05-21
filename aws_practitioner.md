@@ -455,6 +455,14 @@ AWS Elastic Beanstalk (EB) is an easy-to-use service for deploying and scaling w
 Amazon S3 stores data as objects within buckets. An object consists of a file and optionally any metadata that describes that file. Buckets are containers for objects, and each object is identified by a unique key.
 
 ### S3 Storage Classes
+Amazon S3 offers a range of storage classes designed for different use cases:
+
+- **S3 Standard**: General-purpose storage for frequently accessed data.
+- **S3 Intelligent-Tiering**: Automatically moves data between two access tiers when access patterns change.
+- **S3 Standard-IA (Infrequent Access)**: For data that is accessed less frequently but requires rapid access when needed.
+- **S3 One Zone-IA**: Lower-cost option for infrequently accessed data that does not require multiple Availability Zone resilience.
+- **S3 Glacier**: Low-cost storage designed for data archiving, offering retrieval times from minutes to hours.
+- **S3 Glacier Deep Archive**: Lowest-cost storage class for long-term data archiving with retrieval times of 12 hours or more.
 
 
 ### AWS Snow Family
