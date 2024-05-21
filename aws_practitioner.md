@@ -537,7 +537,24 @@ Relational databases store data in tables and use SQL for database access. A
 ## Networking
 AWS provides a range of networking services to connect, secure, and manage your cloud infrastructure. These services help you build and scale your applications with high availability and security.
 
+### Cloud-Native Networking Services
+Cloud-native networking services are designed to work seamlessly within the AWS environment, providing secure, scalable, and high-performance networking capabilities.
 
+- **VPC (Virtual Private Cloud)**: Enables you to launch AWS resources in a logically isolated virtual network that you define.
+- **Internet Gateway**: A horizontally scaled, redundant, and highly available VPC component that allows communication between instances in your VPC and the internet.
+- **Route Tables**: Contains a set of rules, called routes, that are used to determine where network traffic is directed.
+- **NACL (Network Access Control List)**: Provides a stateless firewall for controlling traffic in and out of one or more subnets.
+- **Region**: A physical location around the world where AWS clusters data centers.
+- **AZ (Availability Zone)**: One or more discrete data centers with redundant power, networking, and connectivity in an AWS Region.
+- **Subnet**: A range of IP addresses in your VPC where you can place AWS resources.
+- **Security Group**: Acts as a virtual firewall for your instance to control inbound and outbound traffic.
+
+### Enterprise/Hybrid Networking Services
+Enterprise and hybrid networking services enable secure and reliable connectivity between your on-premises data centers and the AWS cloud, supporting hybrid cloud architectures.
+
+- **AWS Virtual Private Network (VPN)**: Establishes a secure connection between your on-premises network and your AWS VPC.
+- **DirectConnect**: Provides a dedicated network connection from your premises to AWS, improving performance and security.
+- **PrivateLinks**: Enables you to access services hosted on AWS in a highly available and scalable manner, keeping your network traffic within the AWS network.
 
 
 ## Networking
