@@ -594,7 +594,7 @@ EC2 tenancy defines how instances are run on hardware:
 - **Dedicated Tenancy**: Instances run on hardware dedicated to a single customer, providing physical isolation.
 - **Host Tenancy**: Similar to dedicated tenancy, but provides visibility into the underlying hardware for compliance and licensing purposes.
 
-Understanding these EC2 concepts helps you optimize your compute resources for performance, cost, and compliance requirements.
+>Understanding these EC2 concepts helps you optimize your compute resources for performance, cost, and compliance requirements.
 
 
 
