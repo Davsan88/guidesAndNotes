@@ -511,6 +511,11 @@ Document databases store data in JSON-like document formats, allowing for flexib
 ### NoSQL Database Services
 NoSQL databases provide a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases. 
 
+- **DynamoDB**: A fully managed key-value and document database that delivers single-digit millisecond performance at any scale.
+- **DocumentDB**: A fast, scalable, highly available, and fully managed document database service that supports MongoDB workloads.
+- **Amazon Keyspaces**: A scalable, highly available, and managed Apache Cassandra-compatible database service.
+
+
 ### Relational Database Services
 Relational databases store data in tables and use SQL for database access. Amazon RDS (Relational Database Service) simplifies the setup, operation, and scaling of a relational database in the cloud, supporting multiple database engines like Amazon Aurora, PostgreSQL, MySQL, MariaDB, Oracle, and Microsoft SQL Server.
 
