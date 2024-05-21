@@ -480,6 +480,11 @@ The AWS Snow Family includes physical devices to help physically transport up to
 
 - **AWS Elastic File System (EFS)** - scalable file storage for use with AWS Cloud services and on-premises resources, supporting file-based workloads.
 
+- **Storage Gateway** - connects on-premises software appliances with cloud-based storage, providing seamless integration between on-premises IT environments and the AWS storage infrastructure.
+   + *File Gateway*: Offers file-based access to objects in S3 with local caching.
+   + *Volume Gateway*: Provides block storage volumes that can be mounted as iSCSI devices from on-premises servers.
+   + *Tape Gateway*: Enables customers to use S3 and Glacier as a scalable, cost-effective, and durable virtual tape infrastructure.
+
 
 
 
