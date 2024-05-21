@@ -472,9 +472,8 @@ The AWS Snow Family includes physical devices to help physically transport up to
 - **AWS Snowmobile**: Exabyte-scale data transfer service using a 45-foot shipping container.
 
 ### Storage Services
+- **Simple Storage Service (S3)** - scalable object storage with high durability, availability, and security.
 
-#### Simple Storage Service (S3)
-Amazon S3 provides scalable object storage with high durability, availability, and security.
 
 
 
