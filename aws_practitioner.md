@@ -562,6 +562,10 @@ Amazon VPC allows you to provision a logically isolated section of the AWS cloud
 ### Security Groups vs NACLs
 Security Groups and Network Access Control Lists (NACLs) both provide network security controls, but they function differently. Security Groups are stateful, managing the traffic for instances, while NACLs are stateless, managing the traffic for subnets.
 
+### AWS CloudFront
+AWS CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally with low latency and high transfer speeds. It integrates with other AWS services to provide a robust solution for content delivery.
+
+Understanding these networking services helps you design, deploy, and manage your applications in the AWS cloud effectively, ensuring security, performance, and scalability.
 
 
 
