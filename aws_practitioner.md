@@ -485,6 +485,9 @@ The AWS Snow Family includes physical devices to help physically transport up to
    + *Volume Gateway*: Provides block storage volumes that can be mounted as iSCSI devices from on-premises servers.
    + *Tape Gateway*: Enables customers to use S3 and Glacier as a scalable, cost-effective, and durable virtual tape infrastructure.
 
+- **AWS Backup** - automates and centrally manages backups across AWS services, ensuring data protection and compliance.
+
+- **CloudEndure Disaster Recovery** - minimizes downtime and data loss by enabling fast and reliable recovery of physical, virtual, and cloud-based servers into AWS.
 
 
 
