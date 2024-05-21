@@ -502,6 +502,8 @@ Databases are organized collections of structured or unstructured data that can 
 ### Data Warehouses
 A data warehouse is a central repository for structured and unstructured data that is used for reporting and data analysis. Amazon Redshift is AWS's fast, scalable data warehouse that makes it simple and cost-effective to analyze all your data across your data warehouse and data lake.
 
+### Key-Value Store
+Key-value stores are non-relational databases that store data as key-value pairs, enabling fast retrieval of data. Amazon DynamoDB is a fully managed key-value and document database that delivers single-digit millisecond performance at any scale.
 
 
 
