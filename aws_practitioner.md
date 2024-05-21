@@ -534,29 +534,8 @@ Relational databases store data in tables and use SQL for database access. A
 >Understanding these database services and their specific use cases helps you select the right database solution for your application, ensuring optimal performance, scalability, and cost-efficiency.
 
 
-
-
-## Databases
-### Data Warehouses
-### Key Value Store
-### Document Database
-### NoSQL Database Services
-   DynamoDB
-   DocumentDB
-   Amazon Keyspaces
-### Relational Database Services
-   Relational Database Service (RDS)
-   Aurora
-   Aurora Serverless
-   RDS on VMware
-### Other Database Services
-   Redsfhit
-   ElastiCache
-   Neptune
-   Amazon Timestreams
-   Amazon Quantum Ledger Database
-   Database Migration Service (DMS)
-
+## Networking
+AWS provides a range of networking services to connect, secure, and manage your cloud infrastructure. These services help you build and scale your applications with high availability and security.
 
 
 
