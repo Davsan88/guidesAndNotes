@@ -559,6 +559,8 @@ Enterprise and hybrid networking services enable secure and reliable connectivit
 ### VPC & Subnets
 Amazon VPC allows you to provision a logically isolated section of the AWS cloud where you can launch AWS resources in a virtual network. Subnets divide the VPC into smaller network segments, improving management and security.
 
+### Security Groups vs NACLs
+Security Groups and Network Access Control Lists (NACLs) both provide network security controls, but they function differently. Security Groups are stateful, managing the traffic for instances, while NACLs are stateless, managing the traffic for subnets.
 
 
 
