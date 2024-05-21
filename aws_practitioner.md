@@ -587,6 +587,14 @@ EC2 instance types within each family offer different combinations of CPU, memor
 - **Dedicated Host**: Physical server fully dedicated to your use, providing visibility and control over the underlying hardware, useful for licensing and compliance requirements.
 - **Dedicated Instances**: EC2 instances that run on hardware dedicated to a single customer, offering similar isolation but without the visibility into the underlying hardware.
 
+### EC2 Tenancy
+EC2 tenancy defines how instances are run on hardware:
+
+- **Shared Tenancy**: Instances run on shared hardware; default option with no additional cost.
+- **Dedicated Tenancy**: Instances run on hardware dedicated to a single customer, providing physical isolation.
+- **Host Tenancy**: Similar to dedicated tenancy, but provides visibility into the underlying hardware for compliance and licensing purposes.
+
+Understanding these EC2 concepts helps you optimize your compute resources for performance, cost, and compliance requirements.
 
 
 
