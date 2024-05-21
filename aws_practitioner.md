@@ -583,7 +583,9 @@ EC2 instance families are grouped by their capabilities, optimized for different
 ### EC2 Instance Types
 EC2 instance types within each family offer different combinations of CPU, memory, storage, and networking capacity, allowing you to choose the optimal configuration for your application needs.
 
-
+### Dedicated Host vs Dedicated Instances
+- **Dedicated Host**: Physical server fully dedicated to your use, providing visibility and control over the underlying hardware, useful for licensing and compliance requirements.
+- **Dedicated Instances**: EC2 instances that run on hardware dedicated to a single customer, offering similar isolation but without the visibility into the underlying hardware.
 
 
 
