@@ -451,8 +451,11 @@ AWS Elastic Beanstalk (EB) is an easy-to-use service for deploying and scaling w
 
    - **Object**: Amazon Simple Storage Service (S3) is an object storage service that offers industry-leading scalability, data availability, security, and performance, making it easy to store and retrieve any amount of data from anywhere.
 
-### S3 Storage Classes
+### Intro to S3
 Amazon S3 stores data as objects within buckets. An object consists of a file and optionally any metadata that describes that file. Buckets are containers for objects, and each object is identified by a unique key.
+
+### S3 Storage Classes
+
 
 ### AWS Snow Family
 ### Storage Services
