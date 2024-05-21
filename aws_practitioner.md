@@ -580,6 +580,15 @@ EC2 instance families are grouped by their capabilities, optimized for different
 - **Storage Optimized**: High, sequential read and write access to large data sets (e.g., i3).
 - **Accelerated Computing**: Use hardware accelerators, or co-processors, to perform functions such as floating-point number calculations, graphics processing, or data pattern matching (e.g., p3, g4).
 
+### EC2 Instance Types
+EC2 instance types within each family offer different combinations of CPU, memory, storage, and networking capacity, allowing you to choose the optimal configuration for your application needs.
+
+
+
+
+
+
+
 
 ##  EC2 Pricing Models
 ### On-Demand
