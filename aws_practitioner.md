@@ -464,6 +464,17 @@ Amazon S3 offers a range of storage classes designed for different use cases:
 - **S3 Glacier**: Low-cost storage designed for data archiving, offering retrieval times from minutes to hours.
 - **S3 Glacier Deep Archive**: Lowest-cost storage class for long-term data archiving with retrieval times of 12 hours or more.
 
+### AWS Snow Family
+The AWS Snow Family includes physical devices to help physically transport up to exabytes of data into and out of AWS. These services are designed for customers who need to move large amounts of data in situations where network transfer is impractical or impossible:
+
+- **AWS Snowcone**: Small, portable edge computing and data transfer device.
+- **AWS Snowball Edge**: Data transfer device with on-board storage and compute capabilities.
+- **AWS Snowmobile**: Exabyte-scale data transfer service using a 45-foot shipping container.
+
+
+
+
+
 
 ### AWS Snow Family
 ### Storage Services
