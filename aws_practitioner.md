@@ -556,6 +556,12 @@ Enterprise and hybrid networking services enable secure and reliable connectivit
 - **DirectConnect**: Provides a dedicated network connection from your premises to AWS, improving performance and security.
 - **PrivateLinks**: Enables you to access services hosted on AWS in a highly available and scalable manner, keeping your network traffic within the AWS network.
 
+### VPC & Subnets
+Amazon VPC allows you to provision a logically isolated section of the AWS cloud where you can launch AWS resources in a virtual network. Subnets divide the VPC into smaller network segments, improving management and security.
+
+
+
+
 
 ## Networking
 ### Cloud-Native Networking Services
