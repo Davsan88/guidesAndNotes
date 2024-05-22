@@ -737,7 +737,6 @@ Amazon Simple Notification Service (SNS) is a fully managed messaging service fo
 Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale. It acts as a "front door" for applications to access data, business logic, or functionality from backend services.
 
 ### State Machines & AWS Step Functions
-
 AWS Step Functions is a serverless orchestration service that lets you combine AWS Lambda functions and other AWS services to build and run scalable applications. It uses state machines to define workflows that trigger actions in response to events.
 
 ### Event Bus & AWS EventBridge
