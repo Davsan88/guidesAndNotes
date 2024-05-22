@@ -598,7 +598,6 @@ EC2 tenancy defines how instances are run on hardware:
 
 
 ## EC2 Pricing Models
-
 AWS offers several pricing models for EC2 instances to provide flexibility and cost efficiency, catering to different use cases and budget requirements.
 
 ### On-Demand
