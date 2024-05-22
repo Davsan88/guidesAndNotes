@@ -693,7 +693,6 @@ AWS Identity and Access Management (IAM) enables you to manage access to AWS ser
 - **Roles**: IAM roles that AWS services or applications can assume to access AWS resources.
 
 ### Anatomy of an IAM Policy
-
 IAM policies define permissions and consist of the following elements:
 
 - **Version**: Specifies the policy language version.
