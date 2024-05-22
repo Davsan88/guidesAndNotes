@@ -669,7 +669,6 @@ AWS Directory Service offers multiple ways to use Microsoft Active Directory wit
 Active Directory (AD) is a directory service developed by Microsoft for Windows domain networks, which is also supported by AWS through AWS Managed Microsoft AD.
 
 ### Identity Providers
-
 Identity Providers (IdPs) are services that provide authentication and authorization to applications and services by verifying user identities.
 
 ### Single-Sign-On
