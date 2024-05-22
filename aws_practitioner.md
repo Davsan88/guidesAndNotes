@@ -740,7 +740,6 @@ Amazon API Gateway is a fully managed service that makes it easy for developers 
 AWS Step Functions is a serverless orchestration service that lets you combine AWS Lambda functions and other AWS services to build and run scalable applications. It uses state machines to define workflows that trigger actions in response to events.
 
 ### Event Bus & AWS EventBridge
-
 Amazon EventBridge is a serverless event bus service that makes it easy to connect applications using data from your own applications, integrated software-as-a-service (SaaS) applications, and AWS services.
 
 - **Event Bus**: Acts as a channel for transmitting events from producers to consumers.
