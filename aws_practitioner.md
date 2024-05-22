@@ -618,7 +618,6 @@ Reserved Instances (RIs) provide a significant discount compared to On-Demand pr
 - **Zonal RI**: Provides a capacity reservation in a specific Availability Zone.
 
 ### RI Limits
-
 Reserved Instances are subject to purchase limits based on the region and the instance type, which can be increased by contacting AWS support if necessary.
 
 ### Capacity Reservations
