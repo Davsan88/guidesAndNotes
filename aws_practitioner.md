@@ -663,7 +663,6 @@ AWS can integrate with third-party identity and access management solutions to e
 - **Azure Active Directory, Google BeyondCorp, JumpCloud**: Third-party identity providers that can be integrated with AWS Single Sign-On (SSO) to provide seamless access to AWS resources.
 
 ### Directory Services
-
 AWS Directory Service offers multiple ways to use Microsoft Active Directory with other AWS services. You can choose from AWS Managed Microsoft AD, AD Connector, or Simple AD.
 
 ### Active Directory
