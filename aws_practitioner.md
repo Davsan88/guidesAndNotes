@@ -684,7 +684,6 @@ Multi-Factor Authentication (MFA) adds an extra layer of security by requiring u
 Security keys are hardware devices used for authenticating a user by providing a physical token for login, enhancing security through MFA.
 
 ### AWS IAM
-
 AWS Identity and Access Management (IAM) enables you to manage access to AWS services and resources securely.
 
 - **Policies**: Documents that define permissions for actions on AWS resources.
