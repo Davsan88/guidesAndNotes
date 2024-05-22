@@ -672,7 +672,6 @@ Active Directory (AD) is a directory service developed by Microsoft for Windows 
 Identity Providers (IdPs) are services that provide authentication and authorization to applications and services by verifying user identities.
 
 ### Single-Sign-On
-
 Single-Sign-On (SSO) allows users to authenticate once and gain access to multiple applications and services without re-entering credentials.
 
 ### LDAP
