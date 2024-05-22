@@ -601,7 +601,6 @@ EC2 tenancy defines how instances are run on hardware:
 AWS offers several pricing models for EC2 instances to provide flexibility and cost efficiency, catering to different use cases and budget requirements.
 
 ### On-Demand
-
 On-Demand instances let you pay for compute capacity by the hour or second, with no long-term commitments. This model is ideal for applications with short-term, spiky, or unpredictable workloads that cannot be interrupted.
 
 ### Reserved (Reserved Instances)
