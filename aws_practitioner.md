@@ -640,7 +640,6 @@ AWS Batch enables you to run batch computing workloads on the AWS Cloud, dynamic
 Dedicated Instances run on hardware dedicated to a single customer, offering physical isolation. This model is suitable for workloads requiring a dedicated server for compliance or licensing purposes.
 
 ### Savings Plan
-
 Savings Plans offer significant savings over On-Demand pricing in exchange for a commitment to a consistent amount of usage (measured in $/hour) for a one- or three-year term, providing flexibility to use any EC2 instance type.
 
 Understanding these EC2 pricing models helps you choose the most cost-effective option for your workloads, ensuring efficient resource utilization and cost management.
