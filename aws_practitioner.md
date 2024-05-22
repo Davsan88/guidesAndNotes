@@ -596,20 +596,347 @@ EC2 tenancy defines how instances are run on hardware:
 
 >Understanding these EC2 concepts helps you optimize your compute resources for performance, cost, and compliance requirements.
 
+## EC2 Pricing Models
 
+AWS offers several pricing models for EC2 instances to provide flexibility and cost efficiency, catering to different use cases and budget requirements.
 
-
-
-##  EC2 Pricing Models
 ### On-Demand
+
+On-Demand instances let you pay for compute capacity by the hour or second, with no long-term commitments. This model is ideal for applications with short-term, spiky, or unpredictable workloads that cannot be interrupted.
+
 ### Reserved (Reserved Instances)
+
+Reserved Instances (RIs) provide a significant discount compared to On-Demand pricing in exchange for a one- or three-year commitment. This model is best for applications with steady-state or predictable usage.
+
 ### RI (Reserved Instances) Attributes
+
+- **Instance Type**: Specific EC2 instance type (e.g., t3.medium).
+- **Platform**: Operating system (e.g., Linux, Windows).
+- **Tenancy**: Shared or dedicated.
+- **Term**: One or three years.
+- **Payment Option**: All upfront, partial upfront, or no upfront.
+
 ### Regional & Zonal RI
+
+- **Regional RI**: Provides a discount on usage in any Availability Zone within a specified region.
+- **Zonal RI**: Provides a capacity reservation in a specific Availability Zone.
+
 ### RI Limits
+
+Reserved Instances are subject to purchase limits based on the region and the instance type, which can be increased by contacting AWS support if necessary.
+
 ### Capacity Reservations
+
+Capacity Reservations ensure you have access to EC2 capacity when you need it, in a specific Availability Zone, for any duration. You pay for the reserved capacity, regardless of whether you use it.
+
 ### Standard vs Convertible RI
+
+- **Standard RI**: Provides the highest discount but can only be modified to change Availability Zone, instance size (within the same family), and network type.
+- **Convertible RI**: Offers a lower discount but allows you to change the instance type, operating system, and tenancy during the term.
+
 ### RI Marketplace
+
+The RI Marketplace allows you to sell your unused Standard Reserved Instances to other AWS customers, providing flexibility if your computing needs change.
+
 ### Spot
+
+Spot Instances allow you to bid on unused EC2 capacity at a significantly lower price than On-Demand instances. Ideal for fault-tolerant and flexible applications that can handle interruptions.
+
 ### AWS Batch
+
+AWS Batch enables you to run batch computing workloads on the AWS Cloud, dynamically provisioning the optimal quantity and type of compute resources based on the volume and specific resource requirements of the jobs submitted.
+
 ### Dedicated
-### Savings Plan			
+
+Dedicated Instances run on hardware dedicated to a single customer, offering physical isolation. This model is suitable for workloads requiring a dedicated server for compliance or licensing purposes.
+
+### Savings Plan
+
+Savings Plans offer significant savings over On-Demand pricing in exchange for a commitment to a consistent amount of usage (measured in $/hour) for a one- or three-year term, providing flexibility to use any EC2 instance type.
+
+Understanding these EC2 pricing models helps you choose the most cost-effective option for your workloads, ensuring efficient resource utilization and cost management.
+
+
+
+		
+## Identity
+### Zero-Trust Model
+### Zero-Trust on AWS
+   AWS CloudTrail => Amazon GuardDuty => Amazon Detective
+### Zero-Trust on AWS with Third Parties
+   Azure Active Directory, Google BeyondCorp, JumpCloud => AWS Single Sign On (SSO) => Yoour AWS Resources
+### Directory Services
+### Active Directory
+### Identity Providers
+### Single-Sign-on
+### LDAP
+### Multi-Factor-Authenication
+### Security Keys
+### AWS IAM
+   Policies
+   Permission
+   Users
+   Groups
+   Roles
+### Anatomy of an IAM Policy
+   Version policy language version
+   Statement container
+   Sid
+   Effect
+   Action
+   Principal
+   Resource
+   Condition   
+### Principle-of-least-Priviledge
+   JEA
+   JIT
+### AWS Account Root User
+   Admin Tasks that only the Root User can perform:
+   - Change your account settings
+   - Closer your AWS account
+   - Change or Cancel AWS Support Plan
+### AWS SSO
+
+
+
+## Application Integration
+### Queuing & SQS 
+   Not Real-time
+### Streaming and Kinesis
+   Real-time
+### PubSub & SNS
+   Publisher => Event Bus => Subscriber
+### API Gateway & Amazon API Gateway
+### State Machines & AWS Step Functions
+### Event Bus & AWS Event Bridge
+   Event Bus
+   Producers
+   Events
+   Partner Sources
+   Rules
+   Targets
+### Application Integration Services
+   SNS
+   SQS
+   Step Functions
+   EventBridge
+   Kinesis
+   Amazon MQ
+   MKS
+   API Gateway
+   AppSync
+
+## Containers
+### VMs vs Containers
+### Microservices?
+### Kubernetes
+### Docker
+### Podman, Buildah and Skopeo
+### Container Services
+   Primary services;
+      ECS
+      AWS  Fargate
+      EKS
+      AWS Lambd
+   Provisionning and Deployment
+      EB
+      App Runner
+      AWS Copilot CLI
+   SUpporting Services
+      ECR
+      X-Ray
+      Step Functions
+
+## Governance
+### Organizations & Accounts
+   AWS Organizations
+   Root Account User
+   Organization Units
+   Serice Control Policies
+### AWS Control Tower
+   Landing Zone
+   Account Factory
+   Guardrails
+### AWS Config 
+### AWS Quick Starts
+### Tagging
+### Resource Groups
+### Business Centric Services
+   Amazon Connect
+   WorkSpaces
+   WorkDocs
+   Chime
+   WOrkMail
+   Pinpoint (Exam)
+   Simple Email Service (SES) (Exam)
+   QuickSight (Exam)
+
+
+
+
+
+
+## Provisioning
+### Provisioning Services
+   EB
+   OpsWorks
+   CloudFormation
+   QuickStarts
+   AWS Marketplace
+   Amplify
+   App Runner
+   Copilot
+   CodeStar
+   CDK
+ ### AWS Elastic Beanstalk
+	
+## Serverless
+### Serverless Services
+   DynamoDB
+   S3
+   ECS Fargate
+   AWS Lambda
+   Set Functions
+   Aurora Serverless
+### What is Serverless
+   Highly elastic and scalable, available, durable,
+   Secure by default
+   Scale-to-Zero
+   Pay-for-Value
+
+## Windows on AWS	
+### AWS License Manager
+   BYOL
+
+## Logging
+   CloudTrail
+   CloudWatch
+   AWS X-Ray
+### AWS CloudTrail
+### CloudWatch Alarm
+### Anatomy of an Alarm
+### Log Events
+### Log Insights
+### CloudWatch Metrics
+
+## ML AI BigData
+### Intro to ML & AI
+### AI & ML Services
+### BigData & Analytics Services
+### Amazon QuickSight	
+### ML & AI Services - Extended
+   Amazon Bedrock
+   Amazon CodeWhisper
+### Generative AI
+### ML & DL Frameworks and Tools
+   Apache MXNet
+   PyTorch
+   TensoorFlow
+   + Keras
+   Apache Spark
+   + SparkML
+   Chainer
+
+   Hugging Face
+### Apache MXNet
+### Intel?
+   x86 & ARM
+### Intel Xeon Scalable & Intel Gaudi
+### GPU
+### CUDA
+
+## AWS Well Architected Framework
+### General Definitions
+### On Architecture
+   On-Premise Enterprise (Centralized team) vs AWS (Distributed teams) 
+### Amazon Leadership Principles
+### General Design Principles
+   Stop guessing your capacity needs
+   Test systmes at production scale
+   Automate to make architectural experimentation easier
+   Allow for evolutionary architectures
+   Drive architectures using data
+   Improve through game days
+### Anatomy of a Pillar
+   Dedihgn Principles
+   Definition
+   BEst Practices
+   Resources
+### Operational Excellence
+   Perform operations as code
+   Make frequent, small, recersible changes
+   Refine operartions procedures frequently
+   Anticipate failure
+   Learn from all operational failures
+### Security
+   Implement a strong identity foundation
+   Enable traceability
+   Apply security at all layers
+   Automate security best practices
+   Protect data in transit and at rest
+   Keep people away from data
+   Prepare for security events
+### Reliability
+   Automatically recover from failure
+   Test recovery procedures
+   Scale horizontally to invrease aggreagate system availability
+   Stop guessing capacity
+   Manage change in automation
+### Performance Efficiency
+   Democratize advanced technologies
+   Go global in minutes
+   Use serverless architectures
+   Experiment more often
+   Consider mechanical sympathy
+### Cost Optimisation
+   Implement Cloud Financial Management
+   Adopt a consumption model
+   Measure overall efficiency
+   Stop spendinm money on undifferentiated heavy lifting
+   Analyze and attribute expenditure 
+### AWS Well-Architected-Tool	
+### AWS Architecture Center
+
+## TCO and Migration
+### Total Cost of Ownership
+### CAPEX vs OPEX
+### Shifting-IT Personnel
+### AWS Pricing Calculator
+### Migration Evaluator
+### VM Import Export
+### Database Migration Service
+### Cloud Adoption Framework
+
+##  Billing and Pricing
+### AWS Free Services
+   IAM
+   Amazon VPC
+   Auto Scaling
+   *CloudFormation*
+   Elastic Beanstalk
+   ...
+### AWS Support Plans (IMPORTANT)
+   Basic
+   Developer
+   Business 
+   Enterprise
+### TAM - Techinical Account Manager
+### AWS Marketplace
+### Consolidated Billing
+### Consolidated Billing - Volume Discounts
+### AWS Trusted Advisor
+### SLAs
+   SLA, SLI and SLO
+### Service Health Dashboard
+### AWS Personal Health Dashboard
+### AWS Abuse
+### AWS Free Tier
+### AWS Credits
+### AWS Partner Network
+### AWS Budgets
+### AWS Budget Reports
+### AWS Cost & Usage Reports
+### Cost Allocation Tags
+### Billing Alarms
+### AWS Cost Explorer
+### Programmatiic Pricing APIs
