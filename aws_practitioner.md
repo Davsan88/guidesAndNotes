@@ -734,7 +734,6 @@ Amazon Kinesis is a platform on AWS to collect, process, and analyze real-time, 
 Amazon Simple Notification Service (SNS) is a fully managed messaging service for both application-to-application (A2A) and application-to-person (A2P) communication. It follows the Publisher => Event Bus => Subscriber model, where messages are published to a topic and delivered to multiple subscribers.
 
 ### API Gateway & Amazon API Gateway
-
 Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale. It acts as a "front door" for applications to access data, business logic, or functionality from backend services.
 
 ### State Machines & AWS Step Functions
