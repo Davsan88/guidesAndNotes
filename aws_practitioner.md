@@ -666,7 +666,6 @@ AWS can integrate with third-party identity and access management solutions to e
 AWS Directory Service offers multiple ways to use Microsoft Active Directory with other AWS services. You can choose from AWS Managed Microsoft AD, AD Connector, or Simple AD.
 
 ### Active Directory
-
 Active Directory (AD) is a directory service developed by Microsoft for Windows domain networks, which is also supported by AWS through AWS Managed Microsoft AD.
 
 ### Identity Providers
