@@ -621,7 +621,6 @@ Reserved Instances (RIs) provide a significant discount compared to On-Demand pr
 Reserved Instances are subject to purchase limits based on the region and the instance type, which can be increased by contacting AWS support if necessary.
 
 ### Capacity Reservations
-
 Capacity Reservations ensure you have access to EC2 capacity when you need it, in a specific Availability Zone, for any duration. You pay for the reserved capacity, regardless of whether you use it.
 
 ### Standard vs Convertible RI
