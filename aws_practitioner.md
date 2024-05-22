@@ -631,7 +631,6 @@ Capacity Reservations ensure you have access to EC2 capacity when you need it, i
 The RI Marketplace allows you to sell your unused Standard Reserved Instances to other AWS customers, providing flexibility if your computing needs change.
 
 ### Spot
-
 Spot Instances allow you to bid on unused EC2 capacity at a significantly lower price than On-Demand instances. Ideal for fault-tolerant and flexible applications that can handle interruptions.
 
 ### AWS Batch
