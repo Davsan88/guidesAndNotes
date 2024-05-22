@@ -681,7 +681,6 @@ Lightweight Directory Access Protocol (LDAP) is an open, vendor-neutral applicat
 Multi-Factor Authentication (MFA) adds an extra layer of security by requiring users to provide two or more verification factors to gain access to a resource.
 
 ### Security Keys
-
 Security keys are hardware devices used for authenticating a user by providing a physical token for login, enhancing security through MFA.
 
 ### AWS IAM
