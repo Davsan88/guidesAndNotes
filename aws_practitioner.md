@@ -722,7 +722,6 @@ AWS Single Sign-On (SSO) allows you to centrally manage access to multiple AWS a
 
 
 ## Application Integration
-
 AWS provides various services for integrating applications, ensuring seamless communication and data flow between different systems and components.
 
 ### Queuing & SQS
