@@ -648,42 +648,94 @@ Savings Plans offer significant savings over On-Demand pricing in exchange for a
 
 		
 ## Identity
+
 ### Zero-Trust Model
+The Zero-Trust Model is a security concept centered around the belief that organizations should not automatically trust anything inside or outside its perimeters and must verify anything and everything trying to connect to its systems before granting access.
+
 ### Zero-Trust on AWS
-   AWS CloudTrail => Amazon GuardDuty => Amazon Detective
+
+AWS implements Zero-Trust through a combination of services that provide comprehensive monitoring, threat detection, and investigation.
+
+- **AWS CloudTrail**: Enables governance, compliance, and operational and risk auditing of your AWS account.
+- **Amazon GuardDuty**: A threat detection service that continuously monitors for malicious activity and unauthorized behavior.
+- **Amazon Detective**: Analyzes and visualizes security data to help you conduct faster and more efficient investigations.
+
 ### Zero-Trust on AWS with Third Parties
-   Azure Active Directory, Google BeyondCorp, JumpCloud => AWS Single Sign On (SSO) => Yoour AWS Resources
+
+AWS can integrate with third-party identity and access management solutions to enhance the Zero-Trust Model.
+
+- **Azure Active Directory, Google BeyondCorp, JumpCloud**: Third-party identity providers that can be integrated with AWS Single Sign-On (SSO) to provide seamless access to AWS resources.
+
 ### Directory Services
+
+AWS Directory Service offers multiple ways to use Microsoft Active Directory with other AWS services. You can choose from AWS Managed Microsoft AD, AD Connector, or Simple AD.
+
 ### Active Directory
+
+Active Directory (AD) is a directory service developed by Microsoft for Windows domain networks, which is also supported by AWS through AWS Managed Microsoft AD.
+
 ### Identity Providers
-### Single-Sign-on
+
+Identity Providers (IdPs) are services that provide authentication and authorization to applications and services by verifying user identities.
+
+### Single-Sign-On
+
+Single-Sign-On (SSO) allows users to authenticate once and gain access to multiple applications and services without re-entering credentials.
+
 ### LDAP
-### Multi-Factor-Authenication
+
+Lightweight Directory Access Protocol (LDAP) is an open, vendor-neutral application protocol for accessing and maintaining distributed directory information services over an IP network.
+
+### Multi-Factor Authentication
+
+Multi-Factor Authentication (MFA) adds an extra layer of security by requiring users to provide two or more verification factors to gain access to a resource.
+
 ### Security Keys
+
+Security keys are hardware devices used for authenticating a user by providing a physical token for login, enhancing security through MFA.
+
 ### AWS IAM
-   Policies
-   Permission
-   Users
-   Groups
-   Roles
+
+AWS Identity and Access Management (IAM) enables you to manage access to AWS services and resources securely.
+
+- **Policies**: Documents that define permissions for actions on AWS resources.
+- **Permissions**: Rules that define what actions users, groups, and roles can perform on AWS resources.
+- **Users**: Individual IAM users that you create in your AWS account.
+- **Groups**: Collections of IAM users, which can be assigned permissions collectively.
+- **Roles**: IAM roles that AWS services or applications can assume to access AWS resources.
+
 ### Anatomy of an IAM Policy
-   Version policy language version
-   Statement container
-   Sid
-   Effect
-   Action
-   Principal
-   Resource
-   Condition   
-### Principle-of-least-Priviledge
-   JEA
-   JIT
+
+IAM policies define permissions and consist of the following elements:
+
+- **Version**: Specifies the policy language version.
+- **Statement**: Container for individual permissions.
+- **Sid**: Optional identifier for the policy statement.
+- **Effect**: Specifies whether the statement results in an allow or deny.
+- **Action**: List of actions the policy allows or denies.
+- **Principal**: Specifies the user, account, service, or other entity that is allowed or denied access.
+- **Resource**: Specifies the AWS resource to which the actions apply.
+- **Condition**: Specifies the conditions under which the policy grants permission.
+
+### Principle of Least Privilege
+
+The principle of least privilege involves granting users only the permissions they need to perform their job functions.
+
+- **JEA (Just Enough Administration)**: Limits administrative privileges.
+- **JIT (Just In Time)**: Grants temporary access to resources as needed.
+
 ### AWS Account Root User
-   Admin Tasks that only the Root User can perform:
-   - Change your account settings
-   - Closer your AWS account
-   - Change or Cancel AWS Support Plan
+
+The root user has full access to all AWS services and resources in the account. Some administrative tasks can only be performed by the root user:
+
+- Change your account settings
+- Close your AWS account
+- Change or cancel your AWS Support plan
+
 ### AWS SSO
+
+AWS Single Sign-On (SSO) allows you to centrally manage access to multiple AWS accounts and business applications, providing users with a single sign-on experience.
+
 
 
 
