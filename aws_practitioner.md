@@ -628,7 +628,6 @@ Capacity Reservations ensure you have access to EC2 capacity when you need it, i
 - **Convertible RI**: Offers a lower discount but allows you to change the instance type, operating system, and tenancy during the term.
 
 ### RI Marketplace
-
 The RI Marketplace allows you to sell your unused Standard Reserved Instances to other AWS customers, providing flexibility if your computing needs change.
 
 ### Spot
