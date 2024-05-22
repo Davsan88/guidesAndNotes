@@ -678,7 +678,6 @@ Single-Sign-On (SSO) allows users to authenticate once and gain access to multip
 Lightweight Directory Access Protocol (LDAP) is an open, vendor-neutral application protocol for accessing and maintaining distributed directory information services over an IP network.
 
 ### Multi-Factor Authentication
-
 Multi-Factor Authentication (MFA) adds an extra layer of security by requiring users to provide two or more verification factors to gain access to a resource.
 
 ### Security Keys
