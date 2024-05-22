@@ -658,7 +658,6 @@ AWS implements Zero-Trust through a combination of services that provide compreh
 - **Amazon Detective**: Analyzes and visualizes security data to help you conduct faster and more efficient investigations.
 
 ### Zero-Trust on AWS with Third Parties
-
 AWS can integrate with third-party identity and access management solutions to enhance the Zero-Trust Model.
 
 - **Azure Active Directory, Google BeyondCorp, JumpCloud**: Third-party identity providers that can be integrated with AWS Single Sign-On (SSO) to provide seamless access to AWS resources.
