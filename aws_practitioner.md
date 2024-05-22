@@ -705,7 +705,6 @@ IAM policies define permissions and consist of the following elements:
 - **Condition**: Specifies the conditions under which the policy grants permission.
 
 ### Principle of Least Privilege
-
 The principle of least privilege involves granting users only the permissions they need to perform their job functions.
 
 - **JEA (Just Enough Administration)**: Limits administrative privileges.
