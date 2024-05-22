@@ -614,7 +614,6 @@ Reserved Instances (RIs) provide a significant discount compared to On-Demand pr
 - **Payment Option**: All upfront, partial upfront, or no upfront.
 
 ### Regional & Zonal RI
-
 - **Regional RI**: Provides a discount on usage in any Availability Zone within a specified region.
 - **Zonal RI**: Provides a capacity reservation in a specific Availability Zone.
 
