@@ -607,7 +607,6 @@ On-Demand instances let you pay for compute capacity by the hour or second, with
 Reserved Instances (RIs) provide a significant discount compared to On-Demand pricing in exchange for a one- or three-year commitment. This model is best for applications with steady-state or predictable usage.
 
 ### RI (Reserved Instances) Attributes
-
 - **Instance Type**: Specific EC2 instance type (e.g., t3.medium).
 - **Platform**: Operating system (e.g., Linux, Windows).
 - **Tenancy**: Shared or dedicated.
