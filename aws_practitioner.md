@@ -604,7 +604,6 @@ AWS offers several pricing models for EC2 instances to provide flexibility and c
 On-Demand instances let you pay for compute capacity by the hour or second, with no long-term commitments. This model is ideal for applications with short-term, spiky, or unpredictable workloads that cannot be interrupted.
 
 ### Reserved (Reserved Instances)
-
 Reserved Instances (RIs) provide a significant discount compared to On-Demand pricing in exchange for a one- or three-year commitment. This model is best for applications with steady-state or predictable usage.
 
 ### RI (Reserved Instances) Attributes
