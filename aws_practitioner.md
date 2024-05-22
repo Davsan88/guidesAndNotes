@@ -721,34 +721,57 @@ The root user has full access to all AWS services and resources in the account. 
 AWS Single Sign-On (SSO) allows you to centrally manage access to multiple AWS accounts and business applications, providing users with a single sign-on experience.
 
 
-
-
 ## Application Integration
-### Queuing & SQS 
-   Not Real-time
+
+AWS provides various services for integrating applications, ensuring seamless communication and data flow between different systems and components.
+
+### Queuing & SQS
+
+Amazon Simple Queue Service (SQS) is a fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications. It is designed for scenarios where messages do not need to be processed in real-time.
+
 ### Streaming and Kinesis
-   Real-time
+
+Amazon Kinesis is a platform on AWS to collect, process, and analyze real-time, streaming data, enabling you to get timely insights and react quickly to new information.
+
 ### PubSub & SNS
-   Publisher => Event Bus => Subscriber
+
+Amazon Simple Notification Service (SNS) is a fully managed messaging service for both application-to-application (A2A) and application-to-person (A2P) communication. It follows the Publisher => Event Bus => Subscriber model, where messages are published to a topic and delivered to multiple subscribers.
+
 ### API Gateway & Amazon API Gateway
+
+Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale. It acts as a "front door" for applications to access data, business logic, or functionality from backend services.
+
 ### State Machines & AWS Step Functions
-### Event Bus & AWS Event Bridge
-   Event Bus
-   Producers
-   Events
-   Partner Sources
-   Rules
-   Targets
+
+AWS Step Functions is a serverless orchestration service that lets you combine AWS Lambda functions and other AWS services to build and run scalable applications. It uses state machines to define workflows that trigger actions in response to events.
+
+### Event Bus & AWS EventBridge
+
+Amazon EventBridge is a serverless event bus service that makes it easy to connect applications using data from your own applications, integrated software-as-a-service (SaaS) applications, and AWS services.
+
+- **Event Bus**: Acts as a channel for transmitting events from producers to consumers.
+- **Producers**: Generate events and send them to the event bus.
+- **Events**: Pieces of data that indicate state changes or updates.
+- **Partner Sources**: External services that can send events to EventBridge.
+- **Rules**: Define how events are routed to targets.
+- **Targets**: Resources that process events, such as Lambda functions, Step Functions, or SQS queues.
+
 ### Application Integration Services
-   SNS
-   SQS
-   Step Functions
-   EventBridge
-   Kinesis
-   Amazon MQ
-   MKS
-   API Gateway
-   AppSync
+
+AWS offers a range of services to facilitate application integration:
+
+- **SNS**: Simple Notification Service for message delivery.
+- **SQS**: Simple Queue Service for message queuing.
+- **Step Functions**: For orchestrating workflows.
+- **EventBridge**: For event-driven architectures.
+- **Kinesis**: For real-time data streaming.
+- **Amazon MQ**: Managed message broker service for Apache ActiveMQ and RabbitMQ.
+- **MKS**: Managed Kafka service for real-time data streaming.
+- **API Gateway**: For creating, deploying, and managing APIs.
+- **AppSync**: A managed service for building GraphQL APIs, enabling you to query and manipulate data from multiple sources.
+
+Understanding these application integration services helps you design robust, scalable, and efficient architectures that facilitate seamless communication between different parts of your applications.
+
 
 ## Containers
 ### VMs vs Containers
