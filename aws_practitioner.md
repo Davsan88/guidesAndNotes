@@ -762,7 +762,7 @@ AWS offers a range of services to facilitate application integration:
 - **API Gateway**: For creating, deploying, and managing APIs.
 - **AppSync**: A managed service for building GraphQL APIs, enabling you to query and manipulate data from multiple sources.
 
-Understanding these application integration services helps you design robust, scalable, and efficient architectures that facilitate seamless communication between different parts of your applications.
+>Understanding these application integration services helps you design robust, scalable, and efficient architectures that facilitate seamless communication between different parts of your applications.
 
 
 ## Containers
