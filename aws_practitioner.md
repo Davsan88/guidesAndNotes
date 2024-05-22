@@ -675,7 +675,6 @@ Identity Providers (IdPs) are services that provide authentication and authoriza
 Single-Sign-On (SSO) allows users to authenticate once and gain access to multiple applications and services without re-entering credentials.
 
 ### LDAP
-
 Lightweight Directory Access Protocol (LDAP) is an open, vendor-neutral application protocol for accessing and maintaining distributed directory information services over an IP network.
 
 ### Multi-Factor Authentication
