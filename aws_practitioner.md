@@ -750,7 +750,6 @@ Amazon EventBridge is a serverless event bus service that makes it easy to conne
 - **Targets**: Resources that process events, such as Lambda functions, Step Functions, or SQS queues.
 
 ### Application Integration Services
-
 AWS offers a range of services to facilitate application integration:
 
 - **SNS**: Simple Notification Service for message delivery.
