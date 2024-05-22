@@ -728,7 +728,6 @@ AWS provides various services for integrating applications, ensuring seamless co
 Amazon Simple Queue Service (SQS) is a fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications. It is designed for scenarios where messages do not need to be processed in real-time.
 
 ### Streaming and Kinesis
-
 Amazon Kinesis is a platform on AWS to collect, process, and analyze real-time, streaming data, enabling you to get timely insights and react quickly to new information.
 
 ### PubSub & SNS
