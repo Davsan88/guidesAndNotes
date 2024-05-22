@@ -637,7 +637,6 @@ Spot Instances allow you to bid on unused EC2 capacity at a significantly lower 
 AWS Batch enables you to run batch computing workloads on the AWS Cloud, dynamically provisioning the optimal quantity and type of compute resources based on the volume and specific resource requirements of the jobs submitted.
 
 ### Dedicated
-
 Dedicated Instances run on hardware dedicated to a single customer, offering physical isolation. This model is suitable for workloads requiring a dedicated server for compliance or licensing purposes.
 
 ### Savings Plan
