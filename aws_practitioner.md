@@ -634,7 +634,6 @@ The RI Marketplace allows you to sell your unused Standard Reserved Instances to
 Spot Instances allow you to bid on unused EC2 capacity at a significantly lower price than On-Demand instances. Ideal for fault-tolerant and flexible applications that can handle interruptions.
 
 ### AWS Batch
-
 AWS Batch enables you to run batch computing workloads on the AWS Cloud, dynamically provisioning the optimal quantity and type of compute resources based on the volume and specific resource requirements of the jobs submitted.
 
 ### Dedicated
