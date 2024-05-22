@@ -624,7 +624,6 @@ Reserved Instances are subject to purchase limits based on the region and the in
 Capacity Reservations ensure you have access to EC2 capacity when you need it, in a specific Availability Zone, for any duration. You pay for the reserved capacity, regardless of whether you use it.
 
 ### Standard vs Convertible RI
-
 - **Standard RI**: Provides the highest discount but can only be modified to change Availability Zone, instance size (within the same family), and network type.
 - **Convertible RI**: Offers a lower discount but allows you to change the instance type, operating system, and tenancy during the term.
 
