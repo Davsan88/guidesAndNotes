@@ -596,6 +596,7 @@ EC2 tenancy defines how instances are run on hardware:
 
 >Understanding these EC2 concepts helps you optimize your compute resources for performance, cost, and compliance requirements.
 
+
 ## EC2 Pricing Models
 
 AWS offers several pricing models for EC2 instances to provide flexibility and cost efficiency, catering to different use cases and budget requirements.
