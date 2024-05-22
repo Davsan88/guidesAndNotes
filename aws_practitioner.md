@@ -725,7 +725,6 @@ AWS Single Sign-On (SSO) allows you to centrally manage access to multiple AWS a
 AWS provides various services for integrating applications, ensuring seamless communication and data flow between different systems and components.
 
 ### Queuing & SQS
-
 Amazon Simple Queue Service (SQS) is a fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications. It is designed for scenarios where messages do not need to be processed in real-time.
 
 ### Streaming and Kinesis
