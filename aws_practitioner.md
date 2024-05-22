@@ -711,7 +711,6 @@ The principle of least privilege involves granting users only the permissions th
 - **JIT (Just In Time)**: Grants temporary access to resources as needed.
 
 ### AWS Account Root User
-
 The root user has full access to all AWS services and resources in the account. Some administrative tasks can only be performed by the root user:
 
 - Change your account settings
