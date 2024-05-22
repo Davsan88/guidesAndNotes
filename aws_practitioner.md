@@ -644,16 +644,13 @@ Savings Plans offer significant savings over On-Demand pricing in exchange for a
 
 >Understanding these EC2 pricing models helps you choose the most cost-effective option for your workloads, ensuring efficient resource utilization and cost management.
 
-
-
-		
+	
 ## Identity
 
 ### Zero-Trust Model
 The Zero-Trust Model is a security concept centered around the belief that organizations should not automatically trust anything inside or outside its perimeters and must verify anything and everything trying to connect to its systems before granting access.
 
 ### Zero-Trust on AWS
-
 AWS implements Zero-Trust through a combination of services that provide comprehensive monitoring, threat detection, and investigation.
 
 - **AWS CloudTrail**: Enables governance, compliance, and operational and risk auditing of your AWS account.
