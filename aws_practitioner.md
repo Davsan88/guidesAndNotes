@@ -718,7 +718,6 @@ The root user has full access to all AWS services and resources in the account. 
 - Change or cancel your AWS Support plan
 
 ### AWS SSO
-
 AWS Single Sign-On (SSO) allows you to centrally manage access to multiple AWS accounts and business applications, providing users with a single sign-on experience.
 
 
