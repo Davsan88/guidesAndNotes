@@ -731,7 +731,6 @@ Amazon Simple Queue Service (SQS) is a fully managed message queuing service tha
 Amazon Kinesis is a platform on AWS to collect, process, and analyze real-time, streaming data, enabling you to get timely insights and react quickly to new information.
 
 ### PubSub & SNS
-
 Amazon Simple Notification Service (SNS) is a fully managed messaging service for both application-to-application (A2A) and application-to-person (A2P) communication. It follows the Publisher => Event Bus => Subscriber model, where messages are published to a topic and delivered to multiple subscribers.
 
 ### API Gateway & Amazon API Gateway
