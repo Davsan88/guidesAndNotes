@@ -1532,22 +1532,24 @@ Understanding AWS services with "Connect" in their name helps differentiate thei
 ### Elastic Transcoder vs MediaConvert
 
 - **Elastic Transcoder**: *The Old Way*. A cloud-based media transcoding service designed to convert media files from their source format into versions that will play back on devices like smartphones, tablets, and PCs.
-- **AWS Elemental MediaConvert**: *The New Way*. A file-based video transcoding service with broadcast-grade features, designed for large-scale video processing workflows.
+- **AWS Elemental MediaConvert**: *The New Way*. A file-based video transcoding service with broadcast-grade features, designed for large-scale video processing workflows. *More robust* service that can perform various operations during transcoding.
 
 ### AWS Artifact vs Amazon Inspector
 
-- **AWS Artifact**: A portal that provides on-demand access to AWS's security and compliance reports, such as SOC, PCI, and ISO certifications.
-- **Amazon Inspector**: An automated security assessment service that helps improve the security and compliance of applications deployed on AWS by identifying vulnerabilities and deviations from best practices.
+- **AWS Artifact**: Why should an enterprise trust AWS?
+Generates a security report that's based on **global compliance frameworks**, such as SOC, PCI, and ISO certifications.
+- **Amazon Inspector**: How do we know this EC2 instance is secure? Prove it?
+An automated security assessment service that helps improve the security and compliance of applications deployed on AWS by identifying vulnerabilities and deviations from best practices.
 
 ### ELB Variants
 
 Understanding the different types of Elastic Load Balancers (ELBs) helps you choose the right one for your use case:
 
 - **ELB (Elastic Load Balancer)**: A general term for load balancing services provided by AWS.
-- **ALB (Application Load Balancer)**: Best suited for load balancing HTTP and HTTPS traffic, operating at the application layer (OSI model layer 7).
-- **NLB (Network Load Balancer)**: Best suited for load balancing TCP, UDP, and TLS traffic, operating at the transport layer (OSI model layer 4), capable of handling millions of requests per second while maintaining ultra-low latencies.
-- **GWLB (Gateway Load Balancer)**: A transparent network gateway that can deploy, scale, and manage third-party virtual appliances, operating at layer 3 (network layer) of the OSI model.
-- **CLB (Classic Load Balancer)**: The original AWS load balancer, supporting both layer 4 and layer 7 load balancing, intended for applications built within the EC2-Classic network.
+   - **ALB (Application Load Balancer)**: Best suited for load balancing HTTP and HTTPS traffic, operating at the application layer (OSI model layer 7). Can attach WAF.
+   - **NLB (Network Load Balancer)**: Best suited for load balancing TCP, UDP, and TLS traffic, operating at the transport layer (OSI model layer 4), capable of handling millions of requests per second while maintaining ultra-low latencies.
+   - **GWLB (Gateway Load Balancer)**: A transparent network gateway that can deploy, scale, and manage third-party virtual appliances, operating at layer 3 (network layer) of the OSI model.
+   - **CLB (Classic Load Balancer)**: The original AWS load balancer, supporting layer 3, 4 and layer 7 load balancing, intended for applications built within the EC2-Classic network. RETIRED!
 
 Understanding these variations and differences between AWS services helps you select the appropriate tools for your specific needs, ensuring efficient and effective use of AWS resources.
 
