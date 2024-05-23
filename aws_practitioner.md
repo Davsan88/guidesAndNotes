@@ -1336,6 +1336,39 @@ Understanding these billing and pricing tools helps you manage your AWS costs ef
 
 Defense-in-Depth is a multi-layered security strategy that involves implementing multiple levels of security controls throughout an IT system. This approach ensures that if one layer fails, additional layers will continue to protect the system.
 
+#### 7 Layers of Security
+
+AWS employs a comprehensive, multi-layered approach to security, often referred to as the "7 layers of security." Each layer addresses specific aspects of security to protect your data and applications.
+
+1. **Data**
+
+   Data security involves protecting the integrity, confidentiality, and availability of data both at rest and in transit. Techniques include encryption, access controls, and data masking.
+
+2. **Applications**
+
+   Application security focuses on ensuring that applications are secure against threats. This includes practices such as secure coding, regular application security assessments, and using application-level firewalls.
+
+3. **VM / Compute**
+
+   Virtual Machine (VM) and Compute security involves securing the virtual machines and compute resources used to run applications. This includes using hardened OS images, applying security patches, and implementing proper identity and access management for compute resources.
+
+4. **Networking**
+
+   Network security encompasses measures to protect data during transmission and to secure network infrastructure. Techniques include the use of virtual private clouds (VPCs), subnets, routing controls, network access control lists (NACLs), and security groups.
+
+5. **Perimeter**
+
+   Perimeter security focuses on protecting the network perimeter through firewalls, intrusion detection systems (IDS), intrusion prevention systems (IPS), and DDoS protection services like AWS Shield.
+
+6. **Policies & Access**
+
+   Policies and access management involve defining and enforcing access policies to ensure that only authorized users and services can access resources. AWS Identity and Access Management (IAM), multi-factor authentication (MFA), and service control policies (SCPs) are key components.
+
+7. **Physical Security**
+
+   Physical security pertains to the protection of the physical infrastructure of data centers. AWS implements strict physical security measures, including controlled access, surveillance, and secure disposal of hardware, to safeguard against unauthorized physical access.
+
+
 ### CIA Triad
 
 The CIA Triad is a fundamental concept in information security, focusing on three key principles:
@@ -1404,23 +1437,28 @@ Distributed Denial of Service (DDoS) attacks aim to disrupt the normal traffic o
 
 ### AWS Shield
 
-AWS Shield is a managed DDoS protection service that safeguards web applications running on AWS. It comes in two tiers: Standard (free) and Advanced (paid).
+AWS Shield is a managed DDoS protection service that safeguards web applications running on AWS. It comes in two tiers: Standard (free) and Advanced (paid). 
+
+Both plans integrate with AWS Web Application Fireqall (WAF)
 
 ### AWS GuardDuty
 
-AWS GuardDuty is a threat detection service that continuously monitors for malicious activity and unauthorized behavior to protect your AWS accounts and workloads.
+AWS GuardDuty is a *threat detection service* that continuously monitors for malicious activity and unauthorized behavior to protect your AWS accounts and workloads. It uses ML to analyze CloudTrail Logs, VPC Flow Logs and DNS Logs.
 
 ### Amazon Macie
 
-Amazon Macie is a fully managed data security and data privacy service that uses machine learning and pattern matching to discover, monitor, and protect sensitive data in AWS.
+Amazon Macie is a fully managed data security and data privacy service that uses machine learning and pattern matching to discover, monitor *S3 data access* activity, and protect sensitive data in AWS. Macie works by using ML to analyze CloudTrail Logs.
 
 ### AWS VPN
 
-AWS VPN enables secure connections between your on-premises networks and your AWS environments through IPsec VPN connections.
+AWS VPN enables a *secure* and **private tunnel** between your on-premises networks and your AWS environments through IPsec VPN connections.
+
+**Internet Protocol Security (IPSec)** is a secure network protocol suit that authenticates and encrypts the packets of data to provide secure encrypted communication between two computers over and IP network. Used in virtual private networks (VPNs).
 
 ### AWS WAF (Web Application Firewall)
 
 AWS WAF is a web application firewall that helps protect your web applications from common web exploits and vulnerabilities by allowing you to control the traffic that reaches your applications.
+WAF can be attached to either **CloudFront** or and **Application Load Balancer (ALB)**. Protect applications from attackes covered in the *OWASP Top 10* most dangerous attacks.
 
 ### Hardware Security Module (HSM)
 
