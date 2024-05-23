@@ -1517,20 +1517,22 @@ SES sends **html emails, , SNS cannot.
 
 ### Amazon Inspector vs AWS Trusted Advisor
 
-- **Amazon Inspector**: An automated security assessment service that helps improve the security and compliance of applications deployed on AWS. It identifies vulnerabilities and deviations from best practices.
-- **AWS Trusted Advisor**: Provides real-time guidance to help you provision your resources following AWS best practices. It covers areas such as cost optimization, performance, security, fault tolerance, and service limits.
+- **Amazon Inspector**: An automated security assessment service that helps improve the security and compliance of applications deployed on AWS. It identifies vulnerabilities and deviations from best practices. Audits **a single EC2 instance** that you've selected.
+- **AWS Trusted Advisor**: **Doesn't generate out a PDF** report. Gives a **holistic view** of recommendations accorss multiple services and best practices.
 
 ### Connect Named Services
 
 Understanding AWS services with "Connect" in their name helps differentiate their purposes:
 
 - **Amazon Connect**: A cloud-based contact center service that makes it easy to set up and manage a customer contact center.
-- **AWS IoT Core**: Although not named "Connect", it provides connectivity for internet of things (IoT) devices to AWS services.
+- **Direct Connect**: A network service that provides a dedicated network connection from your premises to AWS, improving performance and security for data transfer.
+- **Media Connect**: A service for transporting live video securely and reliably, allowing you to build mission-critical live video workflows with scalable, real-time video transport capabilities.
+
 
 ### Elastic Transcoder vs MediaConvert
 
-- **Elastic Transcoder**: A cloud-based media transcoding service designed to convert media files from their source format into versions that will play back on devices like smartphones, tablets, and PCs.
-- **MediaConvert**: A file-based video transcoding service with broadcast-grade features, designed for large-scale video processing workflows.
+- **Elastic Transcoder**: *The Old Way*. A cloud-based media transcoding service designed to convert media files from their source format into versions that will play back on devices like smartphones, tablets, and PCs.
+- **AWS Elemental MediaConvert**: *The New Way*. A file-based video transcoding service with broadcast-grade features, designed for large-scale video processing workflows.
 
 ### AWS Artifact vs Amazon Inspector
 
