@@ -876,9 +876,9 @@ AWS provides various services tailored to business needs, improving productivity
 - **WorkDocs**: A secure enterprise document storage and sharing service.
 - **Chime**: A communications service that allows you to meet, chat, and place business calls inside and outside your organization.
 - **WorkMail**: A secure, managed business email and calendar service.
-- **Pinpoint**: A flexible and scalable outbound and inbound marketing communications service.
-- **Simple Email Service (SES)**: A cloud-based email sending service designed to help digital marketers and application developers send marketing, notification, and transactional emails.
-- **QuickSight**: A business analytics service that makes it easy to deliver insights to everyone in your organization.
+- **Pinpoint**: A flexible and scalable outbound and inbound marketing communications service. *
+- **Simple Email Service (SES)**: A cloud-based email sending service designed to help digital marketers and application developers send marketing, notification, and transactional emails. *
+- **QuickSight**: A business analytics service that makes it easy to deliver insights to everyone in your organization. *
 
 Understanding these governance and business-centric services helps you manage and optimize your AWS environment effectively while enhancing productivity and compliance.
 
