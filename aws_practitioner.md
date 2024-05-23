@@ -1475,21 +1475,26 @@ AWS CloudHSM is a cloud-based hardware security module (HSM) that allows you to 
 Understanding these security services and concepts helps you build a secure, compliant, and resilient AWS environment.
 
 
-
-In-Transit vs At-Transit Encryption
-   Transport Layer Security (TLS)
-   Secure Sockets Layers (SSL)
-
-
-
-
-
-
 ## Variation Study
 
 ### Know Your Initialisms
 
 Understanding the various initialisms used in AWS services is crucial for distinguishing between them and knowing their specific functionalities.
+
+| Initialism | Meaning                            | Initialism | Meaning                      | Initialism | Meaning                            |
+|------------|------------------------------------|------------|------------------------------|------------|------------------------------------|
+| IAM        | Identity and Access Management     | MQ         | Message Queue                | EBS        | Elastic Block Store                |
+| S3         | Simple Storage Service             | ASG        | Auto Scaling Group           | EFS        | Elastic File System                |
+| SWF        | Simple Workflow Service            | TAM        | Technical Account Manager    | EMR        | Elastic MapReduce                  |
+| SNS        | Simple Notification Service        | ELB        | Elastic Load Balancer        | EB         | Elastic Beanstalk                  |
+| SQS        | Simple Queue Service               | ALB        | Application Load Balancer    | ES         | Elasticsearch Service              |
+| SES        | Simple Email Service               | NLB        | Network Load Balancer        | EKS        | Elastic Kubernetes Service         |
+| SSM        | Systems Manager                    | GWLB       | Gateway Load Balancer        | MSK        | Managed Streaming for Kafka        |
+| RDS        | Relational Database Service        | CLB        | Classic Load Balancer        | RAM        | Resource Access Manager            |
+| VPC        | Virtual Private Cloud              | EC2        | Elastic Compute Cloud        | ACM        | AWS Certificate Manager            |
+| CPN        | CloudFront                         | EC5        | Elastic Container Service    | PoLP       | Principle of Least Privilege       |
+| CFN        | CloudFormation                     | ECR        | Elastic Container Registry   | IoT        | Internet of Things                 |
+| WAF        | Web Application Firewall           |            |                              | RI         | Reserved Instance                  |
 
 ### AWS Config vs AWS AppConfig
 
