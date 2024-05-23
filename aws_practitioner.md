@@ -948,22 +948,38 @@ Understanding these provisioning services helps you automate and streamline your
 
 	
 ## Serverless
-### Serverless Services
-   DynamoDB
-   S3
-   ECS Fargate
-   AWS Lambda
-   Set Functions
-   Aurora Serverless
-### What is Serverless
-   Highly elastic and scalable, available, durable,
-   Secure by default
-   Scale-to-Zero
-   Pay-for-Value
 
-## Windows on AWS	
+### Serverless Services
+
+- **DynamoDB**: A fully managed NoSQL database service that provides fast and predictable performance with seamless scalability.
+- **S3**: Amazon Simple Storage Service (S3) is an object storage service offering industry-leading scalability, data availability, security, and performance.
+- **ECS Fargate**: A serverless compute engine for containers that works with Amazon ECS, allowing you to run containers without managing servers.
+- **AWS Lambda**: A compute service that lets you run code without provisioning or managing servers, automatically scaling based on the number of requests.
+- **Step Functions**: A serverless orchestration service that lets you coordinate multiple AWS services into serverless workflows.
+- **Aurora Serverless**: An on-demand, auto-scaling configuration for Amazon Aurora, automatically adjusting database capacity based on application demand.
+
+### What is Serverless
+
+Serverless computing allows you to build and run applications and services without thinking about servers. It provides:
+
+- **Highly elastic and scalable**: Automatically adjusts resources to meet the demands of your applications.
+- **Available and durable**: Ensures high availability and fault tolerance by default.
+- **Secure by default**: Incorporates AWS's built-in security features, simplifying the protection of your data and applications.
+- **Scale-to-Zero**: Automatically scales down to zero when not in use, reducing costs.
+- **Pay-for-Value**: Charges you only for the compute time you consume, resulting in cost savings.
+
+## Windows on AWS
+
 ### AWS License Manager
-   BYOL
+
+AWS License Manager simplifies the management of software licenses from vendors such as Microsoft, helping you manage licenses efficiently and remain compliant.
+
+- **BYOL (Bring Your Own License)**: Allows you to use your existing software licenses on AWS, leveraging your current investments while benefiting from the scalability and flexibility of the cloud.
+
+Understanding serverless services and managing Windows licenses on AWS helps you leverage cloud resources efficiently, ensuring cost-effective and scalable application deployment.
+
+
+
 
 ## Logging
    CloudTrail
