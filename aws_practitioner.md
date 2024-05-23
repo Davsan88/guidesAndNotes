@@ -1503,15 +1503,17 @@ Understanding the various initialisms used in AWS services is crucial for distin
 
 ### SNS vs SQS
 
-- **SNS (Simple Notification Service)**: A fully managed messaging service for both application-to-application (A2A) and application-to-person (A2P) communication. It uses a publish/subscribe model to send messages to multiple subscribers.
+- **SNS (Simple Notification Service)**: A fully managed messaging service for both application-to-application (A2A) and application-to-person (A2P) communication. It uses a publish/subscribe model to send messages to multiple subscribers. Generally used for sending **plain text emails**.
 - **SQS (Simple Queue Service)**: A fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications. It uses a queuing model to send messages between distributed application components.
 
 ### SNS vs SES vs PinPoint vs Workmail
 
-- **SNS (Simple Notification Service)**: Used for sending notifications to multiple subscribers via various protocols such as SMS, email, and HTTP/S.
-- **SES (Simple Email Service)**: A cloud-based email sending service designed for sending marketing, notification, and transactional emails.
-- **PinPoint**: A flexible and scalable outbound and inbound marketing communications service. It enables targeted messaging across multiple channels including email, SMS, and push notifications.
-- **WorkMail**: A secure, managed business email and calendar service.
+- **SNS (Simple Notification Service)**: Used for sending notifications, i.e. *Practical and Internal Emails*, to multiple subscribers via various protocols such as SMS, SQS, email, and HTTP/S. Generally used for sending **plain text emails**. Best example is billing alarms. 
+Need to what are **Topics** and **Subcriptions**!
+- **SES (Simple Email Service)**: A cloud-based email sending service designed for sending marketing, notification, and *Transactional Emails*, e.g. Signup. Reset Password, Invoices...
+SES sends **html emails, , SNS cannot.
+- **PinPoint**: A flexible and scalable outbound and inbound marketing communications service used for *Promotional Emails*. It enables targeted messaging across multiple channels including email, SMS, and push notifications.
+- **WorkMail**: A secure, managed business email and calendar service. *Email Web Client* similar to Gmail and Outlook.
 
 ### Amazon Inspector vs AWS Trusted Advisor
 
