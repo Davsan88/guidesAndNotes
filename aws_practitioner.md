@@ -766,25 +766,52 @@ AWS offers a range of services to facilitate application integration:
 
 
 ## Containers
+
 ### VMs vs Containers
-### Microservices?
+
+Virtual Machines (VMs) run entire operating systems along with applications on top of a hypervisor, providing complete isolation but with higher overhead. Containers share the host OS kernel and run isolated processes, offering lightweight and efficient resource usage.
+
+### Microservices
+
+Microservices is an architectural style that structures an application as a collection of small, autonomous services modeled around a business domain. Each service runs in its own process and communicates with other services via HTTP APIs or messaging.
+
 ### Kubernetes
+
+Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications. It groups containers into logical units for easy management and discovery.
+
 ### Docker
-### Podman, Buildah and Skopeo
+
+Docker is a platform that uses OS-level virtualization to deliver software in packages called containers. Containers bundle an application with all its dependencies, ensuring consistency across multiple environments.
+
+### Podman, Buildah, and Skopeo
+
+- **Podman**: A daemonless container engine for developing, managing, and running OCI containers on Linux.
+- **Buildah**: A tool that facilitates building Open Container Initiative (OCI) container images.
+- **Skopeo**: A command-line utility that performs various operations on container images and image repositories.
+
 ### Container Services
-   Primary services;
-      ECS
-      AWS  Fargate
-      EKS
-      AWS Lambd
-   Provisionning and Deployment
-      EB
-      App Runner
-      AWS Copilot CLI
-   SUpporting Services
-      ECR
-      X-Ray
-      Step Functions
+
+#### Primary Services
+
+- **ECS (Elastic Container Service)**: A fully managed container orchestration service that supports Docker containers.
+- **AWS Fargate**: A serverless compute engine for containers that works with ECS and EKS, removing the need to manage servers.
+- **EKS (Elastic Kubernetes Service)**: A managed service that makes it easy to run Kubernetes on AWS.
+- **AWS Lambda**: Serverless compute service that runs your code in response to events, managing the compute resources required automatically.
+
+#### Provisioning and Deployment
+
+- **Elastic Beanstalk (EB)**: An easy-to-use service for deploying and scaling web applications and services, automatically handling capacity provisioning, load balancing, and scaling.
+- **App Runner**: A fully managed service that makes it easy to quickly deploy containerized web applications and APIs.
+- **AWS Copilot CLI**: A command-line tool that simplifies building, releasing, and operating production-ready containerized applications on Amazon ECS and AWS Fargate.
+
+#### Supporting Services
+
+- **ECR (Elastic Container Registry)**: A fully managed Docker container registry that makes it easy to store, manage, and deploy container images.
+- **X-Ray**: A service that helps with debugging and analyzing the performance of distributed applications, including those using containers.
+- **Step Functions**: A serverless orchestration service that lets you coordinate multiple AWS services into serverless workflows.
+
+Understanding these container services and tools helps you effectively manage, deploy, and scale containerized applications in the AWS cloud.
+
 
 ## Governance
 ### Organizations & Accounts
