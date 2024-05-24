@@ -771,11 +771,9 @@ AWS offers a range of services to facilitate application integration:
 Virtual Machines (VMs) run entire operating systems along with applications on top of a hypervisor, providing complete isolation but with higher overhead. Containers share the host OS kernel and run isolated processes, offering lightweight and efficient resource usage.
 
 ### Microservices
-
 Microservices is an architectural style that structures an application as a collection of small, autonomous services modeled around a business domain. Each service runs in its own process and communicates with other services via HTTP APIs or messaging.
 
 ### Kubernetes
-
 Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications. It groups containers into logical units for easy management and discovery.
 
 ### Docker
