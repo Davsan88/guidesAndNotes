@@ -798,7 +798,6 @@ Docker is a platform that uses OS-level virtualization to deliver software in pa
 - **AWS Copilot CLI**: A command-line tool that simplifies building, releasing, and operating production-ready containerized applications on Amazon ECS and AWS Fargate.
 
 #### Supporting Services
-
 - **ECR (Elastic Container Registry)**: A fully managed Docker container registry that makes it easy to store, manage, and deploy container images.
 - **X-Ray**: A service that helps with debugging and analyzing the performance of distributed applications, including those using containers.
 - **Step Functions**: A serverless orchestration service that lets you coordinate multiple AWS services into serverless workflows.
