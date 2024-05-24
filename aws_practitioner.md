@@ -826,7 +826,6 @@ Service Control Policies (SCPs) are a type of organization policy that you can u
 AWS Control Tower offers a simple way to set up and govern a new, secure, multi-account AWS environment based on AWS best practices.
 
 #### Landing Zone
-
 A Landing Zone is a well-architected, multi-account AWS environment that is scalable and secure. AWS Control Tower automates the setup of your Landing Zone.
 
 #### Account Factory
