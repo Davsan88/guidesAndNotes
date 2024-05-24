@@ -829,7 +829,6 @@ AWS Control Tower offers a simple way to set up and govern a new, secure, multi-
 A Landing Zone is a well-architected, multi-account AWS environment that is scalable and secure. AWS Control Tower automates the setup of your Landing Zone.
 
 #### Account Factory
-
 Account Factory is a feature in AWS Control Tower that provides a standardized method to provision new AWS accounts based on your organization's best practices and guardrails.
 
 #### Guardrails
