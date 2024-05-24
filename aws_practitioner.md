@@ -787,7 +787,6 @@ Docker is a platform that uses OS-level virtualization to deliver software in pa
 ### Container Services
 
 #### Primary Services
-
 - **ECS (Elastic Container Service)**: A fully managed container orchestration service that supports Docker containers.
 - **AWS Fargate**: A serverless compute engine for containers that works with ECS and EKS, removing the need to manage servers.
 - **EKS (Elastic Kubernetes Service)**: A managed service that makes it easy to run Kubernetes on AWS.
