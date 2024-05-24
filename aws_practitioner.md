@@ -832,11 +832,9 @@ A Landing Zone is a well-architected, multi-account AWS environment that is scal
 Account Factory is a feature in AWS Control Tower that provides a standardized method to provision new AWS accounts based on your organization's best practices and guardrails.
 
 #### Guardrails
-
 Guardrails are pre-configured governance rules for security, compliance, and operations that AWS Control Tower applies to your AWS environment.
 
 ### AWS Config
-
 AWS Config is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources. It continuously monitors and records your AWS resource configurations and allows automated compliance checks.
 
 ### AWS Quick Starts
