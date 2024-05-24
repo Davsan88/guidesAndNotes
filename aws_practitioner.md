@@ -838,7 +838,6 @@ Guardrails are pre-configured governance rules for security, compliance, and ope
 AWS Config is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources. It continuously monitors and records your AWS resource configurations and allows automated compliance checks.
 
 ### AWS Quick Starts
-
 AWS Quick Starts are automated reference deployments built by AWS solutions architects and AWS partners. They help you deploy popular technologies on AWS following best practices.
 
 ### Tagging
