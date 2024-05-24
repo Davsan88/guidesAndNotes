@@ -780,7 +780,6 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 Docker is a platform that uses OS-level virtualization to deliver software in packages called containers. Containers bundle an application with all its dependencies, ensuring consistency across multiple environments.
 
 ### Podman, Buildah, and Skopeo
-
 - **Podman**: A daemonless container engine for developing, managing, and running OCI containers on Linux.
 - **Buildah**: A tool that facilitates building Open Container Initiative (OCI) container images.
 - **Skopeo**: A command-line utility that performs various operations on container images and image repositories.
