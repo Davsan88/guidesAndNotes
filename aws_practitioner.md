@@ -768,7 +768,6 @@ AWS offers a range of services to facilitate application integration:
 ## Containers
 
 ### VMs vs Containers
-
 Virtual Machines (VMs) run entire operating systems along with applications on top of a hypervisor, providing complete isolation but with higher overhead. Containers share the host OS kernel and run isolated processes, offering lightweight and efficient resource usage.
 
 ### Microservices
