@@ -808,7 +808,6 @@ Understanding these container services and tools helps you effectively manage, d
 ## Governance
 
 ### Organizations & Accounts
-
 AWS provides a range of tools and services to help manage and govern your AWS environment effectively.
 
 #### AWS Organizations
