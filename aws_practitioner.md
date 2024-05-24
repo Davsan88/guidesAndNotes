@@ -858,7 +858,7 @@ AWS provides various services tailored to business needs, improving productivity
 - **Simple Email Service (SES)**: A cloud-based email sending service designed to help digital marketers and application developers send marketing, notification, and transactional emails. *
 - **QuickSight**: A business analytics service that makes it easy to deliver insights to everyone in your organization. *
 
-Understanding these governance and business-centric services helps you manage and optimize your AWS environment effectively while enhancing productivity and compliance.
+>Understanding these governance and business-centric services helps you manage and optimize your AWS environment effectively while enhancing productivity and compliance.
 
 
 
