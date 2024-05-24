@@ -811,7 +811,6 @@ Understanding these container services and tools helps you effectively manage, d
 AWS provides a range of tools and services to help manage and govern your AWS environment effectively.
 
 #### AWS Organizations
-
 AWS Organizations allows you to centrally manage and govern multiple AWS accounts, enabling you to automate account creation, apply policies, and manage billing.
 
 #### Root Account User
