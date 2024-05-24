@@ -861,12 +861,6 @@ AWS provides various services tailored to business needs, improving productivity
 >Understanding these governance and business-centric services helps you manage and optimize your AWS environment effectively while enhancing productivity and compliance.
 
 
-
-
-
-
-
-
 ## Provisioning
 
 AWS offers a variety of services to help you provision and manage your cloud infrastructure efficiently.
