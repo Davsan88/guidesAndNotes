@@ -841,7 +841,6 @@ AWS Config is a service that enables you to assess, audit, and evaluate the conf
 AWS Quick Starts are automated reference deployments built by AWS solutions architects and AWS partners. They help you deploy popular technologies on AWS following best practices.
 
 ### Tagging
-
 Tagging allows you to categorize AWS resources in different ways, such as by purpose, owner, or environment. Tags are key-value pairs that you can use to manage, identify, and organize resources.
 
 ### Resource Groups
