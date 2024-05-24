@@ -847,7 +847,6 @@ Tagging allows you to categorize AWS resources in different ways, such as by pur
 Resource Groups enable you to manage and automate tasks on large numbers of AWS resources at once. They can be used to group resources that share one or more tags.
 
 ### Business Centric Services
-
 AWS provides various services tailored to business needs, improving productivity and communication.
 
 - **Amazon Connect**: A cloud-based contact center service that makes it easy to set up and manage a customer contact center.
