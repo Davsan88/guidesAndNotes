@@ -777,7 +777,6 @@ Microservices is an architectural style that structures an application as a coll
 Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications. It groups containers into logical units for easy management and discovery.
 
 ### Docker
-
 Docker is a platform that uses OS-level virtualization to deliver software in packages called containers. Containers bundle an application with all its dependencies, ensuring consistency across multiple environments.
 
 ### Podman, Buildah, and Skopeo
