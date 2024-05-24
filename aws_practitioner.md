@@ -820,7 +820,6 @@ The Root Account User is the primary account holder and has complete access to a
 Organization Units (OUs) are logical groupings of AWS accounts within an organization that allow you to apply policies and manage accounts collectively.
 
 #### Service Control Policies (SCPs)
-
 Service Control Policies (SCPs) are a type of organization policy that you can use to manage permissions in your organization. SCPs help ensure that your accounts stay within your organization's access control guidelines.
 
 ### AWS Control Tower
