@@ -814,7 +814,6 @@ AWS provides a range of tools and services to help manage and govern your AWS en
 AWS Organizations allows you to centrally manage and govern multiple AWS accounts, enabling you to automate account creation, apply policies, and manage billing.
 
 #### Root Account User
-
 The Root Account User is the primary account holder and has complete access to all AWS services and resources. It is recommended to use this account sparingly and to enable Multi-Factor Authentication (MFA).
 
 #### Organization Units
