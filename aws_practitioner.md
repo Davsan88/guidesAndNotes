@@ -793,7 +793,6 @@ Docker is a platform that uses OS-level virtualization to deliver software in pa
 - **AWS Lambda**: Serverless compute service that runs your code in response to events, managing the compute resources required automatically.
 
 #### Provisioning and Deployment
-
 - **Elastic Beanstalk (EB)**: An easy-to-use service for deploying and scaling web applications and services, automatically handling capacity provisioning, load balancing, and scaling.
 - **App Runner**: A fully managed service that makes it easy to quickly deploy containerized web applications and APIs.
 - **AWS Copilot CLI**: A command-line tool that simplifies building, releasing, and operating production-ready containerized applications on Amazon ECS and AWS Fargate.
