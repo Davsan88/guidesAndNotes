@@ -823,7 +823,6 @@ Organization Units (OUs) are logical groupings of AWS accounts within an organiz
 Service Control Policies (SCPs) are a type of organization policy that you can use to manage permissions in your organization. SCPs help ensure that your accounts stay within your organization's access control guidelines.
 
 ### AWS Control Tower
-
 AWS Control Tower offers a simple way to set up and govern a new, secure, multi-account AWS environment based on AWS best practices.
 
 #### Landing Zone
