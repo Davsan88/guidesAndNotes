@@ -844,7 +844,6 @@ AWS Quick Starts are automated reference deployments built by AWS solutions arch
 Tagging allows you to categorize AWS resources in different ways, such as by purpose, owner, or environment. Tags are key-value pairs that you can use to manage, identify, and organize resources.
 
 ### Resource Groups
-
 Resource Groups enable you to manage and automate tasks on large numbers of AWS resources at once. They can be used to group resources that share one or more tags.
 
 ### Business Centric Services
