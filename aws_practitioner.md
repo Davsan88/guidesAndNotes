@@ -817,7 +817,6 @@ AWS Organizations allows you to centrally manage and govern multiple AWS account
 The Root Account User is the primary account holder and has complete access to all AWS services and resources. It is recommended to use this account sparingly and to enable Multi-Factor Authentication (MFA).
 
 #### Organization Units
-
 Organization Units (OUs) are logical groupings of AWS accounts within an organization that allow you to apply policies and manage accounts collectively.
 
 #### Service Control Policies (SCPs)
