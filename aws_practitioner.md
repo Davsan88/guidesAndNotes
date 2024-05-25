@@ -972,7 +972,6 @@ Log events in CloudWatch Logs represent discrete entries that describe a specifi
 CloudWatch Logs Insights is an interactive query service that helps you analyze and visualize log data. It enables you to quickly gain insights from your logs to troubleshoot operational problems or conduct security analysis.
 
 ### CloudWatch Metrics
-
 CloudWatch Metrics are fundamental data points about the performance of your systems and applications, automatically collected from various AWS services and custom sources. Metrics can be used to set alarms, generate reports, and monitor application health and performance.
 
 Understanding these logging services and their components helps you maintain operational health, ensure compliance, and optimize the performance of your AWS resources.
