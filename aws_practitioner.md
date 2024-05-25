@@ -969,7 +969,6 @@ A CloudWatch Alarm consists of:
 Log events in CloudWatch Logs represent discrete entries that describe a specific occurrence, such as an error message or a transaction record, within an application or system.
 
 ### Log Insights
-
 CloudWatch Logs Insights is an interactive query service that helps you analyze and visualize log data. It enables you to quickly gain insights from your logs to troubleshoot operational problems or conduct security analysis.
 
 ### CloudWatch Metrics
