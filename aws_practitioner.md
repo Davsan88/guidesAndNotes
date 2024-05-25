@@ -951,7 +951,6 @@ Amazon CloudWatch monitors your AWS resources and applications in real-time, col
 AWS X-Ray helps developers analyze and debug production, distributed applications, such as those built using a microservices architecture. It provides an end-to-end view of requests as they travel through your application.
 
 ### AWS CloudTrail
-
 AWS CloudTrail logs all API calls made on your account, enabling you to track changes, troubleshoot issues, and ensure compliance with security and operational practices. It records information such as the identity of the API caller, the time of the API call, the source IP address, and the request parameters.
 
 ### CloudWatch Alarm
