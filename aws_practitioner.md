@@ -929,7 +929,6 @@ Serverless computing allows you to build and run applications and services witho
 ## Windows on AWS
 
 ### AWS License Manager
-
 AWS License Manager simplifies the management of software licenses from vendors such as Microsoft, helping you manage licenses efficiently and remain compliant.
 
 - **BYOL (Bring Your Own License)**: Allows you to use your existing software licenses on AWS, leveraging your current investments while benefiting from the scalability and flexibility of the cloud.
