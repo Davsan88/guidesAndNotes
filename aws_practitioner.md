@@ -873,7 +873,6 @@ AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web ap
 AWS OpsWorks is a configuration management service that provides managed instances of Chef and Puppet. It helps you automate how servers are configured, deployed, and managed across your EC2 instances or on-premises compute environments.
 
 #### CloudFormation
-
 AWS CloudFormation provides a common language for you to describe and provision all the infrastructure resources in your cloud environment. It allows you to use a simple text file to model and provision all the resources needed for your applications across all regions and accounts.
 
 #### QuickStarts
