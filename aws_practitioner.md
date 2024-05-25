@@ -957,7 +957,6 @@ AWS CloudTrail logs all API calls made on your account, enabling you to track ch
 CloudWatch Alarms monitor CloudWatch metrics and send notifications or automatically make changes to the resources you are monitoring based on rules you define. This helps ensure your applications run smoothly and meet performance targets.
 
 ### Anatomy of an Alarm
-
 A CloudWatch Alarm consists of:
 
 - **Metric**: The data point being monitored (e.g., CPU utilization).
