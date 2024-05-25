@@ -954,7 +954,6 @@ AWS X-Ray helps developers analyze and debug production, distributed application
 AWS CloudTrail logs all API calls made on your account, enabling you to track changes, troubleshoot issues, and ensure compliance with security and operational practices. It records information such as the identity of the API caller, the time of the API call, the source IP address, and the request parameters.
 
 ### CloudWatch Alarm
-
 CloudWatch Alarms monitor CloudWatch metrics and send notifications or automatically make changes to the resources you are monitoring based on rules you define. This helps ensure your applications run smoothly and meet performance targets.
 
 ### Anatomy of an Alarm
