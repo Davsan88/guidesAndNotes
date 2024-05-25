@@ -891,7 +891,6 @@ AWS App Runner is a fully managed service that makes it easy for developers to q
 AWS Copilot CLI is a command-line tool that simplifies building, releasing, and operating production-ready containerized applications on Amazon ECS and AWS Fargate.
 
 #### CodeStar
-
 AWS CodeStar enables you to quickly develop, build, and deploy applications on AWS. It provides a unified user interface, enabling you to manage your software development activities in one place.
 
 #### CDK (Cloud Development Kit)
