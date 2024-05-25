@@ -870,7 +870,6 @@ AWS offers a variety of services to help you provision and manage your cloud inf
 AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web applications and services. It automatically handles the deployment, from capacity provisioning, load balancing, and auto-scaling to application health monitoring.
 
 #### OpsWorks
-
 AWS OpsWorks is a configuration management service that provides managed instances of Chef and Puppet. It helps you automate how servers are configured, deployed, and managed across your EC2 instances or on-premises compute environments.
 
 #### CloudFormation
