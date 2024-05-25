@@ -879,7 +879,6 @@ AWS CloudFormation provides a common language for you to describe and provision 
 AWS QuickStarts are automated reference deployments that help you rapidly deploy fully functional and scalable IT solutions and environments on the AWS Cloud, following AWS best practices.
 
 #### AWS Marketplace
-
 AWS Marketplace is a digital catalog that lists software and services you can buy and deploy to your AWS environment. It simplifies software procurement and deployment for popular software solutions.
 
 #### Amplify
