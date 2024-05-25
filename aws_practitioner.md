@@ -948,7 +948,6 @@ AWS CloudTrail enables governance, compliance, and operational and risk auditing
 Amazon CloudWatch monitors your AWS resources and applications in real-time, collecting and tracking metrics, collecting and monitoring log files, and setting alarms.
 
 ### AWS X-Ray
-
 AWS X-Ray helps developers analyze and debug production, distributed applications, such as those built using a microservices architecture. It provides an end-to-end view of requests as they travel through your application.
 
 ### AWS CloudTrail
