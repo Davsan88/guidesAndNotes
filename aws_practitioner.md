@@ -942,11 +942,9 @@ Understanding serverless services and managing Windows licenses on AWS helps you
 AWS provides several services to monitor and log the activities and performance of your AWS resources, ensuring operational health and compliance.
 
 ### AWS CloudTrail
-
 AWS CloudTrail enables governance, compliance, and operational and risk auditing of your AWS account. It logs API calls and other actions taken by users, roles, or AWS services, providing detailed event history.
 
 ### CloudWatch
-
 Amazon CloudWatch monitors your AWS resources and applications in real-time, collecting and tracking metrics, collecting and monitoring log files, and setting alarms.
 
 ### AWS X-Ray
