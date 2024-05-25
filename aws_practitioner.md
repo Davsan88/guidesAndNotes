@@ -894,7 +894,6 @@ AWS Copilot CLI is a command-line tool that simplifies building, releasing, and 
 AWS CodeStar enables you to quickly develop, build, and deploy applications on AWS. It provides a unified user interface, enabling you to manage your software development activities in one place.
 
 #### CDK (Cloud Development Kit)
-
 AWS Cloud Development Kit (CDK) is an open-source software development framework to define your cloud application resources using familiar programming languages. It allows you to model and provision cloud infrastructure using code.
 
 ### AWS Elastic Beanstalk
