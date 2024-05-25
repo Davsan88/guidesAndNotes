@@ -867,7 +867,6 @@ AWS offers a variety of services to help you provision and manage your cloud inf
 ### Provisioning Services
 
 #### Elastic Beanstalk (EB)
-
 AWS Elastic Beanstalk is an easy-to-use service for deploying and scaling web applications and services. It automatically handles the deployment, from capacity provisioning, load balancing, and auto-scaling to application health monitoring.
 
 #### OpsWorks
