@@ -939,7 +939,6 @@ Understanding serverless services and managing Windows licenses on AWS helps you
 
 
 ## Logging
-
 AWS provides several services to monitor and log the activities and performance of your AWS resources, ensuring operational health and compliance.
 
 ### AWS CloudTrail
