@@ -910,7 +910,6 @@ Understanding these provisioning services helps you automate and streamline your
 ## Serverless
 
 ### Serverless Services
-
 - **DynamoDB**: A fully managed NoSQL database service that provides fast and predictable performance with seamless scalability.
 - **S3**: Amazon Simple Storage Service (S3) is an object storage service offering industry-leading scalability, data availability, security, and performance.
 - **ECS Fargate**: A serverless compute engine for containers that works with Amazon ECS, allowing you to run containers without managing servers.
