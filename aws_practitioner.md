@@ -897,7 +897,6 @@ AWS CodeStar enables you to quickly develop, build, and deploy applications on A
 AWS Cloud Development Kit (CDK) is an open-source software development framework to define your cloud application resources using familiar programming languages. It allows you to model and provision cloud infrastructure using code.
 
 ### AWS Elastic Beanstalk
-
 AWS Elastic Beanstalk is a platform as a service (PaaS) that simplifies the deployment and management of applications in the AWS Cloud. With Elastic Beanstalk, you can quickly deploy, manage, and scale applications without worrying about the underlying infrastructure.
 
 - **Deployment**: Supports multiple deployment options and allows rolling updates to minimize downtime.
