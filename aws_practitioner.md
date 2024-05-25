@@ -918,7 +918,6 @@ Understanding these provisioning services helps you automate and streamline your
 - **Aurora Serverless**: An on-demand, auto-scaling configuration for Amazon Aurora, automatically adjusting database capacity based on application demand.
 
 ### What is Serverless
-
 Serverless computing allows you to build and run applications and services without thinking about servers. It provides:
 
 - **Highly elastic and scalable**: Automatically adjusts resources to meet the demands of your applications.
