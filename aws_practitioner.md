@@ -888,7 +888,6 @@ AWS Amplify is a set of tools and services that enables front-end web and mobile
 AWS App Runner is a fully managed service that makes it easy for developers to quickly deploy containerized web applications and APIs at scale, without managing the underlying infrastructure.
 
 #### Copilot
-
 AWS Copilot CLI is a command-line tool that simplifies building, releasing, and operating production-ready containerized applications on Amazon ECS and AWS Fargate.
 
 #### CodeStar
