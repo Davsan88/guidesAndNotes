@@ -882,7 +882,6 @@ AWS QuickStarts are automated reference deployments that help you rapidly deploy
 AWS Marketplace is a digital catalog that lists software and services you can buy and deploy to your AWS environment. It simplifies software procurement and deployment for popular software solutions.
 
 #### Amplify
-
 AWS Amplify is a set of tools and services that enables front-end web and mobile developers to build scalable full-stack applications, powered by AWS. It includes a development framework and managed services.
 
 #### App Runner
