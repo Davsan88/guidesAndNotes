@@ -876,7 +876,6 @@ AWS OpsWorks is a configuration management service that provides managed instanc
 AWS CloudFormation provides a common language for you to describe and provision all the infrastructure resources in your cloud environment. It allows you to use a simple text file to model and provision all the resources needed for your applications across all regions and accounts.
 
 #### QuickStarts
-
 AWS QuickStarts are automated reference deployments that help you rapidly deploy fully functional and scalable IT solutions and environments on the AWS Cloud, following AWS best practices.
 
 #### AWS Marketplace
