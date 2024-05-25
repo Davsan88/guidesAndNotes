@@ -966,7 +966,6 @@ A CloudWatch Alarm consists of:
 - **Actions**: The response triggered by the alarm, such as sending notifications or auto-scaling actions.
 
 ### Log Events
-
 Log events in CloudWatch Logs represent discrete entries that describe a specific occurrence, such as an error message or a transaction record, within an application or system.
 
 ### Log Insights
