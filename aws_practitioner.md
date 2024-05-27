@@ -986,11 +986,9 @@ Machine Learning (ML) and Artificial Intelligence (AI) involve using algorithms 
 AWS provides a suite of AI and ML services that enable developers to build, train, and deploy machine learning models quickly and efficiently. These services are designed to help you create intelligent applications that can analyze data, recognize patterns, and make predictions.
 
 ### Big Data & Analytics Services
-
 AWS offers a range of Big Data and Analytics services to help you process and analyze large volumes of data. These services provide the tools needed to collect, store, process, and visualize data, enabling you to gain valuable insights and make data-driven decisions.
 
 ### Amazon QuickSight
-
 Amazon QuickSight is a scalable, serverless, embeddable, machine learning-powered business intelligence (BI) service built for the cloud. It allows you to create and publish interactive dashboards that include ML insights.
 
 ### ML & AI Services - Extended
