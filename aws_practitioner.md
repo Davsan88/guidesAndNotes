@@ -1068,7 +1068,6 @@ Each pillar of the Well-Architected Framework includes:
 - **Learn from all operational failures**: Use failures as learning opportunities to improve system resilience.
 
 ### Security
-
 - **Implement a strong identity foundation**: Use AWS IAM to manage user access securely.
 - **Enable traceability**: Monitor and log all actions to maintain visibility and control.
 - **Apply security at all layers**: Implement security measures across all layers of your architecture.
