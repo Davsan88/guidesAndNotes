@@ -1098,7 +1098,6 @@ Each pillar of the Well-Architected Framework includes:
 - **Analyze and attribute expenditure**: Track and allocate costs to understand spending patterns.
 
 ### AWS Well-Architected Tool
-
 The AWS Well-Architected Tool helps you review and improve your cloud architectures. It provides insights and recommendations based on the Well-Architected Framework.
 
 ### AWS Architecture Center
