@@ -1091,7 +1091,6 @@ Each pillar of the Well-Architected Framework includes:
 - **Consider mechanical sympathy**: Understand how your workload interacts with the underlying infrastructure.
 
 ### Cost Optimization
-
 - **Implement Cloud Financial Management**: Manage and optimize cloud spending.
 - **Adopt a consumption model**: Pay only for the resources you use.
 - **Measure overall efficiency**: Continuously monitor and improve resource usage.
