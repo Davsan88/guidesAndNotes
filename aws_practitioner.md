@@ -1024,7 +1024,6 @@ Intel provides processors based on different architectures:
 - **Intel Gaudi**: AI training processors designed to deliver high performance and efficiency for deep learning workloads.
 
 ### GPU
-
 Graphics Processing Units (GPUs) are specialized processors designed to accelerate the rendering of images and video. In ML and AI, GPUs are used to accelerate the training and inference of deep learning models, significantly reducing the time required to process large datasets.
 
 ### CUDA
