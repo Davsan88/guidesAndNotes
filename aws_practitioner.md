@@ -999,7 +999,6 @@ Amazon QuickSight is a scalable, serverless, embeddable, machine learning-powere
 Generative AI refers to a category of AI algorithms that generate new data based on existing data. This includes applications like text generation, image creation, and music composition.
 
 ### ML & DL Frameworks and Tools
-
 AWS supports various machine learning (ML) and deep learning (DL) frameworks and tools to help you build and deploy your models.
 
 - **Apache MXNet**: An open-source deep learning framework that allows you to define, train, and deploy deep neural networks.
