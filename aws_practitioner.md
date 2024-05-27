@@ -980,7 +980,6 @@ CloudWatch Metrics are fundamental data points about the performance of your sys
 ## ML, AI, and Big Data
 
 ### Intro to ML & AI
-
 Machine Learning (ML) and Artificial Intelligence (AI) involve using algorithms and statistical models to enable computers to perform tasks without explicit instructions. ML focuses on developing systems that can learn and improve from experience, while AI aims to create systems capable of performing tasks that typically require human intelligence.
 
 ### AI & ML Services
