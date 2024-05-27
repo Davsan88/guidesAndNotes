@@ -983,7 +983,6 @@ CloudWatch Metrics are fundamental data points about the performance of your sys
 Machine Learning (ML) and Artificial Intelligence (AI) involve using algorithms and statistical models to enable computers to perform tasks without explicit instructions. ML focuses on developing systems that can learn and improve from experience, while AI aims to create systems capable of performing tasks that typically require human intelligence.
 
 ### AI & ML Services
-
 AWS provides a suite of AI and ML services that enable developers to build, train, and deploy machine learning models quickly and efficiently. These services are designed to help you create intelligent applications that can analyze data, recognize patterns, and make predictions.
 
 ### Big Data & Analytics Services
