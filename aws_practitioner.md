@@ -992,7 +992,6 @@ AWS offers a range of Big Data and Analytics services to help you process and an
 Amazon QuickSight is a scalable, serverless, embeddable, machine learning-powered business intelligence (BI) service built for the cloud. It allows you to create and publish interactive dashboards that include ML insights.
 
 ### ML & AI Services - Extended
-
 - **Amazon Bedrock**: A fully managed service for building, training, and deploying ML models at scale.
 - **Amazon CodeWhisperer**: An AI-powered code companion that helps developers write code faster by providing code recommendations based on the context of the code being written.
 
