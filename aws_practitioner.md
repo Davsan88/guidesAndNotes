@@ -1009,7 +1009,6 @@ AWS supports various machine learning (ML) and deep learning (DL) frameworks and
 - **Hugging Face**: An open-source library that provides tools for natural language processing, including pre-trained models and tokenizers.
 
 ### Apache MXNet
-
 Apache MXNet is an open-source deep learning framework designed to train and deploy deep neural networks at scale. It supports both symbolic and imperative programming, making it flexible and efficient for a wide range of deep learning applications.
 
 ### Intel
