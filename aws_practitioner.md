@@ -1061,7 +1061,6 @@ Each pillar of the Well-Architected Framework includes:
 - **Resources**: Additional materials and tools to help implement best practices.
 
 ### Operational Excellence
-
 - **Perform operations as code**: Define operations procedures as code to standardize and automate tasks.
 - **Make frequent, small, reversible changes**: Reduce risk and improve agility by deploying small changes frequently.
 - **Refine operations procedures frequently**: Continuously improve procedures to adapt to evolving needs.
