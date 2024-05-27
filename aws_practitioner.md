@@ -1038,7 +1038,6 @@ Understanding these services and tools helps you leverage AWS's capabilities to 
 The AWS Well-Architected Framework helps cloud architects build secure, high-performing, resilient, and efficient infrastructure for their applications. It provides a consistent approach to evaluate architectures and implement scalable designs.
 
 ### On Architecture
-
 - **On-Premise Enterprise (Centralized team)**: Traditionally, on-premise architectures are managed by centralized teams responsible for all aspects of the IT infrastructure.
 - **AWS (Distributed teams)**: In the AWS environment, architecture responsibilities are distributed across teams, promoting agility and innovation.
 
