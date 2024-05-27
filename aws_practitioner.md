@@ -1013,8 +1013,7 @@ Apache MXNet is an open-source deep learning framework designed to train and dep
 
 ### Intel
 
-### x86 & ARM
-
+#### x86 & ARM
 Intel provides processors based on different architectures:
 
 - **x86**: A family of instruction set architectures based on the Intel 8086 CPU. Widely used in desktops, laptops, and servers.
