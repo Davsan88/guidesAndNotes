@@ -1042,7 +1042,6 @@ The AWS Well-Architected Framework helps cloud architects build secure, high-per
 - **AWS (Distributed teams)**: In the AWS environment, architecture responsibilities are distributed across teams, promoting agility and innovation.
 
 ### Amazon Leadership Principles
-
 Amazon's Leadership Principles guide the culture and decision-making process within the organization, emphasizing customer obsession, ownership, inventiveness, and long-term thinking.
 
 ### General Design Principles
