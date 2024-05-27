@@ -1077,7 +1077,6 @@ Each pillar of the Well-Architected Framework includes:
 - **Prepare for security events**: Develop incident response plans and practice them regularly.
 
 ### Reliability
-
 - **Automatically recover from failure**: Implement mechanisms to detect and recover from failures.
 - **Test recovery procedures**: Regularly test your recovery processes to ensure they work as expected.
 - **Scale horizontally to increase aggregate system availability**: Distribute workloads across multiple resources to improve availability.
