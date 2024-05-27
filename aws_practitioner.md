@@ -1084,7 +1084,6 @@ Each pillar of the Well-Architected Framework includes:
 - **Manage change with automation**: Use automated tools to manage and deploy changes.
 
 ### Performance Efficiency
-
 - **Democratize advanced technologies**: Make advanced technologies accessible to all teams.
 - **Go global in minutes**: Use AWS global infrastructure to deploy applications quickly around the world.
 - **Use serverless architectures**: Leverage serverless computing to build scalable and cost-effective applications.
