@@ -1011,16 +1011,15 @@ AWS supports various machine learning (ML) and deep learning (DL) frameworks and
 ### Apache MXNet
 Apache MXNet is an open-source deep learning framework designed to train and deploy deep neural networks at scale. It supports both symbolic and imperative programming, making it flexible and efficient for a wide range of deep learning applications.
 
-### Intel
+## Intel
 
-#### x86 & ARM
+### x86 & ARM
 Intel provides processors based on different architectures:
 
 - **x86**: A family of instruction set architectures based on the Intel 8086 CPU. Widely used in desktops, laptops, and servers.
 - **ARM**: A family of reduced instruction set computing (RISC) architectures. Known for energy efficiency, widely used in mobile devices, embedded systems, and increasingly in cloud environments.
 
 ### Intel Xeon Scalable & Intel Gaudi
-
 - **Intel Xeon Scalable**: A line of high-performance processors designed for data centers, supporting a wide range of workloads from AI and analytics to cloud and networking.
 - **Intel Gaudi**: AI training processors designed to deliver high performance and efficiency for deep learning workloads.
 
