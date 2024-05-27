@@ -1045,7 +1045,6 @@ The AWS Well-Architected Framework helps cloud architects build secure, high-per
 Amazon's Leadership Principles guide the culture and decision-making process within the organization, emphasizing customer obsession, ownership, inventiveness, and long-term thinking.
 
 ### General Design Principles
-
 - **Stop guessing your capacity needs**: Automatically scale capacity up or down as needed.
 - **Test systems at production scale**: Perform testing in production environments to understand system behavior.
 - **Automate to make architectural experimentation easier**: Use automation to speed up experimentation and innovation.
