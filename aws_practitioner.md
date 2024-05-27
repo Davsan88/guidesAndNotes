@@ -1032,13 +1032,9 @@ CUDA (Compute Unified Device Architecture) is a parallel computing platform and 
 Understanding these services and tools helps you leverage AWS's capabilities to build, deploy, and scale ML and AI applications, and process and analyze big data efficiently.
 
 
-
-
-
 ## AWS Well-Architected Framework
 
 ### General Definitions
-
 The AWS Well-Architected Framework helps cloud architects build secure, high-performing, resilient, and efficient infrastructure for their applications. It provides a consistent approach to evaluate architectures and implement scalable designs.
 
 ### On Architecture
