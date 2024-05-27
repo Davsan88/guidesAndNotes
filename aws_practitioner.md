@@ -1053,7 +1053,6 @@ Amazon's Leadership Principles guide the culture and decision-making process wit
 - **Improve through game days**: Simulate real-world scenarios to test and improve system reliability and performance.
 
 ### Anatomy of a Pillar
-
 Each pillar of the Well-Architected Framework includes:
 
 - **Design Principles**: Guidelines to improve your architecture.
