@@ -1101,7 +1101,6 @@ Each pillar of the Well-Architected Framework includes:
 The AWS Well-Architected Tool helps you review and improve your cloud architectures. It provides insights and recommendations based on the Well-Architected Framework.
 
 ### AWS Architecture Center
-
 The AWS Architecture Center provides best practices, reference architectures, and blueprints to help you design and build your cloud applications.
 
 
