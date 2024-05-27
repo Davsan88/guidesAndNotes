@@ -996,7 +996,6 @@ Amazon QuickSight is a scalable, serverless, embeddable, machine learning-powere
 - **Amazon CodeWhisperer**: An AI-powered code companion that helps developers write code faster by providing code recommendations based on the context of the code being written.
 
 ### Generative AI
-
 Generative AI refers to a category of AI algorithms that generate new data based on existing data. This includes applications like text generation, image creation, and music composition.
 
 ### ML & DL Frameworks and Tools
