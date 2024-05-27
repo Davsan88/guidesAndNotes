@@ -1027,7 +1027,6 @@ Intel provides processors based on different architectures:
 Graphics Processing Units (GPUs) are specialized processors designed to accelerate the rendering of images and video. In ML and AI, GPUs are used to accelerate the training and inference of deep learning models, significantly reducing the time required to process large datasets.
 
 ### CUDA
-
 CUDA (Compute Unified Device Architecture) is a parallel computing platform and application programming interface (API) model created by NVIDIA. It allows developers to use NVIDIA GPUs for general purpose processing, enabling significant performance improvements in compute-intensive tasks such as deep learning and scientific computing.
 
 Understanding these services and tools helps you leverage AWS's capabilities to build, deploy, and scale ML and AI applications, and process and analyze big data efficiently.
