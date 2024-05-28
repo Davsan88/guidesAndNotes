@@ -1107,7 +1107,6 @@ The AWS Architecture Center provides best practices, reference architectures, an
 ## TCO and Migration
 
 ### Total Cost of Ownership (TCO)
-
 Total Cost of Ownership (TCO) evaluates the cost of owning an IT infrastructure over its lifecycle, including hardware, software, maintenance, and labor. AWS provides tools to compare the cost of on-premises infrastructure with AWS cloud solutions, helping organizations understand potential savings.
 
 ### CAPEX vs OPEX
