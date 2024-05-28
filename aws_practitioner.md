@@ -1110,7 +1110,6 @@ The AWS Architecture Center provides best practices, reference architectures, an
 Total Cost of Ownership (TCO) evaluates the cost of owning an IT infrastructure over its lifecycle, including hardware, software, maintenance, and labor. AWS provides tools to compare the cost of on-premises infrastructure with AWS cloud solutions, helping organizations understand potential savings.
 
 ### CAPEX vs OPEX
-
 - **CAPEX (Capital Expenditure)**: Upfront costs for physical infrastructure, including hardware, software licenses, and installation. These are fixed, long-term investments.
 - **OPEX (Operational Expenditure)**: Ongoing costs for running and maintaining infrastructure, including utility bills, maintenance, and subscription services. AWS enables a shift from CAPEX to OPEX by offering pay-as-you-go pricing models.
 
