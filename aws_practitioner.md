@@ -1114,7 +1114,6 @@ Total Cost of Ownership (TCO) evaluates the cost of owning an IT infrastructure 
 - **OPEX (Operational Expenditure)**: Ongoing costs for running and maintaining infrastructure, including utility bills, maintenance, and subscription services. AWS enables a shift from CAPEX to OPEX by offering pay-as-you-go pricing models.
 
 ### Shifting IT Personnel
-
 Migrating to the cloud allows organizations to shift IT personnel from maintenance tasks to more strategic roles, such as developing new applications and optimizing existing ones. This enhances productivity and innovation.
 
 ### AWS Pricing Calculator
