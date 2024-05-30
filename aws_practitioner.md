@@ -1131,10 +1131,7 @@ AWS Database Migration Service (DMS) helps you migrate databases to AWS quickly 
 ### Cloud Adoption Framework
 The AWS Cloud Adoption Framework (CAF) provides guidance and best practices to help organizations achieve successful cloud adoption. It outlines the necessary steps and strategies across six perspectives: Business, People, Governance, Platform, Security, and Operations.
 
-Understanding TCO and migration services helps organizations plan and execute their move to the cloud efficiently, optimizing costs and enhancing their IT capabilities.
-
-
-
+>Understanding TCO and migration services helps organizations plan and execute their move to the cloud efficiently, optimizing costs and enhancing their IT capabilities.
 
 
 ## Billing and Pricing
