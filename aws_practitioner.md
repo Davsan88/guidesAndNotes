@@ -1218,7 +1218,6 @@ AWS provides programmatic access to pricing information through APIs, allowing y
 >Understanding these billing and pricing tools helps you manage your AWS costs effectively, ensuring that you stay within budget and optimize your spending.
 
 
-
 ## Security
 
 ### Defense-In-Depth
