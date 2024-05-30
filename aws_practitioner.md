@@ -1182,7 +1182,6 @@ The AWS Service Health Dashboard provides a comprehensive view of the health of 
 The AWS Personal Health Dashboard provides alerts and remediation guidance when AWS experiences events that may impact your AWS resources.
 
 ### AWS Abuse
-
 AWS Abuse addresses issues related to the abusive use of AWS services, such as spam, port scanning, and denial of service (DoS) attacks.
 
 ### AWS Free Tier
