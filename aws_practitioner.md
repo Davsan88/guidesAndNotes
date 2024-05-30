@@ -1166,7 +1166,6 @@ Consolidated Billing allows you to combine multiple AWS accounts into a single b
 Consolidated Billing can help you achieve volume discounts by pooling usage across all accounts in the organization, maximizing savings.
 
 ### AWS Trusted Advisor
-
 AWS Trusted Advisor provides real-time guidance to help you provision your resources following AWS best practices. It covers cost optimization, performance, security, fault tolerance, and service limits.
 
 ### SLAs
