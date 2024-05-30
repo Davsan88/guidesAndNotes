@@ -1189,7 +1189,6 @@ AWS Abuse addresses issues related to the abusive use of AWS services, such as s
 The AWS Free Tier offers limited usage of AWS services for free, allowing you to explore and experiment with AWS services without incurring costs.
 
 ### AWS Credits
-
 AWS Credits can be used to offset your AWS bill, making it more affordable to experiment with and use AWS services. Credits are often awarded through promotional programs, training, and events.
 
 ### AWS Partner Network
