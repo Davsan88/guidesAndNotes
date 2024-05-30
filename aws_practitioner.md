@@ -1123,7 +1123,6 @@ The AWS Pricing Calculator helps you estimate the cost of AWS services for your 
 Migration Evaluator (formerly TSO Logic) provides a data-driven assessment to build a business case for AWS cloud migration. It analyzes your on-premises infrastructure and calculates the potential savings and benefits of moving to AWS.
 
 ### VM Import/Export
-
 VM Import/Export enables you to import virtual machine images from your existing environment to AWS and export them back to your on-premises environment. This facilitates seamless migration of workloads to and from the AWS cloud.
 
 ### Database Migration Service
