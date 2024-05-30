@@ -1117,7 +1117,6 @@ Total Cost of Ownership (TCO) evaluates the cost of owning an IT infrastructure 
 Migrating to the cloud allows organizations to shift IT personnel from maintenance tasks to more strategic roles, such as developing new applications and optimizing existing ones. This enhances productivity and innovation.
 
 ### AWS Pricing Calculator
-
 The AWS Pricing Calculator helps you estimate the cost of AWS services for your specific use cases. It provides a detailed cost breakdown, allowing you to plan your budget effectively and compare costs with on-premises solutions.
 
 ### Migration Evaluator
