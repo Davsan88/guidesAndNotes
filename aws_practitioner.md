@@ -1157,7 +1157,6 @@ AWS offers multiple support plans to meet different needs:
 A Technical Account Manager (TAM) provides proactive guidance and advocacy, helping you design, architect, and optimize your AWS environment.
 
 ### AWS Marketplace
-
 AWS Marketplace is a digital catalog with thousands of software listings from independent software vendors that make it easy to find, test, buy, and deploy software that runs on AWS.
 
 ### Consolidated Billing
