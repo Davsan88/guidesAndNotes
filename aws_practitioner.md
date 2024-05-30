@@ -1154,7 +1154,6 @@ AWS offers multiple support plans to meet different needs:
 - **Enterprise**: All Business support features plus a Technical Account Manager (TAM), concierge support team, and more.
 
 ### TAM - Technical Account Manager
-
 A Technical Account Manager (TAM) provides proactive guidance and advocacy, helping you design, architect, and optimize your AWS environment.
 
 ### AWS Marketplace
