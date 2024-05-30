@@ -1126,7 +1126,6 @@ Migration Evaluator (formerly TSO Logic) provides a data-driven assessment to bu
 VM Import/Export enables you to import virtual machine images from your existing environment to AWS and export them back to your on-premises environment. This facilitates seamless migration of workloads to and from the AWS cloud.
 
 ### Database Migration Service
-
 AWS Database Migration Service (DMS) helps you migrate databases to AWS quickly and securely. The source database remains fully operational during the migration, minimizing downtime. DMS supports homogeneous migrations (e.g., Oracle to Oracle) and heterogeneous migrations (e.g., Oracle to Amazon Aurora).
 
 ### Cloud Adoption Framework
