@@ -1210,7 +1210,6 @@ Cost Allocation Tags allow you to categorize and track your AWS costs by assigni
 Billing Alarms in Amazon CloudWatch alert you when your estimated charges exceed your predefined threshold, helping you manage and control your spending.
 
 ### AWS Cost Explorer
-
 AWS Cost Explorer provides an easy-to-use interface to visualize, understand, and manage your AWS costs and usage over time.
 
 ### Programmatic Pricing APIs
