@@ -1207,7 +1207,6 @@ AWS Cost & Usage Reports offer the most comprehensive set of cost and usage data
 Cost Allocation Tags allow you to categorize and track your AWS costs by assigning tags to resources, making it easier to manage and allocate costs.
 
 ### Billing Alarms
-
 Billing Alarms in Amazon CloudWatch alert you when your estimated charges exceed your predefined threshold, helping you manage and control your spending.
 
 ### AWS Cost Explorer
