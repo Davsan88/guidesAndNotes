@@ -1179,7 +1179,6 @@ Service Level Agreements (SLAs) define the service commitments and guarantees pr
 The AWS Service Health Dashboard provides a comprehensive view of the health of AWS services across all regions, informing you of outages and disruptions.
 
 ### AWS Personal Health Dashboard
-
 The AWS Personal Health Dashboard provides alerts and remediation guidance when AWS experiences events that may impact your AWS resources.
 
 ### AWS Abuse
