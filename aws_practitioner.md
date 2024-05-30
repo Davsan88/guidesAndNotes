@@ -1137,7 +1137,6 @@ The AWS Cloud Adoption Framework (CAF) provides guidance and best practices to h
 ## Billing and Pricing
 
 ### AWS Free Services
-
 AWS offers several services that are free to use, helping you manage and operate your AWS environment without incurring additional costs.
 
 - **IAM (Identity and Access Management)**: Securely control access to AWS services and resources.
