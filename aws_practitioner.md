@@ -1163,7 +1163,6 @@ AWS Marketplace is a digital catalog with thousands of software listings from in
 Consolidated Billing allows you to combine multiple AWS accounts into a single billing entity, simplifying payment and tracking.
 
 ### Consolidated Billing - Volume Discounts
-
 Consolidated Billing can help you achieve volume discounts by pooling usage across all accounts in the organization, maximizing savings.
 
 ### AWS Trusted Advisor
