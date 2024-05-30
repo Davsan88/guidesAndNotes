@@ -1169,7 +1169,6 @@ Consolidated Billing can help you achieve volume discounts by pooling usage acro
 AWS Trusted Advisor provides real-time guidance to help you provision your resources following AWS best practices. It covers cost optimization, performance, security, fault tolerance, and service limits.
 
 ### SLAs
-
 Service Level Agreements (SLAs) define the service commitments and guarantees provided by AWS:
 
 - **SLA (Service Level Agreement)**: The overall agreement defining the service level.
