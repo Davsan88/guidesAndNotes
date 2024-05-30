@@ -1120,7 +1120,6 @@ Migrating to the cloud allows organizations to shift IT personnel from maintenan
 The AWS Pricing Calculator helps you estimate the cost of AWS services for your specific use cases. It provides a detailed cost breakdown, allowing you to plan your budget effectively and compare costs with on-premises solutions.
 
 ### Migration Evaluator
-
 Migration Evaluator (formerly TSO Logic) provides a data-driven assessment to build a business case for AWS cloud migration. It analyzes your on-premises infrastructure and calculates the potential savings and benefits of moving to AWS.
 
 ### VM Import/Export
