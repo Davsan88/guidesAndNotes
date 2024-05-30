@@ -1201,7 +1201,6 @@ AWS Budgets allows you to set custom cost and usage budgets and receive alerts w
 AWS Budget Reports provide detailed insights into your cost and usage data, helping you track and manage your spending effectively.
 
 ### AWS Cost & Usage Reports
-
 AWS Cost & Usage Reports offer the most comprehensive set of cost and usage data available, enabling you to analyze your spending in detail.
 
 ### Cost Allocation Tags
