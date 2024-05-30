@@ -1192,7 +1192,6 @@ The AWS Free Tier offers limited usage of AWS services for free, allowing you to
 AWS Credits can be used to offset your AWS bill, making it more affordable to experiment with and use AWS services. Credits are often awarded through promotional programs, training, and events.
 
 ### AWS Partner Network
-
 The AWS Partner Network (APN) is a global community of partners that leverages AWS to build solutions and services for customers. APN partners receive business, technical, marketing, and go-to-market support.
 
 ### AWS Budgets
