@@ -1213,7 +1213,6 @@ Billing Alarms in Amazon CloudWatch alert you when your estimated charges exceed
 AWS Cost Explorer provides an easy-to-use interface to visualize, understand, and manage your AWS costs and usage over time.
 
 ### Programmatic Pricing APIs
-
 AWS provides programmatic access to pricing information through APIs, allowing you to integrate cost management and optimization into your applications and workflows.
 
 Understanding these billing and pricing tools helps you manage your AWS costs effectively, ensuring that you stay within budget and optimize your spending.
