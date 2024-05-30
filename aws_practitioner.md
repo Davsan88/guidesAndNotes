@@ -1176,7 +1176,6 @@ Service Level Agreements (SLAs) define the service commitments and guarantees pr
 - **SLO (Service Level Objective)**: The target value or range for a service level indicator.
 
 ### Service Health Dashboard
-
 The AWS Service Health Dashboard provides a comprehensive view of the health of AWS services across all regions, informing you of outages and disruptions.
 
 ### AWS Personal Health Dashboard
