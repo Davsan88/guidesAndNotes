@@ -1160,7 +1160,6 @@ A Technical Account Manager (TAM) provides proactive guidance and advocacy, help
 AWS Marketplace is a digital catalog with thousands of software listings from independent software vendors that make it easy to find, test, buy, and deploy software that runs on AWS.
 
 ### Consolidated Billing
-
 Consolidated Billing allows you to combine multiple AWS accounts into a single billing entity, simplifying payment and tracking.
 
 ### Consolidated Billing - Volume Discounts
