@@ -1195,7 +1195,6 @@ AWS Credits can be used to offset your AWS bill, making it more affordable to ex
 The AWS Partner Network (APN) is a global community of partners that leverages AWS to build solutions and services for customers. APN partners receive business, technical, marketing, and go-to-market support.
 
 ### AWS Budgets
-
 AWS Budgets allows you to set custom cost and usage budgets and receive alerts when your usage exceeds your thresholds.
 
 ### AWS Budget Reports
