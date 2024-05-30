@@ -1146,7 +1146,6 @@ AWS offers several services that are free to use, helping you manage and operate
 - **Elastic Beanstalk**: Deploy and manage applications without worrying about the infrastructure.
 
 ### AWS Support Plans (IMPORTANT)
-
 AWS offers multiple support plans to meet different needs:
 
 - **Basic**: Free access to account and billing support, and access to AWS community forums.
