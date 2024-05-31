@@ -1263,7 +1263,6 @@ The CIA Triad is a fundamental concept in information security, focusing on thre
 - **Availability**: Ensuring that information and resources are available to authorized users when needed.
 
 ### Vulnerabilities
-
 Vulnerabilities are weaknesses in a system that can be exploited by threats to gain unauthorized access to resources. Identifying and mitigating vulnerabilities is critical to maintaining a secure environment.
 
 ### Encryption
