@@ -1299,7 +1299,6 @@ AWS compliance programs help customers meet regulatory and compliance requiremen
 Penetration Testing (Pen Testing) involves simulating cyber attacks on your system to identify and fix security vulnerabilities. AWS allows customers to perform Pen Testing on their AWS environments.
 
 ### AWS Artifact
-
 AWS Artifact is a portal that provides on-demand access to AWS's security and compliance reports, such as SOC, PCI, and ISO certifications.
 
 ### AWS Inspector
