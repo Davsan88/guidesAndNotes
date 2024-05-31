@@ -1288,7 +1288,6 @@ Digital signatures use cryptographic techniques to verify the authenticity and i
 - **At-Rest Encryption**: Protects data stored on disks or other media.
 
 ### Compliance Programs
-
 AWS compliance programs help customers meet regulatory and compliance requirements. AWS provides certifications and attestations for various standards, such as:
    - General Data Protection Regulation (GDPR)
    - International Organization for Standardization (ISO / International Electrotechnical Commission)
