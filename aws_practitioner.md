@@ -1275,7 +1275,6 @@ Cyphers are algorithms used to perform encryption and decryption. Common cyphers
 Cryptographic keys are used in encryption and decryption processes. They come in two types: symmetric (same key for encryption and decryption) and asymmetric (different keys for encryption and decryption).
 
 ### Hashing & Salting
-
 - **Hashing**: The process of converting data into a fixed-size string of characters, which is typically a hash code. Hashing is used for data integrity checks.
 - **Salting**: Adding random data to a hash input to ensure that even identical inputs produce different hash outputs, enhancing security.
 
