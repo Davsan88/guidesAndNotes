@@ -1307,7 +1307,6 @@ Hardening refers to the process of securing a system by reducing its surface of 
 AWS Inspector is an automated security assessment service that runs a security benchmark against specific EC2 instances. It can perform *Network* and *Host* Assesments.
 
 ### DDoS
-
 Distributed Denial of Service (DDoS) attacks aim to disrupt the normal traffic of a targeted server, service, or network by overwhelming it with a flood of internet traffic.
 
 ### AWS Shield
