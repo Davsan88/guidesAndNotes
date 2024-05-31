@@ -1282,7 +1282,6 @@ Cryptographic keys are used in encryption and decryption processes. They come in
 Digital signatures use cryptographic techniques to verify the authenticity and integrity of a message, software, or digital document. They ensure that the message has not been altered and confirm the sender's identity.
 
 ### In-Transit vs At-Rest Encryption
-
 - **In-Transit Encryption**: Protects data as it moves between systems or over networks.
    - Transport Layer Security (TLS)
    - Secure Sockets Layers (SSL)
