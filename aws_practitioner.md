@@ -1256,7 +1256,6 @@ AWS employs a comprehensive, multi-layered approach to security, often referred 
 
 
 ### CIA Triad
-
 The CIA Triad is a fundamental concept in information security, focusing on three key principles:
 
 - **Confidentiality**: Ensuring that information is accessible only to those authorized to access it.
