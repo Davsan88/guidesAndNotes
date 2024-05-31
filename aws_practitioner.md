@@ -1296,7 +1296,6 @@ AWS compliance programs help customers meet regulatory and compliance requiremen
    - Federal Information Processing Standard (FIPS) 140-2
 
 ### Pen Testing
-
 Penetration Testing (Pen Testing) involves simulating cyber attacks on your system to identify and fix security vulnerabilities. AWS allows customers to perform Pen Testing on their AWS environments.
 
 ### AWS Artifact
