@@ -1272,7 +1272,6 @@ Encryption is the process of converting data into a coded form to prevent unauth
 Cyphers are algorithms used to perform encryption and decryption. Common cyphers include AES (Advanced Encryption Standard) and RSA (Rivest-Shamir-Adleman).
 
 ### Cryptographic Keys
-
 Cryptographic keys are used in encryption and decryption processes. They come in two types: symmetric (same key for encryption and decryption) and asymmetric (different keys for encryption and decryption).
 
 ### Hashing & Salting
