@@ -1224,7 +1224,6 @@ AWS provides programmatic access to pricing information through APIs, allowing y
 Defense-in-Depth is a multi-layered security strategy that involves implementing multiple levels of security controls throughout an IT system. This approach ensures that if one layer fails, additional layers will continue to protect the system.
 
 #### 7 Layers of Security
-
 AWS employs a comprehensive, multi-layered approach to security, often referred to as the "7 layers of security." Each layer addresses specific aspects of security to protect your data and applications.
 
 1. **Data**
