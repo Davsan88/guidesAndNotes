@@ -1269,7 +1269,6 @@ Vulnerabilities are weaknesses in a system that can be exploited by threats to g
 Encryption is the process of converting data into a coded form to prevent unauthorized access. AWS provides various encryption services to protect data at rest and in transit.
 
 ### Cyphers
-
 Cyphers are algorithms used to perform encryption and decryption. Common cyphers include AES (Advanced Encryption Standard) and RSA (Rivest-Shamir-Adleman).
 
 ### Cryptographic Keys
