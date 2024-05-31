@@ -1279,7 +1279,6 @@ Cryptographic keys are used in encryption and decryption processes. They come in
 - **Salting**: Adding random data to a hash input to ensure that even identical inputs produce different hash outputs, enhancing security.
 
 ### Digital Signatures & Signing
-
 Digital signatures use cryptographic techniques to verify the authenticity and integrity of a message, software, or digital document. They ensure that the message has not been altered and confirm the sender's identity.
 
 ### In-Transit vs At-Rest Encryption
