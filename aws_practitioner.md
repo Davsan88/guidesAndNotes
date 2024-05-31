@@ -1266,7 +1266,6 @@ The CIA Triad is a fundamental concept in information security, focusing on thre
 Vulnerabilities are weaknesses in a system that can be exploited by threats to gain unauthorized access to resources. Identifying and mitigating vulnerabilities is critical to maintaining a secure environment.
 
 ### Encryption
-
 Encryption is the process of converting data into a coded form to prevent unauthorized access. AWS provides various encryption services to protect data at rest and in transit.
 
 ### Cyphers
