@@ -1318,7 +1318,6 @@ Both plans integrate with AWS Web Application Fireqall (WAF)
 AWS GuardDuty is a *threat detection service* that continuously monitors for malicious activity and unauthorized behavior to protect your AWS accounts and workloads. It uses ML to analyze CloudTrail Logs, VPC Flow Logs and DNS Logs.
 
 ### Amazon Macie
-
 Amazon Macie is a fully managed data security and data privacy service that uses machine learning and pattern matching to discover, monitor *S3 data access* activity, and protect sensitive data in AWS. Macie works by using ML to analyze CloudTrail Logs.
 
 ### AWS VPN
