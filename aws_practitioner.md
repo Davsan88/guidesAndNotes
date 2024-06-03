@@ -1330,7 +1330,6 @@ AWS WAF is a web application firewall that helps protect your web applications f
 WAF can be attached to either **CloudFront** or and **Application Load Balancer (ALB)**. Protect applications from attackes covered in the *OWASP Top 10* most dangerous attacks.
 
 ### Hardware Security Module (HSM)
-
 AWS CloudHSM provides managed hardware security modules that enable you to generate and use your own encryption keys on the AWS Cloud, complying with stringent security standards.
 
 ### AWS KMS (Key Management Service)
