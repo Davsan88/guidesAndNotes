@@ -1321,7 +1321,6 @@ AWS GuardDuty is a *threat detection service* that continuously monitors for mal
 Amazon Macie is a fully managed data security and data privacy service that uses machine learning and pattern matching to discover, monitor *S3 data access* activity, and protect sensitive data in AWS. Macie works by using ML to analyze CloudTrail Logs.
 
 ### AWS VPN
-
 AWS VPN enables a *secure* and **private tunnel** between your on-premises networks and your AWS environments through IPsec VPN connections.
 
 **Internet Protocol Security (IPSec)** is a secure network protocol suit that authenticates and encrypts the packets of data to provide secure encrypted communication between two computers over and IP network. Used in virtual private networks (VPNs).
