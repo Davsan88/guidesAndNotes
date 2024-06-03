@@ -1315,7 +1315,6 @@ AWS Shield is a managed DDoS protection service that safeguards web applications
 Both plans integrate with AWS Web Application Fireqall (WAF)
 
 ### AWS GuardDuty
-
 AWS GuardDuty is a *threat detection service* that continuously monitors for malicious activity and unauthorized behavior to protect your AWS accounts and workloads. It uses ML to analyze CloudTrail Logs, VPC Flow Logs and DNS Logs.
 
 ### Amazon Macie
