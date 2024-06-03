@@ -1326,7 +1326,6 @@ AWS VPN enables a *secure* and **private tunnel** between your on-premises netwo
 **Internet Protocol Security (IPSec)** is a secure network protocol suit that authenticates and encrypts the packets of data to provide secure encrypted communication between two computers over and IP network. Used in virtual private networks (VPNs).
 
 ### AWS WAF (Web Application Firewall)
-
 AWS WAF is a web application firewall that helps protect your web applications from common web exploits and vulnerabilities by allowing you to control the traffic that reaches your applications.
 WAF can be attached to either **CloudFront** or and **Application Load Balancer (ALB)**. Protect applications from attackes covered in the *OWASP Top 10* most dangerous attacks.
 
