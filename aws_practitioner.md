@@ -1310,7 +1310,6 @@ AWS Inspector is an automated security assessment service that runs a security b
 Distributed Denial of Service (DDoS) attacks aim to disrupt the normal traffic of a targeted server, service, or network by overwhelming it with a flood of internet traffic.
 
 ### AWS Shield
-
 AWS Shield is a managed DDoS protection service that safeguards web applications running on AWS. It comes in two tiers: Standard (free) and Advanced (paid). 
 
 Both plans integrate with AWS Web Application Fireqall (WAF)
