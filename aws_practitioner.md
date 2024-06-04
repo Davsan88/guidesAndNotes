@@ -1344,7 +1344,6 @@ AWS CloudHSM is a cloud-based hardware security module (HSM) that allows you to 
 ## Variation Study
 
 ### Know Your Initialisms
-
 Understanding the various initialisms used in AWS services is crucial for distinguishing between them and knowing their specific functionalities.
 
 | Initialism | Meaning                            | Initialism | Meaning                      | Initialism | Meaning                            |
