@@ -1333,7 +1333,6 @@ WAF can be attached to either **CloudFront** or and **Application Load Balancer 
 AWS CloudHSM provides managed hardware security modules that enable you to generate and use your own encryption keys on the AWS Cloud, complying with stringent security standards.
 
 ### AWS KMS (Key Management Service)
-
 AWS KMS is a managed service that enables you to create and control the encryption keys used to encrypt your data, integrating with various AWS services for seamless encryption.
 
 ### CloudHSM
