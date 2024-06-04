@@ -1336,7 +1336,6 @@ AWS CloudHSM provides managed hardware security modules that enable you to gener
 AWS KMS is a managed service that enables you to create and control the encryption keys used to encrypt your data, integrating with various AWS services for seamless encryption.
 
 ### CloudHSM
-
 AWS CloudHSM is a cloud-based hardware security module (HSM) that allows you to manage your encryption keys using FIPS 140-2 Level 3 validated HSMs, providing high levels of security for cryptographic operations.
 
 Understanding these security services and concepts helps you build a secure, compliant, and resilient AWS environment.
