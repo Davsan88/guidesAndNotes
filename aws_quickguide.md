@@ -2,7 +2,7 @@
 
 ## The Benefits of Cloud
 
-- **Scalability**: Easily scale resources up or down to meet demand.
+- **Scalability**: Easily scale resources up or down to meet demand (*Planned*).
 - **Elasticity**: Automatically increase or decrease resource capacity based on usage.
 - **Cost Efficiency**: Pay only for what you use; reduce capital expenditure.
 - **Speed and Agility**: Quickly deploy and iterate applications; faster time to market.
