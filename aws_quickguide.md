@@ -74,3 +74,12 @@
 - **Measure overall efficiency**: Track and optimize resource utilization.
 - **Stop spending money on undifferentiated heavy lifting**: Use managed services to reduce operational burden.
 - **Analyze and attribute expenditure**: Continuously analyze and allocate costs to appropriate units or projects.
+
+
+## AWS Cloud Adoption Framework (CAF)
+
+### Business Perspective
+
+- Align IT with business goals.
+- Manage business risks.
+- Understand cloud value proposition.
