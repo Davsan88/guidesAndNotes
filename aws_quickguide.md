@@ -66,3 +66,11 @@
 - **Use serverless architectures**: Leverage serverless services to reduce management overhead.
 - **Experiment more often**: Encourage experimentation to drive innovation.
 - **Consider mechanical sympathy**: Match workload requirements to the appropriate resources.
+
+### Cost Optimization
+
+- **Implement Cloud Financial Management**: Monitor and manage cloud spending effectively.
+- **Adopt a consumption model**: Pay only for the resources you use.
+- **Measure overall efficiency**: Track and optimize resource utilization.
+- **Stop spending money on undifferentiated heavy lifting**: Use managed services to reduce operational burden.
+- **Analyze and attribute expenditure**: Continuously analyze and allocate costs to appropriate units or projects.
