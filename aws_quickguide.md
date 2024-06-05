@@ -27,3 +27,5 @@
 
 ### Shared Responsibilities
 
+- **Patch Management**: AWS handles the underlying infrastructure, while the customer patches their own systems and applications.
+
