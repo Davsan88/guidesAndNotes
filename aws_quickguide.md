@@ -58,3 +58,11 @@
 - **Scale horizontally to increase aggregate system availability**: Use horizontal scaling to distribute load.
 - **Stop guessing capacity**: Use auto-scaling to adjust resources based on demand.
 - **Manage change with automation**: Automate change management processes.
+
+### Performance Efficiency
+
+- **Democratize advanced technologies**: Make advanced technology accessible to the team.
+- **Go global in minutes**: Use AWS global infrastructure to deploy applications globally.
+- **Use serverless architectures**: Leverage serverless services to reduce management overhead.
+- **Experiment more often**: Encourage experimentation to drive innovation.
+- **Consider mechanical sympathy**: Match workload requirements to the appropriate resources.
