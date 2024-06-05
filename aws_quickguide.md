@@ -12,3 +12,8 @@
 
 
 ## Shared Responsibility Model
+
+### AWS Responsibilities (Security OF the Cloud)
+
+- **Physical Security**: Data center security (e.g., building access, environmental control).
+- **Infrastructure Security**: Protecting hardware, software, networking, and facilities.
