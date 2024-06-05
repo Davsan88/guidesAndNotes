@@ -89,3 +89,10 @@
 - Cultivate cloud skills.
 - Change management.
 - Roles and responsibilities alignment.
+
+
+### Governance Perspective
+
+- Establish governance and compliance controls.
+- Manage cloud budgets and forecasts.
+- Monitor and enforce policies.
