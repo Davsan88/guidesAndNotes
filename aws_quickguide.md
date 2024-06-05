@@ -40,3 +40,13 @@
 - **Refine operations procedures frequently**: Continuously improve operational processes.
 - **Anticipate failure**: Design systems to handle and recover from failures.
 - **Learn from all operational failures**: Analyze and incorporate lessons learned from failures.
+
+### Security
+
+- **Implement a strong identity foundation**: Use IAM roles and policies for secure access management.
+- **Enable traceability**: Track and monitor all actions and changes within the environment.
+- **Apply security at all layers**: Implement security measures at every layer (network, application, data).
+- **Automate security best practices**: Use automation to enforce security policies and procedures.
+- **Protect data in transit and at rest**: Encrypt data to ensure confidentiality and integrity.
+- **Keep people away from data**: Minimize direct human access to data.
+- **Prepare for security events**: Have incident response plans in place.
