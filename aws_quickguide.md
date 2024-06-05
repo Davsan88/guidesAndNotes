@@ -50,3 +50,11 @@
 - **Protect data in transit and at rest**: Encrypt data to ensure confidentiality and integrity.
 - **Keep people away from data**: Minimize direct human access to data.
 - **Prepare for security events**: Have incident response plans in place.
+
+### Reliability
+
+- **Automatically recover from failure**: Implement automated recovery mechanisms.
+- **Test recovery procedures**: Regularly test disaster recovery plans and processes.
+- **Scale horizontally to increase aggregate system availability**: Use horizontal scaling to distribute load.
+- **Stop guessing capacity**: Use auto-scaling to adjust resources based on demand.
+- **Manage change with automation**: Automate change management processes.
