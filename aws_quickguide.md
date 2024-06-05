@@ -29,3 +29,14 @@
 
 - **Patch and Configuration Management**: AWS handles the underlying infrastructure, while the customer patches and configures their own systems and applications.
 - **Data Encryption**: AWS provides encryption tools and services, but customers must enable and manage encryption for their data.
+
+
+## Pillars of the Well-Architected Framework
+
+### Operational Excellence
+
+- **Perform operations as code**: Use infrastructure as code (IaC) to automate deployment and management.
+- **Make frequent, small, reversible changes**: Implement changes incrementally to reduce risk.
+- **Refine operations procedures frequently**: Continuously improve operational processes.
+- **Anticipate failure**: Design systems to handle and recover from failures.
+- **Learn from all operational failures**: Analyze and incorporate lessons learned from failures.
