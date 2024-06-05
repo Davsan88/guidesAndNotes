@@ -107,3 +107,9 @@
 - Implement security controls to protect data and assets.
 - Continuously monitor and improve security posture.
 - Align with compliance requirements.
+
+### Operations Perspective
+
+- Manage and support cloud environments.
+- Monitor and optimize operational health.
+- Implement incident response mechanisms.
