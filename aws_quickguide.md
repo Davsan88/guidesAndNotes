@@ -9,3 +9,6 @@
 - **Global Reach**: Deploy applications in multiple regions worldwide with low latency.
 - **Security**: Benefit from AWS’s extensive security protocols and compliance certifications.
 - **Disaster Recovery**: Improved recovery times and reliability with built-in backup and restore capabilities.
+
+
+## Shared Responsibility Model
