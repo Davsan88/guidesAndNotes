@@ -101,3 +101,9 @@
 
 - Design, implement, and optimize the AWS infrastructure.
 - Ensure secure, scalable, and cost-effective solutions.
+
+### Security Perspective
+
+- Implement security controls to protect data and assets.
+- Continuously monitor and improve security posture.
+- Align with compliance requirements.
