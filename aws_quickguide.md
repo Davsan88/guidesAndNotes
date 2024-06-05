@@ -27,5 +27,5 @@
 
 ### Shared Responsibilities
 
-- **Patch Management**: AWS handles the underlying infrastructure, while the customer patches their own systems and applications.
-
+- **Patch and Configuration Management**: AWS handles the underlying infrastructure, while the customer patches and confires their own systems and applications.
+- **Data Encryption**: AWS provides encryption tools and services, but customers must enable and manage encryption for their data.
