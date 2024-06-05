@@ -1,0 +1,1 @@
+# Quick Guide to Passing the AWS Certified Cloud Practitioner (CLF-C02) Exam
