@@ -164,3 +164,17 @@ AWS offers four different support plans designed to meet various levels of techn
   - Proactive engagement with AWS experts.
   - Cost optimization and operational recommendations.
 - **Use Case**: Suitable for organizations that require robust support and architectural guidance without the higher cost and more personalized engagement of Enterprise Support.
+
+
+### 5. Enterprise Support
+
+- **Cost**: Starting at $15,000 per month (or a percentage of monthly AWS usage)
+- **Key Features**:
+  - All features of Business Support.
+  - Access to a Technical Account Manager (TAM).
+  - Concierge support team for billing and account assistance.
+  - Infrastructure event management.
+  - Well-Architected Reviews.
+  - Operations reviews and reporting.
+  - 24/7 technical support with rapid response.
+- **Use Case**: Tailored for large enterprises with mission-critical workloads requiring comprehensive, proactive support and operational insights.
