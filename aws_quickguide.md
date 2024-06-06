@@ -129,3 +129,13 @@ AWS offers four different support plans designed to meet various levels of techn
   - AWS Personal Health Dashboard: Access to health status and notifications.
 - **Use Case**: Suitable for individuals and small-scale applications with minimal support needs.
 
+### 2. Developer Support
+
+- **Cost**: Starting at $29 per month (or 3% of monthly AWS usage)
+- **Key Features**:
+  - All features of Basic Support.
+  - Business hours access to Cloud Support Associates via email.
+  - General guidance on best practices.
+  - Client-side diagnostic tools.
+  - Building-block architecture support.
+- **Use Case**: Ideal for developers or organizations experimenting with AWS and needing more technical support during business hours.
