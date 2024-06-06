@@ -120,3 +120,12 @@
 
 AWS offers four different support plans designed to meet various levels of technical support and operational requirements:
 
+### 1. Basic Support
+
+- **Cost**: Free
+- **Key Features**:
+  - 24/7 access to customer service, documentation, whitepapers, and support forums.
+  - AWS Trusted Advisor: Access to seven core Trusted Advisor checks.
+  - AWS Personal Health Dashboard: Access to health status and notifications.
+- **Use Case**: Suitable for individuals and small-scale applications with minimal support needs.
+
