@@ -139,3 +139,15 @@ AWS offers four different support plans designed to meet various levels of techn
   - Client-side diagnostic tools.
   - Building-block architecture support.
 - **Use Case**: Ideal for developers or organizations experimenting with AWS and needing more technical support during business hours.
+
+### 3. Business Support
+
+- **Cost**: Starting at $100 per month (or a percentage of monthly AWS usage)
+- **Key Features**:
+  - All features of Developer Support.
+  - 24/7 access to Cloud Support Engineers via phone, chat, and email.
+  - Full set of AWS Trusted Advisor checks.
+  - Proactive guidance: Contextual guidance based on best practices.
+  - Third-party software support.
+  - Infrastructure event management for an additional fee.
+- **Use Case**: Best for businesses running production workloads on AWS that require timely support and guidance.
