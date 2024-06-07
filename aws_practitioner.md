@@ -1394,7 +1394,6 @@ Understanding AWS services with "Connect" in their name helps differentiate thei
 - **AWS Elemental MediaConvert**: *The New Way*. A file-based video transcoding service with broadcast-grade features, designed for large-scale video processing workflows. *More robust* service that can perform various operations during transcoding.
 
 ### AWS Artifact vs Amazon Inspector
-
 - **AWS Artifact**: Why should an enterprise trust AWS?
 Generates a security report that's based on **global compliance frameworks**, such as SOC, PCI, and ISO certifications.
 - **Amazon Inspector**: How do we know this EC2 instance is secure? Prove it?
