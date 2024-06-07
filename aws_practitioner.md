@@ -1370,7 +1370,6 @@ Understanding the various initialisms used in AWS services is crucial for distin
 - **SQS (Simple Queue Service)**: A fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications. It uses a queuing model to send messages between distributed application components.
 
 ### SNS vs SES vs PinPoint vs Workmail
-
 - **SNS (Simple Notification Service)**: Used for sending notifications, i.e. *Practical and Internal Emails*, to multiple subscribers via various protocols such as SMS, SQS, email, and HTTP/S. Generally used for sending **plain text emails**. Best example is billing alarms. 
 Need to what are **Topics** and **Subcriptions**!
 - **SES (Simple Email Service)**: A cloud-based email sending service designed for sending marketing, notification, and *Transactional Emails*, e.g. Signup. Reset Password, Invoices...
@@ -1379,7 +1378,6 @@ SES sends **html emails, , SNS cannot.
 - **WorkMail**: A secure, managed business email and calendar service. *Email Web Client* similar to Gmail and Outlook.
 
 ### Amazon Inspector vs AWS Trusted Advisor
-
 - **Amazon Inspector**: An automated security assessment service that helps improve the security and compliance of applications deployed on AWS. It identifies vulnerabilities and deviations from best practices. Audits **a single EC2 instance** that you've selected.
 - **AWS Trusted Advisor**: **Doesn't generate out a PDF** report. Gives a **holistic view** of recommendations accorss multiple services and best practices.
 
