@@ -1400,7 +1400,6 @@ Generates a security report that's based on **global compliance frameworks**, su
 An automated security assessment service that helps improve the security and compliance of applications deployed on AWS by identifying vulnerabilities and deviations from best practices.
 
 ### ELB Variants
-
 Understanding the different types of Elastic Load Balancers (ELBs) helps you choose the right one for your use case:
 
 - **ELB (Elastic Load Balancer)**: A general term for load balancing services provided by AWS.
