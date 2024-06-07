@@ -1382,7 +1382,6 @@ SES sends **html emails, , SNS cannot.
 - **AWS Trusted Advisor**: **Doesn't generate out a PDF** report. Gives a **holistic view** of recommendations accorss multiple services and best practices.
 
 ### Connect Named Services
-
 Understanding AWS services with "Connect" in their name helps differentiate their purposes:
 
 - **Amazon Connect**: A cloud-based contact center service that makes it easy to set up and manage a customer contact center.
