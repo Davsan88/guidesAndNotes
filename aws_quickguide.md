@@ -17,7 +17,6 @@
 - **Infrastructure Security**: Protecting hardware, software, networking, and facilities.
 
 ### Customer Responsibilities (Security in the Cloud)
-
 - **Data Security**: Protecting data at rest and in transit.
 - **Identity and Access Management**: Managing user permissions and credentials.
 - **Application Security**: Ensuring applications are securely configured and maintained.
