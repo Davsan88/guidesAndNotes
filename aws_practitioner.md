@@ -1408,6 +1408,6 @@ Understanding the different types of Elastic Load Balancers (ELBs) helps you cho
    - **GWLB (Gateway Load Balancer)**: A transparent network gateway that can deploy, scale, and manage third-party virtual appliances, operating at layer 3 (network layer) of the OSI model.
    - **CLB (Classic Load Balancer)**: The original AWS load balancer, supporting layer 3, 4 and layer 7 load balancing, intended for applications built within the EC2-Classic network. RETIRED!
 
-Understanding these variations and differences between AWS services helps you select the appropriate tools for your specific needs, ensuring efficient and effective use of AWS resources.
+>Understanding these variations and differences between AWS services helps you select the appropriate tools for your specific needs, ensuring efficient and effective use of AWS resources.
 
 
