@@ -1,7 +1,6 @@
 # Quick Guide to Passing the AWS Certified Cloud Practitioner (CLF-C02) Exam
 
 ## The Benefits of Cloud
-
 - **Scalability**: Easily scale resources up or down to meet demand (*Planned Growth*).
 - **Elasticity**: Automatically increase or decrease resource capacity based on usage (*Automatic Adjustments*).
 - **Cost Efficiency**: Pay only for what you use; reduce capital expenditure.
