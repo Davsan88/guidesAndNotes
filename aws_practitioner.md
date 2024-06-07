@@ -1362,12 +1362,10 @@ Understanding the various initialisms used in AWS services is crucial for distin
 | WAF        | Web Application Firewall           |            |                              | RI         | Reserved Instance                  |
 
 ### AWS Config vs AWS AppConfig
-
 - **AWS Config**: A service that enables you to assess, audit, and evaluate the configurations of your AWS resources. It continuously monitors and records AWS resource configurations and allows automated compliance checks.
 - **AWS AppConfig**: A service used to quickly deploy application configurations, allowing you to manage and deploy application configuration changes in a controlled and monitored way.
 
 ### SNS vs SQS
-
 - **SNS (Simple Notification Service)**: A fully managed messaging service for both application-to-application (A2A) and application-to-person (A2P) communication. It uses a publish/subscribe model to send messages to multiple subscribers. Generally used for sending **plain text emails**.
 - **SQS (Simple Queue Service)**: A fully managed message queuing service that enables you to decouple and scale microservices, distributed systems, and serverless applications. It uses a queuing model to send messages between distributed application components.
 
