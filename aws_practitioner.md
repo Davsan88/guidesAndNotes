@@ -1390,7 +1390,6 @@ Understanding AWS services with "Connect" in their name helps differentiate thei
 
 
 ### Elastic Transcoder vs MediaConvert
-
 - **Elastic Transcoder**: *The Old Way*. A cloud-based media transcoding service designed to convert media files from their source format into versions that will play back on devices like smartphones, tablets, and PCs.
 - **AWS Elemental MediaConvert**: *The New Way*. A file-based video transcoding service with broadcast-grade features, designed for large-scale video processing workflows. *More robust* service that can perform various operations during transcoding.
 
