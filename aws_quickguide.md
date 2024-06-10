@@ -70,7 +70,6 @@
 ## AWS Cloud Adoption Framework (CAF)
 
 ### Business Perspective
-
 - Align IT with business goals.
 - Manage business risks.
 - Understand cloud value proposition.
