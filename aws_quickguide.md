@@ -86,7 +86,6 @@
 - Monitor and enforce policies.
 
 ### Platform Perspective
-
 - Design, implement, and optimize the AWS infrastructure.
 - Ensure secure, scalable, and cost-effective solutions.
 
