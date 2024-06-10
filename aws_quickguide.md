@@ -75,7 +75,6 @@
 - Understand cloud value proposition.
 
 ### People Perspective
-
 - Cultivate cloud skills.
 - Change management.
 - Roles and responsibilities alignment.
