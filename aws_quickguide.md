@@ -46,7 +46,6 @@
 - **Prepare for security events**: Have incident response plans in place.
 
 ### Reliability
-
 - **Automatically recover from failure**: Implement automated recovery mechanisms.
 - **Test recovery procedures**: Regularly test disaster recovery plans and processes.
 - **Scale horizontally to increase aggregate system availability**: Use horizontal scaling to distribute load.
