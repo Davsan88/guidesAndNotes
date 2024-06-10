@@ -60,7 +60,6 @@
 - **Consider mechanical sympathy**: Match workload requirements to the appropriate resources.
 
 ### Cost Optimization
-
 - **Implement Cloud Financial Management**: Monitor and manage cloud spending effectively.
 - **Adopt a consumption model**: Pay only for the resources you use.
 - **Measure overall efficiency**: Track and optimize resource utilization.
