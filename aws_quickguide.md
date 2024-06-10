@@ -30,7 +30,6 @@
 ## Pillars of the Well-Architected Framework
 
 ### Operational Excellence
-
 - **Perform operations as code**: Use infrastructure as code (IaC) to automate deployment and management.
 - **Make frequent, small, reversible changes**: Implement changes incrementally to reduce risk.
 - **Refine operations procedures frequently**: Continuously improve operational processes.
