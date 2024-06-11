@@ -112,7 +112,6 @@ AWS offers four different support plans designed to meet various levels of techn
 - **Use Case**: Suitable for individuals and small-scale applications with minimal support needs.
 
 ### 2. Developer Support
-
 - **Cost**: Starting at $29 per month (or 3% of monthly AWS usage)
 - **Key Features**:
   - All features of Basic Support.
