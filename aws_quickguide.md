@@ -144,7 +144,6 @@ AWS offers four different support plans designed to meet various levels of techn
 - **Use Case**: Suitable for organizations that require robust support and architectural guidance without the higher cost and more personalized engagement of Enterprise Support.
 
 ### 5. Enterprise Support
-
 - **Cost**: Starting at $15,000 per month (or a percentage of monthly AWS usage)
 - **Key Features**:
   - All features of Business Support.
