@@ -156,7 +156,6 @@ AWS offers four different support plans designed to meet various levels of techn
 - **Use Case**: Tailored for large enterprises with mission-critical workloads requiring comprehensive, proactive support and operational insights.
 
 ### Summary of Support Plans
-
 - **Basic Support**: Free, with limited features and no technical support.
 - **Developer Support**: Starts at $29/month, includes business hours email support, and general guidance.
 - **Business Support**: Starts at $100/month, 24/7 support, full Trusted Advisor checks, and third-party software support.
