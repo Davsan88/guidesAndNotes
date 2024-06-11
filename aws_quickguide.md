@@ -95,7 +95,6 @@
 - Align with compliance requirements.
 
 ### Operations Perspective
-
 - Manage and support cloud environments.
 - Monitor and optimize operational health.
 - Implement incident response mechanisms.
