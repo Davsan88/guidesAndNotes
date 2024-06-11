@@ -155,7 +155,6 @@ AWS offers four different support plans designed to meet various levels of techn
   - 24/7 technical support with rapid response.
 - **Use Case**: Tailored for large enterprises with mission-critical workloads requiring comprehensive, proactive support and operational insights.
 
-
 ### Summary of Support Plans
 
 - **Basic Support**: Free, with limited features and no technical support.
