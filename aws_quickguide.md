@@ -132,7 +132,6 @@ AWS offers four different support plans designed to meet various levels of techn
   - Infrastructure event management for an additional fee.
 - **Use Case**: Best for businesses running production workloads on AWS that require timely support and guidance.
 
-
 ### 4. Enterprise On-Ramp
 
 - **Cost**: Starting at $5,500 per month (or a percentage of monthly AWS usage)
