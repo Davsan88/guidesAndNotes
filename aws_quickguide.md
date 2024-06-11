@@ -100,7 +100,6 @@
 - Implement incident response mechanisms.
 
 
-
 ## AWS Support Plans
 
 AWS offers four different support plans designed to meet various levels of technical support and operational requirements:
