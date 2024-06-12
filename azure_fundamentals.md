@@ -40,3 +40,13 @@
 ### Virtual Machines
 ### Containers
 ### Functions
+
+## Global Infrastructure
+### Regions and Geographies
+    58 regions across 140 countries
+### Paired Regions
+### Region Types and Service Availability
+### Special Regions
+### Availability Zones
+### AZ Supported Regions
+### Availability Sets Fault and Update Domains
