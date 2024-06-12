@@ -46,7 +46,15 @@
     58 regions across 140 countries
 ### Paired Regions
 ### Region Types and Service Availability
+    Recommended region / Alternate region
+    General availability (GA)
+        1. Foundational 
+        2. Mainstream
+        3. Specialized
 ### Special Regions
 ### Availability Zones
 ### AZ Supported Regions
 ### Availability Sets Fault and Update Domains
+    * Fault Domain
+    * Update Domain
+    * Availability Set
