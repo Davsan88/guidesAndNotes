@@ -33,3 +33,10 @@
     Pilot Light - RPO/RTP 10mins
     Warm Standby - RPO/RTP Minutes
     Multi-site Active/active - RPO/RTP Real-time
+
+
+## Evolution of Compute
+### Dedicated Servers
+### Virtual Machines
+### Containers
+### Functions
