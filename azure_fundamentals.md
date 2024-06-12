@@ -58,3 +58,6 @@
     * Fault Domain
     * Update Domain
     * Availability Set
+
+
+https://www.youtube.com/watch?v=5abffC-K40c&t=11s
