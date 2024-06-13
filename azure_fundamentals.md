@@ -71,7 +71,6 @@ Fault Tolerance is the ability of a system to continue operating properly in the
 High Durability refers to the ability of a system to protect and preserve data against failures. This involves using redundant storage, backups, and data replication to ensure that data is not lost or corrupted.
 
 ### Business Continuity Plan
-
 A Business Continuity Plan (BCP) outlines procedures for maintaining business operations during and after a disaster. It ensures that critical business functions can continue or be restored quickly.
 
 #### Recovery Point Objective (RPO)
