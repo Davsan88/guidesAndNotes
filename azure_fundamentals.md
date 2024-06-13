@@ -56,7 +56,6 @@ A Solutions Architect designs and manages the implementation of solutions in the
 A Cloud Architect oversees an organization’s cloud computing strategy, including adoption plans, cloud application design, and cloud management and monitoring. They ensure that cloud solutions meet the company's technical and business requirements.
 
 ### High Availability
-
 High Availability refers to systems that are continuously operational and accessible without interruption. It involves designing infrastructure to minimize downtime and ensure that applications are always available to users.
 
 ### High Scalability
