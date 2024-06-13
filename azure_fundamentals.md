@@ -86,7 +86,6 @@ Recovery Time Objective (RTO) is the maximum acceptable amount of time to restor
 - **Description**: Involves regularly backing up data and restoring it in the event of a failure. Suitable for systems with less stringent recovery requirements.
 
 #### Pilot Light
-
 - **RPO/RTO**: 10 minutes
 - **Description**: Keeps a minimal version of the environment running in the cloud. When needed, you can quickly scale it up to restore full operations.
 
