@@ -28,7 +28,6 @@ Cloud computing can be classified into three main types:
 - **Hybrid Cloud**: A combination of public and private clouds, allowing data and applications to be shared between them.
 
 ### Types of Cloud Computing Responsibilities
-
 Cloud responsibilities are shared between the cloud provider and the customer:
 
 - **Cloud Provider Responsibilities**: Physical infrastructure security, hardware maintenance, and network controls.
