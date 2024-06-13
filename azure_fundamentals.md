@@ -9,7 +9,6 @@ Cloud computing is the delivery of computing services over the internet (the clo
 Common cloud services include Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). These services provide various levels of control, flexibility, and management.
 
 ### What is Microsoft and Azure
-
 Microsoft Azure is a cloud computing platform and service created by Microsoft. It provides a range of cloud services, including those for computing, analytics, storage, and networking. Users can select and configure these services to meet their specific needs.
 
 ### Benefits of Cloud Computing
