@@ -77,7 +77,6 @@ A Business Continuity Plan (BCP) outlines procedures for maintaining business op
 Recovery Point Objective (RPO) is the maximum acceptable amount of data loss measured in time. It indicates how far back in time you must go to recover data in the event of a disruption.
 
 #### Recovery Time Objective (RTO)
-
 Recovery Time Objective (RTO) is the maximum acceptable amount of time to restore a service or system after a disaster. It indicates how quickly you need to recover operations.
 
 ### Disaster Recovery Options
