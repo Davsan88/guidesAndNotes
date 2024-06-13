@@ -68,7 +68,6 @@ High Elasticity is the capability of a system to automatically adjust resource l
 Fault Tolerance is the ability of a system to continue operating properly in the event of a failure of some of its components. This involves designing systems that can detect failures and automatically recover from them, ensuring continuous operation.
 
 ### High Durability
-
 High Durability refers to the ability of a system to protect and preserve data against failures. This involves using redundant storage, backups, and data replication to ensure that data is not lost or corrupted.
 
 ### Business Continuity Plan
