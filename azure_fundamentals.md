@@ -44,7 +44,6 @@ Cloud deployment models include:
 Total Cost of Ownership (TCO) evaluates the cost of owning and operating an IT infrastructure over its entire lifecycle, including hardware, software, maintenance, and labor. Cloud computing often reduces TCO by minimizing upfront capital expenditures and converting them into operational expenditures.
 
 ### CAPEX vs OPEX
-
 - **CAPEX (Capital Expenditure)**: Upfront costs for physical infrastructure, including hardware and software licenses. These are fixed, long-term investments.
 - **OPEX (Operational Expenditure)**: Ongoing costs for running and maintaining infrastructure, including utility bills, maintenance, and subscription services. Cloud computing shifts many IT expenses from CAPEX to OPEX, offering more flexibility and cost efficiency.
 
