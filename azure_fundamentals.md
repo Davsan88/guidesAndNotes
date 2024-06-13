@@ -21,7 +21,6 @@ Microsoft Azure is a cloud computing platform and service created by Microsoft. 
 - **Current**: Ensures you always have access to the latest technologies and updates.
 
 ### Types of Cloud Computing
-
 Cloud computing can be classified into three main types:
 
 - **Public Cloud**: Services offered over the public internet and available to anyone who wants to purchase them.
