@@ -50,7 +50,6 @@ Total Cost of Ownership (TCO) evaluates the cost of owning and operating an IT i
 ### Cloud Architecture Terminologies
 
 #### Solutions Architect
-
 A Solutions Architect designs and manages the implementation of solutions in the cloud. They focus on designing applications and services that meet specific business needs, ensuring that they are scalable, reliable, and cost-effective.
 
 #### Cloud Architect
