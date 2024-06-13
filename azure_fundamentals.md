@@ -82,7 +82,6 @@ Recovery Time Objective (RTO) is the maximum acceptable amount of time to restor
 ### Disaster Recovery Options
 
 #### Backup & Restore
-
 - **RPO/RTO**: Hours
 - **Description**: Involves regularly backing up data and restoring it in the event of a failure. Suitable for systems with less stringent recovery requirements.
 
