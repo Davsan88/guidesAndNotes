@@ -34,7 +34,6 @@ Cloud responsibilities are shared between the cloud provider and the customer:
 - **Customer Responsibilities**: Data security, access management, and application security.
 
 ### Cloud Deployment Models
-
 Cloud deployment models include:
 
 - **Public Cloud**: Fully managed by the cloud provider, accessible over the internet.
