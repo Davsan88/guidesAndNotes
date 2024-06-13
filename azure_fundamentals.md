@@ -6,7 +6,6 @@
 Cloud computing is the delivery of computing services over the internet (the cloud), allowing for on-demand access to resources such as servers, storage, databases, networking, software, and analytics.
 
 ### Common Cloud Services
-
 Common cloud services include Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS). These services provide various levels of control, flexibility, and management.
 
 ### What is Microsoft and Azure
