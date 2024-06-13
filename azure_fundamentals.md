@@ -12,7 +12,6 @@ Common cloud services include Infrastructure as a Service (IaaS), Platform as a 
 Microsoft Azure is a cloud computing platform and service created by Microsoft. It provides a range of cloud services, including those for computing, analytics, storage, and networking. Users can select and configure these services to meet their specific needs.
 
 ### Benefits of Cloud Computing
-
 - **Cost-effective**: Reduces the need for upfront capital expenditure on hardware and software, offering a pay-as-you-go model.
 - **Global**: Allows you to deploy applications in multiple regions worldwide, ensuring low latency and high availability.
 - **Secure**: Provides robust security measures to protect data and applications, including compliance with various regulations.
