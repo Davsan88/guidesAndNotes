@@ -59,7 +59,6 @@ A Cloud Architect oversees an organization’s cloud computing strategy, includi
 High Availability refers to systems that are continuously operational and accessible without interruption. It involves designing infrastructure to minimize downtime and ensure that applications are always available to users.
 
 ### High Scalability
-
 High Scalability is the ability of a system to handle increased loads by adding resources as needed. This ensures that applications can grow and manage more users, data, or transactions without compromising performance.
 
 ### High Elasticity
