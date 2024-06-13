@@ -74,7 +74,6 @@ High Durability refers to the ability of a system to protect and preserve data a
 A Business Continuity Plan (BCP) outlines procedures for maintaining business operations during and after a disaster. It ensures that critical business functions can continue or be restored quickly.
 
 #### Recovery Point Objective (RPO)
-
 Recovery Point Objective (RPO) is the maximum acceptable amount of data loss measured in time. It indicates how far back in time you must go to recover data in the event of a disruption.
 
 #### Recovery Time Objective (RTO)
