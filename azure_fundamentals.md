@@ -47,24 +47,72 @@ Total Cost of Ownership (TCO) evaluates the cost of owning and operating an IT i
 - **CAPEX (Capital Expenditure)**: Upfront costs for physical infrastructure, including hardware and software licenses. These are fixed, long-term investments.
 - **OPEX (Operational Expenditure)**: Ongoing costs for running and maintaining infrastructure, including utility bills, maintenance, and subscription services. Cloud computing shifts many IT expenses from CAPEX to OPEX, offering more flexibility and cost efficiency.
 
+### Cloud Architecture Terminologies
 
-## Cloud Concepts
-### What is Cloud Computing
-### Common Cloud Services
-### What is Microsoft and Azure
-### Benefits of Cloud Computing
-    Cost-effective
-    Global
-    Secure
-    Reliabale
-    Scalable
-    Elastic
-    Current
-### Types of Cloud Computing
-### Types of Cloud Computing Responsibilities
-### Cloud Deployment Models
-### Total Cost of Ownership
-### CAPEX vs OPEX
+#### Solutions Architect
+
+A Solutions Architect designs and manages the implementation of solutions in the cloud. They focus on designing applications and services that meet specific business needs, ensuring that they are scalable, reliable, and cost-effective.
+
+#### Cloud Architect
+
+A Cloud Architect oversees an organization’s cloud computing strategy, including adoption plans, cloud application design, and cloud management and monitoring. They ensure that cloud solutions meet the company's technical and business requirements.
+
+### High Availability
+
+High Availability refers to systems that are continuously operational and accessible without interruption. It involves designing infrastructure to minimize downtime and ensure that applications are always available to users.
+
+### High Scalability
+
+High Scalability is the ability of a system to handle increased loads by adding resources as needed. This ensures that applications can grow and manage more users, data, or transactions without compromising performance.
+
+### High Elasticity
+
+High Elasticity is the capability of a system to automatically adjust resource levels to handle varying loads. This ensures that applications can scale up during peak times and scale down during off-peak times, optimizing resource usage and cost.
+
+### Fault Tolerance
+
+Fault Tolerance is the ability of a system to continue operating properly in the event of a failure of some of its components. This involves designing systems that can detect failures and automatically recover from them, ensuring continuous operation.
+
+### High Durability
+
+High Durability refers to the ability of a system to protect and preserve data against failures. This involves using redundant storage, backups, and data replication to ensure that data is not lost or corrupted.
+
+### Business Continuity Plan
+
+A Business Continuity Plan (BCP) outlines procedures for maintaining business operations during and after a disaster. It ensures that critical business functions can continue or be restored quickly.
+
+#### Recovery Point Objective (RPO)
+
+Recovery Point Objective (RPO) is the maximum acceptable amount of data loss measured in time. It indicates how far back in time you must go to recover data in the event of a disruption.
+
+#### Recovery Time Objective (RTO)
+
+Recovery Time Objective (RTO) is the maximum acceptable amount of time to restore a service or system after a disaster. It indicates how quickly you need to recover operations.
+
+### Disaster Recovery Options
+
+#### Backup & Restore
+
+- **RPO/RTO**: Hours
+- **Description**: Involves regularly backing up data and restoring it in the event of a failure. Suitable for systems with less stringent recovery requirements.
+
+#### Pilot Light
+
+- **RPO/RTO**: 10 minutes
+- **Description**: Keeps a minimal version of the environment running in the cloud. When needed, you can quickly scale it up to restore full operations.
+
+#### Warm Standby
+
+- **RPO/RTO**: Minutes
+- **Description**: Keeps a scaled-down version of the fully functional environment running in the cloud. During a disaster, this environment can be quickly scaled up to take over full production workloads.
+
+#### Multi-site Active/Active
+
+- **RPO/RTO**: Real-time
+- **Description**: Runs multiple active environments in different locations. In the event of a failure, traffic is redirected to the remaining active sites with no downtime.
+
+Understanding these terminologies and disaster recovery options helps ensure that your cloud infrastructure is robust, resilient, and capable of meeting business continuity requirements.
+
 
 
 ### Cloud Architecture Terminologies
