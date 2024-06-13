@@ -90,7 +90,6 @@ Recovery Time Objective (RTO) is the maximum acceptable amount of time to restor
 - **Description**: Keeps a minimal version of the environment running in the cloud. When needed, you can quickly scale it up to restore full operations.
 
 #### Warm Standby
-
 - **RPO/RTO**: Minutes
 - **Description**: Keeps a scaled-down version of the fully functional environment running in the cloud. During a disaster, this environment can be quickly scaled up to take over full production workloads.
 
