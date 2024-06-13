@@ -41,7 +41,6 @@ Cloud deployment models include:
 - **Hybrid Cloud**: Integrates public and private clouds to leverage the benefits of both.
 
 ### Total Cost of Ownership (TCO)
-
 Total Cost of Ownership (TCO) evaluates the cost of owning and operating an IT infrastructure over its entire lifecycle, including hardware, software, maintenance, and labor. Cloud computing often reduces TCO by minimizing upfront capital expenditures and converting them into operational expenditures.
 
 ### CAPEX vs OPEX
