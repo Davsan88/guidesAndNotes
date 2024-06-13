@@ -97,7 +97,7 @@ Recovery Time Objective (RTO) is the maximum acceptable amount of time to restor
 - **RPO/RTO**: Real-time
 - **Description**: Runs multiple active environments in different locations. In the event of a failure, traffic is redirected to the remaining active sites with no downtime.
 
-Understanding these terminologies and disaster recovery options helps ensure that your cloud infrastructure is robust, resilient, and capable of meeting business continuity requirements.
+>Understanding these terminologies and disaster recovery options helps ensure that your cloud infrastructure is robust, resilient, and capable of meeting business continuity requirements.
 
 
 
