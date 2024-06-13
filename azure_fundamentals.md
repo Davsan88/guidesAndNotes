@@ -62,7 +62,6 @@ High Availability refers to systems that are continuously operational and access
 High Scalability is the ability of a system to handle increased loads by adding resources as needed. This ensures that applications can grow and manage more users, data, or transactions without compromising performance.
 
 ### High Elasticity
-
 High Elasticity is the capability of a system to automatically adjust resource levels to handle varying loads. This ensures that applications can scale up during peak times and scale down during off-peak times, optimizing resource usage and cost.
 
 ### Fault Tolerance
