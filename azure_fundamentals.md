@@ -65,7 +65,6 @@ High Scalability is the ability of a system to handle increased loads by adding 
 High Elasticity is the capability of a system to automatically adjust resource levels to handle varying loads. This ensures that applications can scale up during peak times and scale down during off-peak times, optimizing resource usage and cost.
 
 ### Fault Tolerance
-
 Fault Tolerance is the ability of a system to continue operating properly in the event of a failure of some of its components. This involves designing systems that can detect failures and automatically recover from them, ensuring continuous operation.
 
 ### High Durability
