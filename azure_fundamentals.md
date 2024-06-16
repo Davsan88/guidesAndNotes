@@ -106,7 +106,6 @@ Recovery Time Objective (RTO) is the maximum acceptable amount of time to restor
 Dedicated Servers are physical servers allocated to a single customer, providing full control over the server's resources and configurations. They offer high performance and security but require significant management and maintenance efforts.
 
 ### Virtual Machines
-
 Virtual Machines (VMs) abstract the physical hardware into multiple virtual instances, each running its own operating system and applications. VMs allow better utilization of physical resources and provide isolation between different workloads, reducing the need for physical hardware management.
 
 
