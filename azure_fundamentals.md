@@ -100,30 +100,11 @@ Recovery Time Objective (RTO) is the maximum acceptable amount of time to restor
 >Understanding these terminologies and disaster recovery options helps ensure that your cloud infrastructure is robust, resilient, and capable of meeting business continuity requirements.
 
 
-
-### Cloud Architecture Terminologies
-    Solutions Architect
-    Cloud Architect
-### High Availability
-### High Scalability
-### High Elasticity
-### Fault Tolerance
-### High Durability
-### Business Continuity Plan
-#### Recovery Point Objective (RPO)
-#### Recovery Time Objective (RTO)
-### Disaster Recovery Option
-    Backup & Restore - RPO/RTP Hours
-    Pilot Light - RPO/RTP 10mins
-    Warm Standby - RPO/RTP Minutes
-    Multi-site Active/active - RPO/RTP Real-time
-
-
 ## Evolution of Compute
-### Dedicated Servers
-### Virtual Machines
-### Containers
-### Functions
+
+
+
+
 
 ## Global Infrastructure
 ### Regions and Geographies
