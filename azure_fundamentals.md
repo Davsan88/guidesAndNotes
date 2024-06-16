@@ -103,7 +103,6 @@ Recovery Time Objective (RTO) is the maximum acceptable amount of time to restor
 ## Evolution of Compute
 
 ### Dedicated Servers
-
 Dedicated Servers are physical servers allocated to a single customer, providing full control over the server's resources and configurations. They offer high performance and security but require significant management and maintenance efforts.
 
 
