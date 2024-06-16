@@ -109,8 +109,13 @@ Dedicated Servers are physical servers allocated to a single customer, providing
 Virtual Machines (VMs) abstract the physical hardware into multiple virtual instances, each running its own operating system and applications. VMs allow better utilization of physical resources and provide isolation between different workloads, reducing the need for physical hardware management.
 
 ### Containers
-
 Containers package applications and their dependencies into a single unit, enabling them to run consistently across different environments. Containers share the host OS kernel, making them lightweight and more efficient than VMs. They are ideal for microservices architectures, allowing for easy deployment, scaling, and management.
+
+### Functions
+
+Functions, also known as serverless computing, allow you to run code in response to events without provisioning or managing servers. In this model, the cloud provider automatically scales and manages the infrastructure, charging only for the compute time consumed. This approach enables rapid development and deployment of applications with minimal operational overhead.
+
+
 
 
 ## Global Infrastructure
