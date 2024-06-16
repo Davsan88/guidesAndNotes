@@ -114,7 +114,7 @@ Containers package applications and their dependencies into a single unit, enabl
 ### Functions
 Functions, also known as serverless computing, allow you to run code in response to events without provisioning or managing servers. In this model, the cloud provider automatically scales and manages the infrastructure, charging only for the compute time consumed. This approach enables rapid development and deployment of applications with minimal operational overhead.
 
-Understanding these stages in the evolution of compute helps you choose the right compute model for your specific needs, balancing performance, scalability, and management requirements.
+>Understanding these stages in the evolution of compute helps you choose the right compute model for your specific needs, balancing performance, scalability, and management requirements.
 
 
 ## Global Infrastructure
