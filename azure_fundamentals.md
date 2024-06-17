@@ -148,7 +148,6 @@ Service Availability Levels:
 ### Special Regions
 
 Special Regions cater to specific compliance, regulatory, and operational requirements:
-
 - **US Government**: Dedicated regions for US government agencies and their partners.
 - **China**: Operated by 21Vianet, compliant with Chinese regulations.
 - **Germany**: Operated by a German data trustee, compliant with German data protection laws.
