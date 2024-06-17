@@ -127,7 +127,6 @@ Azure's infrastructure spans:
 - **Geographies**: Defined areas that contain two or more regions, ensuring compliance with data residency and sovereignty requirements.
 
 ### Paired Regions
-
 Paired Regions are a feature of Azure's infrastructure design where each Azure region is paired with another region within the same geography. This setup provides several advantages:
 
 - **Data Residency**: Ensures data remains within the same geography.
