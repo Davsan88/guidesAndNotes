@@ -177,8 +177,13 @@ Functions, also known as serverless computing, allow you to run code in response
 
 ## Azure Container Instances
 ### Introduction to ACI
+(Include differences with VMs)
+Container groups
 ### Container Restart Policies
-### Container Environment Variables
+* Always
+* Never
+* OnFailure
+### Container Environment Variables (Env Vars)
 ### Container Persistent Storage
 
 
