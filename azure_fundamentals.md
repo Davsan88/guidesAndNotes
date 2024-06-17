@@ -163,7 +163,6 @@ Availability Zones are physically separate locations within an Azure region. Eac
 Not all Azure regions support Availability Zones. Regions that do support Availability Zones are designed to provide enhanced availability and resilience for critical applications by offering multiple isolated locations within a region.
 
 ### Availability Sets Fault and Update Domains
-
 Availability Sets are a mechanism to enhance the availability of VMs in Azure by grouping them into fault and update domains:
 
 - **Fault Domain**: A logical group of hardware that shares a common power source and network switch. Distributing VMs across multiple fault domains ensures that a hardware failure does not affect all VMs.
