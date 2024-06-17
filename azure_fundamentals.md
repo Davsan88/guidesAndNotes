@@ -120,6 +120,63 @@ Functions, also known as serverless computing, allow you to run code in response
 ## Global Infrastructure
 Azure's global infrastructure is designed to deliver high availability, performance, and resilience for cloud applications. It is composed of various regions, geographies, and availability zones to meet diverse customer needs.
 
+### Regions and Geographies
+
+Azure's infrastructure spans:
+
+- **Regions**: Physical locations around the world where data centers are clustered. Azure has 58 regions across 140 countries, providing global coverage and data residency options.
+- **Geographies**: Defined areas that contain two or more regions, ensuring compliance with data residency and sovereignty requirements.
+
+### Paired Regions
+
+Paired Regions are a feature of Azure's infrastructure design where each Azure region is paired with another region within the same geography. This setup provides several advantages:
+
+- **Data Residency**: Ensures data remains within the same geography.
+- **Disaster Recovery**: Provides redundancy and high availability, allowing for data replication and failover between paired regions.
+- **Compliance**: Helps meet regulatory requirements for data handling and storage.
+
+### Region Types and Service Availability
+
+Azure regions are categorized based on the availability and scope of services they offer:
+
+- **Recommended Region**: Regions with the broadest range of services and features, recommended for most users.
+- **Alternate Region**: Additional regions that provide options if the recommended region is not suitable for specific needs.
+
+Service Availability Levels:
+
+1. **Foundational**: Basic services that are available in all regions.
+2. **Mainstream**: A wider array of services suitable for general use.
+3. **Specialized**: Specific services available in select regions, often for unique regulatory or performance needs.
+
+### Special Regions
+
+Special Regions cater to specific compliance, regulatory, and operational requirements:
+
+- **US Government**: Dedicated regions for US government agencies and their partners.
+- **China**: Operated by 21Vianet, compliant with Chinese regulations.
+- **Germany**: Operated by a German data trustee, compliant with German data protection laws.
+- **Azure Government Secret and DoD regions**: High-security regions for US government agencies handling classified information.
+
+### Availability Zones
+
+Availability Zones are physically separate locations within an Azure region. Each zone is composed of one or more data centers with independent power, cooling, and networking. They offer:
+
+- **High Availability**: Ensures that applications and data are resilient to data center failures.
+- **Fault Tolerance**: Protects against potential data center disruptions by distributing resources across multiple zones.
+
+### AZ Supported Regions
+
+Not all Azure regions support Availability Zones. Regions that do support Availability Zones are designed to provide enhanced availability and resilience for critical applications by offering multiple isolated locations within a region.
+
+### Availability Sets Fault and Update Domains
+
+Availability Sets are a mechanism to enhance the availability of VMs in Azure by grouping them into fault and update domains:
+
+- **Fault Domain**: A logical group of hardware that shares a common power source and network switch. Distributing VMs across multiple fault domains ensures that a hardware failure does not affect all VMs.
+- **Update Domain**: A group of VMs and underlying hardware that can be updated and rebooted at the same time. Spreading VMs across multiple update domains minimizes the impact of maintenance activities.
+- **Availability Set**: A logical grouping of VMs that ensures they are distributed across multiple fault and update domains, providing redundancy and increasing application uptime.
+
+Understanding Azure's global infrastructure, including regions, availability zones, and special regions, helps in designing robust, scalable, and compliant cloud applications.
 
 ## Compute Services
 ### Computing Services
