@@ -171,7 +171,7 @@ Functions, also known as serverless computing, allow you to run code in response
 ### Runtimes
 ### Custom Containers
 ### Deployment Slots
-### App Service Enviroment
+### App Service Enviroment (ASE)
 ### Azure App Service Plan
 
 
