@@ -138,14 +138,33 @@ Functions, also known as serverless computing, allow you to run code in response
 
 ## Compute Services
 ### Computing Services
+* Azure Vitual Machines
+* Azure Container Instances
+* Azure Kubernetes Service (AKS)
+* Azure Service Fabric
+* Azure Functions
+* Azure Batch
 ### Azure Virtual machines
+* NSG
+* NIC
+* VM instance
+* Public IP address
+* Virtual Network (VNet)
 ### Operation Systems
 ### Azure Scale Sets
 ### Load Balancer
+* Application Gateway HTTP/HTTPS
+* Azure Load Balancer TCP/UDP
 ### Scaling Policy
+* Scale-In Policy
+* Update policy
 ### Health Montoring
+* Health monitoring
+    * Application health extension
+    * Load Balancer Probe 
+* Automatic repair policy
 ### Azure Virtual Desktop
-### Launching a Server
+
 
 
 
