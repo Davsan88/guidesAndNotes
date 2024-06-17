@@ -121,7 +121,6 @@ Functions, also known as serverless computing, allow you to run code in response
 Azure's global infrastructure is designed to deliver high availability, performance, and resilience for cloud applications. It is composed of various regions, geographies, and availability zones to meet diverse customer needs.
 
 ### Regions and Geographies
-
 Azure's infrastructure spans:
 
 - **Regions**: Physical locations around the world where data centers are clustered. Azure has 58 regions across 140 countries, providing global coverage and data residency options.
