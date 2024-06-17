@@ -154,7 +154,6 @@ Special Regions cater to specific compliance, regulatory, and operational requir
 - **Azure Government Secret and DoD regions**: High-security regions for US government agencies handling classified information.
 
 ### Availability Zones
-
 Availability Zones are physically separate locations within an Azure region. Each zone is composed of one or more data centers with independent power, cooling, and networking. They offer:
 
 - **High Availability**: Ensures that applications and data are resilient to data center failures.
