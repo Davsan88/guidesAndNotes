@@ -136,4 +136,19 @@ Functions, also known as serverless computing, allow you to run code in response
     * Availability Set
 
 
+## Compute Services
+### Computing Services
+### Azure Virtual machines
+### Operation Systems
+### Azure Scale Sets
+### Load Balancer
+### Scaling Policy
+### Health Montoring
+### Azure Virtual Desktop
+### Launching a Server
+
+
+
+
+
 https://www.youtube.com/watch?v=5abffC-K40c&t=11s
