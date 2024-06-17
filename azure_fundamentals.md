@@ -189,14 +189,25 @@ Container groups
 
 ## Virtual Networking
 ### Introduction to VNets
+* Azure DNS
+* Virtual Network (vNET)
+* Network Security Groups
+* ExpressRoute
+* Virtual WAN
+* Virtual Network Gateway
+* Network Interfaces
 ### VNet Peering
+* Regional
+* Global
 ### Network Interfaces
 ### Subnets
 ### Introduction to Azure DNS
 ### Introduction to Virtual Network Gateways
 ### Azure Express Routes
 ### Private Links
-Create a VNet
+* Private Link Endpont
+* Private Link Service
+
 
 
 https://www.youtube.com/watch?v=5abffC-K40c&t=11s
