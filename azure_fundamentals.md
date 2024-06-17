@@ -160,7 +160,6 @@ Availability Zones are physically separate locations within an Azure region. Eac
 - **Fault Tolerance**: Protects against potential data center disruptions by distributing resources across multiple zones.
 
 ### AZ Supported Regions
-
 Not all Azure regions support Availability Zones. Regions that do support Availability Zones are designed to provide enhanced availability and resilience for critical applications by offering multiple isolated locations within a region.
 
 ### Availability Sets Fault and Update Domains
