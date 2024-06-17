@@ -118,22 +118,7 @@ Functions, also known as serverless computing, allow you to run code in response
 
 
 ## Global Infrastructure
-### Regions and Geographies
-    58 regions across 140 countries
-### Paired Regions
-### Region Types and Service Availability
-    Recommended region / Alternate region
-    General availability (GA)
-        1. Foundational 
-        2. Mainstream
-        3. Specialized
-### Special Regions
-### Availability Zones
-### AZ Supported Regions
-### Availability Sets Fault and Update Domains
-    * Fault Domain
-    * Update Domain
-    * Availability Set
+Azure's global infrastructure is designed to deliver high availability, performance, and resilience for cloud applications. It is composed of various regions, geographies, and availability zones to meet diverse customer needs.
 
 
 ## Compute Services
