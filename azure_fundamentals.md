@@ -134,7 +134,6 @@ Paired Regions are a feature of Azure's infrastructure design where each Azure r
 - **Compliance**: Helps meet regulatory requirements for data handling and storage.
 
 ### Region Types and Service Availability
-
 Azure regions are categorized based on the availability and scope of services they offer:
 
 - **Recommended Region**: Regions with the broadest range of services and features, recommended for most users.
