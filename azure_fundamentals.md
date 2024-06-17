@@ -245,4 +245,48 @@ Container groups
 
 
 
+## Storage Accounts
+### Storage Services
+* Azure Blob Storage
+* Azure Disk Storage
+* Azure File Storage
+* *Azure Queue Storage
+* *Azure Table Storage
+* Azure Data Box / Azure Databox Heavy
+* Azure Archive Storage
+* Azure Data Lake Storage
+### Introduction to Storage Accounts
+### Storage Comparsion
+### Core Storage Services
+* Azure Blob Storage
+* Azure File Storage
+* *Azure Queue Storage
+* *Azure Table Storage
+* Azure Disk Storage
+### Performance Tiers
+* Standard Performance: HHDs
+* Premium Performance: SSDs
+### Access Tiers (Blob Storage)
+* Hot
+* Cool
+* Archive
+- Account Level Tiering
+- Blob-LEvel Tiering
+- Rehydrating a Blob
+- Blob Lifecycle Management
+### Replication Data Redundancy  3h05
+### LRS ZRS
+### GRS GZRS
+### RAGRS_RA GZRS
+### Introduction to Azure Blob
+### Azure Blob Types
+### AZCopy
+### Azure Storage Explorer
+### Introduction to Azure Files
+### Azure Files Use Cases
+### Azure File Sync
+### Storing files in Blob Storage
+
+
+
 https://www.youtube.com/watch?v=5abffC-K40c&t=11s
