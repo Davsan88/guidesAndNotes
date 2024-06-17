@@ -187,15 +187,15 @@ Container groups
 ### Container Persistent Storage
 
 
-Virtual Networking
-Introduction to VNets
-VNet Peering
-Network Interfaces
-Subnets
-Introduction to Azure DNS
-Introduction to Virtual Network Gateways
-Azure Express Routes
-Private Links
+## Virtual Networking
+### Introduction to VNets
+### VNet Peering
+### Network Interfaces
+### Subnets
+### Introduction to Azure DNS
+### Introduction to Virtual Network Gateways
+### Azure Express Routes
+### Private Links
 Create a VNet
 
 
