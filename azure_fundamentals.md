@@ -222,7 +222,6 @@ Azure provides load balancers to distribute traffic across multiple servers to e
 - **Azure Load Balancer (TCP/UDP)**: A Layer 4 (TCP, UDP) load balancer that distributes incoming network traffic across multiple VMs.
 
 ### Scaling Policy
-
 Scaling policies define how and when to scale the number of VM instances in your scale set.
 
 - **Scale-In Policy**: Determines when to decrease the number of VM instances based on specific metrics or schedules.
