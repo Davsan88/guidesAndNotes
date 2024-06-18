@@ -255,7 +255,6 @@ Azure App Service allows the use of custom containers for greater control over t
 Deployment slots in Azure App Service enable staged deployment of applications. Each slot represents a different environment (e.g., development, staging, production), allowing you to deploy and test changes in isolation before swapping them into production. This feature minimizes downtime and reduces the risk of deployment errors.
 
 ### App Service Environment (ASE)
-
 Azure App Service Environment (ASE) is a premium service offering that provides a fully isolated and dedicated environment for securely running App Service apps at high scale. ASE is ideal for applications that require high scalability, enhanced security, and network isolation.
 
 ### Azure App Service Plan
