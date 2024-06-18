@@ -252,7 +252,6 @@ Azure App Service supports a variety of runtimes, allowing developers to deploy 
 Azure App Service allows the use of custom containers for greater control over the application environment. Developers can deploy containerized applications using Docker containers, providing a consistent and isolated runtime environment. This enables the deployment of applications with specific dependencies and configurations.
 
 ### Deployment Slots
-
 Deployment slots in Azure App Service enable staged deployment of applications. Each slot represents a different environment (e.g., development, staging, production), allowing you to deploy and test changes in isolation before swapping them into production. This feature minimizes downtime and reduces the risk of deployment errors.
 
 ### App Service Environment (ASE)
