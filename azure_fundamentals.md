@@ -210,7 +210,6 @@ Azure Virtual Machines provide the ability to run applications and workloads in 
 - **Virtual Network (VNet)**: A private network in Azure that allows for secure communications between Azure resources.
 
 ### Operation Systems
-
 Azure Virtual Machines support a wide range of operating systems, including various distributions of Linux and Windows Server, providing flexibility for different workloads.
 
 ### Azure Scale Sets
