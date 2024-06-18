@@ -177,7 +177,6 @@ Understanding Azure's global infrastructure, including regions, availability zon
 Azure provides a range of computing services to support various workloads, from virtual machines to serverless computing.
 
 ### Azure Virtual Machines
-
 Azure Virtual Machines (VMs) provide scalable computing resources in the cloud. You can use VMs when you need more control over the computing environment than the other compute resources offer.
 
 - **NSG (Network Security Group)**: A security feature that acts as a virtual firewall to control inbound and outbound traffic to Azure resources.
