@@ -192,7 +192,6 @@ Azure Container Instances (ACI) offer the fastest and simplest way to run a cont
 Azure Kubernetes Service (AKS) simplifies deploying a managed Kubernetes cluster in Azure. It reduces the complexity and operational overhead of managing Kubernetes by offloading much of that responsibility to Azure.
 
 ### Azure Service Fabric
-
 Azure Service Fabric is a distributed systems platform that makes it easy to package, deploy, and manage scalable and reliable microservices and containers.
 
 ### Azure Functions
