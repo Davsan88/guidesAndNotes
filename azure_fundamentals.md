@@ -238,7 +238,7 @@ Health monitoring ensures that your applications and services are running smooth
 ### Azure Virtual Desktop
 Azure Virtual Desktop is a comprehensive desktop and app virtualization service running in the cloud. It enables you to deliver a full Windows experience and applications to any device.
 
-Understanding these computing services and their components helps you design, deploy, and manage applications effectively in the Azure cloud, ensuring high availability, scalability, and performance.
+>Understanding these computing services and their components helps you design, deploy, and manage applications effectively in the Azure cloud, ensuring high availability, scalability, and performance.
 
 ## Azure App Service
 ### Introduction to Azure App Service
