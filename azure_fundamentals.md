@@ -198,7 +198,6 @@ Azure Service Fabric is a distributed systems platform that makes it easy to pac
 Azure Functions is a serverless compute service that allows you to run event-driven code without having to provision or manage infrastructure.
 
 ### Azure Batch
-
 Azure Batch enables large-scale parallel and high-performance computing (HPC) applications efficiently in the cloud. You can use it to run large-scale jobs in parallel.
 
 ### Azure Virtual Machines
