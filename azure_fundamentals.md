@@ -174,7 +174,6 @@ Understanding Azure's global infrastructure, including regions, availability zon
 ## Compute Services
 
 ## Computing Services
-
 Azure provides a range of computing services to support various workloads, from virtual machines to serverless computing.
 
 ### Azure Virtual Machines
