@@ -172,6 +172,7 @@ Availability Sets are a mechanism to enhance the availability of VMs in Azure by
 Understanding Azure's global infrastructure, including regions, availability zones, and special regions, helps in designing robust, scalable, and compliant cloud applications.
 
 ## Compute Services
+
 ### Computing Services
 * Azure Vitual Machines
 * Azure Container Instances
