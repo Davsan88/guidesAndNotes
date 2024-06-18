@@ -186,7 +186,6 @@ Azure Virtual Machines (VMs) provide scalable computing resources in the cloud. 
 - **Virtual Network (VNet)**: A logically isolated network within the Azure cloud where you can launch VMs and other resources.
 
 ### Azure Container Instances
-
 Azure Container Instances (ACI) offer the fastest and simplest way to run a container in Azure without managing virtual machines or adopting a higher-level service.
 
 ### Azure Kubernetes Service (AKS)
