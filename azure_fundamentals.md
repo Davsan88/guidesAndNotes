@@ -189,7 +189,6 @@ Azure Virtual Machines (VMs) provide scalable computing resources in the cloud. 
 Azure Container Instances (ACI) offer the fastest and simplest way to run a container in Azure without managing virtual machines or adopting a higher-level service.
 
 ### Azure Kubernetes Service (AKS)
-
 Azure Kubernetes Service (AKS) simplifies deploying a managed Kubernetes cluster in Azure. It reduces the complexity and operational overhead of managing Kubernetes by offloading much of that responsibility to Azure.
 
 ### Azure Service Fabric
