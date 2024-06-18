@@ -246,7 +246,6 @@ Azure Virtual Desktop is a comprehensive desktop and app virtualization service 
 Azure App Service is a fully managed platform for building, deploying, and scaling web apps. It supports multiple languages and frameworks, including .NET, .NET Core, Java, Ruby, Node.js, PHP, and Python. It offers integrated tools for DevOps, including continuous deployment from Azure DevOps, GitHub, Docker Hub, and other sources.
 
 ### Runtimes
-
 Azure App Service supports a variety of runtimes, allowing developers to deploy applications written in different programming languages. It provides built-in support for popular languages and frameworks such as .NET, Node.js, PHP, Python, and Java, ensuring flexibility and compatibility for various application needs.
 
 ### Custom Containers
