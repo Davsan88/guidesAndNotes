@@ -213,7 +213,6 @@ Azure Virtual Machines provide the ability to run applications and workloads in 
 Azure Virtual Machines support a wide range of operating systems, including various distributions of Linux and Windows Server, providing flexibility for different workloads.
 
 ### Azure Scale Sets
-
 Azure Scale Sets allow you to create and manage a group of identical, load-balanced VMs. Scale sets make it easy to build large-scale services that target big compute, big data, and containerized workloads.
 
 ### Load Balancer
