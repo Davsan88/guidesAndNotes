@@ -201,7 +201,6 @@ Azure Functions is a serverless compute service that allows you to run event-dri
 Azure Batch enables large-scale parallel and high-performance computing (HPC) applications efficiently in the cloud. You can use it to run large-scale jobs in parallel.
 
 ### Azure Virtual Machines
-
 Azure Virtual Machines provide the ability to run applications and workloads in the cloud with flexible computing capacity.
 
 - **NSG (Network Security Group)**: Controls inbound and outbound traffic to network interfaces (NIC), VMs, and subnets.
