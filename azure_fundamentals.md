@@ -216,7 +216,6 @@ Azure Virtual Machines support a wide range of operating systems, including vari
 Azure Scale Sets allow you to create and manage a group of identical, load-balanced VMs. Scale sets make it easy to build large-scale services that target big compute, big data, and containerized workloads.
 
 ### Load Balancer
-
 Azure provides load balancers to distribute traffic across multiple servers to ensure high availability and reliability of applications.
 
 - **Application Gateway (HTTP/HTTPS)**: A web traffic load balancer that enables you to manage traffic to your web applications.
