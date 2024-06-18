@@ -228,7 +228,6 @@ Scaling policies define how and when to scale the number of VM instances in your
 - **Update Policy**: Manages how updates are applied to the VM instances, ensuring minimal disruption.
 
 ### Health Monitoring
-
 Health monitoring ensures that your applications and services are running smoothly and helps detect and recover from failures.
 
 - **Health Monitoring**: Continuously checks the health of applications and infrastructure.
