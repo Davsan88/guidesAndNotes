@@ -260,7 +260,7 @@ Azure App Service Environment (ASE) is a premium service offering that provides 
 ### Azure App Service Plan
 Azure App Service Plan defines the region, number of instances, and pricing tier for your web apps. The plan determines the compute resources and pricing for your App Service apps. You can choose from various pricing tiers based on your needs for scalability, performance, and features.
 
-Understanding Azure App Service and its components helps you build, deploy, and manage web applications efficiently, ensuring high performance, scalability, and security.
+>Understanding Azure App Service and its components helps you build, deploy, and manage web applications efficiently, ensuring high performance, scalability, and security.
 
 
 ## Azure Container Instances
