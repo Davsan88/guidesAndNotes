@@ -249,7 +249,6 @@ Azure App Service is a fully managed platform for building, deploying, and scali
 Azure App Service supports a variety of runtimes, allowing developers to deploy applications written in different programming languages. It provides built-in support for popular languages and frameworks such as .NET, Node.js, PHP, Python, and Java, ensuring flexibility and compatibility for various application needs.
 
 ### Custom Containers
-
 Azure App Service allows the use of custom containers for greater control over the application environment. Developers can deploy containerized applications using Docker containers, providing a consistent and isolated runtime environment. This enables the deployment of applications with specific dependencies and configurations.
 
 ### Deployment Slots
