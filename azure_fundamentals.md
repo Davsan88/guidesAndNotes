@@ -173,34 +173,86 @@ Understanding Azure's global infrastructure, including regions, availability zon
 
 ## Compute Services
 
-### Computing Services
-* Azure Vitual Machines
-* Azure Container Instances
-* Azure Kubernetes Service (AKS)
-* Azure Service Fabric
-* Azure Functions
-* Azure Batch
-### Azure Virtual machines
-* NSG
-* NIC
-* VM instance
-* Public IP address
-* Virtual Network (VNet)
+## Computing Services
+
+Azure provides a range of computing services to support various workloads, from virtual machines to serverless computing.
+
+### Azure Virtual Machines
+
+Azure Virtual Machines (VMs) provide scalable computing resources in the cloud. You can use VMs when you need more control over the computing environment than the other compute resources offer.
+
+- **NSG (Network Security Group)**: A security feature that acts as a virtual firewall to control inbound and outbound traffic to Azure resources.
+- **NIC (Network Interface Card)**: A component that connects a VM to a virtual network.
+- **VM Instance**: A virtual server that can run applications and services.
+- **Public IP Address**: An address assigned to a VM for direct internet access.
+- **Virtual Network (VNet)**: A logically isolated network within the Azure cloud where you can launch VMs and other resources.
+
+### Azure Container Instances
+
+Azure Container Instances (ACI) offer the fastest and simplest way to run a container in Azure without managing virtual machines or adopting a higher-level service.
+
+### Azure Kubernetes Service (AKS)
+
+Azure Kubernetes Service (AKS) simplifies deploying a managed Kubernetes cluster in Azure. It reduces the complexity and operational overhead of managing Kubernetes by offloading much of that responsibility to Azure.
+
+### Azure Service Fabric
+
+Azure Service Fabric is a distributed systems platform that makes it easy to package, deploy, and manage scalable and reliable microservices and containers.
+
+### Azure Functions
+
+Azure Functions is a serverless compute service that allows you to run event-driven code without having to provision or manage infrastructure.
+
+### Azure Batch
+
+Azure Batch enables large-scale parallel and high-performance computing (HPC) applications efficiently in the cloud. You can use it to run large-scale jobs in parallel.
+
+### Azure Virtual Machines
+
+Azure Virtual Machines provide the ability to run applications and workloads in the cloud with flexible computing capacity.
+
+- **NSG (Network Security Group)**: Controls inbound and outbound traffic to network interfaces (NIC), VMs, and subnets.
+- **NIC (Network Interface Card)**: Connects VMs to VNets, enabling communication with other networked resources.
+- **VM Instance**: Virtualized computing resources that can run various operating systems and applications.
+- **Public IP Address**: Enables direct access to the internet for VMs.
+- **Virtual Network (VNet)**: A private network in Azure that allows for secure communications between Azure resources.
+
 ### Operation Systems
+
+Azure Virtual Machines support a wide range of operating systems, including various distributions of Linux and Windows Server, providing flexibility for different workloads.
+
 ### Azure Scale Sets
+
+Azure Scale Sets allow you to create and manage a group of identical, load-balanced VMs. Scale sets make it easy to build large-scale services that target big compute, big data, and containerized workloads.
+
 ### Load Balancer
-* Application Gateway HTTP/HTTPS
-* Azure Load Balancer TCP/UDP
+
+Azure provides load balancers to distribute traffic across multiple servers to ensure high availability and reliability of applications.
+
+- **Application Gateway (HTTP/HTTPS)**: A web traffic load balancer that enables you to manage traffic to your web applications.
+- **Azure Load Balancer (TCP/UDP)**: A Layer 4 (TCP, UDP) load balancer that distributes incoming network traffic across multiple VMs.
+
 ### Scaling Policy
-* Scale-In Policy
-* Update policy
-### Health Montoring
-* Health monitoring
-    * Application health extension
-    * Load Balancer Probe 
-* Automatic repair policy
+
+Scaling policies define how and when to scale the number of VM instances in your scale set.
+
+- **Scale-In Policy**: Determines when to decrease the number of VM instances based on specific metrics or schedules.
+- **Update Policy**: Manages how updates are applied to the VM instances, ensuring minimal disruption.
+
+### Health Monitoring
+
+Health monitoring ensures that your applications and services are running smoothly and helps detect and recover from failures.
+
+- **Health Monitoring**: Continuously checks the health of applications and infrastructure.
+  - **Application Health Extension**: Monitors the health of applications running on VMs.
+  - **Load Balancer Probe**: Checks the status of VMs in a load balancer pool to ensure traffic is only sent to healthy instances.
+- **Automatic Repair Policy**: Automatically repairs unhealthy VM instances based on health check results.
+
 ### Azure Virtual Desktop
 
+Azure Virtual Desktop is a comprehensive desktop and app virtualization service running in the cloud. It enables you to deliver a full Windows experience and applications to any device.
+
+Understanding these computing services and their components helps you design, deploy, and manage applications effectively in the Azure cloud, ensuring high availability, scalability, and performance.
 
 ## Azure App Service
 ### Introduction to Azure App Service
