@@ -195,7 +195,6 @@ Azure Kubernetes Service (AKS) simplifies deploying a managed Kubernetes cluster
 Azure Service Fabric is a distributed systems platform that makes it easy to package, deploy, and manage scalable and reliable microservices and containers.
 
 ### Azure Functions
-
 Azure Functions is a serverless compute service that allows you to run event-driven code without having to provision or manage infrastructure.
 
 ### Azure Batch
