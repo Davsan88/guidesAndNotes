@@ -236,7 +236,6 @@ Health monitoring ensures that your applications and services are running smooth
 - **Automatic Repair Policy**: Automatically repairs unhealthy VM instances based on health check results.
 
 ### Azure Virtual Desktop
-
 Azure Virtual Desktop is a comprehensive desktop and app virtualization service running in the cloud. It enables you to deliver a full Windows experience and applications to any device.
 
 Understanding these computing services and their components helps you design, deploy, and manage applications effectively in the Azure cloud, ensuring high availability, scalability, and performance.
