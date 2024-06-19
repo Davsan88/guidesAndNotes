@@ -399,7 +399,16 @@ Azure Migrate Integrated tools
 Azure Databox
 
 
-
+Microsoft Entra ID
+Microsoft Entra ID Name Change
+Introduction to Entra ID
+Use Cases
+AD vs AAD
+Terminology
+AD DS Microsoft Entra Domain Services
+Single Sign On SSO
+External Identities
+Conditional Access
 
 
 
