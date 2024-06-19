@@ -368,17 +368,38 @@ Azure Private Link provides private connectivity from a virtual network to Azure
 - Rehydrating a Blob
 - Blob Lifecycle Management
 ### Replication Data Redundancy  3h05
-### LRS ZRS
-### GRS GZRS
-### RAGRS_RA GZRS
+#### Primary Region Redundancy
+  data replicated 3 times in the primary region
+  * LRS 
+  * ZRS
+#### Secondary Region Redundancy 
+  * GRS 
+  * GZRS
+#### Secondary Region Redundancy with Read Access 
+  * RAGRS_RA 
+  * GZRS
 ### Introduction to Azure Blob
 ### Azure Blob Types
+  * Block blobs
+  * Append blobs
+  * Page blobs
 ### AZCopy
 ### Azure Storage Explorer
 ### Introduction to Azure Files
 ### Azure Files Use Cases
 ### Azure File Sync
 ### Storing files in Blob Storage
+
+
+
+Migration Options
+Azure Cloud Adoption Framework
+Azure Migrate
+Azure Migrate Integrated tools
+Azure Databox
+
+
+
 
 
 
