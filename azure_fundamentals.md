@@ -264,15 +264,39 @@ Azure App Service Plan defines the region, number of instances, and pricing tier
 
 
 ## Azure Container Instances
+
 ### Introduction to ACI
-(Include differences with VMs)
-Container groups
+
+Azure Container Instances (ACI) is a service that allows you to run containers without managing the underlying virtual machines (VMs) or adopting a higher-level service. It provides a quick and easy way to deploy and run containers in the cloud. Unlike VMs, which require you to manage the operating system and infrastructure, ACI abstracts these details, enabling you to focus on your applications.
+
+#### Differences with VMs
+
+- **Infrastructure Management**: ACI abstracts the underlying infrastructure, whereas VMs require you to manage the OS and infrastructure.
+- **Startup Time**: Containers in ACI start faster than VMs, providing quicker deployment and scaling.
+- **Resource Efficiency**: Containers are more lightweight than VMs, sharing the host OS kernel and using fewer resources.
+- **Isolation**: While VMs offer full isolation at the hardware level, containers provide application-level isolation.
+
+### Container Groups
+
+In ACI, a container group is a collection of containers that share the same lifecycle, network, and storage resources. Containers in a group can communicate with each other over local network interfaces and can be managed as a single entity.
+
 ### Container Restart Policies
-* Always
-* Never
-* OnFailure
+
+Restart policies determine the behavior of containers when they exit or fail.
+
+- **Always**: Always restart the container when it exits, regardless of the exit status.
+- **Never**: Never restart the container when it exits.
+- **OnFailure**: Restart the container only if it exits with a non-zero exit status, indicating an error.
+
 ### Container Environment Variables (Env Vars)
+
+Environment variables (Env Vars) are key-value pairs used to pass configuration settings to containers at runtime. They allow you to dynamically configure containerized applications without hardcoding values, making it easier to manage different environments and settings.
+
 ### Container Persistent Storage
+
+Container Persistent Storage in ACI allows containers to persist data beyond the lifecycle of the container instance. You can attach Azure Files or Azure Disks to container groups, providing durable storage that can be shared across multiple containers or persist data even after the container is stopped.
+
+Understanding Azure Container Instances and its features helps you deploy and manage containerized applications efficiently, ensuring scalability, quick startup times, and simplified infrastructure management.
 
 
 ## Virtual Networking
