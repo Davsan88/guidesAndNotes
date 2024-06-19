@@ -278,7 +278,6 @@ Azure Container Instances (ACI) is a service that allows you to run containers w
 In ACI, a container group is a collection of containers that share the same lifecycle, network, and storage resources. Containers in a group can communicate with each other over local network interfaces and can be managed as a single entity.
 
 ### Container Restart Policies
-
 Restart policies determine the behavior of containers when they exit or fail.
 
 - **Always**: Always restart the container when it exits, regardless of the exit status.
