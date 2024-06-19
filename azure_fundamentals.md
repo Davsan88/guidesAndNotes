@@ -308,7 +308,6 @@ Azure Virtual Network (VNet) is the fundamental building block for your private 
 - **Network Interfaces**: Network Interfaces are the interconnections between VMs and VNets, enabling communication.
 
 ### VNet Peering
-
 VNet Peering allows you to seamlessly connect two or more Virtual Networks in Azure.
 
 - **Regional**: Connects VNets within the same Azure region, enabling resources in both VNets to communicate with each other.
