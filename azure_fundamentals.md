@@ -334,7 +334,7 @@ Azure Private Link provides private connectivity from a virtual network to Azure
 - **Private Link Endpoint**: A private endpoint in your VNet, which is a private IP address within a specified subnet.
 - **Private Link Service**: Allows you to access Azure services (like Azure Storage and SQL Database) over a private endpoint in your VNet, ensuring secure and private connections.
 
-Understanding Azure Virtual Networking components and features helps you design and implement secure, scalable, and efficient network architectures in the Azure cloud.
+> Understanding Azure Virtual Networking components and features helps you design and implement secure, scalable, and efficient network architectures in the Azure cloud.
 
 
 
