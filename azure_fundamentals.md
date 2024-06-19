@@ -275,7 +275,6 @@ Azure Container Instances (ACI) is a service that allows you to run containers w
 - **Isolation**: While VMs offer full isolation at the hardware level, containers provide application-level isolation.
 
 ### Container Groups
-
 In ACI, a container group is a collection of containers that share the same lifecycle, network, and storage resources. Containers in a group can communicate with each other over local network interfaces and can be managed as a single entity.
 
 ### Container Restart Policies
