@@ -290,7 +290,7 @@ Environment variables (Env Vars) are key-value pairs used to pass configuration 
 ### Container Persistent Storage
 Container Persistent Storage in ACI allows containers to persist data beyond the lifecycle of the container instance. You can attach Azure Files or Azure Disks to container groups, providing durable storage that can be shared across multiple containers or persist data even after the container is stopped.
 
-Understanding Azure Container Instances and its features helps you deploy and manage containerized applications efficiently, ensuring scalability, quick startup times, and simplified infrastructure management.
+> Understanding Azure Container Instances and its features helps you deploy and manage containerized applications efficiently, ensuring scalability, quick startup times, and simplified infrastructure management.
 
 
 ## Virtual Networking
