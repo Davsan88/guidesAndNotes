@@ -314,7 +314,6 @@ VNet Peering allows you to seamlessly connect two or more Virtual Networks in Az
 - **Global**: Connects VNets across different Azure regions, facilitating communication between resources in globally distributed VNets.
 
 ### Network Interfaces
-
 Network Interfaces (NICs) are the point of connection between a VM and a VNet. Each NIC can have multiple IP addresses, including private and public IPs.
 
 ### Subnets
