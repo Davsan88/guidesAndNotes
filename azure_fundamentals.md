@@ -323,7 +323,6 @@ Subnets are segments of a VNet that allow you to divide the network into smaller
 Azure DNS is a cloud-based service for hosting DNS domains and providing name resolution using Microsoft Azure infrastructure. Azure DNS allows you to manage your DNS records using the same credentials, billing, and support contract as your other Azure services.
 
 ### Introduction to Virtual Network Gateways
-
 Virtual Network Gateways provide connectivity between VNets and on-premises networks or between different VNets. They facilitate site-to-site, point-to-site, and VNet-to-VNet connections.
 
 ### Azure ExpressRoute
