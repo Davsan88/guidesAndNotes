@@ -317,7 +317,6 @@ VNet Peering allows you to seamlessly connect two or more Virtual Networks in Az
 Network Interfaces (NICs) are the point of connection between a VM and a VNet. Each NIC can have multiple IP addresses, including private and public IPs.
 
 ### Subnets
-
 Subnets are segments of a VNet that allow you to divide the network into smaller, manageable sections. Subnets enable you to organize and secure resources within the VNet.
 
 ### Introduction to Azure DNS
