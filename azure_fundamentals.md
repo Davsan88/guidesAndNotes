@@ -269,7 +269,6 @@ Azure App Service Plan defines the region, number of instances, and pricing tier
 Azure Container Instances (ACI) is a service that allows you to run containers without managing the underlying virtual machines (VMs) or adopting a higher-level service. It provides a quick and easy way to deploy and run containers in the cloud. Unlike VMs, which require you to manage the operating system and infrastructure, ACI abstracts these details, enabling you to focus on your applications.
 
 #### Differences with VMs
-
 - **Infrastructure Management**: ACI abstracts the underlying infrastructure, whereas VMs require you to manage the OS and infrastructure.
 - **Startup Time**: Containers in ACI start faster than VMs, providing quicker deployment and scaling.
 - **Resource Efficiency**: Containers are more lightweight than VMs, sharing the host OS kernel and using fewer resources.
