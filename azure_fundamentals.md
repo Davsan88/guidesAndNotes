@@ -411,5 +411,24 @@ External Identities
 Conditional Access
 
 
+Security
+Zero Trust Model
+Zero Trust Principles
+Defense In Depth
+Azure Defender
+MFA
+Azure Security Center
+Key Vault
+Azure DDoS Protection
+Azure Firewall
+Application Gateway
+Routing Rules
+Role Based Access Control RBAC
+Management Groups
+Service Health
+Azure Advisor
+
+
+
 
 https://www.youtube.com/watch?v=5abffC-K40c&t=11s
