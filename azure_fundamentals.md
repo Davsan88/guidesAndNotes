@@ -285,7 +285,6 @@ Restart policies determine the behavior of containers when they exit or fail.
 - **OnFailure**: Restart the container only if it exits with a non-zero exit status, indicating an error.
 
 ### Container Environment Variables (Env Vars)
-
 Environment variables (Env Vars) are key-value pairs used to pass configuration settings to containers at runtime. They allow you to dynamically configure containerized applications without hardcoding values, making it easier to manage different environments and settings.
 
 ### Container Persistent Storage
