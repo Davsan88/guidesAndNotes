@@ -294,25 +294,56 @@ Container Persistent Storage in ACI allows containers to persist data beyond the
 
 
 ## Virtual Networking
+
 ### Introduction to VNets
-* Azure DNS
-* Virtual Network (vNET)
-* Network Security Groups
-* ExpressRoute
-* Virtual WAN
-* Virtual Network Gateway
-* Network Interfaces
+
+Azure Virtual Network (VNet) is the fundamental building block for your private network in Azure. VNets enable many types of Azure resources, such as Azure VMs, to securely communicate with each other, the internet, and on-premises networks. 
+
+#### Components of VNets
+
+- **Azure DNS**: Azure DNS is a hosting service for DNS domains, providing name resolution using Microsoft Azure infrastructure.
+- **Virtual Network (VNet)**: A logically isolated network that allows you to securely connect Azure resources.
+- **Network Security Groups (NSG)**: NSGs contain security rules that allow or deny inbound and outbound network traffic to/from several types of Azure resources.
+- **ExpressRoute**: ExpressRoute is a service that provides a private connection between your on-premises networks and Azure data centers.
+- **Virtual WAN**: Virtual WAN provides a unified wide area network (WAN) architecture for connecting different branches to Azure and each other.
+- **Virtual Network Gateway**: A gateway that provides connectivity between VNets or between a VNet and on-premises networks.
+- **Network Interfaces**: Network Interfaces are the interconnections between VMs and VNets, enabling communication.
+
 ### VNet Peering
-* Regional
-* Global
+
+VNet Peering allows you to seamlessly connect two or more Virtual Networks in Azure.
+
+- **Regional**: Connects VNets within the same Azure region, enabling resources in both VNets to communicate with each other.
+- **Global**: Connects VNets across different Azure regions, facilitating communication between resources in globally distributed VNets.
+
 ### Network Interfaces
+
+Network Interfaces (NICs) are the point of connection between a VM and a VNet. Each NIC can have multiple IP addresses, including private and public IPs.
+
 ### Subnets
+
+Subnets are segments of a VNet that allow you to divide the network into smaller, manageable sections. Subnets enable you to organize and secure resources within the VNet.
+
 ### Introduction to Azure DNS
+
+Azure DNS is a cloud-based service for hosting DNS domains and providing name resolution using Microsoft Azure infrastructure. Azure DNS allows you to manage your DNS records using the same credentials, billing, and support contract as your other Azure services.
+
 ### Introduction to Virtual Network Gateways
-### Azure Express Routes
+
+Virtual Network Gateways provide connectivity between VNets and on-premises networks or between different VNets. They facilitate site-to-site, point-to-site, and VNet-to-VNet connections.
+
+### Azure ExpressRoute
+
+Azure ExpressRoute enables you to create private connections between Azure data centers and infrastructure on your premises or in a colocation environment. ExpressRoute connections do not go over the public Internet, offering more reliability, faster speeds, and lower latencies.
+
 ### Private Links
-* Private Link Endpont
-* Private Link Service
+
+Azure Private Link provides private connectivity from a virtual network to Azure services.
+
+- **Private Link Endpoint**: A private endpoint in your VNet, which is a private IP address within a specified subnet.
+- **Private Link Service**: Allows you to access Azure services (like Azure Storage and SQL Database) over a private endpoint in your VNet, ensuring secure and private connections.
+
+Understanding Azure Virtual Networking components and features helps you design and implement secure, scalable, and efficient network architectures in the Azure cloud.
 
 
 
