@@ -392,23 +392,23 @@ Azure Private Link provides private connectivity from a virtual network to Azure
 
 
 
-Migration Options
-Azure Cloud Adoption Framework
-Azure Migrate
-Azure Migrate Integrated tools
-Azure Databox
+## Migration Options
+### Azure Cloud Adoption Framework
+### Azure Migrate
+### Azure Migrate Integrated tools
+### Azure Databox
 
 
-Microsoft Entra ID
-Microsoft Entra ID Name Change
-Introduction to Entra ID
-Use Cases
-AD vs AAD
-Terminology
-AD DS Microsoft Entra Domain Services
-Single Sign On SSO
-External Identities
-Conditional Access
+## Microsoft Entra ID
+### Microsoft Entra ID Name Change
+### Introduction to Entra ID
+### Use Cases
+### AD vs AAD
+### Terminology
+### AD DS Microsoft Entra Domain Services
+### Single Sign On SSO
+### External Identities
+### Conditional Access
 
 
 Security
