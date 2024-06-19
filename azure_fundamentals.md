@@ -326,7 +326,6 @@ Azure DNS is a cloud-based service for hosting DNS domains and providing name re
 Virtual Network Gateways provide connectivity between VNets and on-premises networks or between different VNets. They facilitate site-to-site, point-to-site, and VNet-to-VNet connections.
 
 ### Azure ExpressRoute
-
 Azure ExpressRoute enables you to create private connections between Azure data centers and infrastructure on your premises or in a colocation environment. ExpressRoute connections do not go over the public Internet, offering more reliability, faster speeds, and lower latencies.
 
 ### Private Links
