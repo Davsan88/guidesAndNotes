@@ -329,7 +329,6 @@ Virtual Network Gateways provide connectivity between VNets and on-premises netw
 Azure ExpressRoute enables you to create private connections between Azure data centers and infrastructure on your premises or in a colocation environment. ExpressRoute connections do not go over the public Internet, offering more reliability, faster speeds, and lower latencies.
 
 ### Private Links
-
 Azure Private Link provides private connectivity from a virtual network to Azure services.
 
 - **Private Link Endpoint**: A private endpoint in your VNet, which is a private IP address within a specified subnet.
