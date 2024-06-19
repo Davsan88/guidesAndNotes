@@ -320,7 +320,6 @@ Network Interfaces (NICs) are the point of connection between a VM and a VNet. E
 Subnets are segments of a VNet that allow you to divide the network into smaller, manageable sections. Subnets enable you to organize and secure resources within the VNet.
 
 ### Introduction to Azure DNS
-
 Azure DNS is a cloud-based service for hosting DNS domains and providing name resolution using Microsoft Azure infrastructure. Azure DNS allows you to manage your DNS records using the same credentials, billing, and support contract as your other Azure services.
 
 ### Introduction to Virtual Network Gateways
