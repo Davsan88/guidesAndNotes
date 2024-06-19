@@ -299,7 +299,6 @@ Container Persistent Storage in ACI allows containers to persist data beyond the
 Azure Virtual Network (VNet) is the fundamental building block for your private network in Azure. VNets enable many types of Azure resources, such as Azure VMs, to securely communicate with each other, the internet, and on-premises networks. 
 
 #### Components of VNets
-
 - **Azure DNS**: Azure DNS is a hosting service for DNS domains, providing name resolution using Microsoft Azure infrastructure.
 - **Virtual Network (VNet)**: A logically isolated network that allows you to securely connect Azure resources.
 - **Network Security Groups (NSG)**: NSGs contain security rules that allow or deny inbound and outbound network traffic to/from several types of Azure resources.
