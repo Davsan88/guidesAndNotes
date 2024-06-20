@@ -462,7 +462,7 @@ Azure Data Box is a solution for transferring large amounts of data to Azure usi
 - **Azure Data Box Heavy**: A larger capacity option for transferring up to 1 PB of data.
 - **Azure Data Box Disk**: Smaller, SSD-based devices for transferring up to 40 TB of data.
 
->Understanding these migration options and tools helps organizations plan and execute their move to Azure efficiently, ensuring that data is securely transferred and workloads are optimized for the cloud environment.
+> Understanding these migration options and tools helps organizations plan and execute their move to Azure efficiently, ensuring that data is securely transferred and workloads are optimized for the cloud environment.
 
 
 ## Microsoft Entra ID
