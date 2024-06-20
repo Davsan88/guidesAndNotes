@@ -379,7 +379,6 @@ Blob Storage access tiers help manage storage costs by allowing you to store blo
 - **Archive**: Lowest-cost storage for data that is rarely accessed and stored for at least 180 days.
 
 #### Tiering Options
-
 - **Account Level Tiering**: Sets the default access tier for all blobs in the account.
 - **Blob-Level Tiering**: Sets the access tier at the individual blob level.
 - **Rehydrating a Blob**: Moving a blob from the Archive tier to Hot or Cool to access the data.
