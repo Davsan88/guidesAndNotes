@@ -420,7 +420,6 @@ Azure Files provides fully managed file shares in the cloud that are accessible 
 Azure Files can be used for various scenarios, including file sharing, lift and shift migrations, and cloud applications that require a shared storage solution.
 
 ### Azure File Sync
-
 Azure File Sync centralizes your organization's file shares in Azure Files, while keeping the flexibility, performance, and compatibility of an on-premises file server.
 
 ### Storing Files in Blob Storage
