@@ -353,7 +353,6 @@ Azure offers various storage services to meet different needs:
 - **Azure Data Lake Storage**: Combines the power of a high-performance file system with massive scale and economy to help speed data-driven innovation.
 
 ### Introduction to Storage Accounts
-
 Azure Storage Accounts provide a unique namespace for your Azure Storage data, accessible from anywhere in the world over HTTP or HTTPS. All objects in a storage account are billed together as a group.
 
 ### Storage Comparison
