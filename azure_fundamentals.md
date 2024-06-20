@@ -432,7 +432,6 @@ Azure Blob Storage is ideal for storing large amounts of unstructured data, such
 Azure provides several options and tools to assist organizations in migrating their workloads to the cloud, ensuring a smooth and secure transition.
 
 ### Azure Cloud Adoption Framework
-
 The Azure Cloud Adoption Framework provides best practices, documentation, and tools to help organizations create and implement a comprehensive cloud adoption strategy. It covers all phases of cloud adoption, including planning, readiness, migration, governance, and management, ensuring that migrations are aligned with business goals and technical requirements.
 
 ### Security Roles and Responsibilities
