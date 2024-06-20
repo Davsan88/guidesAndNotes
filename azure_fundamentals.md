@@ -394,6 +394,7 @@ Azure Private Link provides private connectivity from a virtual network to Azure
 
 ## Migration Options
 ### Azure Cloud Adoption Framework
+### Security Roles and Responsibilities
 ### Azure Migrate
 ### Azure Migrate Integrated tools
 ### Azure Databox
@@ -407,15 +408,43 @@ Azure Private Link provides private connectivity from a virtual network to Azure
 ### Terminology
 ### AD DS Microsoft Entra Domain Services
 ### Single Sign On SSO
+### SSO protocols
+* OpenID Connect and OAuth
+* SAML
+* Password-based authentication
+* Link authentication
+* Integrated Windows Authentication (IWA)
+* Header-based authentication
 ### External Identities
 ### Conditional Access
+### Conditional Access Signals
+* User or group memebership
+*Named location indormation / IP Location Information
+* Device
+* Application
+* Real-time sing-in risk detection
+* Cloud apps or actions
+* User risk
+### Conditional Access - Common Decisions
+* Block access
+* Grant access
+
 
 
 ## Security
 ### Zero Trust Model
 ### Zero Trust Principles
 ### Defense In Depth
+The 7 Layers of Security
 ### Azure Defender
+* Coverage
+* Security Alerts
+* Insights
+* Advanced Protection
+#### Scope of Azure Defender
+#### Azure Defender - Network Map
+#### Azure Defender - Hybrid Cloud Protection
+* Azure Arc
 ### MFA
 ### Azure Security Center
 ### Key Vault
