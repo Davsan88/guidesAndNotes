@@ -408,7 +408,6 @@ Azure Blob Storage is optimized for storing massive amounts of unstructured data
 - **Page Blobs**: Store random access files up to 8 TB in size and are optimized for read and write operations.
 
 ### AZCopy
-
 AZCopy is a command-line utility designed for copying data to and from Azure Blob and File storage, enabling efficient data transfer.
 
 ### Azure Storage Explorer
