@@ -403,7 +403,6 @@ Azure provides several options for replicating your data to ensure durability an
 Azure Blob Storage is optimized for storing massive amounts of unstructured data, such as text or binary data.
 
 ### Azure Blob Types
-
 - **Block Blobs**: Store text and binary data, and are optimized for upload and download operations.
 - **Append Blobs**: Optimized for append operations, such as logging.
 - **Page Blobs**: Store random access files up to 8 TB in size and are optimized for read and write operations.
