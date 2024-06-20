@@ -400,7 +400,6 @@ Azure provides several options for replicating your data to ensure durability an
 - **RA-GZRS (Read-Access Geo-Zone-Redundant Storage)**: Provides read access to the data in the secondary region with zone redundancy.
 
 ### Introduction to Azure Blob
-
 Azure Blob Storage is optimized for storing massive amounts of unstructured data, such as text or binary data.
 
 ### Azure Blob Types
