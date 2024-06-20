@@ -338,7 +338,6 @@ Azure Private Link provides private connectivity from a virtual network to Azure
 
 
 ## Storage Accounts
-
 Azure Storage Accounts provide a scalable, durable, and secure cloud storage solution for a wide variety of data objects. 
 
 ### Storage Services
