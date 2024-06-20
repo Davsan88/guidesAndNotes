@@ -429,7 +429,6 @@ Azure Blob Storage is ideal for storing large amounts of unstructured data, such
 
 
 ## Migration Options
-
 Azure provides several options and tools to assist organizations in migrating their workloads to the cloud, ensuring a smooth and secure transition.
 
 ### Azure Cloud Adoption Framework
