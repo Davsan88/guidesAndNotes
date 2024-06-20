@@ -448,13 +448,47 @@ The 7 Layers of Security
 ### MFA
 ### Azure Security Center
 ### Key Vault
+* Azure Key Vaut
+* Secrets Management
+* Key Management
+* Certificate Management
+* Hardware Security Module
 ### Azure DDoS Protection
+#### What's a DDoS
+#### Frequent Types
+* Volumetric attacks
+* Protocol attacks
+* Application layer attacks
+#### Two Tiers
+* Basic
+* Standard
 ### Azure Firewall
 ### Application Gateway
-### Routing Rules
+### Application Gateway - Routing Rules
+* Listeners
+  * Basic
+  * Multi-site
+* Backend targets
+* HTTP Settings
 ### Role Based Access Control RBAC
-### Management Groups
-### Service Health
+#### RBAC Elements
+* Security principal
+  * User
+  * Group
+  * Service Principal
+  * Managed identity
+* Role definition
+* Scope
+#### RBAC Fundamental Roles
+* Owner
+* Contributor
+* Reader
+* User Access Administrator
+### Azure Management Groups
+### Azure Service Health
+#### Azure Status
+#### Azure Service Health
+#### Azure Resource Health
 ### Azure Advisor
 
 
