@@ -337,7 +337,6 @@ Azure Private Link provides private connectivity from a virtual network to Azure
 > Understanding Azure Virtual Networking components and features helps you design and implement secure, scalable, and efficient network architectures in the Azure cloud.
 
 
-
 ## Storage Accounts
 
 Azure Storage Accounts provide a scalable, durable, and secure cloud storage solution for a wide variety of data objects. 
