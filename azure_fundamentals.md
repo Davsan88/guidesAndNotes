@@ -385,7 +385,6 @@ Blob Storage access tiers help manage storage costs by allowing you to store blo
 - **Blob Lifecycle Management**: Automates the transition of blobs to different access tiers based on specified policies.
 
 ### Replication Data Redundancy
-
 Azure provides several options for replicating your data to ensure durability and high availability:
 
 #### Primary Region Redundancy
