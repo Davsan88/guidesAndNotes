@@ -356,7 +356,6 @@ Azure offers various storage services to meet different needs:
 Azure Storage Accounts provide a unique namespace for your Azure Storage data, accessible from anywhere in the world over HTTP or HTTPS. All objects in a storage account are billed together as a group.
 
 ### Storage Comparison
-
 Azure Storage offers different types of storage to meet various needs, from unstructured Blob storage to structured Table storage, and from message Queue storage to Disk storage for VMs.
 
 ### Core Storage Services
