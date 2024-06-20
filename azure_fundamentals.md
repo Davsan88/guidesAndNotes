@@ -425,7 +425,7 @@ Azure File Sync centralizes your organization's file shares in Azure Files, whil
 ### Storing Files in Blob Storage
 Azure Blob Storage is ideal for storing large amounts of unstructured data, such as documents, images, videos, and backups. It offers scalable, durable, and secure storage solutions for a wide range of applications.
 
-Understanding these storage services and their features helps you choose the right storage solution for your needs, ensuring data durability, availability, and cost efficiency in the Azure cloud.
+> Understanding these storage services and their features helps you choose the right storage solution for your needs, ensuring data durability, availability, and cost efficiency in the Azure cloud.
 
 
 
