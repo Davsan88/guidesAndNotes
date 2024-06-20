@@ -456,7 +456,6 @@ Azure Migrate integrates with a variety of tools to enhance the migration proces
 - **Azure Data Box**: Assists in transferring large amounts of data to Azure using secure, ruggedized devices.
 
 ### Azure Data Box
-
 Azure Data Box is a solution for transferring large amounts of data to Azure using physical storage devices. It is ideal for scenarios where network transfer is not feasible due to bandwidth limitations or data size:
 
 - **Azure Data Box**: A ruggedized appliance for transferring up to 80 TB of data to Azure.
