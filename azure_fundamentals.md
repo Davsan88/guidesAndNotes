@@ -423,7 +423,6 @@ Azure Files can be used for various scenarios, including file sharing, lift and 
 Azure File Sync centralizes your organization's file shares in Azure Files, while keeping the flexibility, performance, and compatibility of an on-premises file server.
 
 ### Storing Files in Blob Storage
-
 Azure Blob Storage is ideal for storing large amounts of unstructured data, such as documents, images, videos, and backups. It offers scalable, durable, and secure storage solutions for a wide range of applications.
 
 Understanding these storage services and their features helps you choose the right storage solution for your needs, ensuring data durability, availability, and cost efficiency in the Azure cloud.
