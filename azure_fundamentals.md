@@ -372,7 +372,6 @@ Azure Storage provides different performance tiers to meet varying needs:
 - **Premium Performance (SSDs)**: High-performance storage for latency-sensitive applications.
 
 ### Access Tiers (Blob Storage)
-
 Blob Storage access tiers help manage storage costs by allowing you to store blob object data in different access tiers based on its access patterns:
 
 - **Hot**: Optimized for data that is accessed frequently.
