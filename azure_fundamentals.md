@@ -359,7 +359,6 @@ Azure Storage Accounts provide a unique namespace for your Azure Storage data, a
 Azure Storage offers different types of storage to meet various needs, from unstructured Blob storage to structured Table storage, and from message Queue storage to Disk storage for VMs.
 
 ### Core Storage Services
-
 - **Azure Blob Storage**: For storing large amounts of unstructured data.
 - **Azure File Storage**: Managed file shares accessible via SMB.
 - **Azure Queue Storage**: For storing large numbers of messages.
