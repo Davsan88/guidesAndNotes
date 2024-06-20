@@ -366,7 +366,6 @@ Azure Storage offers different types of storage to meet various needs, from unst
 - **Azure Disk Storage**: Provides durable, high-performance block storage for VMs.
 
 ### Performance Tiers
-
 Azure Storage provides different performance tiers to meet varying needs:
 
 - **Standard Performance (HDDs)**: Cost-effective storage for infrequent access.
