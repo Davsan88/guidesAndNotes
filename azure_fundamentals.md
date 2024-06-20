@@ -417,7 +417,6 @@ Azure Storage Explorer is a standalone app that allows you to easily work with A
 Azure Files provides fully managed file shares in the cloud that are accessible via the industry-standard SMB and NFS protocols.
 
 ### Azure Files Use Cases
-
 Azure Files can be used for various scenarios, including file sharing, lift and shift migrations, and cloud applications that require a shared storage solution.
 
 ### Azure File Sync
