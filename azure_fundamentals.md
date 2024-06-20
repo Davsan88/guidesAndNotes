@@ -435,7 +435,6 @@ Azure provides several options and tools to assist organizations in migrating th
 The Azure Cloud Adoption Framework provides best practices, documentation, and tools to help organizations create and implement a comprehensive cloud adoption strategy. It covers all phases of cloud adoption, including planning, readiness, migration, governance, and management, ensuring that migrations are aligned with business goals and technical requirements.
 
 ### Security Roles and Responsibilities
-
 During the migration process, it's crucial to define and assign security roles and responsibilities clearly. This ensures that security is integrated into every phase of the migration and that all team members understand their specific roles in maintaining security:
 
 - **Cloud Security Engineer**: Focuses on implementing security controls and managing security tools.
