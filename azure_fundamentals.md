@@ -388,7 +388,6 @@ Blob Storage access tiers help manage storage costs by allowing you to store blo
 Azure provides several options for replicating your data to ensure durability and high availability:
 
 #### Primary Region Redundancy
-
 - **LRS (Locally Redundant Storage)**: Data is replicated three times within a single data center in the primary region.
 - **ZRS (Zone-Redundant Storage)**: Data is replicated synchronously across three Azure availability zones in the primary region.
 
