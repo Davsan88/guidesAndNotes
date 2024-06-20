@@ -346,8 +346,8 @@ Azure offers various storage services to meet different needs:
 - **Azure Blob Storage**: Optimized for storing large amounts of unstructured data, such as text or binary data.
 - **Azure Disk Storage**: Provides block-level storage volumes for Azure VMs.
 - **Azure File Storage**: Fully managed file shares that you can access via the industry-standard SMB protocol.
-- **Azure Queue Storage**: Allows for storing large numbers of messages that can be accessed from anywhere via authenticated calls.
-- **Azure Table Storage**: Provides structured NoSQL data storage for storing large amounts of data.
+- ***Azure Queue Storage**: Allows for storing large numbers of messages that can be accessed from anywhere via authenticated calls.
+- ***Azure Table Storage**: Provides structured NoSQL data storage for storing large amounts of data.
 - **Azure Data Box / Azure Data Box Heavy**: Solutions for transferring large amounts of data to Azure using physical storage devices.
 - **Azure Archive Storage**: Offers low-cost, long-term storage for rarely accessed data.
 - **Azure Data Lake Storage**: Combines the power of a high-performance file system with massive scale and economy to help speed data-driven innovation.
