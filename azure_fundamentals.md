@@ -442,7 +442,6 @@ During the migration process, it's crucial to define and assign security roles a
 - **Compliance Officer**: Ensures that the migration process adheres to regulatory requirements and industry standards.
 
 ### Azure Migrate
-
 Azure Migrate provides a centralized hub for discovering, assessing, and migrating on-premises workloads to Azure. It supports a wide range of migration scenarios, including:
 
 - **Server Migration**: Assists in migrating physical servers and VMs to Azure.
