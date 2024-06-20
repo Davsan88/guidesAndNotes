@@ -397,7 +397,6 @@ Azure provides several options for replicating your data to ensure durability an
 - **GZRS (Geo-Zone-Redundant Storage)**: Combines the high availability of ZRS with the protection of GRS.
 
 #### Secondary Region Redundancy with Read Access
-
 - **RA-GRS (Read-Access Geo-Redundant Storage)**: Provides read access to the data in the secondary region.
 - **RA-GZRS (Read-Access Geo-Zone-Redundant Storage)**: Provides read access to the data in the secondary region with zone redundancy.
 
