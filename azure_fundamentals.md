@@ -449,7 +449,6 @@ Azure Migrate provides a centralized hub for discovering, assessing, and migrati
 - **Application Migration**: Provides tools and guidance for migrating applications to Azure.
 
 ### Azure Migrate Integrated Tools
-
 Azure Migrate integrates with a variety of tools to enhance the migration process:
 
 - **Azure Database Migration Service**: Simplifies the migration of databases to Azure with minimal downtime.
