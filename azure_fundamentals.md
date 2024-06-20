@@ -341,7 +341,6 @@ Azure Private Link provides private connectivity from a virtual network to Azure
 Azure Storage Accounts provide a scalable, durable, and secure cloud storage solution for a wide variety of data objects. 
 
 ### Storage Services
-
 Azure offers various storage services to meet different needs:
 
 - **Azure Blob Storage**: Optimized for storing large amounts of unstructured data, such as text or binary data.
