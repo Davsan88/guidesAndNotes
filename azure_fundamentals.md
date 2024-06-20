@@ -411,7 +411,6 @@ Azure Blob Storage is optimized for storing massive amounts of unstructured data
 AZCopy is a command-line utility designed for copying data to and from Azure Blob and File storage, enabling efficient data transfer.
 
 ### Azure Storage Explorer
-
 Azure Storage Explorer is a standalone app that allows you to easily work with Azure Storage data on Windows, macOS, and Linux. It provides a graphical interface for managing your storage accounts and the data they contain.
 
 ### Introduction to Azure Files
