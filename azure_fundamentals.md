@@ -414,7 +414,6 @@ AZCopy is a command-line utility designed for copying data to and from Azure Blo
 Azure Storage Explorer is a standalone app that allows you to easily work with Azure Storage data on Windows, macOS, and Linux. It provides a graphical interface for managing your storage accounts and the data they contain.
 
 ### Introduction to Azure Files
-
 Azure Files provides fully managed file shares in the cloud that are accessible via the industry-standard SMB and NFS protocols.
 
 ### Azure Files Use Cases
