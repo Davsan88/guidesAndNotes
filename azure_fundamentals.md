@@ -392,7 +392,6 @@ Azure provides several options for replicating your data to ensure durability an
 - **ZRS (Zone-Redundant Storage)**: Data is replicated synchronously across three Azure availability zones in the primary region.
 
 #### Secondary Region Redundancy
-
 - **GRS (Geo-Redundant Storage)**: Data is replicated to a secondary region, ensuring durability even in the event of a region-wide outage.
 - **GZRS (Geo-Zone-Redundant Storage)**: Combines the high availability of ZRS with the protection of GRS.
 
