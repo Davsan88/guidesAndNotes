@@ -481,7 +481,6 @@ Microsoft Entra ID is used for:
 - **External Identities**: Allows external partners, customers, and contractors to securely access internal resources.
 
 ### AD vs AAD
-
 - **Active Directory (AD)**: A traditional on-premises directory service for managing Windows domain networks.
 - **Azure Active Directory (AAD)**: A cloud-based identity and access management service for managing identities in cloud and hybrid environments.
 
