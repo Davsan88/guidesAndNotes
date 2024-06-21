@@ -476,7 +476,6 @@ Microsoft Entra ID is a cloud-based identity and access management service that 
 ### Use Cases
 
 Microsoft Entra ID is used for:
-
 - **Single Sign-On (SSO)**: Simplifies user access to multiple applications with a single set of credentials.
 - **Conditional Access**: Enhances security by enforcing policies based on user, location, device, and risk factors.
 - **External Identities**: Allows external partners, customers, and contractors to securely access internal resources.
