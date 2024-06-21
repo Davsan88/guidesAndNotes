@@ -509,7 +509,6 @@ Microsoft Entra ID supports various SSO protocols:
 External Identities in Microsoft Entra ID allow external partners, customers, and contractors to securely access your organization's applications and resources while maintaining their own identity management systems.
 
 ### Conditional Access
-
 Conditional Access policies enforce access controls based on specific conditions such as user location, device status, and real-time risk assessments.
 
 ### Conditional Access Signals
