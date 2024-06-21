@@ -528,7 +528,7 @@ Based on the evaluation of Conditional Access signals, common decisions include:
 - **Block access**: Denies access to resources based on policy evaluation.
 - **Grant access**: Allows access with or without additional requirements, such as multi-factor authentication (MFA).
 
->Understanding Microsoft Entra ID and its features helps organizations manage identities and secure access to resources effectively, ensuring a seamless and secure user experience.
+> Understanding Microsoft Entra ID and its features helps organizations manage identities and secure access to resources effectively, ensuring a seamless and secure user experience.
 
 
 ## Security
