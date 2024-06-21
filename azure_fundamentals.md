@@ -496,7 +496,6 @@ Azure AD Domain Services (AD DS) provides managed domain services such as domain
 Single Sign-On (SSO) enables users to access multiple applications with a single set of login credentials. This simplifies the user experience and enhances security by reducing the number of passwords users need to manage.
 
 ### SSO Protocols
-
 Microsoft Entra ID supports various SSO protocols:
 
 - **OpenID Connect and OAuth**: Modern authentication protocols for securing APIs and enabling SSO.
