@@ -512,7 +512,6 @@ External Identities in Microsoft Entra ID allow external partners, customers, an
 Conditional Access policies enforce access controls based on specific conditions such as user location, device status, and real-time risk assessments.
 
 ### Conditional Access Signals
-
 Conditional Access policies evaluate the following signals:
 
 - **User or group membership**: Determines access based on the user's role or group.
