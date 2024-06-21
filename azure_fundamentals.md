@@ -523,7 +523,6 @@ Conditional Access policies evaluate the following signals:
 - **User risk**: Evaluates the risk level associated with the user account.
 
 ### Conditional Access - Common Decisions
-
 Based on the evaluation of Conditional Access signals, common decisions include:
 
 - **Block access**: Denies access to resources based on policy evaluation.
