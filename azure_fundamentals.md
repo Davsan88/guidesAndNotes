@@ -493,7 +493,6 @@ Microsoft Entra ID is used for:
 Azure AD Domain Services (AD DS) provides managed domain services such as domain join, group policy, LDAP, and Kerberos/NTLM authentication that are fully compatible with Windows Server Active Directory.
 
 ### Single Sign-On (SSO)
-
 Single Sign-On (SSO) enables users to access multiple applications with a single set of login credentials. This simplifies the user experience and enhances security by reducing the number of passwords users need to manage.
 
 ### SSO Protocols
