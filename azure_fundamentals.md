@@ -490,7 +490,6 @@ Microsoft Entra ID is used for:
 - **Federation**: A relationship established between multiple organizations to allow shared access to resources.
 
 ### AD DS Microsoft Entra Domain Services
-
 Azure AD Domain Services (AD DS) provides managed domain services such as domain join, group policy, LDAP, and Kerberos/NTLM authentication that are fully compatible with Windows Server Active Directory.
 
 ### Single Sign-On (SSO)
