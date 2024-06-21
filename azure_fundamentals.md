@@ -466,34 +466,81 @@ Azure Data Box is a solution for transferring large amounts of data to Azure usi
 
 
 ## Microsoft Entra ID
-### Microsoft Entra ID Name Change
-### Introduction to Entra ID
-### Use Cases
-### AD vs AAD
-### Terminology
-### AD DS Microsoft Entra Domain Services
-### Single Sign On SSO
-### SSO protocols
-* OpenID Connect and OAuth
-* SAML
-* Password-based authentication
-* Link authentication
-* Integrated Windows Authentication (IWA)
-* Header-based authentication
-### External Identities
-### Conditional Access
-### Conditional Access Signals
-* User or group memebership
-*Named location indormation / IP Location Information
-* Device
-* Application
-* Real-time sing-in risk detection
-* Cloud apps or actions
-* User risk
-### Conditional Access - Common Decisions
-* Block access
-* Grant access
 
+### Microsoft Entra ID Name Change
+
+Microsoft Entra ID, formerly known as Azure Active Directory (Azure AD), has been rebranded to reflect its broader scope in managing identity and access across various platforms and services.
+
+### Introduction to Entra ID
+
+Microsoft Entra ID is a cloud-based identity and access management service that helps organizations manage user identities, secure access to resources, and streamline authentication processes. It supports a wide range of authentication protocols and integrates seamlessly with various Microsoft and third-party applications.
+
+### Use Cases
+
+Microsoft Entra ID is used for:
+
+- **Single Sign-On (SSO)**: Simplifies user access to multiple applications with a single set of credentials.
+- **Conditional Access**: Enhances security by enforcing policies based on user, location, device, and risk factors.
+- **External Identities**: Allows external partners, customers, and contractors to securely access internal resources.
+
+### AD vs AAD
+
+- **Active Directory (AD)**: A traditional on-premises directory service for managing Windows domain networks.
+- **Azure Active Directory (AAD)**: A cloud-based identity and access management service for managing identities in cloud and hybrid environments.
+
+### Terminology
+
+- **Tenant**: An instance of Entra ID dedicated to an organization.
+- **Directory**: A container that holds user accounts, groups, and other objects.
+- **Federation**: A relationship established between multiple organizations to allow shared access to resources.
+
+### AD DS Microsoft Entra Domain Services
+
+Azure AD Domain Services (AD DS) provides managed domain services such as domain join, group policy, LDAP, and Kerberos/NTLM authentication that are fully compatible with Windows Server Active Directory.
+
+### Single Sign-On (SSO)
+
+Single Sign-On (SSO) enables users to access multiple applications with a single set of login credentials. This simplifies the user experience and enhances security by reducing the number of passwords users need to manage.
+
+### SSO Protocols
+
+Microsoft Entra ID supports various SSO protocols:
+
+- **OpenID Connect and OAuth**: Modern authentication protocols for securing APIs and enabling SSO.
+- **SAML**: Security Assertion Markup Language, used for exchanging authentication and authorization data.
+- **Password-based authentication**: Traditional username and password authentication.
+- **Link authentication**: Authentication through a unique link sent to the user.
+- **Integrated Windows Authentication (IWA)**: Seamless authentication for users on Windows-based networks.
+- **Header-based authentication**: Uses HTTP headers to pass authentication information.
+
+### External Identities
+
+External Identities in Microsoft Entra ID allow external partners, customers, and contractors to securely access your organization's applications and resources while maintaining their own identity management systems.
+
+### Conditional Access
+
+Conditional Access policies enforce access controls based on specific conditions such as user location, device status, and real-time risk assessments.
+
+### Conditional Access Signals
+
+Conditional Access policies evaluate the following signals:
+
+- **User or group membership**: Determines access based on the user's role or group.
+- **Named location information / IP Location Information**: Evaluates the geographical location or IP address of the user.
+- **Device**: Considers the compliance and health status of the device.
+- **Application**: Enforces policies based on the application being accessed.
+- **Real-time sign-in risk detection**: Assesses the risk level of the sign-in attempt.
+- **Cloud apps or actions**: Applies policies to specific cloud applications or actions performed within them.
+- **User risk**: Evaluates the risk level associated with the user account.
+
+### Conditional Access - Common Decisions
+
+Based on the evaluation of Conditional Access signals, common decisions include:
+
+- **Block access**: Denies access to resources based on policy evaluation.
+- **Grant access**: Allows access with or without additional requirements, such as multi-factor authentication (MFA).
+
+Understanding Microsoft Entra ID and its features helps organizations manage identities and secure access to resources effectively, ensuring a seamless and secure user experience.
 
 
 ## Security
