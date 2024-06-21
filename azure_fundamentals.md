@@ -485,7 +485,6 @@ Microsoft Entra ID is used for:
 - **Azure Active Directory (AAD)**: A cloud-based identity and access management service for managing identities in cloud and hybrid environments.
 
 ### Terminology
-
 - **Tenant**: An instance of Entra ID dedicated to an organization.
 - **Directory**: A container that holds user accounts, groups, and other objects.
 - **Federation**: A relationship established between multiple organizations to allow shared access to resources.
