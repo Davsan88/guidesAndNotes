@@ -468,7 +468,6 @@ Azure Data Box is a solution for transferring large amounts of data to Azure usi
 ## Microsoft Entra ID
 
 ### Microsoft Entra ID Name Change
-
 Microsoft Entra ID, formerly known as Azure Active Directory (Azure AD), has been rebranded to reflect its broader scope in managing identity and access across various platforms and services.
 
 ### Introduction to Entra ID
