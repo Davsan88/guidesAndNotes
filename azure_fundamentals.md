@@ -506,7 +506,6 @@ Microsoft Entra ID supports various SSO protocols:
 - **Header-based authentication**: Uses HTTP headers to pass authentication information.
 
 ### External Identities
-
 External Identities in Microsoft Entra ID allow external partners, customers, and contractors to securely access your organization's applications and resources while maintaining their own identity management systems.
 
 ### Conditional Access
