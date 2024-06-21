@@ -471,7 +471,6 @@ Azure Data Box is a solution for transferring large amounts of data to Azure usi
 Microsoft Entra ID, formerly known as Azure Active Directory (Azure AD), has been rebranded to reflect its broader scope in managing identity and access across various platforms and services.
 
 ### Introduction to Entra ID
-
 Microsoft Entra ID is a cloud-based identity and access management service that helps organizations manage user identities, secure access to resources, and streamline authentication processes. It supports a wide range of authentication protocols and integrates seamlessly with various Microsoft and third-party applications.
 
 ### Use Cases
