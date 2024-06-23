@@ -639,7 +639,6 @@ Azure Management Groups help you efficiently manage access, policy, and complian
 Azure Service Health provides personalized alerts and guidance when Azure service issues affect you.
 
 #### Azure Status
-
 Azure Status provides a global view of the health of Azure services, showing real-time data and historical information about service availability.
 
 #### Azure Service Health
