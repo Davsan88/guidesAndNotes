@@ -592,7 +592,6 @@ Azure DDoS Protection helps protect your applications from Distributed Denial of
 A DDoS attack is an attempt to make an online service unavailable by overwhelming it with traffic from multiple sources.
 
 #### Frequent Types
-
 - **Volumetric attacks**: Flood the network with excessive traffic to overwhelm the bandwidth.
 - **Protocol attacks**: Exploit weaknesses in network protocols to consume resources.
 - **Application layer attacks**: Target specific applications to disrupt their operation.
