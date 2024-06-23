@@ -549,8 +549,7 @@ Defense in Depth is a layered approach to security, providing multiple levels of
 2. **Application**: Securing applications by ensuring they are free from vulnerabilities and configured correctly.
 3. **Compute**: Safeguarding compute resources through patch management, secure configurations, and monitoring.
 4. **Network**: Protecting network infrastructure through firewalls, VPNs, and segmentation.
-
-5. **Perimeter**
+5. **Perimeter**: Securing the perimeter with intrusion detection and prevention systems.
 6. **Policies & Access**
 7. **Physical Security**
 
