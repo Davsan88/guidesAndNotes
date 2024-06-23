@@ -586,7 +586,6 @@ Azure Key Vault helps safeguard cryptographic keys and secrets used by cloud app
 - **Hardware Security Module (HSM)**: Provides dedicated HSMs to safeguard your keys.
 
 ### Azure DDoS Protection
-
 Azure DDoS Protection helps protect your applications from Distributed Denial of Service (DDoS) attacks.
 
 #### What's a DDoS
