@@ -550,7 +550,7 @@ Defense in Depth is a layered approach to security, providing multiple levels of
 3. **Compute**: Safeguarding compute resources through patch management, secure configurations, and monitoring.
 4. **Network**: Protecting network infrastructure through firewalls, VPNs, and segmentation.
 5. **Perimeter**: Securing the perimeter with intrusion detection and prevention systems.
-6. **Policies & Access**
+6. **Policies & Access**: Implementing strong identity and access management policies to control who can access what.
 7. **Physical Security**
 
 ### Azure Defender
