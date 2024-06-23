@@ -537,7 +537,6 @@ Based on the evaluation of Conditional Access signals, common decisions include:
 The Zero Trust Model is a security concept centered on the belief that organizations should not automatically trust anything inside or outside its perimeters and must verify everything trying to connect to its systems before granting access.
 
 ### Zero Trust Principles
-
 - **Verify explicitly**: Always authenticate and authorize based on all available data points.
 - **Use least privileged access**: Limit user access with just-in-time and just-enough-access (JIT/JEA).
 - **Assume breach**: Minimize blast radius and segment access to contain and prevent lateral movement.
