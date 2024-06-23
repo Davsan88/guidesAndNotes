@@ -571,7 +571,6 @@ The Network Map in Azure Defender visualizes your network topology, highlighting
 Azure Defender extends protection to hybrid cloud environments through **Azure Arc**, ensuring consistent security across on-premises, multi-cloud, and edge environments.
 
 ### MFA (Multi-Factor Authentication)
-
 MFA enhances security by requiring multiple forms of verification to access resources, reducing the risk of unauthorized access.
 
 ### Azure Security Center
