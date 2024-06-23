@@ -607,7 +607,6 @@ Azure Firewall is a managed, cloud-based network security service that protects 
 Azure Application Gateway is a web traffic load balancer that enables you to manage traffic to your web applications.
 
 ### Application Gateway - Routing Rules
-
 - **Listeners**: Define how the Application Gateway listens for incoming traffic.
   - **Basic**: Simple listener configuration for a single site.
   - **Multi-site**: Configures listeners for multiple sites with unique domain names.
