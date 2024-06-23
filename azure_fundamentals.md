@@ -574,7 +574,6 @@ Azure Defender extends protection to hybrid cloud environments through **Azure A
 MFA enhances security by requiring multiple forms of verification to access resources, reducing the risk of unauthorized access.
 
 ### Azure Security Center
-
 Azure Security Center provides unified security management and advanced threat protection across your hybrid cloud workloads. It continuously assesses your environment for potential vulnerabilities and provides actionable recommendations.
 
 ### Key Vault
