@@ -554,7 +554,6 @@ Defense in Depth is a layered approach to security, providing multiple levels of
 7. **Physical Security**
 
 ### Azure Defender
-
 Azure Defender provides advanced threat protection for your Azure and hybrid resources, including virtual machines, databases, containers, and more.
 
 - **Coverage**: Monitors and protects a wide range of Azure services.
