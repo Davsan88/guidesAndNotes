@@ -589,7 +589,6 @@ Azure Key Vault helps safeguard cryptographic keys and secrets used by cloud app
 Azure DDoS Protection helps protect your applications from Distributed Denial of Service (DDoS) attacks.
 
 #### What's a DDoS
-
 A DDoS attack is an attempt to make an online service unavailable by overwhelming it with traffic from multiple sources.
 
 #### Frequent Types
