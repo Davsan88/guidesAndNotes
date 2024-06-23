@@ -614,7 +614,6 @@ Azure Application Gateway is a web traffic load balancer that enables you to man
 - **HTTP Settings**: Define settings for routing traffic to backend targets, including session affinity, custom probes, and timeout settings.
 
 ### Role-Based Access Control (RBAC)
-
 RBAC helps manage who has access to Azure resources, what they can do with those resources, and what areas they have access to.
 
 #### RBAC Elements
