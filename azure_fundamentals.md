@@ -534,7 +534,6 @@ Based on the evaluation of Conditional Access signals, common decisions include:
 ## Security
 
 ### Zero Trust Model
-
 The Zero Trust Model is a security concept centered on the belief that organizations should not automatically trust anything inside or outside its perimeters and must verify everything trying to connect to its systems before granting access.
 
 ### Zero Trust Principles
