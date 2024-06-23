@@ -633,7 +633,6 @@ RBAC helps manage who has access to Azure resources, what they can do with those
 - **User Access Administrator**: Can manage user access to Azure resources.
 
 ### Azure Management Groups
-
 Azure Management Groups help you efficiently manage access, policy, and compliance across multiple Azure subscriptions. Management Groups provide a way to organize resources hierarchically for unified management and governance.
 
 ### Azure Service Health
