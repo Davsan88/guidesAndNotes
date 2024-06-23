@@ -604,7 +604,6 @@ A DDoS attack is an attempt to make an online service unavailable by overwhelmin
 Azure Firewall is a managed, cloud-based network security service that protects your Azure Virtual Network resources with high availability and scalability.
 
 ### Application Gateway
-
 Azure Application Gateway is a web traffic load balancer that enables you to manage traffic to your web applications.
 
 ### Application Gateway - Routing Rules
