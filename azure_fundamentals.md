@@ -532,64 +532,150 @@ Based on the evaluation of Conditional Access signals, common decisions include:
 
 
 ## Security
+
 ### Zero Trust Model
+
+The Zero Trust Model is a security concept centered on the belief that organizations should not automatically trust anything inside or outside its perimeters and must verify everything trying to connect to its systems before granting access.
+
 ### Zero Trust Principles
+
+- **Verify explicitly**: Always authenticate and authorize based on all available data points.
+- **Use least privileged access**: Limit user access with just-in-time and just-enough-access (JIT/JEA).
+- **Assume breach**: Minimize blast radius and segment access to contain and prevent lateral movement.
+
 ### Defense In Depth
-The 7 Layers of Security
+
+Defense in Depth is a layered approach to security, providing multiple levels of defense to protect data and resources. 
+
+#### The 7 Layers of Security
+
+1. **Data**
+2. **Application**
+3. **Compute**
+4. **Network**
+5. **Perimeter**
+6. **Policies & Access**
+7. **Physical Security**
+
 ### Azure Defender
-* Coverage
-* Security Alerts
-* Insights
-* Advanced Protection
+
+Azure Defender provides advanced threat protection for your Azure and hybrid resources, including virtual machines, databases, containers, and more.
+
+- **Coverage**: Monitors and protects a wide range of Azure services.
+- **Security Alerts**: Detects threats and provides alerts for potential vulnerabilities and security breaches.
+- **Insights**: Offers recommendations and insights to improve security posture.
+- **Advanced Protection**: Includes behavioral analytics and machine learning to detect and respond to threats.
+
 #### Scope of Azure Defender
+
+Azure Defender covers various services, including VMs, SQL databases, storage accounts, Kubernetes, and more, providing comprehensive protection across your Azure environment.
+
 #### Azure Defender - Network Map
+
+The Network Map in Azure Defender visualizes your network topology, highlighting potential vulnerabilities and security risks, and providing recommendations for securing your network.
+
 #### Azure Defender - Hybrid Cloud Protection
-* Azure Arc
-### MFA
+
+Azure Defender extends protection to hybrid cloud environments through **Azure Arc**, ensuring consistent security across on-premises, multi-cloud, and edge environments.
+
+### MFA (Multi-Factor Authentication)
+
+MFA enhances security by requiring multiple forms of verification to access resources, reducing the risk of unauthorized access.
+
 ### Azure Security Center
+
+Azure Security Center provides unified security management and advanced threat protection across your hybrid cloud workloads. It continuously assesses your environment for potential vulnerabilities and provides actionable recommendations.
+
 ### Key Vault
-* Azure Key Vaut
-* Secrets Management
-* Key Management
-* Certificate Management
-* Hardware Security Module
+
+Azure Key Vault helps safeguard cryptographic keys and secrets used by cloud applications and services.
+
+- **Azure Key Vault**: A cloud service for securely storing and accessing secrets, keys, and certificates.
+- **Secrets Management**: Securely stores and controls access to tokens, passwords, certificates, API keys, and other secrets.
+- **Key Management**: Manages cryptographic keys for your applications.
+- **Certificate Management**: Simplifies the process of securing and managing SSL/TLS certificates.
+- **Hardware Security Module (HSM)**: Provides dedicated HSMs to safeguard your keys.
+
 ### Azure DDoS Protection
+
+Azure DDoS Protection helps protect your applications from Distributed Denial of Service (DDoS) attacks.
+
 #### What's a DDoS
+
+A DDoS attack is an attempt to make an online service unavailable by overwhelming it with traffic from multiple sources.
+
 #### Frequent Types
-* Volumetric attacks
-* Protocol attacks
-* Application layer attacks
+
+- **Volumetric attacks**: Flood the network with excessive traffic to overwhelm the bandwidth.
+- **Protocol attacks**: Exploit weaknesses in network protocols to consume resources.
+- **Application layer attacks**: Target specific applications to disrupt their operation.
+
 #### Two Tiers
-* Basic
-* Standard
+
+- **Basic**: Automatically enabled at no extra cost for all Azure customers.
+- **Standard**: Provides advanced DDoS protection capabilities and enhanced mitigation features.
+
 ### Azure Firewall
+
+Azure Firewall is a managed, cloud-based network security service that protects your Azure Virtual Network resources with high availability and scalability.
+
 ### Application Gateway
+
+Azure Application Gateway is a web traffic load balancer that enables you to manage traffic to your web applications.
+
 ### Application Gateway - Routing Rules
-* Listeners
-  * Basic
-  * Multi-site
-* Backend targets
-* HTTP Settings
-### Role Based Access Control RBAC
+
+- **Listeners**: Define how the Application Gateway listens for incoming traffic.
+  - **Basic**: Simple listener configuration for a single site.
+  - **Multi-site**: Configures listeners for multiple sites with unique domain names.
+- **Backend targets**: Direct traffic to specific backend servers or pools.
+- **HTTP Settings**: Define settings for routing traffic to backend targets, including session affinity, custom probes, and timeout settings.
+
+### Role-Based Access Control (RBAC)
+
+RBAC helps manage who has access to Azure resources, what they can do with those resources, and what areas they have access to.
+
 #### RBAC Elements
-* Security principal
-  * User
-  * Group
-  * Service Principal
-  * Managed identity
-* Role definition
-* Scope
+
+- **Security principal**: An object that represents a user, group, service principal, or managed identity requesting access to Azure resources.
+  - **User**: An individual user account.
+  - **Group**: A set of user accounts.
+  - **Service Principal**: An identity created for use with applications, hosted services, and automated tools.
+  - **Managed Identity**: A type of service principal automatically managed by Azure.
+
+- **Role definition**: A collection of permissions that defines the actions that can be performed on resources.
+- **Scope**: The set of resources that the access applies to.
+
 #### RBAC Fundamental Roles
-* Owner
-* Contributor
-* Reader
-* User Access Administrator
+
+- **Owner**: Full access to all resources, including the ability to delegate access to others.
+- **Contributor**: Can create and manage all types of Azure resources but cannot grant access to others.
+- **Reader**: Can view existing Azure resources.
+- **User Access Administrator**: Can manage user access to Azure resources.
+
 ### Azure Management Groups
+
+Azure Management Groups help you efficiently manage access, policy, and compliance across multiple Azure subscriptions. Management Groups provide a way to organize resources hierarchically for unified management and governance.
+
 ### Azure Service Health
+
+Azure Service Health provides personalized alerts and guidance when Azure service issues affect you.
+
 #### Azure Status
+
+Azure Status provides a global view of the health of Azure services, showing real-time data and historical information about service availability.
+
 #### Azure Service Health
+
+Azure Service Health keeps you informed about service issues, planned maintenance, and health advisories that affect your Azure resources.
+
 #### Azure Resource Health
+
+Azure Resource Health helps you diagnose and get support for service problems impacting your Azure resources.
+
 ### Azure Advisor
+
+Azure Advisor is a personalized cloud consultant that helps you follow best practices to optimize your Azure deployments. It provides recommendations on high availability, security, performance, and cost.
 
 
 
