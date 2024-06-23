@@ -617,7 +617,6 @@ Azure Application Gateway is a web traffic load balancer that enables you to man
 RBAC helps manage who has access to Azure resources, what they can do with those resources, and what areas they have access to.
 
 #### RBAC Elements
-
 - **Security principal**: An object that represents a user, group, service principal, or managed identity requesting access to Azure resources.
   - **User**: An individual user account.
   - **Group**: A set of user accounts.
