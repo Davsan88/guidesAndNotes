@@ -636,7 +636,6 @@ RBAC helps manage who has access to Azure resources, what they can do with those
 Azure Management Groups help you efficiently manage access, policy, and compliance across multiple Azure subscriptions. Management Groups provide a way to organize resources hierarchically for unified management and governance.
 
 ### Azure Service Health
-
 Azure Service Health provides personalized alerts and guidance when Azure service issues affect you.
 
 #### Azure Status
