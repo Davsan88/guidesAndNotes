@@ -562,7 +562,6 @@ Azure Defender provides advanced threat protection for your Azure and hybrid res
 - **Advanced Protection**: Includes behavioral analytics and machine learning to detect and respond to threats.
 
 #### Scope of Azure Defender
-
 Azure Defender covers various services, including VMs, SQL databases, storage accounts, Kubernetes, and more, providing comprehensive protection across your Azure environment.
 
 #### Azure Defender - Network Map
