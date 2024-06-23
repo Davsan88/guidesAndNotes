@@ -565,7 +565,6 @@ Azure Defender provides advanced threat protection for your Azure and hybrid res
 Azure Defender covers various services, including VMs, SQL databases, storage accounts, Kubernetes, and more, providing comprehensive protection across your Azure environment.
 
 #### Azure Defender - Network Map
-
 The Network Map in Azure Defender visualizes your network topology, highlighting potential vulnerabilities and security risks, and providing recommendations for securing your network.
 
 #### Azure Defender - Hybrid Cloud Protection
