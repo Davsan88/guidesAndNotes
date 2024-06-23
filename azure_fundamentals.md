@@ -648,7 +648,6 @@ Azure Service Health keeps you informed about service issues, planned maintenanc
 Azure Resource Health helps you diagnose and get support for service problems impacting your Azure resources.
 
 ### Azure Advisor
-
 Azure Advisor is a personalized cloud consultant that helps you follow best practices to optimize your Azure deployments. It provides recommendations on high availability, security, performance, and cost.
 
 
