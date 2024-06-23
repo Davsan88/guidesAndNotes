@@ -545,7 +545,6 @@ The Zero Trust Model is a security concept centered on the belief that organizat
 Defense in Depth is a layered approach to security, providing multiple levels of defense to protect data and resources. 
 
 #### The 7 Layers of Security
-
 1. **Data**
 2. **Application**
 3. **Compute**
