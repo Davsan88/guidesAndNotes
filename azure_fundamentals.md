@@ -597,12 +597,10 @@ A DDoS attack is an attempt to make an online service unavailable by overwhelmin
 - **Application layer attacks**: Target specific applications to disrupt their operation.
 
 #### Two Tiers
-
 - **Basic**: Automatically enabled at no extra cost for all Azure customers.
 - **Standard**: Provides advanced DDoS protection capabilities and enhanced mitigation features.
 
 ### Azure Firewall
-
 Azure Firewall is a managed, cloud-based network security service that protects your Azure Virtual Network resources with high availability and scalability.
 
 ### Application Gateway
