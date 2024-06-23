@@ -577,7 +577,6 @@ MFA enhances security by requiring multiple forms of verification to access reso
 Azure Security Center provides unified security management and advanced threat protection across your hybrid cloud workloads. It continuously assesses your environment for potential vulnerabilities and provides actionable recommendations.
 
 ### Key Vault
-
 Azure Key Vault helps safeguard cryptographic keys and secrets used by cloud applications and services.
 
 - **Azure Key Vault**: A cloud service for securely storing and accessing secrets, keys, and certificates.
