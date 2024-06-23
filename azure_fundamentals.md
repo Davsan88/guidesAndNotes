@@ -568,7 +568,6 @@ Azure Defender covers various services, including VMs, SQL databases, storage ac
 The Network Map in Azure Defender visualizes your network topology, highlighting potential vulnerabilities and security risks, and providing recommendations for securing your network.
 
 #### Azure Defender - Hybrid Cloud Protection
-
 Azure Defender extends protection to hybrid cloud environments through **Azure Arc**, ensuring consistent security across on-premises, multi-cloud, and edge environments.
 
 ### MFA (Multi-Factor Authentication)
