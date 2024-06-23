@@ -645,7 +645,6 @@ Azure Status provides a global view of the health of Azure services, showing rea
 Azure Service Health keeps you informed about service issues, planned maintenance, and health advisories that affect your Azure resources.
 
 #### Azure Resource Health
-
 Azure Resource Health helps you diagnose and get support for service problems impacting your Azure resources.
 
 ### Azure Advisor
