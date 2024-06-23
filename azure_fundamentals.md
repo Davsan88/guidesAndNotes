@@ -627,7 +627,6 @@ RBAC helps manage who has access to Azure resources, what they can do with those
 - **Scope**: The set of resources that the access applies to.
 
 #### RBAC Fundamental Roles
-
 - **Owner**: Full access to all resources, including the ability to delegate access to others.
 - **Contributor**: Can create and manage all types of Azure resources but cannot grant access to others.
 - **Reader**: Can view existing Azure resources.
