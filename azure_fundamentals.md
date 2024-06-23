@@ -547,8 +547,8 @@ Defense in Depth is a layered approach to security, providing multiple levels of
 #### The 7 Layers of Security
 1. **Data**: Protecting data through encryption, access controls, and data loss prevention strategies.
 2. **Application**: Securing applications by ensuring they are free from vulnerabilities and configured correctly.
+3. **Compute**: Safeguarding compute resources through patch management, secure configurations, and monitoring.
 
-3. **Compute**
 4. **Network**
 5. **Perimeter**
 6. **Policies & Access**
