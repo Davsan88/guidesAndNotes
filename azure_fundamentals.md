@@ -789,9 +789,22 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 ### ARM Scoping
 - What is scope?
   - Management Groups => Subscriptions => Resources Groups => Resources
-### Introduction
+### Introduction to ARM Templates
+- What is IaC?
+- IaC can either be:
+  - Declarative
+  - Imperative
+- ARM Templates
 ### Free Tier Spend and Usage
 
+
+## Intro to Azure Monitoring
+### The Pillars of Observability
+### Anatomy of Azure Monitor
+### Log Analytics
+### Log Analytics Workspaces
+### Azure Alerts
+### Application Insights
 
 
 https://www.youtube.com/watch?v=5abffC-K40c&t=11s
