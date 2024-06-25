@@ -653,83 +653,109 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 
 
 ## Technology Overview
-### Database Services
-- Azure Cosmo DB
-- Azure SQL Database
-- Azure Database for MySQL / PSQL / MariaDB
-- SQL Server on VMs
-- Azure Synapse Analytics (Azure SQL Data Warehouse)
-- Azure Database Migration Service
-- Azure Cache for Redis
-- Azure Table Storage
-### Application Integration
-- Azure Notifications Hub
-- Azure API Apps
-- Azure Service Bus
-- Azure Stream Analytics
-- Azure Logic Apps
-- Azure API Management
-- Azure Queue Storage
-### Developer and Mobile Tools
-- Azure SignalR Service
-- Azure App Service
-- Visual Studio
-- Xamarin
-### Azure DevOps Services
-- Azure DevOps
-  - Azure Boards
-  - Azure Pipelines
-  - Azure Repos
-  - Azure Test Plans
-  - Azure Artifacts
-  - Azure DevTest Labs
-### Cloud Native Networking Services
-- Azure DNS
-- Azure Virtual Network (vNET)
-- Azure Load Balancer
-- Azure Application Gateway
-- Network Security Groups
-### Enterprise Hybrid Networking Services
-- Azure Front Door
-- Azure Express Route (IMPORTANT)
-- Virtual Wan
-- Azure Connection
-- Virtual Network Gateway 
-### Azure Traffic Manager
-### IoT Services
-- IoT Central 
-- IoT Hub
-- IoT Edge
-- Windows 10 IOT Core Services 
-### Big Data and Analytics Services
-- Azure Synapse Analytics
-- HDInsight
-- Azure Databricks
-- Data Lake Analytics
-### AI ML Services Introduction
-- AI
-- ML
-- DL
-- Azure Machine Learning Service
-### AI ML Services
-- Personalizer
-- Translator
-- Anomaly Detector
-- Azure Bot Service
-- Form Recognizer
-- Computer Vision
-- Language Understanding
-- QnA Maker
-- Text Analytics
-- Content Moderator
-- Face
-- Ink Recogniser
-### Serverless Services
-- Azure Functions
-- Blob Storage
-- Logic Apps
-- Event Grid
 
+### Database Services
+
+- **Azure Cosmos DB**: A globally distributed, multi-model database service for any scale.
+- **Azure SQL Database**: A fully managed relational database with built-in intelligence.
+- **Azure Database for MySQL / PostgreSQL / MariaDB**: Managed relational database services for MySQL, PostgreSQL, and MariaDB.
+- **SQL Server on VMs**: Full-featured SQL Server in the cloud, hosted on Azure VMs.
+- **Azure Synapse Analytics (Azure SQL Data Warehouse)**: Integrated analytics service combining big data and data warehousing.
+- **Azure Database Migration Service**: Tool to simplify the migration of databases to Azure.
+- **Azure Cache for Redis**: Fully managed in-memory cache service for fast, scalable data storage.
+- **Azure Table Storage**: NoSQL datastore for semi-structured data.
+
+### Application Integration
+
+- **Azure Notification Hubs**: Send push notifications to any platform from any back-end.
+- **Azure API Apps**: Easily build and consume APIs in the cloud.
+- **Azure Service Bus**: Messaging service for reliable cloud messaging.
+- **Azure Stream Analytics**: Real-time data stream processing from multiple sources.
+- **Azure Logic Apps**: Automate workflows and integrate apps and data across clouds.
+- **Azure API Management**: Securely expose your APIs to internal and external users.
+- **Azure Queue Storage**: Simple, scalable message queuing for asynchronous messaging.
+
+### Developer and Mobile Tools
+
+- **Azure SignalR Service**: Real-time messaging service for building responsive web apps.
+- **Azure App Service**: Fully managed platform for building, deploying, and scaling web apps.
+- **Visual Studio**: Integrated development environment (IDE) from Microsoft.
+- **Xamarin**: Open-source platform for building modern and performant applications for iOS, Android, and Windows.
+
+### Azure DevOps Services
+
+- **Azure DevOps**: Comprehensive set of development tools.
+  - **Azure Boards**: Agile planning and project management.
+  - **Azure Pipelines**: Continuous integration and continuous delivery (CI/CD).
+  - **Azure Repos**: Source code repository.
+  - **Azure Test Plans**: Manual and exploratory testing.
+  - **Azure Artifacts**: Package management.
+  - **Azure DevTest Labs**: Quickly create environments in Azure while minimizing waste and controlling cost.
+
+### Cloud Native Networking Services
+
+- **Azure DNS**: DNS as a service, providing ultra-fast DNS responses.
+- **Azure Virtual Network (vNET)**: Provides an isolated and secure environment to run virtual machines and applications.
+- **Azure Load Balancer**: Distributes incoming network traffic across multiple servers.
+- **Azure Application Gateway**: Web traffic load balancer that enables you to manage traffic to your web applications.
+- **Network Security Groups**: Control inbound and outbound traffic to network interfaces (NIC), VMs, and subnets.
+
+### Enterprise Hybrid Networking Services
+
+- **Azure Front Door**: Application delivery network for high availability and low latency.
+- **Azure ExpressRoute (IMPORTANT)**: Private connection between your on-premises networks and Azure data centers.
+- **Virtual WAN**: Unified wide area network architecture.
+- **Azure Connection**: Secure connections to Azure from anywhere.
+- **Virtual Network Gateway**: Provides connectivity between VNets or between a VNet and on-premises networks.
+
+### Azure Traffic Manager
+
+Azure Traffic Manager is a DNS-based traffic load balancer, enabling you to distribute traffic optimally to services across global Azure regions.
+
+### IoT Services
+
+- **IoT Central**: Fully managed IoT app platform for managing IoT devices.
+- **IoT Hub**: Central message hub for bi-directional communication between IoT applications and devices.
+- **IoT Edge**: Extends cloud intelligence to edge devices.
+- **Windows 10 IoT Core Services**: Provides services for managing and securing IoT devices.
+
+### Big Data and Analytics Services
+
+- **Azure Synapse Analytics**: Integrated analytics service combining big data and data warehousing.
+- **HDInsight**: Fully managed open-source analytics service for enterprises.
+- **Azure Databricks**: Fast, easy, and collaborative Apache Spark-based analytics service.
+- **Data Lake Analytics**: On-demand analytics job service to simplify big data.
+
+### AI ML Services Introduction
+
+- **AI (Artificial Intelligence)**: Simulates human intelligence processes by machines.
+- **ML (Machine Learning)**: Algorithms that allow software applications to become more accurate in predicting outcomes without being explicitly programmed.
+- **DL (Deep Learning)**: Subset of ML involving neural networks with three or more layers.
+- **Azure Machine Learning Service**: Comprehensive service for building and deploying ML models.
+
+### AI ML Services
+
+- **Personalizer**: Adds personalized recommendations to your apps.
+- **Translator**: Real-time translation of text.
+- **Anomaly Detector**: Detects anomalies in time series data.
+- **Azure Bot Service**: Develop intelligent, enterprise-grade bots.
+- **Form Recognizer**: Extracts text, key-value pairs, and tables from documents.
+- **Computer Vision**: Extracts information from images.
+- **Language Understanding**: Understands natural language to build custom language models.
+- **QnA Maker**: Creates a question and answer layer over your data.
+- **Text Analytics**: Extracts insights such as sentiment and key phrases from text.
+- **Content Moderator**: Automated content moderation for text, images, and videos.
+- **Face**: Detects and recognizes human faces in images.
+- **Ink Recognizer**: Recognizes digital ink content and converts it into a structured format.
+
+### Serverless Services
+
+- **Azure Functions**: Event-driven serverless compute service.
+- **Blob Storage**: Object storage solution for the cloud.
+- **Logic Apps**: Automate and orchestrate tasks, business processes, and workflows.
+- **Event Grid**: Event routing service for event-driven architectures.
+
+Understanding these services and tools helps you leverage Azure's capabilities for developing, deploying, and managing applications efficiently and effectively.
 
 ##  Billing And Pricing
 ### Service Level Agreements
@@ -786,7 +812,7 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 ### Visual Studio Code
 ### Introduction to ARM
 ### Use Cases
-### ARM Scoping
+### ARM Scoping (IMPORTANT)
 - What is scope?
   - Management Groups => Subscriptions => Resources Groups => Resources
 ### Introduction to ARM Templates
@@ -800,6 +826,10 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 
 ## Intro to Azure Monitoring
 ### The Pillars of Observability
+- What is Observability?
+- Metrics
+- Logs
+- Traces
 ### Anatomy of Azure Monitor
 ### Log Analytics
 ### Log Analytics Workspaces
