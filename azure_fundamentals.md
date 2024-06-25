@@ -712,6 +712,18 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 - DL
 - Azure Machine Learning Service
 ### AI ML Services
+- Personalizer
+- Translator
+- Anomaly Detector
+- Azure Bot Service
+- Form Recognizer
+- Computer Vision
+- Language Understanding
+- QnA Maker
+- Text Analytics
+- Content Moderator
+- Face
+- Ink Recogniser
 ### Serverless Services
 
 https://www.youtube.com/watch?v=5abffC-K40c&t=11s
