@@ -652,18 +652,18 @@ Azure Resource Health helps you diagnose and get support for service problems im
 Azure Advisor is a personalized cloud consultant that helps you follow best practices to optimize your Azure deployments. It provides recommendations on high availability, security, performance, and cost.
 
 
-Technology Overview
-Database Services
-Application Integration
-Developer and Mobile Tools
-Azure DevOps Services
-Cloud Native Networking Services
-Enterprise Hybrid Networking Services
-Azure Traffic Manager
-IoT Services
-Big Data and Analytics Services
-AI ML Services Introduction
-AI ML Services
-Serverless Services
+## Technology Overview
+### Database Services
+### Application Integration
+### Developer and Mobile Tools
+### Azure DevOps Services
+### Cloud Native Networking Services
+### Enterprise Hybrid Networking Services
+### Azure Traffic Manager
+### IoT Services
+### Big Data and Analytics Services
+### AI ML Services Introduction
+### AI ML Services
+### Serverless Services
 
 https://www.youtube.com/watch?v=5abffC-K40c&t=11s
