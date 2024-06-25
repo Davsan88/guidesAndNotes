@@ -752,5 +752,10 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 ### Resource Tags
 
 
+Governance and Compliance
+Microsoft Purview Information Protection
+Introduction
+Resource Locks
+Azure Blueprints
 
 https://www.youtube.com/watch?v=5abffC-K40c&t=11s
