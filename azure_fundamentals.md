@@ -697,6 +697,10 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 - Virtual Network Gateway 
 ### Azure Traffic Manager
 ### IoT Services
+- IoT Central 
+- IoT Hub
+- IoT Edge
+- Windows 10 IOT Core Services 
 ### Big Data and Analytics Services
 ### AI ML Services Introduction
 ### AI ML Services
