@@ -654,11 +654,47 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 
 ## Technology Overview
 ### Database Services
+- Azure Cosmo DB
+- Azure SQL Database
+- Azure Database for MySQL / PSQL / MariaDB
+- SQL Server on VMs
+- Azure Synapse Analytics (Azure SQL Data Warehouse)
+- Azure Database Migration Service
+- Azure Cache for Redis
+- Azure Table Storage
 ### Application Integration
+- Azure Notifications Hub
+- Azure API Apps
+- Azure Service Bus
+- Azure Stream Analytics
+- Azure Logic Apps
+- Azure API Management
+- Azure Queue Storage
 ### Developer and Mobile Tools
+- Azure SignalR Service
+- Azure App Service
+- Visual Studio
+- Xamarin
 ### Azure DevOps Services
+- Azure DevOps
+  - Azure Boards
+  - Azure Pipelines
+  - Azure Repos
+  - Azure Test Plans
+  - Azure Artifacts
+  - Azure DevTest Labs
 ### Cloud Native Networking Services
+- Azure DNS
+- Azure Virtual Network (vNET)
+- Azure Load Balancer
+- Azure Application Gateway
+- Network Security Groups
 ### Enterprise Hybrid Networking Services
+- Azure Front Door
+- Azure Express Route (IMPORTANT)
+- Virtual Wan
+- Azure Connection
+- Virtual Network Gateway 
 ### Azure Traffic Manager
 ### IoT Services
 ### Big Data and Analytics Services
