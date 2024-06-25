@@ -781,8 +781,7 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 ### Azure Portal
 ### Portal Preview and Features
 ### Cloud Shell
-### Exploring Azure Cloud Shell
-### PowerShell
+### Azure PowerShell
 ### Azure CLI
 ### Visual Studio Code
 ### Introduction to ARM
