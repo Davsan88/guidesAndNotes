@@ -783,18 +783,12 @@ Portal Preview and Features
 Cloud Shell
 Exploring Azure Cloud Shell
 PowerShell
-PowerShell Follow Along
 Azure CLI
-Azure CLI Follow Along
 Visual Studio Code
-Azure SDK Follow Along
 Introduction to ARM
 Use Cases
 ARM Scoping
 Introduction
-ARM Templates Follow Along
-Azure Bicep Follow Along
-Azure Terraform Follow Along
 Free Tier Spend and Usage
 
 
