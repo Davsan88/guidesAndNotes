@@ -768,6 +768,9 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
   * Policy Parameters
   * Initiative Definitions
 ### Resource Locks
+- What are they?
+- CanNotDelete
+- ReadOnly
 ### Azure Blueprints
 
 https://www.youtube.com/watch?v=5abffC-K40c&t=11s
