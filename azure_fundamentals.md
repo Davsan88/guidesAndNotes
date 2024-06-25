@@ -743,7 +743,10 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 ### Azure Marketplace
 ### Azure Hybrid Benefit
 ### Azure Subscriptions
-### First Look at Subscriptions
+- Free Subscription
+- PAYG Subscription
+- Enterprise Agreement
+- Student Subscription
 ### Pricing Calculator
 ### Azure Cost Management
 ### Resource Tags
