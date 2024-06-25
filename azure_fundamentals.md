@@ -777,19 +777,19 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
   - Azure Blueprints supports *improved tracking and auditing of deployments*
 
 
-Azure Management Tools
-Azure Portal
-Portal Preview and Features
-Cloud Shell
-Exploring Azure Cloud Shell
-PowerShell
-Azure CLI
-Visual Studio Code
-Introduction to ARM
-Use Cases
-ARM Scoping
-Introduction
-Free Tier Spend and Usage
+## Azure Management Tools
+### Azure Portal
+### Portal Preview and Features
+### Cloud Shell
+### Exploring Azure Cloud Shell
+### PowerShell
+### Azure CLI
+### Visual Studio Code
+### Introduction to ARM
+### Use Cases
+### ARM Scoping
+### Introduction
+### Free Tier Spend and Usage
 
 
 
