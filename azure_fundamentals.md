@@ -725,5 +725,9 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 - Face
 - Ink Recogniser
 ### Serverless Services
+- Azure Functions
+- Blob Storage
+- Logic Apps
+- Event Grid
 
 https://www.youtube.com/watch?v=5abffC-K40c&t=11s
