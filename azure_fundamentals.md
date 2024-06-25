@@ -787,6 +787,8 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 ### Introduction to ARM
 ### Use Cases
 ### ARM Scoping
+- What is scope?
+  - Management Groups => Subscriptions => Resources Groups => Resources
 ### Introduction
 ### Free Tier Spend and Usage
 
