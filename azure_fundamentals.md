@@ -754,6 +754,13 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 
 ## Governance and Compliance
 ### Microsoft Purview Information Protection
+- What is it?
+#### MPIP - Know your data
+#### MPIP - Protect your data 
+#### MPIP - Prevent data loss
+#### MPIP - Govern your data
+- Microsoft Purview Data Lifecycle Management
+- Microsoft Purview Records Management
 ### Introduction
 ### Resource Locks
 ### Azure Blueprints
