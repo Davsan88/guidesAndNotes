@@ -772,5 +772,7 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 - CanNotDelete
 - ReadOnly
 ### Azure Blueprints
-
+- Azure Blueprints enable **quick creation** of *governed subscriptions*
+- ARM Templates vs Azure Blueprints
+  - Azure Blueprints supports *improved tracking and auditing of deployments*
 https://www.youtube.com/watch?v=5abffC-K40c&t=11s
