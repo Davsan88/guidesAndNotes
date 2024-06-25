@@ -775,4 +775,28 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 - Azure Blueprints enable **quick creation** of *governed subscriptions*
 - ARM Templates vs Azure Blueprints
   - Azure Blueprints supports *improved tracking and auditing of deployments*
+
+
+Azure Management Tools
+Azure Portal
+Portal Preview and Features
+Cloud Shell
+Exploring Azure Cloud Shell
+PowerShell
+PowerShell Follow Along
+Azure CLI
+Azure CLI Follow Along
+Visual Studio Code
+Azure SDK Follow Along
+Introduction to ARM
+Use Cases
+ARM Scoping
+Introduction
+ARM Templates Follow Along
+Azure Bicep Follow Along
+Azure Terraform Follow Along
+Free Tier Spend and Usage
+
+
+
 https://www.youtube.com/watch?v=5abffC-K40c&t=11s
