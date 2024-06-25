@@ -731,8 +731,12 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 - Event Grid
 
 
-## Billing And Pricing
+##  Billing And Pricing
 ### Service Level Agreements
+- Uptime and connectivity
+- SLA's are individualized per Azure service
+- Performance Targets
+- No SLA's for Free Tier or shared tiers
 ### Service Credits
 ### Composite SLAs
 ### TCO Calculator
