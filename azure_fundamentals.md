@@ -702,7 +702,15 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 - IoT Edge
 - Windows 10 IOT Core Services 
 ### Big Data and Analytics Services
+- Azure Synapse Analytics
+- HDInsight
+- Azure Databricks
+- Data Lake Analytics
 ### AI ML Services Introduction
+- AI
+- ML
+- DL
+- Azure Machine Learning Service
 ### AI ML Services
 ### Serverless Services
 
