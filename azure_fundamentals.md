@@ -763,6 +763,10 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 - Microsoft Purview Records Management
 ### Introduction to Azure Policies
 - Plocies do not restrict access, observe for compliance
+  * Policy Definitions
+  * Policy Assignment
+  * Policy Parameters
+  * Initiative Definitions
 ### Resource Locks
 ### Azure Blueprints
 
