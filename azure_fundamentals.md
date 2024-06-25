@@ -935,16 +935,45 @@ Understanding these management tools and their functionalities helps you efficie
 
 
 ## Intro to Azure Monitoring
+
 ### The Pillars of Observability
-- What is Observability?
-- Metrics
-- Logs
-- Traces
+
+Observability in cloud computing is the ability to measure the internal states of a system by examining its outputs. The three primary pillars of observability are:
+
+- **What is Observability?**
+  Observability is a measure of how well you can understand the state of your system based on the data it produces. It allows you to monitor, diagnose, and optimize your applications and infrastructure.
+
+- **Metrics**
+  Metrics are numerical data points that are collected at regular intervals. They provide insights into the performance and health of your system. Examples include CPU usage, memory consumption, and network traffic.
+
+- **Logs**
+  Logs are records of events that have occurred within your system. They provide detailed information about the operations and behavior of your applications and infrastructure. Logs can include error messages, transaction records, and user activity logs.
+
+- **Traces**
+  Traces track the flow of requests as they move through various components of your system. They help in understanding how different services interact and where potential bottlenecks or failures occur.
+
 ### Anatomy of Azure Monitor
+
+Azure Monitor is a comprehensive solution for collecting, analyzing, and acting on telemetry data from your cloud and on-premises environments. It provides insights to help you understand how your applications are performing and proactively identify issues.
+
 ### Log Analytics
+
+Log Analytics is a service within Azure Monitor that collects and analyzes log data from various sources. It allows you to run queries to extract and visualize data, helping you diagnose issues and understand trends.
+
 ### Log Analytics Workspaces
+
+A Log Analytics Workspace is a unique environment for storing log data collected by Azure Monitor. It provides a central location for log data from multiple sources, enabling you to manage and query logs efficiently.
+
 ### Azure Alerts
+
+Azure Alerts notify you when conditions in your monitored environment meet specified criteria. You can set up alerts for metrics, logs, and other data sources to proactively manage the health and performance of your applications and infrastructure.
+
 ### Application Insights
+
+Application Insights is an application performance management (APM) service within Azure Monitor. It provides deep insights into your web applications, including performance metrics, error rates, and user behavior. Application Insights helps you detect and diagnose issues, optimize performance, and understand user interactions.
+
+Understanding these monitoring tools and principles helps you maintain the health and performance of your Azure resources, ensuring that you can quickly identify and resolve issues while optimizing your applications.
+
 
 
 https://www.youtube.com/watch?v=5abffC-K40c&t=11s
