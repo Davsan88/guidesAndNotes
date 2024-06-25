@@ -730,4 +730,20 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 - Logic Apps
 - Event Grid
 
+
+ Billing And Pricing
+Service Level Agreements
+Service Credits
+Composite SLAs
+TCO Calculator
+Azure Marketplace
+Azure Hybrid Benefit
+Azure Subscriptions
+First Look at Subscriptions
+Pricing Calculator
+Azure Cost Management
+Resource Tags
+
+
+
 https://www.youtube.com/watch?v=5abffC-K40c&t=11s
