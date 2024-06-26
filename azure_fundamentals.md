@@ -665,7 +665,6 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 - **Azure Table Storage**: NoSQL datastore for semi-structured data.
 
 ### Application Integration
-
 - **Azure Notification Hubs**: Send push notifications to any platform from any back-end.
 - **Azure API Apps**: Easily build and consume APIs in the cloud.
 - **Azure Service Bus**: Messaging service for reliable cloud messaging.
