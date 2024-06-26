@@ -674,7 +674,6 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 - **Azure Queue Storage**: Simple, scalable message queuing for asynchronous messaging.
 
 ### Developer and Mobile Tools
-
 - **Azure SignalR Service**: Real-time messaging service for building responsive web apps.
 - **Azure App Service**: Fully managed platform for building, deploying, and scaling web apps.
 - **Visual Studio**: Integrated development environment (IDE) from Microsoft.
