@@ -680,7 +680,6 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 - **Xamarin**: Open-source platform for building modern and performant applications for iOS, Android, and Windows.
 
 ### Azure DevOps Services
-
 - **Azure DevOps**: Comprehensive set of development tools.
   - **Azure Boards**: Agile planning and project management.
   - **Azure Pipelines**: Continuous integration and continuous delivery (CI/CD).
