@@ -743,7 +743,7 @@ Azure Traffic Manager is a DNS-based traffic load balancer, enabling you to dist
 - **Logic Apps**: Automate and orchestrate tasks, business processes, and workflows.
 - **Event Grid**: Event routing service for event-driven architectures.
 
-Understanding these services and tools helps you leverage Azure's capabilities for developing, deploying, and managing applications efficiently and effectively.
+>Understanding these services and tools helps you leverage Azure's capabilities for developing, deploying, and managing applications efficiently and effectively.
 
 
 
