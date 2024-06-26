@@ -718,7 +718,6 @@ Azure Traffic Manager is a DNS-based traffic load balancer, enabling you to dist
 - **Data Lake Analytics**: On-demand analytics job service to simplify big data.
 
 ### AI ML Services Introduction
-
 - **AI (Artificial Intelligence)**: Simulates human intelligence processes by machines.
 - **ML (Machine Learning)**: Algorithms that allow software applications to become more accurate in predicting outcomes without being explicitly programmed.
 - **DL (Deep Learning)**: Subset of ML involving neural networks with three or more layers.
