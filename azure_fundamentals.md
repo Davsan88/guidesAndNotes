@@ -724,7 +724,6 @@ Azure Traffic Manager is a DNS-based traffic load balancer, enabling you to dist
 - **Azure Machine Learning Service**: Comprehensive service for building and deploying ML models.
 
 ### AI ML Services
-
 - **Personalizer**: Adds personalized recommendations to your apps.
 - **Translator**: Real-time translation of text.
 - **Anomaly Detector**: Detects anomalies in time series data.
