@@ -655,7 +655,6 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 ## Technology Overview
 
 ### Database Services
-
 - **Azure Cosmos DB**: A globally distributed, multi-model database service for any scale.
 - **Azure SQL Database**: A fully managed relational database with built-in intelligence.
 - **Azure Database for MySQL / PostgreSQL / MariaDB**: Managed relational database services for MySQL, PostgreSQL, and MariaDB.
