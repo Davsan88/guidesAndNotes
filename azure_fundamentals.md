@@ -689,7 +689,6 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
   - **Azure DevTest Labs**: Quickly create environments in Azure while minimizing waste and controlling cost.
 
 ### Cloud Native Networking Services
-
 - **Azure DNS**: DNS as a service, providing ultra-fast DNS responses.
 - **Azure Virtual Network (vNET)**: Provides an isolated and secure environment to run virtual machines and applications.
 - **Azure Load Balancer**: Distributes incoming network traffic across multiple servers.
