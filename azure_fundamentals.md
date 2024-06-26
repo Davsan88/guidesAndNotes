@@ -703,7 +703,6 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 - **Virtual Network Gateway**: Provides connectivity between VNets or between a VNet and on-premises networks.
 
 ### Azure Traffic Manager
-
 Azure Traffic Manager is a DNS-based traffic load balancer, enabling you to distribute traffic optimally to services across global Azure regions.
 
 ### IoT Services
