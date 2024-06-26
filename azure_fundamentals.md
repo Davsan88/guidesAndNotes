@@ -738,7 +738,6 @@ Azure Traffic Manager is a DNS-based traffic load balancer, enabling you to dist
 - **Ink Recognizer**: Recognizes digital ink content and converts it into a structured format.
 
 ### Serverless Services
-
 - **Azure Functions**: Event-driven serverless compute service.
 - **Blob Storage**: Object storage solution for the cloud.
 - **Logic Apps**: Automate and orchestrate tasks, business processes, and workflows.
