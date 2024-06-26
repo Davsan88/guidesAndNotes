@@ -696,7 +696,6 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 - **Network Security Groups**: Control inbound and outbound traffic to network interfaces (NIC), VMs, and subnets.
 
 ### Enterprise Hybrid Networking Services
-
 - **Azure Front Door**: Application delivery network for high availability and low latency.
 - **Azure ExpressRoute (IMPORTANT)**: Private connection between your on-premises networks and Azure data centers.
 - **Virtual WAN**: Unified wide area network architecture.
