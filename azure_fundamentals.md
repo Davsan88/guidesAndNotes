@@ -706,7 +706,6 @@ Azure Advisor is a personalized cloud consultant that helps you follow best prac
 Azure Traffic Manager is a DNS-based traffic load balancer, enabling you to distribute traffic optimally to services across global Azure regions.
 
 ### IoT Services
-
 - **IoT Central**: Fully managed IoT app platform for managing IoT devices.
 - **IoT Hub**: Central message hub for bi-directional communication between IoT applications and devices.
 - **IoT Edge**: Extends cloud intelligence to edge devices.
