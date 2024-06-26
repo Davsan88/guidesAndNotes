@@ -712,7 +712,6 @@ Azure Traffic Manager is a DNS-based traffic load balancer, enabling you to dist
 - **Windows 10 IoT Core Services**: Provides services for managing and securing IoT devices.
 
 ### Big Data and Analytics Services
-
 - **Azure Synapse Analytics**: Integrated analytics service combining big data and data warehousing.
 - **HDInsight**: Fully managed open-source analytics service for enterprises.
 - **Azure Databricks**: Fast, easy, and collaborative Apache Spark-based analytics service.
