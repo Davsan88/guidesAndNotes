@@ -767,7 +767,6 @@ Composite SLAs combine multiple individual SLAs to calculate the overall reliabi
 The Total Cost of Ownership (TCO) Calculator helps estimate the cost savings and benefits of migrating workloads to Azure by comparing on-premises infrastructure costs with Azure costs.
 
 ### Azure Marketplace
-
 Azure Marketplace is an online store that offers applications and services built on or designed to integrate with Azure. It provides solutions from Microsoft and its partners, helping you find, try, and buy the solutions you need.
 
 ### Azure Hybrid Benefit
