@@ -781,7 +781,6 @@ Azure subscriptions provide access to Azure services and resources. Different su
 - **Student Subscription**: Offers free access to certain Azure services for students to learn and experiment with cloud computing.
 
 ### Pricing Calculator
-
 The Pricing Calculator helps estimate the cost of using Azure services. You can configure and estimate costs for various Azure products based on your specific requirements and usage patterns.
 
 ### Azure Cost Management
