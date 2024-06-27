@@ -764,7 +764,6 @@ Service credits are provided as compensation when Azure fails to meet the guaran
 Composite SLAs combine multiple individual SLAs to calculate the overall reliability of a multi-service application. This helps in understanding the end-to-end reliability and performance expectations.
 
 ### TCO Calculator
-
 The Total Cost of Ownership (TCO) Calculator helps estimate the cost savings and benefits of migrating workloads to Azure by comparing on-premises infrastructure costs with Azure costs.
 
 ### Azure Marketplace
