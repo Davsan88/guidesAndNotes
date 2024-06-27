@@ -787,7 +787,6 @@ The Pricing Calculator helps estimate the cost of using Azure services. You can 
 Azure Cost Management provides tools to monitor, allocate, and optimize your Azure spending. It helps track resource usage and spending, set budgets, and analyze cost trends to manage and reduce costs effectively.
 
 ### Resource Tags
-
 Resource tags are metadata labels that you can apply to Azure resources. Tags help organize and categorize resources, making it easier to manage, search, and generate cost reports based on specific criteria such as department, project, or environment.
 
 Understanding Azure billing and pricing helps you manage your cloud costs effectively, ensuring that you maximize the value of your investment in Azure services.
