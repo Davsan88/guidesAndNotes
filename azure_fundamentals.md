@@ -784,7 +784,6 @@ Azure subscriptions provide access to Azure services and resources. Different su
 The Pricing Calculator helps estimate the cost of using Azure services. You can configure and estimate costs for various Azure products based on your specific requirements and usage patterns.
 
 ### Azure Cost Management
-
 Azure Cost Management provides tools to monitor, allocate, and optimize your Azure spending. It helps track resource usage and spending, set budgets, and analyze cost trends to manage and reduce costs effectively.
 
 ### Resource Tags
