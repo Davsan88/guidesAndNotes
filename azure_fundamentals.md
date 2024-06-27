@@ -770,7 +770,6 @@ The Total Cost of Ownership (TCO) Calculator helps estimate the cost savings and
 Azure Marketplace is an online store that offers applications and services built on or designed to integrate with Azure. It provides solutions from Microsoft and its partners, helping you find, try, and buy the solutions you need.
 
 ### Azure Hybrid Benefit
-
 Azure Hybrid Benefit allows you to use existing on-premises Windows Server and SQL Server licenses with Software Assurance to save on Azure costs. This benefit can significantly reduce the cost of running workloads in the cloud.
 
 ### Azure Subscriptions
