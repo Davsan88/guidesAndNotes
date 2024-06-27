@@ -773,7 +773,6 @@ Azure Marketplace is an online store that offers applications and services built
 Azure Hybrid Benefit allows you to use existing on-premises Windows Server and SQL Server licenses with Software Assurance to save on Azure costs. This benefit can significantly reduce the cost of running workloads in the cloud.
 
 ### Azure Subscriptions
-
 Azure subscriptions provide access to Azure services and resources. Different subscription types cater to various usage patterns and organizational needs:
 
 - **Free Subscription**: Offers a limited amount of free resources for 12 months and 25+ services that are always free.
