@@ -750,7 +750,6 @@ Azure Traffic Manager is a DNS-based traffic load balancer, enabling you to dist
 ## Billing and Pricing
 
 ### Service Level Agreements (SLAs)
-
 SLAs define the performance standards that Azure commits to meet for each service, ensuring reliability and uptime.
 
 - **Uptime and Connectivity**: Guarantees a specific percentage of uptime and connectivity for Azure services.
