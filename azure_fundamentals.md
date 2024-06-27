@@ -761,7 +761,6 @@ SLAs define the performance standards that Azure commits to meet for each servic
 Service credits are provided as compensation when Azure fails to meet the guaranteed SLAs. These credits can be applied to future billing cycles to offset costs.
 
 ### Composite SLAs
-
 Composite SLAs combine multiple individual SLAs to calculate the overall reliability of a multi-service application. This helps in understanding the end-to-end reliability and performance expectations.
 
 ### TCO Calculator
