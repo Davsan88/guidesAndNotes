@@ -758,7 +758,6 @@ SLAs define the performance standards that Azure commits to meet for each servic
 - **No SLAs for Free Tier or shared tiers**: Services in the Free Tier or shared tiers do not have SLAs.
 
 ### Service Credits
-
 Service credits are provided as compensation when Azure fails to meet the guaranteed SLAs. These credits can be applied to future billing cycles to offset costs.
 
 ### Composite SLAs
