@@ -795,7 +795,6 @@ Resource tags are metadata labels that you can apply to Azure resources. Tags he
 ## Governance and Compliance
 
 ### Microsoft Purview Information Protection (MPIP)
-
 Microsoft Purview Information Protection (MPIP) helps organizations classify, protect, and govern their data.
 
 #### MPIP - Know Your Data
