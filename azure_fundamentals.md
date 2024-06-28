@@ -829,7 +829,6 @@ Resource Locks prevent accidental deletion or modification of Azure resources.
 - **ReadOnly**: Users can read a resource, but cannot modify or delete it.
 
 ### Azure Blueprints
-
 Azure Blueprints enable the quick creation of governed subscriptions, allowing you to define a repeatable set of Azure resources and policies that adhere to organizational standards.
 
 - **Azure Blueprints enable quick creation of governed subscriptions**: They provide a way to define the blueprint for a subscription, including policies, resource groups, and resource templates.
