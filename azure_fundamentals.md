@@ -798,7 +798,6 @@ Resource tags are metadata labels that you can apply to Azure resources. Tags he
 Microsoft Purview Information Protection (MPIP) helps organizations classify, protect, and govern their data.
 
 #### MPIP - Know Your Data
-
 MPIP helps you discover and understand your data landscape through data classification and labeling. This enables better data governance and protection strategies.
 
 #### MPIP - Protect Your Data
