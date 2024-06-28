@@ -813,7 +813,6 @@ MPIP assists in managing data governance policies to ensure compliance with regu
 - **Microsoft Purview Records Management**: Provides advanced capabilities to manage the retention and deletion of records, ensuring compliance with legal and regulatory obligations.
 
 ### Introduction to Azure Policies
-
 Azure Policies help you manage and enforce organizational standards and assess compliance at-scale.
 
 - **Policies do not restrict access, observe for compliance**: Azure Policies audit and enforce compliance without restricting user access.
