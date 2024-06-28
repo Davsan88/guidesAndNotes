@@ -822,7 +822,6 @@ Azure Policies help you manage and enforce organizational standards and assess c
   - **Initiative Definitions**: Group multiple policy definitions to achieve a higher-level compliance objective.
 
 ### Resource Locks
-
 Resource Locks prevent accidental deletion or modification of Azure resources.
 
 - **What are they?**: Resource Locks are settings applied to resources to prevent unintended changes.
