@@ -844,7 +844,7 @@ Azure Blueprints enable the quick creation of governed subscriptions, allowing y
   - **ARM Templates**: Define resources to be deployed but do not include governance features.
   - **Azure Blueprints**: Include ARM templates and provide additional capabilities for tracking and auditing deployments, ensuring compliance and governance.
 
-Understanding governance and compliance tools in Azure helps you ensure that your cloud resources meet organizational standards and regulatory requirements, maintaining security and operational efficiency.
+>Understanding governance and compliance tools in Azure helps you ensure that your cloud resources meet organizational standards and regulatory requirements, maintaining security and operational efficiency.
 
 
 ## Azure Management Tools
