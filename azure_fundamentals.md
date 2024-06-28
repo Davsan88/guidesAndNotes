@@ -807,7 +807,6 @@ MPIP provides tools to protect sensitive information through encryption, access 
 MPIP includes data loss prevention (DLP) policies that help prevent the accidental sharing of sensitive information, ensuring that data remains within the organization's boundaries.
 
 #### MPIP - Govern Your Data
-
 MPIP assists in managing data governance policies to ensure compliance with regulatory requirements, including retention, deletion, and archiving policies.
 
 - **Microsoft Purview Data Lifecycle Management**: Helps manage data lifecycle stages, from creation to deletion, ensuring compliance with regulatory requirements.
