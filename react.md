@@ -15,7 +15,7 @@ A JSX element is defined with tags, very similar to HTML. It can either represen
   const element = <h1>Hello, world!</h1>;
   ```
 
-  ## Attributes In JSX
+## Attributes In JSX
 
 JSX elements can use attributes just like HTML, including classes, ids, and data-* attributes.
 
