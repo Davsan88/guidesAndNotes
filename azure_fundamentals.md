@@ -801,7 +801,6 @@ Microsoft Purview Information Protection (MPIP) helps organizations classify, pr
 MPIP helps you discover and understand your data landscape through data classification and labeling. This enables better data governance and protection strategies.
 
 #### MPIP - Protect Your Data
-
 MPIP provides tools to protect sensitive information through encryption, access controls, and rights management, ensuring that data is secure both in transit and at rest.
 
 #### MPIP - Prevent Data Loss
