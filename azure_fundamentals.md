@@ -804,7 +804,6 @@ MPIP helps you discover and understand your data landscape through data classifi
 MPIP provides tools to protect sensitive information through encryption, access controls, and rights management, ensuring that data is secure both in transit and at rest.
 
 #### MPIP - Prevent Data Loss
-
 MPIP includes data loss prevention (DLP) policies that help prevent the accidental sharing of sensitive information, ensuring that data remains within the organization's boundaries.
 
 #### MPIP - Govern Your Data
