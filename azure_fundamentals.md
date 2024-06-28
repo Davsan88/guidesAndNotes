@@ -918,16 +918,16 @@ Understanding these management tools and their functionalities helps you efficie
 
 Observability in cloud computing is the ability to measure the internal states of a system by examining its outputs. The three primary pillars of observability are:
 
-- **What is Observability?**
+- **What is Observability?**:
   Observability is a measure of how well you can understand the state of your system based on the data it produces. It allows you to monitor, diagnose, and optimize your applications and infrastructure.
 
-- **Metrics**
+- **Metrics**:
   Metrics are numerical data points that are collected at regular intervals. They provide insights into the performance and health of your system. Examples include CPU usage, memory consumption, and network traffic.
 
-- **Logs**
+- **Logs**:
   Logs are records of events that have occurred within your system. They provide detailed information about the operations and behavior of your applications and infrastructure. Logs can include error messages, transaction records, and user activity logs.
 
-- **Traces**
+- **Traces**:
   Traces track the flow of requests as they move through various components of your system. They help in understanding how different services interact and where potential bottlenecks or failures occur.
 
 ### Anatomy of Azure Monitor
