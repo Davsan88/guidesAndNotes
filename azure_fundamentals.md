@@ -845,7 +845,6 @@ Azure Blueprints enable the quick creation of governed subscriptions, allowing y
 The Azure Portal is a web-based, unified console that provides an alternative to command-line tools for managing Azure services. It allows you to build, manage, and monitor everything from simple web apps to complex cloud deployments.
 
 ### Portal Preview and Features
-
 The Azure Portal Preview offers early access to new features and updates. It provides insights into upcoming changes and enhancements, allowing users to test and provide feedback on new functionalities.
 
 ### Cloud Shell
