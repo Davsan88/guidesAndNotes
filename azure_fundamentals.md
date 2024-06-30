@@ -860,7 +860,6 @@ Azure CLI (Command-Line Interface) is a cross-platform command-line tool that al
 Visual Studio Code (VS Code) is a free, open-source code editor that supports development operations such as debugging, task running, and version control. It is highly extensible with a vast array of plugins available for various programming languages and tools, including Azure services.
 
 ### Introduction to ARM
-
 Azure Resource Manager (ARM) is the deployment and management service for Azure. It provides a consistent management layer that enables you to create, update, and delete resources in your Azure account.
 
 ### Use Cases
