@@ -888,7 +888,6 @@ ARM Templates are JSON files that define the infrastructure and configuration fo
 - **ARM Templates**: Use declarative syntax to define and deploy infrastructure, ensuring consistent and repeatable deployments.
 
 ### Free Tier Spend and Usage
-
 Azure offers a Free Tier that includes a limited amount of free resources and services each month. Monitoring your spend and usage is crucial to ensure you stay within the free limits and manage your costs effectively.
 
 Understanding these management tools and their functionalities helps you efficiently manage and optimize your Azure environment, ensuring streamlined operations and effective resource management.
