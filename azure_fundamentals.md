@@ -879,7 +879,6 @@ ARM scopes define the levels at which policies, management, and resources are ap
   - **Resources**: Individual services or instances like VMs, storage accounts, etc.
 
 ### Introduction to ARM Templates
-
 ARM Templates are JSON files that define the infrastructure and configuration for your Azure deployment. They enable you to implement Infrastructure as Code (IaC).
 
 - **What is IaC?**: Infrastructure as Code is the process of managing and provisioning computing infrastructure through machine-readable definition files.
