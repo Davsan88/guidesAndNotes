@@ -870,7 +870,6 @@ ARM is used for:
 - **Resource Group Management**: Organizing resources in a logical way for easy management.
 
 ### ARM Scoping (IMPORTANT)
-
 ARM scopes define the levels at which policies, management, and resources are applied.
 
 - **What is scope?**
