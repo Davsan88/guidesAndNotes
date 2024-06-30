@@ -857,7 +857,6 @@ Azure PowerShell is a set of cmdlets designed to manage Azure resources directly
 Azure CLI (Command-Line Interface) is a cross-platform command-line tool that allows you to manage Azure resources from macOS, Linux, and Windows. It provides a simple and efficient way to automate workflows and manage resources programmatically.
 
 ### Visual Studio Code
-
 Visual Studio Code (VS Code) is a free, open-source code editor that supports development operations such as debugging, task running, and version control. It is highly extensible with a vast array of plugins available for various programming languages and tools, including Azure services.
 
 ### Introduction to ARM
