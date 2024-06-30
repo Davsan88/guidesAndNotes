@@ -854,7 +854,6 @@ Azure Cloud Shell is an integrated shell accessible from the Azure Portal. It pr
 Azure PowerShell is a set of cmdlets designed to manage Azure resources directly from the command line. It enables automation of repetitive tasks, simplifying the management and deployment of Azure services.
 
 ### Azure CLI
-
 Azure CLI (Command-Line Interface) is a cross-platform command-line tool that allows you to manage Azure resources from macOS, Linux, and Windows. It provides a simple and efficient way to automate workflows and manage resources programmatically.
 
 ### Visual Studio Code
