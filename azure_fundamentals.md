@@ -863,7 +863,6 @@ Visual Studio Code (VS Code) is a free, open-source code editor that supports de
 Azure Resource Manager (ARM) is the deployment and management service for Azure. It provides a consistent management layer that enables you to create, update, and delete resources in your Azure account.
 
 ### Use Cases
-
 ARM is used for:
 
 - **Infrastructure as Code (IaC)**: Managing your infrastructure through configuration files.
