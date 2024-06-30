@@ -851,7 +851,6 @@ The Azure Portal Preview offers early access to new features and updates. It pro
 Azure Cloud Shell is an integrated shell accessible from the Azure Portal. It provides a browser-based command-line experience with pre-installed Azure CLI and Azure PowerShell, enabling you to manage your Azure resources without needing a local installation.
 
 ### Azure PowerShell
-
 Azure PowerShell is a set of cmdlets designed to manage Azure resources directly from the command line. It enables automation of repetitive tasks, simplifying the management and deployment of Azure services.
 
 ### Azure CLI
