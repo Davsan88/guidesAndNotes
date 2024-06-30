@@ -848,7 +848,6 @@ The Azure Portal is a web-based, unified console that provides an alternative to
 The Azure Portal Preview offers early access to new features and updates. It provides insights into upcoming changes and enhancements, allowing users to test and provide feedback on new functionalities.
 
 ### Cloud Shell
-
 Azure Cloud Shell is an integrated shell accessible from the Azure Portal. It provides a browser-based command-line experience with pre-installed Azure CLI and Azure PowerShell, enabling you to manage your Azure resources without needing a local installation.
 
 ### Azure PowerShell
