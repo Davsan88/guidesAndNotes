@@ -911,7 +911,6 @@ Observability in cloud computing is the ability to measure the internal states o
   Traces track the flow of requests as they move through various components of your system. They help in understanding how different services interact and where potential bottlenecks or failures occur.
 
 ### Anatomy of Azure Monitor
-
 Azure Monitor is a comprehensive solution for collecting, analyzing, and acting on telemetry data from your cloud and on-premises environments. It provides insights to help you understand how your applications are performing and proactively identify issues.
 
 ### Log Analytics
