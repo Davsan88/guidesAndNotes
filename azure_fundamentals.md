@@ -925,4 +925,4 @@ Azure Alerts notify you when conditions in your monitored environment meet speci
 ### Application Insights
 Application Insights is an application performance management (APM) service within Azure Monitor. It provides deep insights into your web applications, including performance metrics, error rates, and user behavior. Application Insights helps you detect and diagnose issues, optimize performance, and understand user interactions.
 
-Understanding these monitoring tools and principles helps you maintain the health and performance of your Azure resources, ensuring that you can quickly identify and resolve issues while optimizing your applications.
+>Understanding these monitoring tools and principles helps you maintain the health and performance of your Azure resources, ensuring that you can quickly identify and resolve issues while optimizing your applications.
