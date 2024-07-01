@@ -914,7 +914,6 @@ Observability in cloud computing is the ability to measure the internal states o
 Azure Monitor is a comprehensive solution for collecting, analyzing, and acting on telemetry data from your cloud and on-premises environments. It provides insights to help you understand how your applications are performing and proactively identify issues.
 
 ### Log Analytics
-
 Log Analytics is a service within Azure Monitor that collects and analyzes log data from various sources. It allows you to run queries to extract and visualize data, helping you diagnose issues and understand trends.
 
 ### Log Analytics Workspaces
