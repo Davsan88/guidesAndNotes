@@ -917,7 +917,6 @@ Azure Monitor is a comprehensive solution for collecting, analyzing, and acting 
 Log Analytics is a service within Azure Monitor that collects and analyzes log data from various sources. It allows you to run queries to extract and visualize data, helping you diagnose issues and understand trends.
 
 ### Log Analytics Workspaces
-
 A Log Analytics Workspace is a unique environment for storing log data collected by Azure Monitor. It provides a central location for log data from multiple sources, enabling you to manage and query logs efficiently.
 
 ### Azure Alerts
