@@ -923,7 +923,6 @@ A Log Analytics Workspace is a unique environment for storing log data collected
 Azure Alerts notify you when conditions in your monitored environment meet specified criteria. You can set up alerts for metrics, logs, and other data sources to proactively manage the health and performance of your applications and infrastructure.
 
 ### Application Insights
-
 Application Insights is an application performance management (APM) service within Azure Monitor. It provides deep insights into your web applications, including performance metrics, error rates, and user behavior. Application Insights helps you detect and diagnose issues, optimize performance, and understand user interactions.
 
 Understanding these monitoring tools and principles helps you maintain the health and performance of your Azure resources, ensuring that you can quickly identify and resolve issues while optimizing your applications.
