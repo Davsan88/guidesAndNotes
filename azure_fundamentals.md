@@ -896,7 +896,6 @@ Understanding these management tools and their functionalities helps you efficie
 ## Intro to Azure Monitoring
 
 ### The Pillars of Observability
-
 Observability in cloud computing is the ability to measure the internal states of a system by examining its outputs. The three primary pillars of observability are:
 
 - **What is Observability?**:
