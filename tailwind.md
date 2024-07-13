@@ -128,7 +128,6 @@ Use `text-{alignment}` to set text alignment.
 TailwindCSS offers a comprehensive color palette that you can use with background, text, border, and other utilities.
 
 #### Text Color
-
 Use `text-{color}` to set the text color.
 
 ```html
