@@ -72,7 +72,6 @@ The `container` class centers your content and sets a max-width based on the cur
 ```
 
 #### Margin and Padding
-
 Margin (`m-`, `mx-`, `my-`, `mt-`, `mr-`, `mb-`, `ml-`) and Padding (`p-`, `px-`, `py-`, `pt-`, `pr-`, `pb-`, `pl-`) utilities help you space your elements.
 
 ```html
