@@ -56,7 +56,6 @@ TailwindCSS provides single-purpose utility classes to build complex designs. In
 TailwindCSS uses a mobile-first approach and provides responsive variants for every utility.
 
 ### Customization
-
 TailwindCSS is highly customizable. You can extend the default configuration to fit your design needs.
 
 ## Utility Classes and Practical Uses
