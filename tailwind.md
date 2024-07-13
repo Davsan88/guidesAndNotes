@@ -100,7 +100,6 @@ Use flexbox and grid utilities to create complex layouts.
 TailwindCSS provides classes for setting typography styles.
 
 #### Font Size
-
 Use `text-{size}` to set the font size.
 
 ```html
