@@ -108,7 +108,6 @@ Use `text-{size}` to set the font size.
 ```
 
 #### Font Weight
-
 Use `font-{weight}` to set the font weight.
 
 ```html
