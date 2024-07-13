@@ -136,7 +136,6 @@ Use `text-{color}` to set the text color.
 ```
 
 #### Background Color
-
 Use `bg-{color}` to set the background color.
 
 ```html
