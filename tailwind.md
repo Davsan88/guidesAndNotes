@@ -81,7 +81,6 @@ Margin (`m-`, `mx-`, `my-`, `mt-`, `mr-`, `mb-`, `ml-`) and Padding (`p-`, `px-`
 ```
 
 #### Flexbox and Grid
-
 Use flexbox and grid utilities to create complex layouts.
 
 ```html
