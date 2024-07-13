@@ -1,7 +1,6 @@
 # TailwindCSS In-Depth Guide
 
 ## Introduction to TailwindCSS
-
 TailwindCSS is a utility-first CSS framework that provides low-level utility classes to build custom designs without writing CSS. It's highly configurable and enables rapid development by using classes directly in your HTML.
 
 ## Getting Started with TailwindCSS
