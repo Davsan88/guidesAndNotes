@@ -155,7 +155,6 @@ Use `border-{size}` to set the border width.
 ```
 
 #### Border Color
-
 Use `border-{color}` to set the border color.
 
 ```html
