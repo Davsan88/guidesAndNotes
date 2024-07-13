@@ -174,7 +174,6 @@ Use `shadow-{size}` to add shadow to an element.
 ```
 
 #### Opacity
-
 Use `opacity-{value}` to set the opacity of an element.
 
 ```html
