@@ -6,7 +6,6 @@ TailwindCSS is a utility-first CSS framework that provides low-level utility cla
 ## Getting Started with TailwindCSS
 
 ### Installation
-
 To use TailwindCSS in your project, you can install it via npm:
 
 ```sh
