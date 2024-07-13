@@ -63,7 +63,6 @@ TailwindCSS is highly customizable. You can extend the default configuration to 
 ### Layout
 
 #### Container
-
 The `container` class centers your content and sets a max-width based on the current breakpoint.
 
 ```html
