@@ -50,7 +50,6 @@ npx tailwindcss -o output.css --watch
 ## Core Concepts
 
 ### Utility-First Philosophy
-
 TailwindCSS provides single-purpose utility classes to build complex designs. Instead of writing custom CSS, you use pre-defined classes directly in your HTML.
 
 ### Responsive Design
