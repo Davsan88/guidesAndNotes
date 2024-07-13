@@ -53,7 +53,6 @@ npx tailwindcss -o output.css --watch
 TailwindCSS provides single-purpose utility classes to build complex designs. Instead of writing custom CSS, you use pre-defined classes directly in your HTML.
 
 ### Responsive Design
-
 TailwindCSS uses a mobile-first approach and provides responsive variants for every utility.
 
 ### Customization
