@@ -147,7 +147,6 @@ Use `bg-{color}` to set the background color.
 TailwindCSS provides utilities for setting border widths, styles, and colors.
 
 #### Border Width
-
 Use `border-{size}` to set the border width.
 
 ```html
