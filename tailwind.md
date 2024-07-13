@@ -97,7 +97,6 @@ Use flexbox and grid utilities to create complex layouts.
 ```
 
 ### Typography
-
 TailwindCSS provides classes for setting typography styles.
 
 #### Font Size
