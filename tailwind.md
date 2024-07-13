@@ -41,7 +41,6 @@ Include TailwindCSS in your CSS file:
 ```
 
 ### Building Your CSS
-
 Use the Tailwind CLI tool to build your CSS:
 
 ```sh
