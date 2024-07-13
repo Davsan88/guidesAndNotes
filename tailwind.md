@@ -116,7 +116,6 @@ Use `font-{weight}` to set the font weight.
 ```
 
 #### Text Alignment
-
 Use `text-{alignment}` to set text alignment.
 
 ```html
