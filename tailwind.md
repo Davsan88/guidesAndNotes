@@ -166,7 +166,6 @@ Use `border-{color}` to set the border color.
 TailwindCSS includes utilities for shadows, opacity, and other effects.
 
 #### Box Shadow
-
 Use `shadow-{size}` to add shadow to an element.
 
 ```html
