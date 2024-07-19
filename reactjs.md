@@ -24,7 +24,6 @@ Transitioning from building static websites with HTML and CSS to developing dyna
 - **App.jsx**: Often acts as the central component that orchestrates the assembly of the entire application by including other components like TodoList, TodoInput, etc.
 
 ## Detailed Explanation of main.jsx
-
 ### Purpose of main.jsx
 
 `main.jsx` is critical as it initializes and renders the React application to the DOM:
