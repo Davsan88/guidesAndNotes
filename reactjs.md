@@ -19,7 +19,6 @@ Transitioning from building static websites with HTML and CSS to developing dyna
 * **State** is a way to manage changes in data within a component. When the state of a component changes, the component re-renders to reflect those changes.
 
 ## Understanding the File Structure
-
 - **index.html**: This is the main HTML file of a React app. It includes a div element with an id of `root`, which serves as the attachment point for the React app.
 - **main.jsx/index.js**: Serves as the entry point for React applications. It's where the React app begins execution by rendering the App component into the DOM.
 - **App.jsx**: Often acts as the central component that orchestrates the assembly of the entire application by including other components like TodoList, TodoInput, etc.
