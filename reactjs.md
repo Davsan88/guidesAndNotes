@@ -49,7 +49,6 @@ ReactDOM.render(
 ## How Components Interact
 
 ### App Component
-
 Serves as the composition root, orchestrating other components and their interactions.
 
 ```jsx
