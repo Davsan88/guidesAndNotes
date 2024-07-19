@@ -67,7 +67,6 @@ function App() {
 ```
 
 ### Todo Components
-
 Manage different aspects of the Todo application, such as input and list display.
 
 ## Conclusion
