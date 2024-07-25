@@ -34,7 +34,6 @@ JSX elements can be nested inside each other to create complex layouts.
   ```
 
 ## JSX Outer Elements
-
 When returning JSX elements from a component or including them in a variable, there must be only one outermost element.
 
 - Example:
