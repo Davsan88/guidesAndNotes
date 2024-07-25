@@ -21,7 +21,6 @@ JSX elements can use attributes just like HTML, including classes, ids, and data
   ```
 
 ## Nested JSX
-
 JSX elements can be nested inside each other to create complex layouts.
 
 - Example:
