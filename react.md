@@ -47,7 +47,6 @@ When returning JSX elements from a component or including them in a variable, th
   ```
 
 ## Rendering JSX
-
 To render JSX into the DOM, React uses the `ReactDOM.render()` method.
 
 - Example:
