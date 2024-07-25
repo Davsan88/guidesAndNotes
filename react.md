@@ -1,5 +1,4 @@
 # Intro to React
-
 React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It allows developers to create large web applications that can change data without reloading the page.
 
 ## What's JSX
