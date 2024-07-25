@@ -55,7 +55,6 @@ To render JSX into the DOM, React uses the `ReactDOM.render()` method.
   ```
 
 ## Passing a Variable to render()
-
 You can pass variables or expressions as content to be rendered by React.
 
 - Example:
