@@ -106,7 +106,6 @@ Curly braces are used in JSX to evaluate JavaScript expressions within the JSX c
   ```
 
 ## Variables in JSX
-
 Variables can be inserted directly into JSX using curly braces.
 
 - Example:
