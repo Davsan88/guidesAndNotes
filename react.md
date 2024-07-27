@@ -157,7 +157,6 @@ You can use the logical `&&` operator to conditionally render a component.
   ```
 
 ## .map in JSX
-
 `.map()` can be used to render lists of components or elements.
 
 - Example:
