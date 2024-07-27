@@ -89,7 +89,6 @@ In JSX, every tag must be closed. Tags that do not have children can be self-clo
   ```
 
 ## JavaScript In Your JSX In Your JavaScript
-
 You can embed JavaScript expressions inside JSX by wrapping them in curly braces.
 
 - Example:
