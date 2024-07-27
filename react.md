@@ -115,7 +115,6 @@ Variables can be inserted directly into JSX using curly braces.
   ```
 
 ## Variable Attributes in JSX
-
 You can use variables for attribute values in JSX by placing the variable in curly braces.
 
 - Example:
