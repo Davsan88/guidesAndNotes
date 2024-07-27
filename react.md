@@ -176,7 +176,6 @@ Keys help React identify which items have changed, are added, or are removed. Ke
   ```     
 
 ## React.createElement
-
 Before JSX, elements were created with `React.createElement`. JSX compiles down to `React.createElement` calls.
 
 - Example:
