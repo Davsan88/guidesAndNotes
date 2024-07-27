@@ -70,7 +70,6 @@ The Virtual DOM is a concept implemented by libraries like React to improve perf
 
 
 # Advanced React
-
 As you delve deeper into React, understanding the nuances of JSX and React's rendering optimizations will help you write more efficient and cleaner code.
 
 ## class vs className
