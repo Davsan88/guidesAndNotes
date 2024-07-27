@@ -148,7 +148,6 @@ The ternary operator is an inline conditional expression that works inside JSX.
   ```
 
  ## JSX Conditionals: &&
-
 You can use the logical `&&` operator to conditionally render a component.
 
 - Example:
