@@ -81,7 +81,6 @@ In JSX, you use `className` instead of `class` to add CSS classes, as `class` is
   ```
 
 ## Self-Closing Tags
-
 In JSX, every tag must be closed. Tags that do not have children can be self-closed using a slash at the end.
 
 - Example:
