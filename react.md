@@ -98,7 +98,6 @@ You can embed JavaScript expressions inside JSX by wrapping them in curly braces
   ```
 
 ## Curly Braces in JSX
-
 Curly braces are used in JSX to evaluate JavaScript expressions within the JSX code.
 
 - Example:
