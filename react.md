@@ -166,7 +166,6 @@ You can use the logical `&&` operator to conditionally render a component.
   ```
 
 ## Keys
-
 Keys help React identify which items have changed, are added, or are removed. Keys should be given to the elements inside an array to give the elements a stable identity.
 
 - Example:
