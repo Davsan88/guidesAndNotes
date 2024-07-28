@@ -215,7 +215,6 @@ While `ReactDOM` isn't a part of the React library, it's essential for web appli
   ```
 
 ### Create a Function Component
-
 A function component in React is a JavaScript function that returns a React element. It's the simplest way to define a component.
 
 - Example:
