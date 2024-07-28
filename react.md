@@ -196,7 +196,6 @@ React components are the building blocks of any React application, and understan
 ## Your First React Component
 
 ### React Components
-
 Components in React can be defined as JavaScript functions or classes that can accept inputs and return React elements that describe how a part of the UI should appear.
 
 ### Import React
