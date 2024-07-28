@@ -207,7 +207,6 @@ To use React, you first need to import it into your component file. This is nece
   ```
 
 ### Import ReactDOM
-
 While `ReactDOM` isn't a part of the React library, it's essential for web applications as it provides DOM-specific methods. One common use is to mount a React component to the DOM.
 
 - Example:
