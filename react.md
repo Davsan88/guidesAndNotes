@@ -282,7 +282,6 @@ To use a React component, you include it in the JSX of another component's rende
 
 
 ## Components and Advanced JSX
-
 React's JSX syntax and components can be enhanced with more complex JavaScript logic, allowing for dynamic and interactive web applications.
 
 ### Use Multiline JSX in a Component
