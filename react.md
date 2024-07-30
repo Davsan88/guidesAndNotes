@@ -234,8 +234,7 @@ When naming a React functional component, use PascalCase (each word starts with 
   }
   ```
 
- ### Function Component Instructions
-
+### Function Component Instructions
 To create a functional component, define a JavaScript function that returns JSX or calls `React.createElement`.
 
 ### The Return Keyword in Functional Components
