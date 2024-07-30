@@ -260,7 +260,6 @@ Components can be exported from one file and imported into another, making them 
   ```
 
 ### Using and Rendering a Component
-
 To use a React component, you include it in the JSX of another component's render method or return statement.
 
 - Example:
