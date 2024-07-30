@@ -238,7 +238,6 @@ When naming a React functional component, use PascalCase (each word starts with 
 To create a functional component, define a JavaScript function that returns JSX or calls `React.createElement`.
 
 ### The Return Keyword in Functional Components
-
 In a functional component, the `return` keyword is used to specify what the component should render.
 
 - Example:
