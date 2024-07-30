@@ -225,7 +225,6 @@ A function component in React is a JavaScript function that returns a React elem
   ```
 
 ### Name a Functional Component
-
 When naming a React functional component, use PascalCase (each word starts with a capital letter).
 
 - Example:
