@@ -348,7 +348,6 @@ Conditionals like `if` statements can be used inside function components to cont
   ```
 
 ### Event Listener and Event Handlers in a Component
-
 React makes it easy to handle events by adding event listeners in the JSX. You define functions that run when the event occurs and pass them as props to the JSX element's event handler attribute.
 
 - Example:
