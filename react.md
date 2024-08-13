@@ -317,7 +317,6 @@ You can dynamically set JSX attributes using variables, which allows your compon
   ```
 
 ### Putting Logic in a Function Component
-
 You can include any JavaScript logic inside a function component by inserting it before the return statement.
 
 - Example:
