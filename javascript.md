@@ -1153,3 +1153,9 @@ The Event Loop is the mechanism that allows JavaScript to perform non-blocking o
 - **Web APIs**: Browser-provided APIs like `setTimeout`, `fetch`, etc., that handle async operations.
 - **Callback Queue**: Holds the callbacks that are ready to be executed after the async operation is complete.
 - **Event Loop**: Continuously checks if the Call Stack is empty and, if so, pushes the first callback from the Callback Queue onto the Call Stack for execution.
+
+## Callbacks
+
+### Introduction to Callbacks
+
+A callback is a function passed into another function as an argument, which is then invoked inside the outer function to complete some operation.
