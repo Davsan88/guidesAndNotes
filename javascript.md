@@ -1173,3 +1173,17 @@ fetchData((message) => {
   console.log(message); // 'Data received' after 2 seconds
 });
 ```
+
+### Issues with Callbacks
+
+Callbacks can lead to "callback hell," a situation where callbacks are nested within callbacks, making the code hard to read and maintain.
+
+```javascript
+getData1(function(result1) {
+  getData2(result1, function(result2) {
+    getData3(result2, function(result3) {
+      console.log(result3);
+    });
+  });
+});
+```
