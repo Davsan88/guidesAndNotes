@@ -1159,3 +1159,17 @@ The Event Loop is the mechanism that allows JavaScript to perform non-blocking o
 ### Introduction to Callbacks
 
 A callback is a function passed into another function as an argument, which is then invoked inside the outer function to complete some operation.
+
+### Example of Callbacks
+
+```javascript
+function fetchData(callback) {
+  setTimeout(() => {
+    callback('Data received');
+  }, 2000);
+}
+
+fetchData((message) => {
+  console.log(message); // 'Data received' after 2 seconds
+});
+```
