@@ -1146,3 +1146,10 @@ Asynchronous JavaScript allows you to execute tasks that take time (like fetchin
 ### What is the Event Loop?
 
 The Event Loop is the mechanism that allows JavaScript to perform non-blocking operations by offloading tasks to the browser (or Node.js) and executing callbacks once the task is complete. It is at the heart of asynchronous JavaScript.
+
+### How the Event Loop Works
+
+- **Call Stack**: Where the code is executed, one function at a time.
+- **Web APIs**: Browser-provided APIs like `setTimeout`, `fetch`, etc., that handle async operations.
+- **Callback Queue**: Holds the callbacks that are ready to be executed after the async operation is complete.
+- **Event Loop**: Continuously checks if the Call Stack is empty and, if so, pushes the first callback from the Callback Queue onto the Call Stack for execution.
