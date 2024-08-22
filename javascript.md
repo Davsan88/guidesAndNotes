@@ -1140,3 +1140,9 @@ Advanced object techniques in JavaScript help create more structured and maintai
 ## Introduction to Asynchronous JavaScript
 
 Asynchronous JavaScript allows you to execute tasks that take time (like fetching data from a server) without blocking the main thread. This is crucial for creating responsive and efficient web applications. Understanding asynchronous JavaScript is key to handling operations like API calls, file reading, and more in a non-blocking way.
+
+## The Event Loop
+
+### What is the Event Loop?
+
+The Event Loop is the mechanism that allows JavaScript to perform non-blocking operations by offloading tasks to the browser (or Node.js) and executing callbacks once the task is complete. It is at the heart of asynchronous JavaScript.
