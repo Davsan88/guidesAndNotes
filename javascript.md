@@ -1207,3 +1207,15 @@ const myPromise = new Promise((resolve, reject) => {
   }
 });
 ```
+
+### Using Promises with `.then()` and `.catch()`
+
+```javascript
+myPromise
+  .then((message) => {
+    console.log(message); // 'Operation was successful!'
+  })
+  .catch((error) => {
+    console.error(error); // 'Operation failed.'
+  });
+```
