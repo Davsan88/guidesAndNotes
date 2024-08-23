@@ -1230,3 +1230,29 @@ fetchData()
   .then((processedData) => saveData(processedData))
   .catch((error) => console.error(error));
 ```
+
+### Promise Combinators
+
+- **Promise.all()**: Waits for all promises to resolve or for one to reject.
+  
+  ```javascript
+  Promise.all([promise1, promise2])
+    .then((results) => {
+      console.log(results);
+    })
+    .catch((error) => {
+      console.error(error);
+    });
+  ```
+
+- **Promise.race()**: Resolves or rejects as soon as one of the promises resolves or rejects.
+
+  ```javascript
+  Promise.race([promise1, promise2])
+    .then((result) => {
+      console.log(result);
+    })
+    .catch((error) => {
+      console.error(error);
+    });
+  ```
