@@ -1193,3 +1193,17 @@ getData1(function(result1) {
 ### Introduction to Promises
 
 A Promise is an object representing the eventual completion (or failure) of an asynchronous operation. It allows you to attach handlers for the outcome of the operation.
+
+### Creating a Promise
+
+```javascript
+const myPromise = new Promise((resolve, reject) => {
+  const success = true;
+
+  if (success) {
+    resolve('Operation was successful!');
+  } else {
+    reject('Operation failed.');
+  }
+});
+```
