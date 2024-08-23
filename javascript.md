@@ -1219,3 +1219,14 @@ myPromise
     console.error(error); // 'Operation failed.'
   });
 ```
+
+### Chaining Promises
+
+Promises can be chained to handle sequences of asynchronous operations.
+
+```javascript
+fetchData()
+  .then((data) => processData(data))
+  .then((processedData) => saveData(processedData))
+  .catch((error) => console.error(error));
+```
