@@ -1341,3 +1341,12 @@ async function sequentialTasks() {
   return task3;
 }
 ```
+
+#### Parallel Execution
+
+```javascript
+async function parallelTasks() {
+  const [task1, task2, task3] = await Promise.all([doTask1(), doTask2(), doTask3()]);
+  return { task1, task2, task3 };
+}
+```
