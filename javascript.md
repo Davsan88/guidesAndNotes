@@ -1288,3 +1288,21 @@ async function fetchData() {
 
 fetchData().then((jsonData) => console.log(jsonData));
 ```
+
+### Error Handling with Try/Catch
+
+You can use `try/catch` blocks to handle errors in `async/await` syntax.
+
+```javascript
+async function fetchData() {
+  try {
+    const data = await fetch('https://api.example.com/data');
+    const jsonData = await data.json();
+    console.log(jsonData);
+  } catch (error) {
+    console.error('Error fetching data:', error);
+  }
+}
+
+fetchData();
+```
