@@ -1263,3 +1263,14 @@ fetchData()
 
 Async/Await is syntactic sugar built on top of Promises, making asynchronous code look and behave more like synchronous code.
 
+### Creating Async Functions
+
+An `async` function returns a Promise and allows you to use `await` inside it.
+
+```javascript
+async function fetchData() {
+  return 'Data received';
+}
+
+fetchData().then((message) => console.log(message)); // 'Data received'
+```
