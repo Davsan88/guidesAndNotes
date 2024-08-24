@@ -1354,3 +1354,5 @@ async function parallelTasks() {
 ## Conclusion
 
 Asynchronous JavaScript is a powerful tool for managing operations that take time, such as data fetching and file reading. Understanding the Event Loop, callbacks, Promises, and async/await is essential for writing efficient and maintainable JavaScript code.
+
+> For more detailed information and examples, refer to the official JavaScript documentation at [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous).
