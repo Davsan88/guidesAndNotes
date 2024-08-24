@@ -1326,3 +1326,7 @@ async function getUserData(userId) {
 
 getUserData(1).then((data) => console.log(data));
 ```
+
+### Sequential and Parallel Execution
+
+Handling multiple asynchronous tasks sequentially or in parallel.
