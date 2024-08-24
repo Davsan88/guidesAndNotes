@@ -1330,3 +1330,14 @@ getUserData(1).then((data) => console.log(data));
 ### Sequential and Parallel Execution
 
 Handling multiple asynchronous tasks sequentially or in parallel.
+
+#### Sequential Execution
+
+```javascript
+async function sequentialTasks() {
+  const task1 = await doTask1();
+  const task2 = await doTask2(task1);
+  const task3 = await doTask3(task2);
+  return task3;
+}
+```
