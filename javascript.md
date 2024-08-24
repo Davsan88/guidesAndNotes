@@ -1274,3 +1274,17 @@ async function fetchData() {
 
 fetchData().then((message) => console.log(message)); // 'Data received'
 ```
+
+### Using `await`
+
+The `await` keyword pauses the execution of an `async` function until the Promise is resolved.
+
+```javascript
+async function fetchData() {
+  const data = await fetch('https://api.example.com/data');
+  const jsonData = await data.json();
+  return jsonData;
+}
+
+fetchData().then((jsonData) => console.log(jsonData));
+```
