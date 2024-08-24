@@ -1256,3 +1256,10 @@ fetchData()
       console.error(error);
     });
   ```
+
+## Async/Await
+
+### Introduction to Async/Await
+
+Async/Await is syntactic sugar built on top of Promises, making asynchronous code look and behave more like synchronous code.
+
