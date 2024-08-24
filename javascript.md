@@ -1306,3 +1306,23 @@ async function fetchData() {
 
 fetchData();
 ```
+
+## Practical Use Cases
+
+### Making API Calls
+
+Using `async/await` to fetch data from an API.
+
+```javascript
+async function getUserData(userId) {
+  try {
+    const response = await fetch(`https://api.example.com/users/${userId}`);
+    const userData = await response.json();
+    return userData;
+  } catch (error) {
+    console.error('Failed to fetch user data:', error);
+  }
+}
+
+getUserData(1).then((data) => console.log(data));
+```
