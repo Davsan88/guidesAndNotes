@@ -7,3 +7,37 @@ In React, managing data efficiently and passing it through components is a core 
 ### Where the Data Originates
 
 Your data typically resides in a separate file (like `data.js`), stored as an array of objects. Each object represents an individual entity (like a card, joke, or product) with various properties.
+
+### Data Format Example
+
+```javascript
+export default [
+  {
+    id: 1,
+    title: "Life Lessons with Katie Zaferes",
+    price: 136,
+    coverImg: "katie-zaferes.png",
+    stats: {
+      rating: 5.0,
+      reviewCount: 6
+    },
+    location: "Online"
+  },
+  {
+    id: 2,
+    title: "Learn Wedding Photography",
+    price: 125,
+    coverImg: "wedding-photography.png",
+    stats: {
+      rating: 5.0,
+      reviewCount: 30
+    },
+    location: "Online"
+  }
+];
+```
+
+In this example, each object has properties such as `id`, `title`, `price`, `coverImg`, and `stats` (which itself is an object with properties like `rating` and `reviewCount`).
+
+---
+
