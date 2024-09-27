@@ -104,3 +104,18 @@ function App() {
   );
 }
 ```
+
+
+### Step 3: Destructure Props for Clean Code
+Use destructuring directly in the function signature for a more streamlined syntax:
+
+```jsx
+const MyComponent = ({ title, description }) => {
+  return (
+    <div>
+      <h1>{title}</h1>
+      <p>{description}</p>
+    </div>
+  );
+};
+```
