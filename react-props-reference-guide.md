@@ -56,3 +56,15 @@ const Joke = ({ setup, punchline }) => {
 ```
 
 This approach extracts the `setup` and `punchline` props directly, making the code more readable.
+
+### 4. Destructuring Props Inside `map()` for Array Rendering
+
+When rendering arrays using `.map()`, you can destructure the props inside the map function:
+
+```jsx
+const jokeElements = jokesData.map(({ setup, punchline }) => (
+  <Joke key={setup} setup={setup} punchline={punchline} />
+));
+```
+
+By destructuring inside `.map()`, you avoid repetitive code like `joke.setup` and `joke.punchline`.
