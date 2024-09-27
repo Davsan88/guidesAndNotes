@@ -91,3 +91,16 @@ const MyComponent = ({ title, description }) => {
   );
 };
 ```
+
+### Step 2: Pass Props from Parent Component
+Pass props as attributes when rendering the child component inside the parent:
+
+```jsx
+function App() {
+  return (
+    <div>
+      <MyComponent title="Hello World" description="This is my first React component!" />
+    </div>
+  );
+}
+```
