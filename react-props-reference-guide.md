@@ -40,3 +40,19 @@ const Joke = (props) => {
 ```
 
 Here, `props.setup` and `props.punchline` are used to access the data passed from the parent component.
+
+### 3. Destructuring Props for Cleaner Code
+Instead of using `props.setup` and `props.punchline` repeatedly, you can destructure the props directly in the function parameters for cleaner code:
+
+```jsx
+const Joke = ({ setup, punchline }) => {
+  return (
+    <div>
+      <h3>Setup: {setup}</h3>
+      <p>Punchline: {punchline}</p>
+    </div>
+  );
+};
+```
+
+This approach extracts the `setup` and `punchline` props directly, making the code more readable.
