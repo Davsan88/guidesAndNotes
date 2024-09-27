@@ -78,3 +78,11 @@ function App() {
 
 export default App;
 ```
+
+### What Happens Here:
+
+1. **Data Import**: The data array is imported from `data.js`.
+2. **Mapping the Data**: The `.map()` method iterates over each object in the `data` array, destructuring properties (like `id`, `title`, and `price`) and passing them to the `Card` component.
+3. **Passing Props**: Each `Card` component is passed individual props from the current object.
+
+---
