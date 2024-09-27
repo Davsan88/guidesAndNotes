@@ -151,3 +151,12 @@ Each `Card` component is rendered on the page with its unique data, displaying d
 
 ---
 
+## Summary:
+
+1. **Data in `data.js`**: The raw data is defined as an array of objects.
+2. **Import and Map**: The data is imported into `App.jsx`, where `.map()` is used to render a `Card` component for each item.
+3. **Pass Props**: Each object’s properties are passed as props to the `Card` component.
+4. **Receive and Destructure**: The `Card.jsx` component receives props and destructures them for clean and readable code.
+5. **Render Dynamically**: The data is displayed dynamically, creating flexible, reusable components that adapt to changing data.
+
+By using this workflow, you create modular, reusable components that dynamically update based on the data passed to them. This approach ensures that your UI can easily scale and adapt to new requirements.
