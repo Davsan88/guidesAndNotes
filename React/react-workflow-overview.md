@@ -46,3 +46,35 @@ In this example, each object has properties such as `id`, `title`, `price`, `cov
 ### Central Hub of the Application
 
 The `App.jsx` file is responsible for importing the data and using it to render child components dynamically. In this case, we use `.map()` to iterate over the data array and render a `Card` component for each item.
+
+### Example:
+
+```javascript
+import data from './data'; // 1. Importing the data file
+
+function App() {
+  // 2. Using .map() to loop over the data array and create a Card component for each item
+  const cardElements = data.map(({ id, title, price, coverImg, stats, location }) => (
+    <Card 
+      key={id} 
+      title={title} 
+      price={price} 
+      coverImg={coverImg} 
+      stats={stats} 
+      location={location}
+    />
+  ));
+
+  return (
+    <>
+      <Navbar />  {/* Static components */}
+      <Hero />
+      <div>
+        { cardElements }  {/* Rendering the mapped Card components */}
+      </div>
+    </>
+  );
+}
+
+export default App;
+```
