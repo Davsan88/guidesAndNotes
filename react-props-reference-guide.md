@@ -24,3 +24,19 @@ function App() {
 ```
 
 In this example, `setup` and `punchline` are the props being passed to the `Joke` component.
+
+### 2. Accessing Props Inside the Child Component
+Inside the child component, props are accessed using the `props` object.
+
+```jsx
+const Joke = (props) => {
+  return (
+    <div>
+      <h3>Setup: {props.setup}</h3>
+      <p>Punchline: {props.punchline}</p>
+    </div>
+  );
+};
+```
+
+Here, `props.setup` and `props.punchline` are used to access the data passed from the parent component.
