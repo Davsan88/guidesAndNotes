@@ -119,3 +119,18 @@ const MyComponent = ({ title, description }) => {
   );
 };
 ```
+
+
+### Step 4: Handle Props in Arrays (Using `.map()`)
+When rendering lists of components, destructure props inside `.map()` to cleanly pass multiple props:
+
+```jsx
+const items = [
+  { title: 'Item 1', description: 'This is item 1' },
+  { title: 'Item 2', description: 'This is item 2' }
+];
+
+const itemElements = items.map(({ title, description }) => (
+  <MyComponent key={title} title={title} description={description} />
+));
+```
