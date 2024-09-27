@@ -68,3 +68,19 @@ const jokeElements = jokesData.map(({ setup, punchline }) => (
 ```
 
 By destructuring inside `.map()`, you avoid repetitive code like `joke.setup` and `joke.punchline`.
+
+## Reference Guide: Steps to Handle Props and Destructuring
+
+### Step 1: Define a Child Component
+Accept props as an argument and either access them using `props` or destructure them directly:
+
+```jsx
+const MyComponent = ({ title, description }) => {
+  return (
+    <div>
+      <h1>{title}</h1>
+      <p>{description}</p>
+    </div>
+  );
+};
+```
