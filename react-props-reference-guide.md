@@ -7,3 +7,20 @@ In React, **props** (short for properties) allow components to receive data from
 - Props are passed to components as **attributes in JSX**.
 - Props are accessed inside a component via the **props object**.
 - **Destructuring** allows extracting props directly as variables for cleaner code.
+
+## Step-by-Step Guide: Working with Props and Destructuring
+
+### 1. Passing Props from Parent to Child
+In the parent component, you can pass data to a child component by using attributes in JSX:
+
+```jsx
+function App() {
+  return (
+    <div>
+      <Joke setup="Why did the chicken cross the road?" punchline="To get to the other side!" />
+    </div>
+  );
+}
+```
+
+In this example, `setup` and `punchline` are the props being passed to the `Joke` component.
