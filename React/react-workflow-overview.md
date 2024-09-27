@@ -122,3 +122,32 @@ export default Card;
 3. **Rendering Dynamic Data**: The component uses the received props to display the appropriate information dynamically (e.g., image, title, rating).
 
 ---
+
+## Information Flow (Step-by-Step):
+
+### 1. **Data Definition (in data.js)**
+
+The data is stored as an array of objects. Each object contains properties that represent different entities like cards or jokes.
+
+### 2. **Data Importing (in App.jsx)**
+
+The data is imported into `App.jsx`, which serves as the central hub of the application. The parent component controls the flow of data.
+
+### 3. **Data Mapping (in App.jsx)**
+
+In `App.jsx`, `.map()` is used to iterate over the array of objects and create a `Card` component for each item. This process generates an array of React components.
+
+### 4. **Passing Props (in App.jsx)**
+
+Inside the `.map()` function, individual properties from each object are passed down as props to the child component (`Card`). Each `Card` component gets its own set of data.
+
+### 5. **Receiving Props (in Card.jsx)**
+
+The `Card` component receives these props and can destructure them directly for easier access. It uses the data to render a dynamic UI.
+
+### 6. **Rendering the Final Output (in the Browser)**
+
+Each `Card` component is rendered on the page with its unique data, displaying different information based on the object it received from the data array.
+
+---
+
