@@ -86,3 +86,31 @@ export default App;
 3. **Passing Props**: Each `Card` component is passed individual props from the current object.
 
 ---
+
+## Card.jsx
+
+### Receiving and Destructuring Props
+
+The `Card` component receives props from `App.jsx`, and these props are used to render the UI. Destructuring the props inside the component allows you to access them directly, simplifying the code.
+
+### Example:
+
+```javascript
+const Card = ({ title, price, coverImg, stats: { rating, reviewCount }, location }) => {
+  return (
+    <div className='card'>
+      <img className='card__image' src={coverImg} alt={title} />
+      <div className='card__info'>
+        <img src="star.png" alt="Star icon" className='card__star' />
+        <span>{rating}</span>
+        <span className='gray'>({reviewCount}) ·</span>
+        <span className='gray'>{location}</span>
+      </div>
+      <h2>{title}</h2>
+      <p><b>From ${price}</b> / person</p>
+    </div>
+  );
+}
+
+export default Card;
+```
