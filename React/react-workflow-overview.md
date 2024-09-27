@@ -114,3 +114,11 @@ const Card = ({ title, price, coverImg, stats: { rating, reviewCount }, location
 
 export default Card;
 ```
+
+### What Happens Here:
+
+1. **Receiving Props**: The component receives the props (e.g., `title`, `price`, `coverImg`).
+2. **Destructuring Nested Objects**: The `stats` object is destructured to directly access `rating` and `reviewCount` within the function signature.
+3. **Rendering Dynamic Data**: The component uses the received props to display the appropriate information dynamically (e.g., image, title, rating).
+
+---
