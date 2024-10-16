@@ -33,3 +33,11 @@ const [count, setCount] = useState(0);
 - `count`: The current state value.
 - `setCount`: The function to update the state.
 - `0`: The initial value of the state variable.
+
+### 3. Update State with the Updater Function
+
+Use the updater function to change the state value:
+
+```javascript
+setCount(newValue);
+```
