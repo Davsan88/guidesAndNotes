@@ -47,3 +47,14 @@ setCount(newValue);
 ```javascript
 setCount(prevCount => prevCount + 1);
 ```
+
+### 4. Use State Variables in Your JSX
+
+You can render the state variable directly in your component's return statement:
+
+```jsx
+<div>
+  <p>You clicked {count} times</p>
+</div>
+```
+
