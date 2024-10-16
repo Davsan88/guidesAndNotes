@@ -58,3 +58,12 @@ You can render the state variable directly in your component's return statement:
 </div>
 ```
 
+### 5. Handle Events to Update State
+
+Attach event handlers to elements to update state in response to user actions:
+
+```jsx
+<button onClick={() => setCount(count + 1)}>Click me</button>
+```
+
+---
