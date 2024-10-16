@@ -41,3 +41,9 @@ Use the updater function to change the state value:
 ```javascript
 setCount(newValue);
 ```
+
+#### Example of Functional Update:
+
+```javascript
+setCount(prevCount => prevCount + 1);
+```
