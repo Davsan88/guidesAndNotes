@@ -102,3 +102,10 @@ const generateMemeImage = () => {
 - **Retrieve Memes Data**: Access the array of meme objects.
 - **Generate Random Index**: Select a random meme.
 - **Update State**: Use `setMemeImage` to update the state with the new URL.
+
+#### 3. Attach the Function to a Button Click Event
+
+```jsx
+<button onClick={generateMemeImage}>Get a new meme image 🖼</button>
+```
+
