@@ -98,3 +98,7 @@ const generateMemeImage = () => {
   setMemeImage(newMemeUrl);
 };
 ```
+
+- **Retrieve Memes Data**: Access the array of meme objects.
+- **Generate Random Index**: Select a random meme.
+- **Update State**: Use `setMemeImage` to update the state with the new URL.
