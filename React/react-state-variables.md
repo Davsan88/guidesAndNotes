@@ -67,3 +67,13 @@ Attach event handlers to elements to update state in response to user actions:
 ```
 
 ---
+
+## Applying These Concepts: Meme Generator App Example
+
+### Scenario
+
+In the Meme Generator app, you need to:
+
+- Manage the state of the meme image URL.
+- Update the meme image when the user clicks a button.
+- Display the current meme image in the UI.
