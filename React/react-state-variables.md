@@ -109,3 +109,13 @@ const generateMemeImage = () => {
 <button onClick={generateMemeImage}>Get a new meme image 🖼</button>
 ```
 
+#### 4. Display the Meme Image in the UI
+
+```jsx
+<img src={memeImage} alt="Generated Meme" />
+```
+
+When `memeImage` updates, the component re-renders, displaying the new image.
+
+---
+
