@@ -87,3 +87,14 @@ const [memeImage, setMemeImage] = useState('');
 ```
 
 Start with an empty string since there's no image initially.
+
+#### 2. Create a Function to Update the Meme Image
+
+```javascript
+const generateMemeImage = () => {
+  const memesArray = memesData.data.memes;
+  const randomIndex = Math.floor(Math.random() * memesArray.length);
+  const newMemeUrl = memesArray[randomIndex].url;
+  setMemeImage(newMemeUrl);
+};
+```
