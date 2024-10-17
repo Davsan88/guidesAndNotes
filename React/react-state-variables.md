@@ -77,3 +77,13 @@ In the Meme Generator app, you need to:
 - Manage the state of the meme image URL.
 - Update the meme image when the user clicks a button.
 - Display the current meme image in the UI.
+
+### Implementation Steps
+
+#### 1. Initialize State for the Meme Image URL
+
+```javascript
+const [memeImage, setMemeImage] = useState('');
+```
+
+Start with an empty string since there's no image initially.
