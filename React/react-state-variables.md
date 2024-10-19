@@ -72,6 +72,11 @@ Attach event handlers to elements to update state in response to user actions:
 
 ---
 
+## Working with Objects in State Variables
+
+When managing objects in state, you must maintain immutability to ensure that React can properly detect changes and re-render components. Here's how you handle objects in state:
+
+
 ## Applying These Concepts: Meme Generator App Example
 
 ### Scenario
