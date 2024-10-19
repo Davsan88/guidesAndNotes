@@ -151,7 +151,26 @@ const toggleNotifications = () => {
 };
 ```
 
+### 5. Handling Arrays in State Objects
 
+To update arrays within state objects immutably, use the spread operator.
+
+Example:
+
+```javascript
+const [data, setData] = useState({
+  items: [],
+});
+
+const addItem = newItem => {
+  setData(prevData => ({
+    ...prevData,
+    items: [...prevData.items, newItem],
+  }));
+};
+```
+
+---
 
 
 ## Applying These Concepts: Meme Generator App Example
