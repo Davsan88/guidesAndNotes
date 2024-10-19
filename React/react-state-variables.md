@@ -76,6 +76,18 @@ Attach event handlers to elements to update state in response to user actions:
 
 When managing objects in state, you must maintain immutability to ensure that React can properly detect changes and re-render components. Here's how you handle objects in state:
 
+### 1. Initializing State with an Object
+
+You can initialize state with an object by passing it as the initial value to `useState`:
+
+```javascript
+const [user, setUser] = useState({
+  firstName: '',
+  lastName: '',
+  email: '',
+});
+```
+
 
 ## Applying These Concepts: Meme Generator App Example
 
