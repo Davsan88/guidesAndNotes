@@ -180,47 +180,118 @@ const addItem = newItem => {
 In the Meme Generator app, you need to:
 
 - Manage the state of the meme image URL.
-- Update the meme image when the user clicks a button.
-- Display the current meme image in the UI.
+- Manage the top and bottom text for the meme.
+- Update the meme image and texts when the user interacts with the app.
+- Display the current meme image and texts in the UI.
 
-### Implementation Steps
+### 1. Initialize State
 
-#### 1. Initialize State for the Meme Image URL
+Initially, you might start by managing only the meme image URL in the state:
 
 ```javascript
 const [memeImage, setMemeImage] = useState('');
 ```
 
-Start with an empty string since there's no image initially.
+However, as the app grows and you need to manage more state (e.g., top and bottom text), it's practical to use an object to hold all related state.
 
-#### 2. Create a Function to Update the Meme Image
+Update the state initialization to use an object:
+
+```javascript
+const [meme, setMeme] = useState({
+  topText: '',
+  bottomText: '',
+  imageUrl: '',
+});
+```
+
+### 2. Create Functions to Update the State
+
+#### Updating the Meme Image
+
+When the user clicks the button to generate a new meme image, update the `imageUrl` property in the `meme` state object.
 
 ```javascript
 const generateMemeImage = () => {
   const memesArray = memesData.data.memes;
   const randomIndex = Math.floor(Math.random() * memesArray.length);
-  const newMemeUrl = memesArray[randomIndex].url;
-  setMemeImage(newMemeUrl);
+  const newImageUrl = memesArray[randomIndex].url;
+  setMeme(prevMeme => ({
+    ...prevMeme,
+    imageUrl: newImageUrl,
+  }));
 };
 ```
 
+**Explanation:**
 - **Retrieve Memes Data**: Access the array of meme objects.
 - **Generate Random Index**: Select a random meme.
-- **Update State**: Use `setMemeImage` to update the state with the new URL.
+- **Update State**: Use `setMeme` to update the `imageUrl` property while preserving the rest of the state.
 
-#### 3. Attach the Function to a Button Click Event
+#### Updating Text Inputs
+
+When the user types into the input fields for the top and bottom text, update the corresponding properties in the `meme` state object.
+
+```javascript
+const handleChange = event => {
+  const { name, value } = event.target;
+  setMeme(prevMeme => ({
+    ...prevMeme,
+    [name]: value,
+  }));
+};
+```
+
+**Explanation:**
+- **Destructure name and value**: Extract these from the event target.
+- **Computed Property Names**: Use `[name]: value` to update the correct property based on the input's `name` attribute.
+- **Immutability**: Spread `prevMeme` to create a new object and maintain immutability.
+
+### 3. Attach the Functions to Events
+
+#### Button Click Event
+
+Attach the `generateMemeImage` function to the button's `onClick` event.
 
 ```jsx
 <button onClick={generateMemeImage}>Get a new meme image 🖼</button>
 ```
 
-#### 4. Display the Meme Image in the UI
+#### Input Change Events
+
+Attach the `handleChange` function to the input fields' `onChange` events.
 
 ```jsx
-<img src={memeImage} alt="Generated Meme" />
+<input
+  type="text"
+  placeholder="Top Text"
+  name="topText"
+  value={meme.topText}
+  onChange={handleChange}
+/>
+<input
+  type="text"
+  placeholder="Bottom Text"
+  name="bottomText"
+  value={meme.bottomText}
+  onChange={handleChange}
+/>
 ```
 
-When `memeImage` updates, the component re-renders, displaying the new image.
+### 4. Display the Meme in the UI
 
----
+Render the meme image and overlay the text from the `meme` state object.
+
+```jsx
+<div className="meme">
+  <img src={meme.imageUrl} alt="Generated Meme" />
+  <h2 className="meme--text top">{meme.topText}</h2>
+  <h2 className="meme--text bottom">{meme.bottomText}</h2>
+</div>
+```
+
+**Explanation:**
+- **Image Source**: Uses `meme.imageUrl` from the state.
+- **Overlay Text**: Displays `meme.topText` and `meme.bottomText` on the meme image.
+
+By following these steps, you can manage the state for both the meme image and the text, ensuring that updates are properly reflected in the UI.
 
