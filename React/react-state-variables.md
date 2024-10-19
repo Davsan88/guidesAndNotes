@@ -106,7 +106,31 @@ Explanation:
 - `...prevUser`: Copies all properties from `prevUser`.
 - `firstName: 'John'`: Updates the `firstName` property while keeping the rest unchanged.
 
+### 3. Handling Nested Objects
 
+For state objects with nested properties, you need to spread each level of the object to maintain immutability.
+
+Example:
+
+```javascript
+const [profile, setProfile] = useState({
+  user: {
+    name: '',
+    email: '',
+  },
+  preferences: {
+    theme: 'light',
+  },
+});
+
+setProfile(prevProfile => ({
+  ...prevProfile,
+  user: {
+    ...prevProfile.user,
+    name: 'Jane Doe',
+  },
+}));
+```
 
 
 
