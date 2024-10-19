@@ -43,6 +43,9 @@ Use the updater function to change the state value:
 setCount(newValue);
 ```
 
+- **Direct Update**: Set the state to a new value.
+- **Functional Update**: Use a function to update state based on the previous state.
+
 #### Example of Functional Update:
 
 ```javascript
