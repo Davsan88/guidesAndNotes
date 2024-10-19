@@ -132,6 +132,25 @@ setProfile(prevProfile => ({
 }));
 ```
 
+### 4. Functional Updates with Objects
+
+If the new state depends on the previous state, use the functional form of the updater function.
+
+Example:
+
+```javascript
+const [settings, setSettings] = useState({
+  notificationsEnabled: false,
+});
+
+const toggleNotifications = () => {
+  setSettings(prevSettings => ({
+    ...prevSettings,
+    notificationsEnabled: !prevSettings.notificationsEnabled,
+  }));
+};
+```
+
 
 
 
