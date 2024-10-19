@@ -88,6 +88,28 @@ const [user, setUser] = useState({
 });
 ```
 
+### 2. Updating State Object Immutably
+
+When updating an object in state, use the **spread operator** (`...`) to copy the existing state and update specific properties.
+
+Example:
+
+```javascript
+setUser(prevUser => ({
+  ...prevUser,
+  firstName: 'John',
+}));
+```
+
+Explanation:
+- `prevUser`: The previous state object.
+- `...prevUser`: Copies all properties from `prevUser`.
+- `firstName: 'John'`: Updates the `firstName` property while keeping the rest unchanged.
+
+
+
+
+
 
 ## Applying These Concepts: Meme Generator App Example
 
