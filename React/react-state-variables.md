@@ -343,3 +343,8 @@ setState(prevState => ({
 - **Functional updates** ensure that you're working with the most up-to-date state.
 - **Object destructuring** and **computed property names** allow for cleaner and more flexible code when updating state.
 - When managing nested state, remember to spread each level to avoid direct mutations.
+
+
+By mastering the use of `useState` and understanding how to work with objects and arrays in state variables, you can build more interactive and dynamic React applications.
+
+For more in-depth knowledge, refer to the [official React documentation on useState](https://reactjs.org/docs/hooks-state.html).
