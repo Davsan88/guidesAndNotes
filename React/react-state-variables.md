@@ -335,3 +335,11 @@ setState(prevState => ({
 ```
 
 ---
+
+
+## Key Takeaways
+
+- **Immutability** is crucial when updating state in React.
+- **Functional updates** ensure that you're working with the most up-to-date state.
+- **Object destructuring** and **computed property names** allow for cleaner and more flexible code when updating state.
+- When managing nested state, remember to spread each level to avoid direct mutations.
