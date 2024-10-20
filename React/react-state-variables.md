@@ -304,3 +304,13 @@ By following these steps, you can manage the state for both the meme image and t
 
 Maintaining immutability is crucial because React relies on detecting changes in state to determine when to re-render components. Use the spread operator (`...`) to copy existing state and ensure immutability.
 
+### 2. Functional Updates
+
+When the new state depends on the previous state, use functional updates to work with the latest state.
+
+```javascript
+setState(prevState => {
+  return newState;
+});
+```
+
