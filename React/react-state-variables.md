@@ -295,3 +295,12 @@ Render the meme image and overlay the text from the `meme` state object.
 
 By following these steps, you can manage the state for both the meme image and the text, ensuring that updates are properly reflected in the UI.
 
+---
+
+
+## Key Concepts in Depth
+
+### 1. Immutability in State Updates
+
+Maintaining immutability is crucial because React relies on detecting changes in state to determine when to re-render components. Use the spread operator (`...`) to copy existing state and ensure immutability.
+
