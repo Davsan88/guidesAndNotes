@@ -324,3 +324,14 @@ setState(prevState => ({
   property: !prevState.property,
 }));
 ```
+
+#### Adding Items to an Array in State
+
+```javascript
+setState(prevState => ({
+  ...prevState,
+  arrayProperty: [...prevState.arrayProperty, newItem],
+}));
+```
+
+---
