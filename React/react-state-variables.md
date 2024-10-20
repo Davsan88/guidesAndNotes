@@ -314,3 +314,13 @@ setState(prevState => {
 });
 ```
 
+### 3. Common Patterns
+
+#### Toggling Boolean Properties in Objects
+
+```javascript
+setState(prevState => ({
+  ...prevState,
+  property: !prevState.property,
+}));
+```
