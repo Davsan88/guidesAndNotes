@@ -393,6 +393,23 @@ const handleChange = event => {
 };
 ```
 
+#### Usage in JSX:
+
+```jsx
+<input
+  type="text"
+  name="username"
+  value={formData.username}
+  onChange={handleChange}
+/>
+
+<input
+  type="email"
+  name="email"
+  value={formData.email}
+  onChange={handleChange}
+/>
+```
 
 ---
 
