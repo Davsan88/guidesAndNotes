@@ -329,23 +329,14 @@ const [firstName, setFirstName] = useState('');
 const [lastName, setLastName] = useState('');
 ```
 
-### 3. Common Patterns
+### 4. Updating Objects and Arrays in State
 
-#### Toggling Boolean Properties in Objects
-
-```javascript
-setState(prevState => ({
-  ...prevState,
-  property: !prevState.property,
-}));
-```
-
-#### Adding Items to an Array in State
+#### Updating an Object:
 
 ```javascript
-setState(prevState => ({
-  ...prevState,
-  arrayProperty: [...prevState.arrayProperty, newItem],
+setFormData(prevFormData => ({
+  ...prevFormData,
+  firstName: 'John',
 }));
 ```
 
