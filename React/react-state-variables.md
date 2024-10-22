@@ -320,6 +320,15 @@ setState(prevState => {
 
 This ensures you get the latest state value since React batches state updates for performance reasons.
 
+### 3. Multiple State Variables
+
+You can declare multiple state variables in a single component:
+
+```javascript
+const [firstName, setFirstName] = useState('');
+const [lastName, setLastName] = useState('');
+```
+
 ### 3. Common Patterns
 
 #### Toggling Boolean Properties in Objects
