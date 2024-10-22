@@ -376,6 +376,22 @@ const toggleVisibility = () => {
 {isVisible && <p>Here are some details...</p>}
 ```
 
+### Example 2: Handling Form Inputs
+
+```javascript
+const [formData, setFormData] = useState({
+  username: '',
+  email: '',
+});
+
+const handleChange = event => {
+  const { name, value } = event.target;
+  setFormData(prevFormData => ({
+    ...prevFormData,
+    [name]: value,
+  }));
+};
+```
 
 
 ---
