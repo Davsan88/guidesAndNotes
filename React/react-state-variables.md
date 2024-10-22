@@ -345,7 +345,13 @@ setFormData(prevFormData => ({
 setItems(prevItems => [...prevItems, newItem]);
 ```
 
+### 5. Conditional Rendering Based on State
 
+```jsx
+{isLoggedIn ? <Dashboard /> : <Login />}
+```
+
+---
 
 ---
 
