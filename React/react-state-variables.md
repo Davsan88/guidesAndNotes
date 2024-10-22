@@ -353,6 +353,19 @@ setItems(prevItems => [...prevItems, newItem]);
 
 ---
 
+
+## Practical Examples
+
+### Example 1: Toggling a Boolean State
+
+```javascript
+const [isVisible, setIsVisible] = useState(false);
+
+const toggleVisibility = () => {
+  setIsVisible(prevIsVisible => !prevIsVisible);
+};
+```
+
 ---
 
 
