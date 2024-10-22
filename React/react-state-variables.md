@@ -414,6 +414,16 @@ const handleChange = event => {
 ---
 
 
+## Best Practices
+
+- **Initialize State at the Top Level**: Always call `useState` at the top level of your component.
+- **Immutable Updates**: Do not mutate state directly. Always create new objects or arrays.
+- **Use Functional Updates** when the new state depends on the previous state.
+- **Avoid Unnecessary Re-renders**: Update state only when necessary to prevent performance issues.
+
+---
+
+
 ## Key Takeaways
 
 - **Immutability** is crucial when updating state in React.
