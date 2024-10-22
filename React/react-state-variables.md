@@ -366,6 +366,18 @@ const toggleVisibility = () => {
 };
 ```
 
+#### Usage in JSX:
+
+```jsx
+<button onClick={toggleVisibility}>
+  {isVisible ? 'Hide' : 'Show'} Details
+</button>
+
+{isVisible && <p>Here are some details...</p>}
+```
+
+
+
 ---
 
 
