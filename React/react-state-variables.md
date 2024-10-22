@@ -339,6 +339,13 @@ setFormData(prevFormData => ({
   firstName: 'John',
 }));
 ```
+#### Updating an Array:
+
+```javascript
+setItems(prevItems => [...prevItems, newItem]);
+```
+
+
 
 ---
 
