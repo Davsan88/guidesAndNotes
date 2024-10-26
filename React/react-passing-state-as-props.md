@@ -133,3 +133,23 @@ function MemeGenerator() {
 
 export default MemeGenerator;
 ```
+
+### Child Component (MemeDisplay):
+
+```jsx
+// MemeDisplay.jsx
+import React from 'react';
+
+function MemeDisplay({ meme }) {
+  return (
+    <div className="meme">
+      <img src={meme.imageUrl} alt="Generated Meme" />
+      <h2 className="meme--text top">{meme.topText}</h2>
+      <h2 className="meme--text bottom">{meme.bottomText}</h2>
+    </div>
+  );
+}
+
+export default MemeDisplay;
+```
+
