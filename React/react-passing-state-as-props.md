@@ -32,3 +32,20 @@ In this example, `ParentComponent` manages the `count` state and passes it to `C
 ## 2. Receiving State Props in Child Components
 
 The child component receives the state variable as a prop and can use it in its rendering logic.
+
+```jsx
+// ChildComponent.jsx
+import React from 'react';
+
+function ChildComponent({ number }) {
+  return (
+    <div>
+      <p>The count is: {number}</p>
+    </div>
+  );
+}
+
+export default ChildComponent;
+```
+
+Here, `ChildComponent` receives the `number` prop and displays it.
