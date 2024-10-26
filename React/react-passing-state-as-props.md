@@ -87,3 +87,49 @@ function ChildComponent({ number, increment }) {
 ## 4. Practical Example: Passing State in the Meme Generator App
 
 In the Meme Generator app, you might have a parent component that manages the state and passes it to child components.
+
+### Parent Component (MemeGenerator):
+
+```jsx
+// MemeGenerator.jsx
+import React, { useState } from 'react';
+import MemeDisplay from './MemeDisplay';
+
+function MemeGenerator() {
+  const [meme, setMeme] = useState({
+    topText: '',
+    bottomText: '',
+    imageUrl: '',
+  });
+
+  const handleChange = event => {
+    const { name, value } = event.target;
+    setMeme(prevMeme => ({
+      ...prevMeme,
+      [name]: value,
+    }));
+  };
+
+  return (
+    <div>
+      {/* Form inputs */}
+      <input
+        type="text"
+        name="topText"
+        value={meme.topText}
+        onChange={handleChange}
+      />
+      <input
+        type="text"
+        name="bottomText"
+        value={meme.bottomText}
+        onChange={handleChange}
+      />
+      {/* Passing state to child component */}
+      <MemeDisplay meme={meme} />
+    </div>
+  );
+}
+
+export default MemeGenerator;
+```
