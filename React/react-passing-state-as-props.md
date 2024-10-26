@@ -54,3 +54,20 @@ Here, `ChildComponent` receives the `number` prop and displays it.
 ## 3. Updating State from Child Components
 
 If you need the child component to update the parent's state, you can pass the state updater function as a prop.
+
+
+```jsx
+// ParentComponent.jsx
+function ParentComponent() {
+  const [count, setCount] = useState(0);
+
+  const increment = () => setCount(prevCount => prevCount + 1);
+
+  return (
+    <div>
+      <ChildComponent number={count} increment={increment} />
+    </div>
+  );
+}
+```
+
