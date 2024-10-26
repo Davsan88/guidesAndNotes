@@ -71,3 +71,19 @@ function ParentComponent() {
 }
 ```
 
+```jsx
+// ChildComponent.jsx
+function ChildComponent({ number, increment }) {
+  return (
+    <div>
+      <p>The count is: {number}</p>
+      <button onClick={increment}>Increment</button>
+    </div>
+  );
+}
+```
+
+
+## 4. Practical Example: Passing State in the Meme Generator App
+
+In the Meme Generator app, you might have a parent component that manages the state and passes it to child components.
