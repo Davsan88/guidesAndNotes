@@ -27,3 +27,8 @@ export default ParentComponent;
 ```
 
 In this example, `ParentComponent` manages the `count` state and passes it to `ChildComponent` via the `number` prop.
+
+
+## 2. Receiving State Props in Child Components
+
+The child component receives the state variable as a prop and can use it in its rendering logic.
