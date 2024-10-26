@@ -153,3 +153,8 @@ function MemeDisplay({ meme }) {
 export default MemeDisplay;
 ```
 
+## 5. Best Practices
+
+- **Keep Components Reusable**: By passing state as props, you can create reusable components that display different data based on the props received.
+- **Avoid Prop Drilling**: If you're passing state through multiple levels of components, consider using the Context API or state management libraries to avoid prop drilling.
+- **Pass Functions as Props for Updates**: To allow child components to update parent state, pass the state updater function or a custom handler function as a prop.
