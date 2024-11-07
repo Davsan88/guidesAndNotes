@@ -77,4 +77,4 @@ function LoginForm() {
   );
 }
 
-export def
+export default LoginForm;
