@@ -78,3 +78,14 @@ function LoginForm() {
 }
 
 export default LoginForm;
+
+```
+
+### Explanation:
+- **State Initialization**: useState manages `username` and `password`.
+- **Event Handlers**: Handlers update state when the user types.
+- **Form Submission**: Prevents page reload, logs data, and resets the form.
+
+---
+
+
