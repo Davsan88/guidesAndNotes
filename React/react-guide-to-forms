@@ -1,0 +1,3 @@
+# A Beginner's Guide to Forms in React
+
+Forms are an essential part of web applications—they allow users to interact with your app by submitting data. In React, handling forms may feel different compared to traditional HTML due to React's stateful, component-based architecture. This guide walks you through the fundamentals of working with forms in React, ensuring you feel confident building interactive and user-friendly forms.
