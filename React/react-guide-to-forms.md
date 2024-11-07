@@ -19,3 +19,14 @@ Forms are an essential part of web applications—they allow users to interact w
 - [Conclusion](#conclusion)
 
 ---
+
+## 1. Controlled vs. Uncontrolled Components
+
+### Controlled Components
+
+In React, controlled components are form inputs that are controlled by the component's state. The component’s state serves as the single source of truth for the input’s value, which updates as the user interacts.
+
+- **Advantages**:
+  - Easier to read and maintain.
+  - Simplifies form validation.
+  - State updates are predictable.
