@@ -146,7 +146,14 @@ const [isSubscribed, setIsSubscribed] = useState(false);
 <input type="checkbox" checked={isSubscribed} onChange={(e) => setIsSubscribed(e.target.checked)} />
 ```
 
+### Radio Buttons
+Radio buttons are grouped by name.
 
+```jsx
+const [gender, setGender] = useState('');
+
+<input type="radio" name="gender" value="male" checked={gender === 'male'} onChange={(e) => setGender(e.target.value)} />
+```
 
 
 
