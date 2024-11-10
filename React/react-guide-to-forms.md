@@ -132,5 +132,14 @@ export default ContactForm;
 ---
 
 
+## 4. Working with Different Input Types
+
+### Text Inputs
+Handled as shown in previous examples.
+
+### Checkboxes
+Checkboxes use `checked` instead of `value`.
+
+
 
 
