@@ -125,7 +125,11 @@ function ContactForm() {
 export default ContactForm;
 ```
 
+**Explanation**:
+- **State as an Object**: All fields are stored in `formData`.
+- **Dynamic Handler**: `handleChange` uses the `name` attribute to update the correct property.
 
+---
 
 
 
