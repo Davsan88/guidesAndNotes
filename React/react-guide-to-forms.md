@@ -155,6 +155,22 @@ const [gender, setGender] = useState('');
 <input type="radio" name="gender" value="male" checked={gender === 'male'} onChange={(e) => setGender(e.target.value)} />
 ```
 
+### Select Dropdowns
+
+```jsx
+const [country, setCountry] = useState('');
+
+<select value={country} onChange={(e) => setCountry(e.target.value)}>
+  <option value="">Select a country</option>
+  <option value="us">United States</option>
+  <option value="ca">Canada</option>
+</select>
+```
+
+---
+
+
+
 
 
 
