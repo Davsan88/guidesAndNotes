@@ -140,6 +140,14 @@ Handled as shown in previous examples.
 ### Checkboxes
 Checkboxes use `checked` instead of `value`.
 
+```jsx
+const [isSubscribed, setIsSubscribed] = useState(false);
+
+<input type="checkbox" checked={isSubscribed} onChange={(e) => setIsSubscribed(e.target.checked)} />
+```
+
+
+
 
 
 
