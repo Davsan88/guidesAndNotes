@@ -92,3 +92,41 @@ export default LoginForm;
 ## 3. Handling Multiple Form Inputs
 
 Using a single state object can simplify forms with multiple inputs.
+
+
+```jsx
+import React, { useState } from 'react';
+
+function ContactForm() {
+  const [formData, setFormData] = useState({ firstName: '', lastName: '', email: '', message: '' });
+
+  const handleChange = (event) => {
+    const { name, value } = event.target;
+    setFormData(prevData => ({ ...prevData, [name]: value }));
+  };
+
+  const handleSubmit = (event) => {
+    event.preventDefault();
+    console.log('Form Data:', formData);
+    setFormData({ firstName: '', lastName: '', email: '', message: '' });
+  };
+
+  return (
+    <form onSubmit={handleSubmit}>
+      <label>First Name:
+        <input name="firstName" type="text" value={formData.firstName} onChange={handleChange} required />
+      </label>
+      {/* Repeat for other fields */}
+      <button type="submit">Send</button>
+    </form>
+  );
+}
+
+export default ContactForm;
+```
+
+
+
+
+
+
