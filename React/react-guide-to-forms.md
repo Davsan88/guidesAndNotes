@@ -89,3 +89,6 @@ export default LoginForm;
 ---
 
 
+## 3. Handling Multiple Form Inputs
+
+Using a single state object can simplify forms with multiple inputs.
