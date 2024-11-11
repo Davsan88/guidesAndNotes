@@ -170,6 +170,11 @@ const [country, setCountry] = useState('');
 ---
 
 
+## 5. Form Validation
+
+### Client-Side Validation
+**Basic Validation**: Use HTML5 attributes like `required`, `minLength`, `maxLength`, `pattern`, etc.
+**Custom Validation**: Implement logic in `handleSubmit` or `onChange`.
 
 
 
