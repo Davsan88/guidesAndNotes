@@ -204,3 +204,25 @@ When submitting the form:
 - **Process the Data**: Send it to an API.
 - **Provide Feedback**: Inform users of success or errors.
 
+```jsx
+const handleSubmit = async (event) => {
+  event.preventDefault();
+  try {
+    const response = await fetch('/api/submit', {
+      method: 'POST',
+      body: JSON.stringify(formData),
+      headers: { 'Content-Type': 'application/json' },
+    });
+    if (response.ok) {
+      alert('Form submitted successfully!');
+    } else {
+      const errorData = await response.json();
+      setErrors(errorData.errors);
+    }
+  } catch (error) {
+    console.error('Submission error:', error);
+  }
+};
+```
+
+---
