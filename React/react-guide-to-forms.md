@@ -176,6 +176,24 @@ const [country, setCountry] = useState('');
 **Basic Validation**: Use HTML5 attributes like `required`, `minLength`, `maxLength`, `pattern`, etc.
 **Custom Validation**: Implement logic in `handleSubmit` or `onChange`.
 
+```jsx
+const [errors, setErrors] = useState({});
 
+const handleSubmit = (event) => {
+  event.preventDefault();
+  let validationErrors = {};
+  if (!formData.email.includes('@')) {
+    validationErrors.email = 'Invalid email address';
+  }
+  if (formData.password.length < 6) {
+    validationErrors.password = 'Password must be at least 6 characters';
+  }
+  if (Object.keys(validationErrors).length > 0) {
+    setErrors(validationErrors);
+  }
+};
+```
+
+---
 
 
