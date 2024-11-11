@@ -197,3 +197,10 @@ const handleSubmit = (event) => {
 ---
 
 
+## 6. Submitting the Form
+
+When submitting the form:
+- **Prevent Default Behavior**: Prevent page reload using `event.preventDefault()`.
+- **Process the Data**: Send it to an API.
+- **Provide Feedback**: Inform users of success or errors.
+
