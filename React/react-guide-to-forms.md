@@ -226,3 +226,14 @@ const handleSubmit = async (event) => {
 ```
 
 ---
+
+
+## 7. Tips and Best Practices
+
+- **Use Semantic HTML**: Use `<label>`, `<fieldset>`, etc. for accessibility.
+- **Maintain State Immutability**: Use functional updates when necessary.
+- **Avoid Unnecessary Re-Renders**: Manage state to minimize re-renders.
+- **Accessibility**: Use `htmlFor` and `id` for better accessibility.
+- **Consider Form Libraries**: Libraries like Formik or React Hook Form can simplify state and validation management.
+
+---
