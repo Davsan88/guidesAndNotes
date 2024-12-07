@@ -5,6 +5,7 @@ Functional Programming (FP) is a programming paradigm that treats computation as
 
 ## Key Concepts of Functional Programming
 
+
 ### 1. Pure Functions
 
 A pure function always produces the same output given the same input and has no observable side effects.
@@ -19,6 +20,7 @@ function add(a, b) {
 
 ---
 
+
 ### 2. Immutability
 
 In FP, data is immutable, meaning it cannot be changed once created. Instead, new versions are created.
@@ -31,3 +33,9 @@ const newNumbers = [...numbers, 4]; // [1, 2, 3, 4]
 - The original `numbers` array remains unchanged.
 
 ---
+
+
+### 3. First-Class and Higher-Order Functions
+
+Functions are first-class citizens in FP, meaning they can be passed as arguments, returned, or assigned to variables. Higher-order functions operate on other functions.
+
