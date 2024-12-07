@@ -83,3 +83,8 @@ const shout = str => exclaim(toUpperCase(str));
 console.log(shout("hello")); // HELLO!
 ```
 
+- Composed functions are modular and reusable.
+
+---
+
+
