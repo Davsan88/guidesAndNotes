@@ -66,3 +66,12 @@ function increment() {
 }
 ```
 
+- FP encourages writing functions that do not rely on or alter external states.
+
+---
+
+
+### 5. Function Composition
+
+Function composition combines smaller functions to build more complex functionality.
+
