@@ -54,3 +54,7 @@ console.log(higherOrder(greet, "Alice")); // Hello, Alice
 ---
 
 
+### 4. Avoiding Side Effects
+
+A side effect occurs when a function modifies something outside its scope, such as a global variable or DOM element. Avoiding side effects ensures code predictability.
+
