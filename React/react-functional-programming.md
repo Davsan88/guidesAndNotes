@@ -18,3 +18,16 @@ function add(a, b) {
 - The `add` function is pure because it does not depend on or modify external state.
 
 ---
+
+### 2. Immutability
+
+In FP, data is immutable, meaning it cannot be changed once created. Instead, new versions are created.
+
+```javascript
+const numbers = [1, 2, 3];
+const newNumbers = [...numbers, 4]; // [1, 2, 3, 4]
+```
+
+- The original `numbers` array remains unchanged.
+
+---
