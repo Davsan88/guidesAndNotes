@@ -39,3 +39,18 @@ const newNumbers = [...numbers, 4]; // [1, 2, 3, 4]
 
 Functions are first-class citizens in FP, meaning they can be passed as arguments, returned, or assigned to variables. Higher-order functions operate on other functions.
 
+```javascript
+function greet(name) {
+    return `Hello, ${name}`;
+}
+
+function higherOrder(fn, value) {
+    return fn(value);
+}
+
+console.log(higherOrder(greet, "Alice")); // Hello, Alice
+```
+
+---
+
+
