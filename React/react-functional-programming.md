@@ -75,3 +75,11 @@ function increment() {
 
 Function composition combines smaller functions to build more complex functionality.
 
+```javascript
+const toUpperCase = str => str.toUpperCase();
+const exclaim = str => `${str}!`;
+
+const shout = str => exclaim(toUpperCase(str));
+console.log(shout("hello")); // HELLO!
+```
+
