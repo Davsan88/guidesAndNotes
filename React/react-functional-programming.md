@@ -111,3 +111,12 @@ const doubled = numbers.map(num => num * 2); // [2, 4, 6]
 ---
 
 
+### 2. `filter()`
+Filters elements in an array based on a condition.
+
+```javascript
+const numbers = [1, 2, 3, 4];
+const evenNumbers = numbers.filter(num => num % 2 === 0); // [2, 4]
+```
+
+---
