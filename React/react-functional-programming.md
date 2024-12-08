@@ -163,3 +163,6 @@ console.log(updatedTasks);
 3. **Functions as First-Class Citizens**: Functions can be passed around like any other value.
 4. **Avoid Side Effects**: Keep functions self-contained for predictable behavior.
 5. **Function Composition**: Combine small, reusable functions to build complex logic.
+
+
+By adopting functional programming principles, you can write cleaner, more predictable, and easier-to-maintain code. With practice, FP will become a powerful tool in your development toolkit.
