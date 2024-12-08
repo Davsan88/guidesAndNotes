@@ -139,3 +139,15 @@ const sum = numbers.reduce((acc, curr) => acc + curr, 0); // 10
 
 Instead of directly mutating a list, use pure functions to add, remove, or update tasks.
 
+```javascript
+const tasks = [
+    { id: 1, title: "Do laundry", completed: false },
+    { id: 2, title: "Buy groceries", completed: true }
+];
+
+const addTask = (tasks, newTask) => [...tasks, newTask];
+
+const updatedTasks = addTask(tasks, { id: 3, title: "Walk the dog", completed: false });
+console.log(updatedTasks);
+```
+
