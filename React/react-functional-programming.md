@@ -151,3 +151,8 @@ const updatedTasks = addTask(tasks, { id: 3, title: "Walk the dog", completed: f
 console.log(updatedTasks);
 ```
 
+- The `addTask` function returns a new array without modifying the original `tasks`.
+
+---
+
+
