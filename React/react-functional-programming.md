@@ -98,3 +98,16 @@ console.log(shout("hello")); // HELLO!
 ---
 
 
+## Common Functional Programming Methods in JavaScript
+
+### 1. `map()`
+Transforms each element in an array.
+
+```javascript
+const numbers = [1, 2, 3];
+const doubled = numbers.map(num => num * 2); // [2, 4, 6]
+```
+
+---
+
+
