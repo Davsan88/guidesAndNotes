@@ -133,3 +133,5 @@ const sum = numbers.reduce((acc, curr) => acc + curr, 0); // 10
 ---
 
 
+## Applying Functional Programming in Real Projects
+
