@@ -88,3 +88,13 @@ console.log(shout("hello")); // HELLO!
 ---
 
 
+## Benefits of Functional Programming
+
+1. **Predictable Code**: Pure functions make behavior easy to reason about.
+2. **Easier Testing**: Functions without side effects are simple to test.
+3. **Reusable Code**: Small, independent functions are easier to reuse.
+4. **Maintainability**: Immutable data and predictable logic reduce bugs.
+
+---
+
+
