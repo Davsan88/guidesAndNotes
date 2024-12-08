@@ -135,3 +135,7 @@ const sum = numbers.reduce((acc, curr) => acc + curr, 0); // 10
 
 ## Applying Functional Programming in Real Projects
 
+### Example: To-Do List App
+
+Instead of directly mutating a list, use pure functions to add, remove, or update tasks.
+
