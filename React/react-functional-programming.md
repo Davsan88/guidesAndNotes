@@ -120,3 +120,16 @@ const evenNumbers = numbers.filter(num => num % 2 === 0); // [2, 4]
 ```
 
 ---
+
+
+### 3. `reduce()`
+Reduces an array to a single value by applying a function to each element.
+
+```javascript
+const numbers = [1, 2, 3, 4];
+const sum = numbers.reduce((acc, curr) => acc + curr, 0); // 10
+```
+
+---
+
+
