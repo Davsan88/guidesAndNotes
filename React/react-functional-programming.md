@@ -156,3 +156,10 @@ console.log(updatedTasks);
 ---
 
 
+## Key Takeaways
+
+1. **Pure Functions**: Always produce the same output for the same input, with no side effects.
+2. **Immutability**: Avoid modifying data; create new versions instead.
+3. **Functions as First-Class Citizens**: Functions can be passed around like any other value.
+4. **Avoid Side Effects**: Keep functions self-contained for predictable behavior.
+5. **Function Composition**: Combine small, reusable functions to build complex logic.
