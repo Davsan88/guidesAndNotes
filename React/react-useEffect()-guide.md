@@ -16,4 +16,17 @@ Side effects are tasks that run in response to changes in your component or appl
 ---
 
 
+## Syntax of `useEffect`
+
+```javascript
+import React, { useEffect } from 'react';
+
+useEffect(() => {
+  // Side effect logic here
+  return () => {
+    // Cleanup logic here (optional)
+  };
+}, [dependencies]);
+```
+
 
