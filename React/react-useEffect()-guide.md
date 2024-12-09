@@ -5,4 +5,15 @@ The `useEffect` hook is one of the most important hooks in React, allowing you t
 ---
 
 
+## What is a Side Effect?
+
+Side effects are tasks that run in response to changes in your component or application. These can include:
+- Fetching data from an API.
+- Subscribing to a service or event listener.
+- Manually updating the DOM.
+- Setting up a timer.
+
+---
+
+
 
