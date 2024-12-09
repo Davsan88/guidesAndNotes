@@ -29,4 +29,8 @@ useEffect(() => {
 }, [dependencies]);
 ```
 
+- **Effect Function**: The function you pass to `useEffect`. This contains the logic for the side effect.
+- **Cleanup Function (Optional)**: A function returned from the effect function, used to clean up after the effect (e.g., removing event listeners).
+- **Dependency Array**: An array that specifies when the effect should run. Dependencies are variables or state values the effect depends on.
 
+---
