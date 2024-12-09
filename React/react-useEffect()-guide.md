@@ -46,3 +46,17 @@ useEffect(() => {
   console.log('Component mounted');
 }, []);
 ```
+
+#### Example: Fetch data when the component loads.
+```javascript
+useEffect(() => {
+  fetch('https://api.example.com/data')
+    .then(response => response.json())
+    .then(data => console.log(data));
+}, []);
+```
+
+---
+
+
+
