@@ -34,3 +34,8 @@ useEffect(() => {
 - **Dependency Array**: An array that specifies when the effect should run. Dependencies are variables or state values the effect depends on.
 
 ---
+
+
+## Common Use Cases for `useEffect`
+
+
