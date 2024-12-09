@@ -38,4 +38,7 @@ useEffect(() => {
 
 ## Common Use Cases for `useEffect`
 
+### 1. Running Once (on Mount)
+Use an empty dependency array (`[]`) to run the effect only once when the component mounts.
+
 
