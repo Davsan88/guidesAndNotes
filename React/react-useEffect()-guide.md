@@ -76,3 +76,18 @@ useEffect(() => {
 ### 3. Cleanup Logic
 Return a function from `useEffect` to clean up resources when the component unmounts or before the effect runs again.
 
+#### Example: Remove an event listener.
+```javascript
+useEffect(() => {
+  const handleResize = () => console.log('Window resized');
+  window.addEventListener('resize', handleResize);
+
+  return () => {
+    window.removeEventListener('resize', handleResize);
+  };
+}, []);
+```
+
+---
+
+
