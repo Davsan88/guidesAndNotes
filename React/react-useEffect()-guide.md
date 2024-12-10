@@ -73,3 +73,6 @@ useEffect(() => {
 ---
 
 
+### 3. Cleanup Logic
+Return a function from `useEffect` to clean up resources when the component unmounts or before the effect runs again.
+
