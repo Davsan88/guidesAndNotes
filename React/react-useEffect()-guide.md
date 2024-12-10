@@ -59,4 +59,7 @@ useEffect(() => {
 ---
 
 
+### 2. Running on State or Prop Change
+Specify state or props in the dependency array to run the effect whenever those values change.
+
 
