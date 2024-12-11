@@ -102,3 +102,6 @@ useEffect(() => {
 });
 ```
 
+### What Happens With an Empty Dependency Array (`[]`)?
+The effect runs once, after the initial render (on mount).
+
