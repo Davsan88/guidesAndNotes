@@ -95,3 +95,10 @@ useEffect(() => {
 
 ### What Happens Without a Dependency Array?
 The effect runs after every render, which can cause performance issues or infinite loops if it updates state.
+
+```javascript
+useEffect(() => {
+  console.log('Effect runs after every render');
+});
+```
+
