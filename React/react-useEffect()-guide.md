@@ -91,3 +91,7 @@ useEffect(() => {
 ---
 
 
+## Dependency Array Deep Dive
+
+### What Happens Without a Dependency Array?
+The effect runs after every render, which can cause performance issues or infinite loops if it updates state.
