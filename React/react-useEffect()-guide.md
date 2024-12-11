@@ -113,3 +113,13 @@ useEffect(() => {
 
 ### What Happens With Specific Dependencies?
 The effect runs only when one of the dependencies changes.
+
+```javascript
+const [count, setCount] = React.useState(0);
+
+useEffect(() => {
+  console.log(`Count changed to ${count}`);
+}, [count]);
+```
+
+---
