@@ -110,3 +110,6 @@ useEffect(() => {
   console.log('Effect runs once');
 }, []);
 ```
+
+### What Happens With Specific Dependencies?
+The effect runs only when one of the dependencies changes.
