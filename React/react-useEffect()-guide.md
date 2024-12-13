@@ -149,5 +149,9 @@ useEffect(() => {
 
 ## Best Practices
 
+1. **Always Include Dependencies**:
+   - Add all state and props used in the effect to the dependency array.
+   - React will warn you in strict mode if you forget this.
+
 
 
