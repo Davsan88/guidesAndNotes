@@ -144,7 +144,10 @@ useEffect(() => {
 
 3. **Improper Cleanup**: Not cleaning up can cause memory leaks or unexpected behavior.
 
+---
 
+
+## Best Practices
 
 
 
