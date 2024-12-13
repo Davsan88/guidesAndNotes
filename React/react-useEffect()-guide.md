@@ -156,5 +156,11 @@ useEffect(() => {
 2. **Use Cleanup Functions**:
    - For effects like event listeners, timers, or subscriptions, always clean up to avoid memory leaks.
 
+3. **Use Multiple `useEffect` Hooks**:
+   - Instead of writing one large effect, split logic into multiple `useEffect` hooks for readability and maintainability.
+
+---
+
+
 
 
