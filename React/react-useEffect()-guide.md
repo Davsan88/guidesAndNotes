@@ -133,3 +133,11 @@ useEffect(() => {
      console.log(count); // If `count` changes, but it's not in the dependency array, this effect won't re-run
    }, []);
    ```
+
+2. **Updating State Inside the Effect Without a Dependency Array**:
+   This can lead to an infinite loop.
+   ```javascript
+   useEffect(() => {
+     setCount(count + 1); // Infinite loop
+   });
+   ```
