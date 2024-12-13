@@ -123,3 +123,13 @@ useEffect(() => {
 ```
 
 ---
+
+
+## Common Mistakes with `useEffect`
+
+1. **Missing Dependencies**: Forgetting to add all variables/state used in the effect to the dependency array can cause bugs.
+   ```javascript
+   useEffect(() => {
+     console.log(count); // If `count` changes, but it's not in the dependency array, this effect won't re-run
+   }, []);
+   ```
