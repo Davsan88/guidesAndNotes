@@ -153,5 +153,8 @@ useEffect(() => {
    - Add all state and props used in the effect to the dependency array.
    - React will warn you in strict mode if you forget this.
 
+2. **Use Cleanup Functions**:
+   - For effects like event listeners, timers, or subscriptions, always clean up to avoid memory leaks.
+
 
 
