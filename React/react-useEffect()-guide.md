@@ -166,3 +166,11 @@ useEffect(() => {
 
 Here’s how you can use `useEffect` to fetch data and update state:
 
+```javascript
+import React, { useState, useEffect } from 'react';
+
+export default function App() {
+  const [data, setData] = useState(null);
+  const [count, setCount] = useState(0);
+
+  
