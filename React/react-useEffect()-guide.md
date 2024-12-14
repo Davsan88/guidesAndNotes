@@ -192,3 +192,9 @@ export default function App() {
 ---
 
 
+## Key Takeaways
+
+1. `useEffect` lets you perform side effects in your components.
+2. Use the dependency array to control when the effect runs.
+3. Always clean up effects to prevent memory leaks.
+4. Split effects into multiple hooks for better readability.
