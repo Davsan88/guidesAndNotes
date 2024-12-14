@@ -198,3 +198,6 @@ export default function App() {
 2. Use the dependency array to control when the effect runs.
 3. Always clean up effects to prevent memory leaks.
 4. Split effects into multiple hooks for better readability.
+
+
+By mastering `useEffect`, you'll have the tools to handle most side effects in React applications efficiently.
