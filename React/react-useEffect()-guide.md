@@ -173,4 +173,8 @@ export default function App() {
   const [data, setData] = useState(null);
   const [count, setCount] = useState(0);
 
-  
+  useEffect(() => {
+    fetch('https://swapi.dev/api/people/1')
+      .then(response => response.json())
+      .then(data => setData(data));
+  }, [count]); // Re-fetch data whenever `count` changes
