@@ -162,5 +162,7 @@ useEffect(() => {
 ---
 
 
+## Advanced Example: Combining State and Effects
 
+Here’s how you can use `useEffect` to fetch data and update state:
 
