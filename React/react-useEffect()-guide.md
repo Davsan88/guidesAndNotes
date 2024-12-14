@@ -178,3 +178,17 @@ export default function App() {
       .then(response => response.json())
       .then(data => setData(data));
   }, [count]); // Re-fetch data whenever `count` changes
+
+  return (
+    <div>
+      <h1>Star Wars Character</h1>
+      <pre>{JSON.stringify(data, null, 2)}</pre>
+      <button onClick={() => setCount(prev => prev + 1)}>Fetch Again</button>
+    </div>
+  );
+}
+```
+
+---
+
+
