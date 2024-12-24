@@ -20,3 +20,26 @@ In React, forms are used to collect and process user input. Unlike regular HTML 
 ---
 
 
+## **Step-by-Step Guide**
+
+### 1. **Set Up the Form Structure**
+Start with a basic HTML form structure:
+```jsx
+function App() {
+  return (
+    <form>
+      <label>
+        Name:
+        <input type="text" />
+      </label>
+      <button type="submit">Submit</button>
+    </form>
+  );
+}
+```
+
+---
+
+
+### 2. **Control the Input with State**
+To make the form interactive, use React's `useState` to manage the value of the input field.
