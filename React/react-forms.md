@@ -66,3 +66,11 @@ function App() {
   );
 }
 ```
+
+**Key Points**:
+- `value={name}`: Makes the input field a controlled component.
+- `onChange={handleChange}`: Updates the state whenever the user types.
+
+---
+
+
