@@ -84,3 +84,18 @@ const handleSubmit = (event) => {
   console.log(name); // Log the input value
 };
 ```
+
+Integrate it into the form:
+```jsx
+<form onSubmit={handleSubmit}>
+  <label>
+    Name:
+    <input type="text" value={name} onChange={handleChange} />
+  </label>
+  <button type="submit">Submit</button>
+</form>
+```
+
+---
+
+
