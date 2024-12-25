@@ -116,3 +116,32 @@ const handleChange = (event) => {
     [name]: value, // Dynamically update the correct field
   }));
 };
+
+return (
+  <form onSubmit={handleSubmit}>
+    <label>
+      First Name:
+      <input
+        type="text"
+        name="firstName"
+        value={formData.firstName}
+        onChange={handleChange}
+      />
+    </label>
+    <label>
+      Last Name:
+      <input
+        type="text"
+        name="lastName"
+        value={formData.lastName}
+        onChange={handleChange}
+      />
+    </label>
+    <button type="submit">Submit</button>
+  </form>
+);
+```
+
+---
+
+
