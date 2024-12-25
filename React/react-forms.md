@@ -109,3 +109,10 @@ const [formData, setFormData] = useState({
   lastName: "",
 });
 
+const handleChange = (event) => {
+  const { name, value } = event.target; // Destructure input's name and value
+  setFormData((prevData) => ({
+    ...prevData,
+    [name]: value, // Dynamically update the correct field
+  }));
+};
