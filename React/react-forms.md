@@ -145,3 +145,21 @@ return (
 ---
 
 
+### 5. **Validation**
+You can validate inputs before submitting the form.
+
+Example:
+```jsx
+const handleSubmit = (event) => {
+  event.preventDefault();
+  if (formData.firstName === "" || formData.lastName === "") {
+    alert("All fields are required!");
+  } else {
+    console.log(formData);
+  }
+};
+```
+
+---
+
+
