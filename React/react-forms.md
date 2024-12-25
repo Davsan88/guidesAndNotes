@@ -74,3 +74,13 @@ function App() {
 ---
 
 
+### 3. **Handle Form Submission**
+Add an event handler to process the form submission.
+
+Example:
+```jsx
+const handleSubmit = (event) => {
+  event.preventDefault(); // Prevent default form submission behavior
+  console.log(name); // Log the input value
+};
+```
