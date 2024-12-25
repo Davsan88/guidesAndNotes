@@ -99,3 +99,13 @@ Integrate it into the form:
 ---
 
 
+### 4. **Multiple Inputs**
+For forms with multiple inputs, use state as an object to manage their values.
+
+Example:
+```jsx
+const [formData, setFormData] = useState({
+  firstName: "",
+  lastName: "",
+});
+
