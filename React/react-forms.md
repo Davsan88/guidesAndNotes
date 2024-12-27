@@ -210,3 +210,16 @@ return (
 ---
 
 
+#### 3. Using FormData
+`FormData` can be useful for handling file uploads or extracting input data without manually accessing state.
+
+Example:
+```jsx
+const handleSubmit = (event) => {
+  event.preventDefault();
+  const formData = new FormData(event.target);
+  console.log(formData.get("name")); // Retrieve value of input with name="name"
+};
+```
+
+---
