@@ -188,3 +188,11 @@ return (
 ---
 
 
+#### 2. Handling Select Dropdowns
+```jsx
+const [selected, setSelected] = useState("option1");
+
+const handleSelectChange = (event) => {
+  setSelected(event.target.value);
+};
+
