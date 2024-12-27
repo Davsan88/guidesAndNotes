@@ -163,3 +163,13 @@ const handleSubmit = (event) => {
 ---
 
 
+### **Advanced Topics**
+
+#### 1. Handling Checkboxes
+```jsx
+const [isChecked, setIsChecked] = useState(false);
+
+const handleCheckboxChange = () => {
+  setIsChecked((prev) => !prev);
+};
+
