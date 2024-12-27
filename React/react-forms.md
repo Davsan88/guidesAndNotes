@@ -173,3 +173,18 @@ const handleCheckboxChange = () => {
   setIsChecked((prev) => !prev);
 };
 
+return (
+  <label>
+    Agree to terms:
+    <input
+      type="checkbox"
+      checked={isChecked}
+      onChange={handleCheckboxChange}
+    />
+  </label>
+);
+```
+
+---
+
+
