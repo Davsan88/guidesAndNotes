@@ -196,6 +196,38 @@ function handleSubmit(event) {
 ---
 
 
+### **Action Forms in React 19**
+
+React 19 introduced action forms, simplifying submission handling by linking a form directly to a function.
+
+```jsx
+function App() {
+  // The function is automatically passed `formData` by the `action` attribute
+  function signUp(formData) {
+    const email = formData.get("email"); // Retrieve email from the form
+    const password = formData.get("password"); // Retrieve password
+    console.log({ email, password }); // Process or submit data
+  }
+
+  return (
+    <form action={signUp}> {/* Links form submission to the `signUp` function */}
+      <input name="email" type="email" placeholder="Enter email" /> {/* Email input */}
+      <input name="password" type="password" placeholder="Enter password" /> {/* Password input */}
+      <button>Submit</button> {/* Submit button */}
+    </form>
+  );
+}
+```
+
+**Key Points**:
+-  `action`: Passes form data as a `FormData` object to the handler function.
+-  `event.preventDefault()`: Is'nt needed, the default behavior is bypassed automatically.
+-  `formData.get()`: Retrieves individual input values
+
+**Use Cases**:
+
+
+
 ### **Advanced Topics**
 
 #### 1. Handling Checkboxes
