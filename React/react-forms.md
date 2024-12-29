@@ -262,11 +262,11 @@ function App() {
 - Compatible with Additional Data: Works seamlessly with inputs like checkboxes or radio buttons
 
 **Use Cases**:
-- 
-- 
-- 
+- Forms with multiple fields where you need all input data as an object.
+- APIs or backends that accept JSON payloads.
+- Handling complex data structures, such as nested inputs or dynamically generated forms.
 
-
+---
 
 
 ### **Advanced Topics**
