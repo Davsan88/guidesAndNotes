@@ -233,6 +233,30 @@ function App() {
 ---
 
 
+## **2. Using `Object.fromEntries` for Complex Forms**
+
+When handling forms with multiple fields, `Object.fromEntries` simplifies data extraction by converting `FormData` into a complete object.
+
+```jsx
+function App() {
+  function handleSubmit(event) {
+    event.preventDefault(); // Prevent default form submission
+    const formData = new FormData(event.target); // Collect data from the form
+    const data = Object.fromEntries(formData); // Convert form data to an object
+    console.log(data); // Log or process the data object
+  }
+
+  return (
+    <form onSubmit={handleSubmit}> {/* Attach `handleSubmit` to the form */}
+      <input name="email" type="email" placeholder="Enter email" /> {/* Email input */}
+      <input name="password" type="password" placeholder="Enter password" /> {/* Password input */}
+      <button>Submit</button> {/* Submit button */}
+    </form>
+  );
+}
+```
+
+
 
 ### **Advanced Topics**
 
