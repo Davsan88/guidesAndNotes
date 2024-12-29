@@ -78,25 +78,22 @@ function App() {
 
 
 ### 3. **Handle Form Submission**
+
 Add an event handler to process the form submission.
 
-Example:
 ```jsx
 const handleSubmit = (event) => {
-  event.preventDefault(); // Prevent default form submission behavior
-  console.log(name); // Log the input value
+    event.preventDefault(); // Prevent default form submission
+    console.log(name); // Access input value stored in state
 };
-```
 
-Integrate it into the form:
-```jsx
 <form onSubmit={handleSubmit}>
-  <label>
-    Name:
-    <input type="text" value={name} onChange={handleChange} />
-  </label>
-  <button type="submit">Submit</button>
-</form>
+    <label>
+        Name:
+        <input type="text" value={name} onChange={handleChange} />
+    </label>
+    <button type="submit">Submit</button>
+</form>;
 ```
 
 ---
