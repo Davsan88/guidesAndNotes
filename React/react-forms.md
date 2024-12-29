@@ -182,7 +182,10 @@ function handleSubmit(event) {
 ```
 
 
-
+**Key Points**:
+- `event.currentTarget`: Refers to the form that triggered the event.
+- `FormData`: Extracts data without binding inputs to React state.
+- `formEl.reset()`: Clears the form after submission.
 
 ### **Advanced Topics**
 
