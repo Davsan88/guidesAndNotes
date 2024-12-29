@@ -233,7 +233,7 @@ function App() {
 ---
 
 
-## **2. Using `Object.fromEntries` for Complex Forms**
+### **Using `Object.fromEntries` for Complex Forms**
 
 When handling forms with multiple fields, `Object.fromEntries` simplifies data extraction by converting `FormData` into a complete object.
 
@@ -269,63 +269,4 @@ function App() {
 ---
 
 
-### **Advanced Topics**
-
-#### 1. Handling Checkboxes
-```jsx
-const [isChecked, setIsChecked] = useState(false);
-
-const handleCheckboxChange = () => {
-  setIsChecked((prev) => !prev);
-};
-
-return (
-  <label>
-    Agree to terms:
-    <input
-      type="checkbox"
-      checked={isChecked}
-      onChange={handleCheckboxChange}
-    />
-  </label>
-);
-```
-
----
-
-
-#### 2. Handling Select Dropdowns
-```jsx
-const [selected, setSelected] = useState("option1");
-
-const handleSelectChange = (event) => {
-  setSelected(event.target.value);
-};
-
-return (
-  <label>
-    Choose an option:
-    <select value={selected} onChange={handleSelectChange}>
-      <option value="option1">Option 1</option>
-      <option value="option2">Option 2</option>
-    </select>
-  </label>
-);
-```
-
----
-
-
-#### 3. Using FormData
-`FormData` can be useful for handling file uploads or extracting input data without manually accessing state.
-
-Example:
-```jsx
-const handleSubmit = (event) => {
-  event.preventDefault();
-  const formData = new FormData(event.target);
-  console.log(formData.get("name")); // Retrieve value of input with name="name"
-};
-```
-
----
+## **Detailed Types of Forms**
