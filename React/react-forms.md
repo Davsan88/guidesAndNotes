@@ -100,6 +100,7 @@ const handleSubmit = (event) => {
 
 
 ### 4. **Multiple Inputs**
+
 For forms with multiple inputs, use state as an object to manage their values.
 
 Example:
@@ -161,6 +162,26 @@ const handleSubmit = (event) => {
 ```
 
 ---
+
+
+## **Using FormData with `event.currentTarget`**
+
+This approach simplifies extracting data directly from the form element without binding each input to state.
+
+```jsx
+function handleSubmit(event) {
+    event.preventDefault(); // Prevent default behavior
+    const formEl = event.currentTarget; // Get the form element
+    const formData = new FormData(formEl); // Create FormData object
+    const email = formData.get("email"); // Access input by name
+    const password = formData.get("password");
+
+    console.log({ email, password }); // Submit or process data
+    formEl.reset(); // Reset form fields
+}
+```
+
+
 
 
 ### **Advanced Topics**
