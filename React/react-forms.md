@@ -164,7 +164,9 @@ const handleSubmit = (event) => {
 ---
 
 
-## **Using FormData with `event.currentTarget`**
+## **Advanced Form Handling**
+
+### **Using FormData with `event.currentTarget`**
 
 This approach simplifies extracting data directly from the form element without binding each input to state.
 
