@@ -220,9 +220,9 @@ function App() {
 ```
 
 **Key Points**:
--  `action`: Passes form data as a `FormData` object to the handler function.
--  `event.preventDefault()`: Is'nt needed, the default behavior is bypassed automatically.
--  `formData.get()`: Retrieves individual input values
+- `action`: Passes form data as a `FormData` object to the handler function.
+- `event.preventDefault()`: Is'nt needed, the default behavior is bypassed automatically.
+- `formData.get()`: Retrieves individual input values
 
 **Use Cases:**
 
@@ -255,6 +255,17 @@ function App() {
   );
 }
 ```
+
+**Key Points**:
+- `Object.fromEntries`: Converts `FormData` into a JavaScript object, making it easy to access all input values.
+- Simplifies Handling: Reduces the need to manually retrieve individual fields.
+- Compatible with Additional Data: Works seamlessly with inputs like checkboxes or radio buttons
+
+**Use Cases**:
+- 
+- 
+- 
+
 
 
 
