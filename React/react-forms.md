@@ -270,3 +270,5 @@ function App() {
 
 
 ## **Detailed Types of Forms**
+
+Text inputs are the most common input type. Use `value` and `onChange` to bind them to state.
