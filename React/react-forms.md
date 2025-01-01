@@ -393,3 +393,7 @@ function App() {
 
 ---
 
+### 5. **Textareas**
+
+Textareas are for multi-line input. Properties `value` and `onChange` are used for text binding.
+
