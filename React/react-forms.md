@@ -332,3 +332,40 @@ function App() {
 
 Radio buttons allow a user to select one option from a group. Property `name` is used to ensure only one is selected.
 
+```jsx
+function App() {
+    const [gender, setGender] = React.useState("");
+
+    function handleChange(event) {
+        setGender(event.target.value);
+    }
+
+    return (
+        <form>
+            <label>
+                <input
+                    type="radio"
+                    name="gender"
+                    value="Male"
+                    checked={gender === "Male"}
+                    onChange={handleChange}
+                />
+                Male
+            </label>
+            <label>
+                <input
+                    type="radio"
+                    name="gender"
+                    value="Female"
+                    checked={gender === "Female"}
+                    onChange={handleChange}
+                />
+                Female
+            </label>
+        </form>
+    );
+}
+```
+
+---
+
