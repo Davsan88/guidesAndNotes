@@ -397,3 +397,23 @@ function App() {
 
 Textareas are for multi-line input. Properties `value` and `onChange` are used for text binding.
 
+```jsx
+function App() {
+    const [description, setDescription] = React.useState("");
+
+    function handleChange(event) {
+        setDescription(event.target.value);
+    }
+
+    return (
+        <textarea
+            name="description"
+            value={description}
+            onChange={handleChange}
+            placeholder="Enter your description"
+        />
+    );
+}
+```
+
+---
