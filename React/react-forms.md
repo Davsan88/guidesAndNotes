@@ -373,3 +373,23 @@ function App() {
 
 Dropdowns let users select one or more options. Property `value` is used for single selection, and `multiple` for multi-selection.
 
+```jsx
+function App() {
+    const [favColor, setFavColor] = React.useState("Blue");
+
+    function handleChange(event) {
+        setFavColor(event.target.value);
+    }
+
+    return (
+        <select name="favColor" value={favColor} onChange={handleChange}>
+            <option value="Red">Red</option>
+            <option value="Blue">Blue</option>
+            <option value="Green">Green</option>
+        </select>
+    );
+}
+```
+
+---
+
