@@ -272,3 +272,26 @@ function App() {
 ## **Detailed Types of Forms**
 
 Text inputs are the most common input type. Use `value` and `onChange` to bind them to state.
+
+```jsx
+function App() {
+    const [username, setUsername] = React.useState("");
+
+    function handleChange(event) {
+        setUsername(event.target.value);
+    }
+
+    return (
+        <input
+            type="text"
+            name="username"
+            value={username}
+            onChange={handleChange}
+            placeholder="Enter username"
+        />
+    );
+}
+```
+
+---
+
