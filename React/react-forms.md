@@ -369,3 +369,7 @@ function App() {
 
 ---
 
+### 4. **Dropdowns (Select Elements)**
+
+Dropdowns let users select one or more options. Property `value` is used for single selection, and `multiple` for multi-selection.
+
