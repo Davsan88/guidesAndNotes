@@ -295,3 +295,7 @@ function App() {
 
 ---
 
+### 2. **Checkboxes**
+
+Checkboxes are used for binary options or multiple selections. Properties like `checked` and `onChange` are used for individual control.
+
