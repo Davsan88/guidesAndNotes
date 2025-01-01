@@ -328,3 +328,7 @@ function App() {
 
 ---
 
+### 3. **Radio Buttons**
+
+Radio buttons allow a user to select one option from a group. Property `name` is used to ensure only one is selected.
+
