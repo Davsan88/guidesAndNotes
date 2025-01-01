@@ -299,3 +299,32 @@ function App() {
 
 Checkboxes are used for binary options or multiple selections. Properties like `checked` and `onChange` are used for individual control.
 
+```jsx
+function App() {
+    const [restrictions, setRestrictions] = React.useState([]);
+
+    function handleSubmit(event) {
+        event.preventDefault();
+        const formData = new FormData(event.currentTarget);
+        const dietaryRestrictions = formData.getAll("dietaryRestrictions");
+        setRestrictions(dietaryRestrictions);
+    }
+
+    return (
+        <form onSubmit={handleSubmit}>
+            <label>
+                <input type="checkbox" name="dietaryRestrictions" value="Vegan" />
+                Vegan
+            </label>
+            <label>
+                <input type="checkbox" name="dietaryRestrictions" value="Kosher" />
+                Kosher
+            </label>
+            <button type="submit">Submit</button>
+        </form>
+    );
+}
+```
+
+---
+
