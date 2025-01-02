@@ -443,3 +443,12 @@ function App() {
     agree: false,
   });
 
+const handleChange = (event) => {
+    const { name, value, type, checked } = event.target;
+    setFormData((prevData) => ({
+      ...prevData,
+      [name]: type === "checkbox" ? checked : value,
+    }));
+  };
+
+  
