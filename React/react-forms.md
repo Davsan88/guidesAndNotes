@@ -456,4 +456,43 @@ const handleChange = (event) => {
     console.log(formData);
   };
 
-  
+  return (
+    <form onSubmit={handleSubmit}>
+      <label>
+        Name:
+        <input
+          type="text"
+          name="name"
+          value={formData.name}
+          onChange={handleChange}
+        />
+      </label>
+      <label>
+        Email:
+        <input
+          type="email"
+          name="email"
+          value={formData.email}
+          onChange={handleChange}
+        />
+      </label>
+      <label>
+        Agree to Terms:
+        <input
+          type="checkbox"
+          name="agree"
+          checked={formData.agree}
+          onChange={handleChange}
+        />
+      </label>
+      <button type="submit">Submit</button>
+    </form>
+  );
+}
+
+export default App;
+```
+
+---
+
+
