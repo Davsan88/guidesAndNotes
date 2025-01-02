@@ -431,3 +431,15 @@ function App() {
 ---
 
 
+## **Example: Complete Form**
+
+```jsx
+import React, { useState } from "react";
+
+function App() {
+  const [formData, setFormData] = useState({
+    name: "",
+    email: "",
+    agree: false,
+  });
+
