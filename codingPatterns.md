@@ -65,3 +65,9 @@ console.log(userAges["Bob"]); // O(1) lookup
 ---
 
 
+## **3. Recursion & Backtracking**
+
+### **Why is it Important?**
+- **Recursion** allows solving problems by **breaking them down into smaller subproblems**.
+- **Backtracking** is used in **optimization** and **combinatorial problems**.
+
