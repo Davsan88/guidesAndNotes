@@ -44,3 +44,11 @@ function getFirstElement(arr) {
 ### **Why are they Important?**
 - Understanding **data structures** helps in **optimizing solutions** and **choosing the right approach** for a problem.
 
+### **Key Data Structures for Algorithmic Problem-Solving:**
+- **Arrays**: Used in problems requiring **contiguous data manipulation**.
+- **Strings**: Frequently used in **text processing** and **searching**.
+- **Hash Tables (Objects, Maps)**: Allow **quick lookups, counting, and caching** (**O(1) average time complexity**).
+- **Stacks & Queues**: Used in **depth-first** and **breadth-first search (DFS, BFS)**, and **backtracking**.
+- **Graphs & Trees**: Essential for **traversal** and **hierarchical data structures**.
+- **Heaps & Priority Queues**: Useful for **sorting** and **greedy algorithms**.
+
