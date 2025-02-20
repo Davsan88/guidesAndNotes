@@ -52,3 +52,16 @@ function getFirstElement(arr) {
 - **Graphs & Trees**: Essential for **traversal** and **hierarchical data structures**.
 - **Heaps & Priority Queues**: Useful for **sorting** and **greedy algorithms**.
 
+### **Example: Using a Hash Table for Fast Lookups**
+```javascript
+const userAges = {
+    "Alice": 25,
+    "Bob": 30,
+    "Charlie": 22
+};
+console.log(userAges["Bob"]); // O(1) lookup
+```
+
+---
+
+
