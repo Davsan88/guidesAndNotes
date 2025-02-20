@@ -76,3 +76,15 @@ console.log(userAges["Bob"]); // O(1) lookup
 - **Recursive case**: The function **calls itself** with a **reduced problem size**.
 - **Stack overflow**: Occurs when the **recursion depth exceeds system limits**.
 
+### **Example: Factorial using Recursion**
+```javascript
+function factorial(n) {
+    if (n === 1) return 1; // Base case
+    return n * factorial(n - 1); // Recursive case
+}
+console.log(factorial(5)); // Output: 120
+```
+
+---
+
+
