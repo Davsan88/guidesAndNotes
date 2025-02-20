@@ -157,3 +157,8 @@ console.log(arr); // Output: [1, 1, 3, 4, 5, 9]
 ### **Why are they Important?**
 - Used for **traversing graphs and trees**, finding **shortest paths**, and searching **hierarchical data**.
 
+### **BFS vs DFS:**
+- **BFS (Queue-based)**: Best for **shortest path problems**.
+- **DFS (Stack-based or recursive)**: Used for **backtracking** and **exhaustive searches**.
+
+
