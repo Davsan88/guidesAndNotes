@@ -111,3 +111,25 @@ console.log(charFrequency("hello")); // { h: 1, e: 1, l: 2, o: 1 }
 ---
 
 
+## **5. Two Pointers Technique**
+
+### **Why is it Important?**
+- **Two pointers** optimize problems involving **arrays** and **strings** by reducing **nested loops**.
+
+### **Example: Checking if an Array is a Palindrome**
+```javascript
+function isPalindrome(arr) {
+    let left = 0, right = arr.length - 1;
+    while (left < right) {
+        if (arr[left] !== arr[right]) return false;
+        left++;
+        right--;
+    }
+    return true;
+}
+console.log(isPalindrome([1, 2, 3, 2, 1])); // Output: true
+```
+
+---
+
+
