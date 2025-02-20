@@ -142,3 +142,18 @@ console.log(isPalindrome([1, 2, 3, 2, 1])); // Output: true
 - **O(n log n)**: **Merge Sort, Quick Sort** (*efficient for large datasets*).
 - **O(n²)**: **Bubble Sort, Selection Sort** (*inefficient for large inputs*).
 
+### **Example: Sorting an Array Using JavaScript's Built-in Sort**
+```javascript
+const arr = [3, 1, 4, 1, 5, 9];
+arr.sort((a, b) => a - b);
+console.log(arr); // Output: [1, 1, 3, 4, 5, 9]
+```
+
+---
+
+
+## **7. Breadth-First Search (BFS) & Depth-First Search (DFS)**
+
+### **Why are they Important?**
+- Used for **traversing graphs and trees**, finding **shortest paths**, and searching **hierarchical data**.
+
