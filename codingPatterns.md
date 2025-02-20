@@ -138,3 +138,7 @@ console.log(isPalindrome([1, 2, 3, 2, 1])); // Output: true
 ### **Why are they Important?**
 - Many problems require **sorting** before applying an **efficient algorithm**.
 
+### **Common Sorting Algorithms:**
+- **O(n log n)**: **Merge Sort, Quick Sort** (*efficient for large datasets*).
+- **O(n²)**: **Bubble Sort, Selection Sort** (*inefficient for large inputs*).
+
