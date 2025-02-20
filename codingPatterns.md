@@ -88,3 +88,11 @@ console.log(factorial(5)); // Output: 120
 ---
 
 
+## **4. Hash Tables (Hash Maps in JavaScript)**
+
+### **Why are they Important?**
+- **Hash tables** allow **quick lookups** and are commonly used for:
+  - **Caching**
+  - **Frequency counting**
+  - **Duplicate detection**
+
