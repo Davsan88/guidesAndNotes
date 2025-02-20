@@ -181,4 +181,19 @@ function dfs(root) {
 ---
 
 
+## **📌 Summary: Key Concepts Before Learning Coding Patterns**
+
+| **Concept**          | **Why It’s Important**                      |
+|----------------------|------------------------------------------|
+| **Big O Notation**   | Measures efficiency of algorithms       |
+| **Data Structures**  | Arrays, HashMaps, Trees, Graphs         |
+| **Recursion & Backtracking** | Solving problems by breaking them down |
+| **Hash Tables**      | Fast lookups and frequency counting      |
+| **Two Pointers**     | Optimizing array & string problems      |
+| **Sorting Algorithms** | Needed before applying patterns        |
+| **Graph Traversal (BFS & DFS)** | Essential for tree/graph problems  |
+
+---
+
+
 
