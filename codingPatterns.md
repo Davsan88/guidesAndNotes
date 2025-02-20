@@ -133,3 +133,8 @@ console.log(isPalindrome([1, 2, 3, 2, 1])); // Output: true
 ---
 
 
+## **6. Sorting Algorithms**
+
+### **Why are they Important?**
+- Many problems require **sorting** before applying an **efficient algorithm**.
+
