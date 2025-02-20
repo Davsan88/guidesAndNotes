@@ -19,3 +19,23 @@ To efficiently solve coding problems, it is crucial to understand **fundamental 
 - **O(n²) - Quadratic Time**: Nested loops that process **elements in pairs**.
 - **O(2ⁿ) / O(n!) - Exponential and Factorial Time**: Typically found in **brute-force solutions** and **recursion-heavy problems**.
 
+### **Example:**
+```javascript
+// O(n) - Linear time (looping through an array)
+function sumArray(arr) {
+    let sum = 0;
+    for (let num of arr) {
+        sum += num;
+    }
+    return sum;
+}
+
+// O(1) - Constant time (direct index access)
+function getFirstElement(arr) {
+    return arr[0];
+}
+```
+
+---
+
+
