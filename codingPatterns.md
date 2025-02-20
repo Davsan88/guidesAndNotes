@@ -96,3 +96,18 @@ console.log(factorial(5)); // Output: 120
   - **Frequency counting**
   - **Duplicate detection**
 
+### **Example: Counting Character Frequency in a String**
+```javascript
+function charFrequency(str) {
+    let freq = {};
+    for (let char of str) {
+        freq[char] = (freq[char] || 0) + 1;
+    }
+    return freq;
+}
+console.log(charFrequency("hello")); // { h: 1, e: 1, l: 2, o: 1 }
+```
+
+---
+
+
