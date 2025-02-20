@@ -71,3 +71,8 @@ console.log(userAges["Bob"]); // O(1) lookup
 - **Recursion** allows solving problems by **breaking them down into smaller subproblems**.
 - **Backtracking** is used in **optimization** and **combinatorial problems**.
 
+### **Key Recursion Concepts:**
+- **Base case**: The **stopping condition** that prevents **infinite recursion**.
+- **Recursive case**: The function **calls itself** with a **reduced problem size**.
+- **Stack overflow**: Occurs when the **recursion depth exceeds system limits**.
+
