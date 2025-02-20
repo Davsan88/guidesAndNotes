@@ -39,3 +39,8 @@ function getFirstElement(arr) {
 ---
 
 
+## **2. Data Structures**
+
+### **Why are they Important?**
+- Understanding **data structures** helps in **optimizing solutions** and **choosing the right approach** for a problem.
+
