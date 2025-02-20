@@ -161,4 +161,24 @@ console.log(arr); // Output: [1, 1, 3, 4, 5, 9]
 - **BFS (Queue-based)**: Best for **shortest path problems**.
 - **DFS (Stack-based or recursive)**: Used for **backtracking** and **exhaustive searches**.
 
+### **Example: DFS for a Tree**
+```javascript
+class TreeNode {
+    constructor(val) {
+        this.val = val;
+        this.left = this.right = null;
+    }
+}
+
+function dfs(root) {
+    if (!root) return;
+    console.log(root.val);
+    dfs(root.left);
+    dfs(root.right);
+}
+```
+
+---
+
+
 
