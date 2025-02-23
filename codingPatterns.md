@@ -211,5 +211,12 @@ Imagine you have an **array** or **string**, and you need to examine a **continu
 ---
 
 
+## **Why Use a Sliding Window?**
+
+### **Problem Example: Find the Maximum Sum of k Consecutive Elements in an Array**
+
+#### **Naive Approach**
+- **For each possible subarray** of size **k**, sum its elements.
+- **Time Complexity**: **O(n * k)** → For every **starting position**, you sum **k** elements.
 
 
