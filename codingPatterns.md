@@ -245,4 +245,13 @@ function maxSumSubarray(arr, k) {
     }
     let maxSum = windowSum;
 
-}    
+}    // Slide the window from index k to the end of the array
+    for (let i = k; i < arr.length; i++) {
+        // Subtract the element leaving the window and add the new element entering the window
+        windowSum += arr[i] - arr[i - k];
+        // Update maxSum if the new window sum is larger
+        maxSum = Math.max(maxSum, windowSum);
+    }
+    
+    return maxSum;
+}
