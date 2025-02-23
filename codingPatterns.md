@@ -281,3 +281,18 @@ console.log(maxSumSubarray(array, 3)); // Expected output: 9
 ---
 
 
+## **🖼️ Visualizing the Process**
+Consider the array `[2, 1, 5, 1, 3, 2]` with `k = 3`.
+
+| **Step** | **Window (Indices)** | **Elements** | **Sum Calculation** | **Max Sum Update** |
+|----------|----------------------|--------------|----------------------|---------------------|
+| **1**    | `0 - 2`              | `[2, 1, 5]`  | `2 + 1 + 5 = 8`      | `maxSum = 8`       |
+| **2**    | `1 - 3`              | `[1, 5, 1]`  | `8 - 2 + 1 = 7`      | `maxSum = 8`       |
+| **3**    | `2 - 4`              | `[5, 1, 3]`  | `7 - 1 + 3 = 9`      | `maxSum = 9`       |
+| **4**    | `3 - 5`              | `[1, 3, 2]`  | `9 - 5 + 2 = 6`      | `maxSum = 9`       |
+
+✔ **Final Answer**: **Maximum sum = 9**
+
+---
+
+
