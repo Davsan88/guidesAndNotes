@@ -203,5 +203,13 @@ Imagine you have an **array** or **string**, and you need to examine a **continu
 ---
 
 
+## **Key Idea**
+- Instead of **recalculating results for each possible window** from scratch, you **update the result** from the previous window by:
+  1. **Removing** the effect of the element that **left** the window.
+  2. **Adding** the effect of the new element that **entered** the window.
+
+---
+
+
 
 
