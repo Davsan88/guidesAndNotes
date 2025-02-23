@@ -313,3 +313,7 @@ Consider the array `[2, 1, 5, 1, 3, 2]` with `k = 3`.
 ---
 
 
+## **🎯 Final Thoughts**
+When discussing this in an **interview**, you might say:
+
+> **"The sliding window pattern allows me to efficiently process contiguous segments of data by reusing the computations from the previous window. For instance, in the maximum sum subarray problem, instead of recalculating the sum for each window from scratch, I initialize the sum for the first window and then update it in constant time as I slide the window across the array. This reduces the overall time complexity from O(n * k) to O(n), making the solution much more scalable."**
