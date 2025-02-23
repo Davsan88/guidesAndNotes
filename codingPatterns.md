@@ -274,3 +274,10 @@ console.log(maxSumSubarray(array, 3)); // Expected output: 9
 ---
 
 
+## **3️⃣ Final Result**
+- After the **loop finishes**, you have **examined every contiguous subarray** of size **k**.
+- **Return** the **maximum sum** found.
+
+---
+
+
