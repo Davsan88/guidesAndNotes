@@ -245,7 +245,7 @@ function maxSumSubarray(arr, k) {
     }
     let maxSum = windowSum;
 
-}    // Slide the window from index k to the end of the array
+    // Slide the window from index k to the end of the array
     for (let i = k; i < arr.length; i++) {
         // Subtract the element leaving the window and add the new element entering the window
         windowSum += arr[i] - arr[i - k];
@@ -255,3 +255,12 @@ function maxSumSubarray(arr, k) {
     
     return maxSum;
 }
+
+// Example usage:
+const array = [2, 1, 5, 1, 3, 2];
+console.log(maxSumSubarray(array, 3)); // Expected output: 9
+```
+
+---
+
+
