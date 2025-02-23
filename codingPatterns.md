@@ -264,3 +264,13 @@ console.log(maxSumSubarray(array, 3)); // Expected output: 9
 ---
 
 
+## **2️⃣ Sliding the Window**
+- **Loop**: Start the loop from **index k** up to the end of the array.
+- **Update**:
+  - **Remove**: Subtract the element at the index that is **no longer in the window** (`arr[i - k]`).
+  - **Add**: Add the element that is **entering the window** (`arr[i]`).
+- **Update Result**: Compare and update the **maximum sum** found so far.
+
+---
+
+
