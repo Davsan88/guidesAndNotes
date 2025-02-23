@@ -219,4 +219,11 @@ Imagine you have an **array** or **string**, and you need to examine a **continu
 - **For each possible subarray** of size **k**, sum its elements.
 - **Time Complexity**: **O(n * k)** → For every **starting position**, you sum **k** elements.
 
+#### **Sliding Window Approach**
+- **Step 1**: Calculate the **sum of the first k elements once**.
+- **Step 2**: For **each new window position**:
+  - **Subtract** the element that’s leaving.
+  - **Add** the element that’s entering.
+- **Time Complexity**: **O(n)** → You update the sum in **constant time (O(1))** for each new window position.
 
+---
