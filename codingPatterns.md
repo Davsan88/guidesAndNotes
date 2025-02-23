@@ -234,3 +234,15 @@ Imagine you have an **array** or **string**, and you need to examine a **continu
 ### **1️⃣ Initialization**
 - **Step**: Compute the **sum of the first k elements**.
 - **Why**: This sum will be our **starting point** (i.e., the first "window").
+
+### **Example Code:**
+```javascript
+function maxSumSubarray(arr, k) {
+    // Compute initial window sum of first k elements
+    let windowSum = 0;
+    for (let i = 0; i < k; i++) {
+        windowSum += arr[i];
+    }
+    let maxSum = windowSum;
+
+}    
