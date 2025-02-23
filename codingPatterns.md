@@ -196,7 +196,7 @@ function dfs(root) {
 ---
 
 
-# **What Is the Sliding Window Pattern?**
+# **🪟 What Is the Sliding Window Pattern?**
 
 Imagine you have an **array** or **string**, and you need to examine a **continuous sequence of elements** within it. The **sliding window pattern** helps you do this **efficiently** by keeping track of a **“window”** (a subset of consecutive elements) that **moves (or "slides")** across your data.
 
