@@ -304,3 +304,12 @@ Consider the array `[2, 1, 5, 1, 3, 2]` with `k = 3`.
 ### **✅ Simplicity**
 - You maintain a **"window" of data** and adjust it **incrementally**.
 
+### **✅ Real-World Use Cases**
+- Useful in **problems involving subarrays or substrings**, such as:
+  - **Finding maximum/minimum sums**.
+  - **Computing averages over contiguous segments**.
+  - **Finding longest/shortest substrings under constraints**.
+
+---
+
+
