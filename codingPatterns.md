@@ -296,3 +296,11 @@ Consider the array `[2, 1, 5, 1, 3, 2]` with `k = 3`.
 ---
 
 
+## **📌 Recap of the Sliding Window Benefits**
+### **✅ Efficiency**
+- **Updates the result** with **constant time (O(1))** operations per move.
+- **Overall Complexity**: **O(n)** instead of **O(n * k)**.
+
+### **✅ Simplicity**
+- You maintain a **"window" of data** and adjust it **incrementally**.
+
