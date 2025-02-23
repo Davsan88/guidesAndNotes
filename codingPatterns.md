@@ -227,3 +227,10 @@ Imagine you have an **array** or **string**, and you need to examine a **continu
 - **Time Complexity**: **O(n)** → You update the sum in **constant time (O(1))** for each new window position.
 
 ---
+
+
+## **📝 Detailed Step-by-Step Example: Maximum Sum of k Consecutive Elements**
+
+### **1️⃣ Initialization**
+- **Step**: Compute the **sum of the first k elements**.
+- **Why**: This sum will be our **starting point** (i.e., the first "window").
