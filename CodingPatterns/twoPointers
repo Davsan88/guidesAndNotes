@@ -17,3 +17,14 @@ This approach is particularly useful when the **data is sorted** or when you're 
   - They **meet**.
   - A **solution is found**.
 
+### **📌 Efficiency:**
+- This technique allows you to process the **array in a single pass**.
+- It **reduces the time complexity** from **O(n²) (nested loops) → O(n) (linear time).**
+
+---
+
+
+## **🚀 Why Use Two Pointers?**
+
+### **Problem Example: Find a Pair with a Given Sum in a Sorted Array**
+
