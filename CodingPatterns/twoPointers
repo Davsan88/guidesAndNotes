@@ -12,3 +12,8 @@ This approach is particularly useful when the **data is sorted** or when you're 
   - One **starting at the beginning** (`left`).
   - One **starting at the end** (`right`).
 
+### **📌 Movement Based on Conditions:**
+- Adjust the pointers based on a **condition** (e.g., if the **current sum is too low** or **too high**) until:
+  - They **meet**.
+  - A **solution is found**.
+
