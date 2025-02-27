@@ -1,0 +1,8 @@
+# **🔍 What Is the Two Pointers Pattern?**
+
+Imagine you have an **array** (or sometimes a **string**) and you want to solve a problem by examining **elements from different ends or positions simultaneously**. The **Two Pointers Pattern** uses **two indices (pointers)** that move through the data structure at **different speeds or directions**. 
+
+This approach is particularly useful when the **data is sorted** or when you're **looking for pairs** or **certain relationships between elements**.
+
+---
+
