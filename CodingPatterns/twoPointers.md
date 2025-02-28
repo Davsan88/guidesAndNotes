@@ -35,3 +35,7 @@ This approach is particularly useful when the **data is sorted** or when you're 
 - **Time Complexity**:
   - **O(n²)** due to **nested loops**.
 
+#### **✅ Two Pointers Approach**
+1️⃣ **Step 1**:
+   - **Place one pointer (`left`) at the beginning**.
+   - **Place one pointer (`right`) at the end**.
