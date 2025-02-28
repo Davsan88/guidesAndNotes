@@ -39,3 +39,6 @@ This approach is particularly useful when the **data is sorted** or when you're 
 1️⃣ **Step 1**:
    - **Place one pointer (`left`) at the beginning**.
    - **Place one pointer (`right`) at the end**.
+
+2️⃣ **Step 2**:
+   - **Calculate the sum** of the elements at these pointers.
