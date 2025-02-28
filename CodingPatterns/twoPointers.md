@@ -48,5 +48,11 @@ This approach is particularly useful when the **data is sorted** or when you're 
    - If the **sum is less than the target**, move the **left pointer right** (to increase the sum).
    - If the **sum is greater than the target**, move the **right pointer left** (to decrease the sum).
 
+- **Time Complexity**:
+  - **O(n)** → Each element is **examined at most once**.
+
+---
+
+
 
 
