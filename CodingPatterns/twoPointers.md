@@ -28,3 +28,10 @@ This approach is particularly useful when the **data is sorted** or when you're 
 
 ### **Problem Example: Find a Pair with a Given Sum in a Sorted Array**
 
+#### **❌ Naive Approach**
+- **Idea**:
+  - For every element in the array, **iterate through all the remaining elements** to see if a pair sums to the target.
+
+- **Time Complexity**:
+  - **O(n²)** due to **nested loops**.
+
