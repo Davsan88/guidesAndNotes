@@ -42,3 +42,11 @@ This approach is particularly useful when the **data is sorted** or when you're 
 
 2️⃣ **Step 2**:
    - **Calculate the sum** of the elements at these pointers.
+
+3️⃣ **Step 3**:
+   - If the **sum equals the target**, you've found your pair. 🎯
+   - If the **sum is less than the target**, move the **left pointer right** (to increase the sum).
+   - If the **sum is greater than the target**, move the **right pointer left** (to decrease the sum).
+
+
+
