@@ -88,7 +88,7 @@ function findPairWithSum(arr, target) {
         }
     }
 
-
+    return null; // ❌ No valid pair found
 }
 
 ```
