@@ -79,6 +79,13 @@ function findPairWithSum(arr, target) {
         if (currentSum === target) {
             return [arr[left], arr[right]]; // 🎯 Pair found
         }
+
+        // If current sum is too low, move left pointer to the right to increase the sum
+        if (currentSum < target) {
+            left++;
+        } else {  // If current sum is too high, move right pointer to the left to decrease the sum
+            right--;
+        }
     }
 
 
