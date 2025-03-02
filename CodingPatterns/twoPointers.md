@@ -91,4 +91,8 @@ function findPairWithSum(arr, target) {
     return null; // ❌ No valid pair found
 }
 
+// Example usage:
+const sortedArray = [1, 2, 3, 4, 6];
+console.log(findPairWithSum(sortedArray, 6)); // Expected output: [2, 4]
+
 ```
