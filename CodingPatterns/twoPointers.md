@@ -62,7 +62,8 @@ This approach is particularly useful when the **data is sorted** or when you're 
 - **Left Pointer (`left`)**: Start at **index 0**.
 - **Right Pointer (`right`)**: Start at the **last index**.
 
-
+#### **🔹 Why?**
+- The **sorted order** allows us to **use the extreme values** to quickly adjust our search for the correct sum.
 
 
 
