@@ -7,6 +7,7 @@ This approach is particularly useful when the **data is sorted** or when you're 
 ---
 
 ## **📝 Key Idea**
+
 ### **📌 Dual Indices:**
 - Use **two pointers**:
   - One **starting at the beginning** (`left`).
