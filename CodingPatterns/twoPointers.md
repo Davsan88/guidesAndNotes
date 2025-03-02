@@ -76,6 +76,9 @@ function findPairWithSum(arr, target) {
     while (left < right) {
         const currentSum = arr[left] + arr[right];
 
+        if (currentSum === target) {
+            return [arr[left], arr[right]]; // 🎯 Pair found
+        }
     }
 
 
