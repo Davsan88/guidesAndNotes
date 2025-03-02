@@ -54,5 +54,15 @@ This approach is particularly useful when the **data is sorted** or when you're 
 ---
 
 
+## **📋 Detailed Step-by-Step Example: Finding a Pair with a Given Sum**
+
+### **1️⃣ Initialization**
+
+#### **🔹 Set Up Pointers:**
+- **Left Pointer (`left`)**: Start at **index 0**.
+- **Right Pointer (`right`)**: Start at the **last index**.
+
+
+
 
 
