@@ -66,5 +66,12 @@ This approach is particularly useful when the **data is sorted** or when you're 
 #### **🔹 Why?**
 - The **sorted order** allows us to **use the extreme values** to quickly adjust our search for the correct sum.
 
+### **Example Code:**
+```javascript
+function findPairWithSum(arr, target) {
+    let left = 0;
+    let right = arr.length - 1;
 
+}
 
+```
