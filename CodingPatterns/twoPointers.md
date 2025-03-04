@@ -97,6 +97,9 @@ console.log(findPairWithSum(sortedArray, 6)); // Expected output: [2, 4]
 
 ```
 
+---
+
+
 ## **2️⃣ Moving the Pointers**
 
 ### **🔹 Loop Through the Array:**
@@ -108,3 +111,11 @@ console.log(findPairWithSum(sortedArray, 6)); // Expected output: [2, 4]
     - 🔽 **If `currentSum > target`** → **Move `right` left** (to decrease sum).
 
 ---
+
+
+## **3️⃣ Final Result**
+- If the **pointers cross** and **no pair is found**, return **null** (indicating no valid pair exists).
+
+---
+
+
