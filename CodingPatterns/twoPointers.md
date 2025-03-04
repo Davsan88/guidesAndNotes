@@ -133,3 +133,9 @@ Consider the **sorted array** `[1, 2, 3, 4, 6]` with a **target sum of `6`**:
 ---
 
 
+## **📌 Recap of the Two Pointers Benefits**
+
+### **✅ Efficiency**
+- **Single Pass**:
+  - Processes the array in **O(n)** time instead of **O(n²)** with nested loops.
+
