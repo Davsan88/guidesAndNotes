@@ -122,3 +122,14 @@ console.log(findPairWithSum(sortedArray, 6)); // Expected output: [2, 4]
 ## **🖼️ Visualizing the Process**
 Consider the **sorted array** `[1, 2, 3, 4, 6]` with a **target sum of `6`**:
 
+| **Step** | **Left Pointer** | **Right Pointer** | **Elements**  | **Current Sum** | **Action** |
+|----------|-----------------|-------------------|---------------|----------------|------------|
+| **1**    | Index **0** → `1`  | Index **4** → `6`  | `[1, 6]`  | `1 + 6 = 7`  | 🔽 **Move `right` left** |
+| **2**    | Index **0** → `1`  | Index **3** → `4`  | `[1, 4]`  | `1 + 4 = 5`  | 🔼 **Move `left` right** |
+| **3**    | Index **1** → `2`  | Index **3** → `4`  | `[2, 4]`  | `2 + 4 = 6`  | 🎯 **Found pair `[2, 4]`** |
+
+✔ **Final Answer**: The **pair `[2, 4]` sums to `6`**.
+
+---
+
+
