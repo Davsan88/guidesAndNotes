@@ -96,3 +96,15 @@ const sortedArray = [1, 2, 3, 4, 6];
 console.log(findPairWithSum(sortedArray, 6)); // Expected output: [2, 4]
 
 ```
+
+## **2️⃣ Moving the Pointers**
+
+### **🔹 Loop Through the Array:**
+- **While `left < right`:**
+  - Compute **`currentSum = arr[left] + arr[right]`**.
+  - **Check Against Target:**
+    - ✅ **If `currentSum === target`** → **Return the pair**.
+    - 🔼 **If `currentSum < target`** → **Move `left` right** (to increase sum).
+    - 🔽 **If `currentSum > target`** → **Move `right` left** (to decrease sum).
+
+---
