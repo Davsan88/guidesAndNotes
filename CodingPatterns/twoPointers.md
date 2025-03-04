@@ -119,3 +119,6 @@ console.log(findPairWithSum(sortedArray, 6)); // Expected output: [2, 4]
 ---
 
 
+## **🖼️ Visualizing the Process**
+Consider the **sorted array** `[1, 2, 3, 4, 6]` with a **target sum of `6`**:
+
