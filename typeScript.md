@@ -42,3 +42,15 @@ type User = {
 ```
 👉 **Why?** Makes code **more reusable and maintainable**.
 
+### **Interface (Preferred for Objects)**
+```ts
+interface Product {
+  name: string;
+  price: number;
+}
+```
+👉 **Why?** Interfaces provide a **structured blueprint for objects**, making code more **readable**.
+
+---
+
+
