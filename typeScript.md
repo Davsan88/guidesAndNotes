@@ -28,3 +28,7 @@ let city = "London"; // TypeScript infers `city` as a string
 
 ---
 
+
+## 📌 **Defining Custom Types**
+Instead of manually defining object structures every time, you can use **type aliases** or **interfaces**.
+
