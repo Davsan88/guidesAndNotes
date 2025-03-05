@@ -60,3 +60,14 @@ interface Product {
 ```ts
 const user: { name: string; age: number } = { name: "Jimi", age: 30 };
 ```
+
+### **Array Type**
+```ts
+let numbers: number[] = [1, 2, 3]; // Array of numbers
+let users: User[] = [{ id: 1, name: "Alice" }]; // Array of User objects
+```
+👉 **Why?** Prevents **incorrect data structures**, ensuring **consistency**.
+
+---
+
+
