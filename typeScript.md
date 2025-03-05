@@ -54,3 +54,9 @@ interface Product {
 ---
 
 
+## 📌 **Typing Objects & Arrays**
+
+### **Object Type**
+```ts
+const user: { name: string; age: number } = { name: "Jimi", age: 30 };
+```
