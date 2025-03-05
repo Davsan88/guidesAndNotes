@@ -18,3 +18,13 @@ let isDeveloper: boolean = true; // True/false values
 ---
 
 
+## **Type Inference**
+If TypeScript can **infer** the type, you **don’t need to explicitly define it**.
+
+```ts
+let city = "London"; // TypeScript infers `city` as a string
+```
+👉 **Why?** Reduces unnecessary repetition while still **enforcing type safety**.
+
+---
+
