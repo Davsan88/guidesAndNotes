@@ -5,3 +5,16 @@
 ---
 
 
+## 📌 **Basic Types**
+TypeScript provides **strict types** for better **code safety**.
+
+```ts
+let username: string = "Jimi"; // Text values
+let age: number = 30; // Numbers (integers & floats)
+let isDeveloper: boolean = true; // True/false values
+```
+👉 **Why?** Ensures variables are assigned the correct data type, **reducing unexpected runtime errors**.
+
+---
+
+
