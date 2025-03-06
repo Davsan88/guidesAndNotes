@@ -75,3 +75,18 @@ let users: User[] = [{ id: 1, name: "Alice" }]; // Array of User objects
 - **`Optional (?)`** → Allows properties to be **optional**.
 - **`Readonly (readonly)`** → Prevents modifying a property after assignment.
 
+```ts
+type UserProfile = {
+  readonly id: number;
+  name: string;
+  email?: string; // Optional
+};
+
+const user: UserProfile = { id: 1, name: "David" };
+user.id = 2; // ❌ Error: Cannot modify a readonly property.
+```
+👉 **Why?** Improves **code safety** by **preventing unintended modifications**.
+
+---
+
+
