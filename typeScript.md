@@ -115,3 +115,6 @@ input = 42; // ✅
 ```
 👉 **Why?** Great for functions that handle **multiple input types**.
 
+### **Intersection Types (`&`)**
+Combines **multiple types into one**.
+
