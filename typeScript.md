@@ -104,6 +104,14 @@ userTheme = "blue"; // ❌ Error
 
 
 ## 📌 **Unions & Intersections**
+
 ### **Union Types (`|`)**
 Allows **multiple possible types**.
+
+```ts
+let input: string | number;
+input = "Hello"; // ✅
+input = 42; // ✅
+```
+👉 **Why?** Great for functions that handle **multiple input types**.
 
