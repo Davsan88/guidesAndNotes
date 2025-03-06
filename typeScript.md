@@ -103,3 +103,7 @@ userTheme = "blue"; // ❌ Error
 ---
 
 
+## 📌 **Unions & Intersections**
+### **Union Types (`|`)**
+Allows **multiple possible types**.
+
