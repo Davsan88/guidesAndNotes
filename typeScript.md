@@ -71,3 +71,7 @@ let users: User[] = [{ id: 1, name: "Alice" }]; // Array of User objects
 ---
 
 
+## 📌 **Optional & Readonly Properties**
+- **`Optional (?)`** → Allows properties to be **optional**.
+- **`Readonly (readonly)`** → Prevents modifying a property after assignment.
+
