@@ -118,3 +118,15 @@ input = 42; // ✅
 ### **Intersection Types (`&`)**
 Combines **multiple types into one**.
 
+```ts
+type Admin = { isAdmin: boolean };
+type User = { name: string };
+
+type AdminUser = Admin & User;
+const admin: AdminUser = { name: "Alice", isAdmin: true };
+```
+👉 **Why?** Useful for **merging multiple data types**.
+
+---
+
+
