@@ -90,3 +90,6 @@ user.id = 2; // ❌ Error: Cannot modify a readonly property.
 ---
 
 
+## 📌 **Literal Types**
+Restricts a variable to **specific predefined values**.
+
