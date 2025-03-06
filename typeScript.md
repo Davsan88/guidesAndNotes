@@ -93,3 +93,13 @@ user.id = 2; // ❌ Error: Cannot modify a readonly property.
 ## 📌 **Literal Types**
 Restricts a variable to **specific predefined values**.
 
+```ts
+type Theme = "light" | "dark";
+let userTheme: Theme = "light"; // ✅ Valid
+userTheme = "blue"; // ❌ Error
+```
+👉 **Why?** Useful for enforcing **strict, predefined configurations**.
+
+---
+
+
