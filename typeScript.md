@@ -157,3 +157,13 @@ function add(a: number, b: number): number {
 ```
 👉 **Why?** Helps catch **unintended return values**.
 
+### **Void (No return value)**
+```ts
+function logMessage(message: string): void {
+  console.log(message);
+}
+```
+
+---
+
+
