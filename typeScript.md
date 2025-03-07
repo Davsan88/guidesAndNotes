@@ -130,3 +130,6 @@ const admin: AdminUser = { name: "Alice", isAdmin: true };
 ---
 
 
+## 📌 **Type Narrowing**
+TypeScript needs **runtime checks** to determine the **actual type**.
+
