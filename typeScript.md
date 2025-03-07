@@ -150,3 +150,10 @@ function printId(id: string | number) {
 ## 📌 **Function Return Types**
 Explicitly **defining the return type** improves **clarity**.
 
+```ts
+function add(a: number, b: number): number {
+  return a + b;
+}
+```
+👉 **Why?** Helps catch **unintended return values**.
+
