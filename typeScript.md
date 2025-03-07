@@ -147,3 +147,6 @@ function printId(id: string | number) {
 ---
 
 
+## 📌 **Function Return Types**
+Explicitly **defining the return type** improves **clarity**.
+
