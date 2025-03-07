@@ -167,3 +167,14 @@ function logMessage(message: string): void {
 ---
 
 
+## 📌 **Utility Types (`Partial` & `Omit`)**
+
+### **`Partial<T>`** 
+Makes all properties optional
+
+```ts
+type User = { id: number; name: string; email: string };
+type PartialUser = Partial<User>;
+```
+👉 **Why?** Useful for **updating objects** without needing **all fields**.
+
