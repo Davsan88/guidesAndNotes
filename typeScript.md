@@ -203,3 +203,6 @@ let result = identity<string>("Hello"); // ✅ Works with any type
 ---
 
 
+## 📌 **Type Assertions (`as`)**
+Forces TypeScript to **treat a value as a specific type**.
+
