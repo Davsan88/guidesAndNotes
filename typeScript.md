@@ -188,3 +188,6 @@ type UserWithoutEmail = Omit<User, "email">;
 ---
 
 
+## 📌 **Generics (Reusable Types)**
+Generics allow **creating flexible, reusable components**.
+
