@@ -178,3 +178,13 @@ type PartialUser = Partial<User>;
 ```
 👉 **Why?** Useful for **updating objects** without needing **all fields**.
 
+### **`Omit<T, K>`** (Removes specific properties)
+
+```ts
+type UserWithoutEmail = Omit<User, "email">;
+```
+👉 **Why?** Helps when you need a **modified version** of an **existing type**.
+
+---
+
+
