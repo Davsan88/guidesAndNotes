@@ -206,3 +206,12 @@ let result = identity<string>("Hello"); // ✅ Works with any type
 ## 📌 **Type Assertions (`as`)**
 Forces TypeScript to **treat a value as a specific type**.
 
+```ts
+const input = document.getElementById("username") as HTMLInputElement;
+input.value = "Davsan";
+```
+👉 **Why?** Helps when TypeScript **can’t infer** the correct type.
+
+---
+
+
