@@ -191,3 +191,15 @@ type UserWithoutEmail = Omit<User, "email">;
 ## 📌 **Generics (Reusable Types)**
 Generics allow **creating flexible, reusable components**.
 
+```ts
+function identity<T>(arg: T): T {
+  return arg;
+}
+
+let result = identity<string>("Hello"); // ✅ Works with any type
+```
+👉 **Why?** Useful in **React components, reusable functions,** and **TypeScript utility types**.
+
+---
+
+
