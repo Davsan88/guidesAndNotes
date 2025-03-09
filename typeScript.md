@@ -218,3 +218,18 @@ input.value = "Davsan";
 ## 📌 **Index Signatures (for Dynamic Objects)**
 Allows **unknown properties**.
 
+```ts
+type UserSettings = {
+  [key: string]: string; // Any string property is valid
+};
+
+const settings: UserSettings = {
+  theme: "dark",
+  language: "en",
+};
+```
+👉 **Why?** Useful when working with **dynamic objects**.
+
+---
+
+
