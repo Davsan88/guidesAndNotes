@@ -233,3 +233,14 @@ const settings: UserSettings = {
 ---
 
 
+## 📌 **Tuples (Fixed-Length Arrays)**
+```ts
+type Coordinate = [number, number];
+
+const point: Coordinate = [10, 20]; // ✅ Valid
+```
+👉 **Why?** Great for **structured, fixed-length data**.
+
+---
+
+
