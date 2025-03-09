@@ -215,3 +215,6 @@ input.value = "Davsan";
 ---
 
 
+## 📌 **Index Signatures (for Dynamic Objects)**
+Allows **unknown properties**.
+
