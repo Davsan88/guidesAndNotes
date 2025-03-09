@@ -234,6 +234,7 @@ const settings: UserSettings = {
 
 
 ## 📌 **Tuples (Fixed-Length Arrays)**
+
 ```ts
 type Coordinate = [number, number];
 
@@ -242,5 +243,21 @@ const point: Coordinate = [10, 20]; // ✅ Valid
 👉 **Why?** Great for **structured, fixed-length data**.
 
 ---
+
+
+## 📌 **Enums (Named Constants)**
+
+```ts
+enum Status {
+  Pending = "pending",
+  Completed = "completed",
+  Canceled = "canceled",
+}
+```
+👉 **Why?** Avoids using **magic strings** and **improves readability**.
+
+---
+
+
 
 
