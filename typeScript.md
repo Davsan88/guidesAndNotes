@@ -276,6 +276,11 @@ function getUserProperty(user: User, key: UserKeys) {
 ---
 
 
+## 📌 **Mapped Types (Modify Existing Types)**
+```ts
+type PartialUser = { [K in keyof User]?: User[K] };
+```
+
 
 
 
