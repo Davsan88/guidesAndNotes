@@ -270,7 +270,6 @@ function getUserProperty(user: User, key: UserKeys) {
   return user[key];
 }
 ```
-
 👉 **Why?** Useful for **building flexible, reusable functions**.
 
 ---
@@ -280,6 +279,10 @@ function getUserProperty(user: User, key: UserKeys) {
 ```ts
 type PartialUser = { [K in keyof User]?: User[K] };
 ```
+👉 **Why?** Allows you to **transform existing types dynamically**.
+
+---
+
 
 
 
