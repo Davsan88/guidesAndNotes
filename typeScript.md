@@ -271,6 +271,11 @@ function getUserProperty(user: User, key: UserKeys) {
 }
 ```
 
+👉 **Why?** Useful for **building flexible, reusable functions**.
+
+---
+
+
 
 
 
