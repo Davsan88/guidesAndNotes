@@ -262,6 +262,15 @@ enum Status {
 ## 📌 **`keyof` & Lookup Types**
 Dynamically access **keys of an object**.
 
+```ts
+type User = { id: number; name: string };
+type UserKeys = keyof User; // "id" | "name"
+
+function getUserProperty(user: User, key: UserKeys) {
+  return user[key];
+}
+```
+
 
 
 
