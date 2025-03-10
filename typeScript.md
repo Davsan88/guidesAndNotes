@@ -259,5 +259,10 @@ enum Status {
 ---
 
 
+## 📌 **`keyof` & Lookup Types**
+Dynamically access **keys of an object**.
+
+
+
 
 
