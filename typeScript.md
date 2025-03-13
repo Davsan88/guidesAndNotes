@@ -296,7 +296,15 @@ type Test2 = IsString<number>; // "no"
 ---
 
 
+## ✅ **Prioritization**
+1️⃣ **Basic Types & Type Annotations** ✅  
+2️⃣ **Interfaces & Type Aliases** ✅  
+3️⃣ **Generics ⚡ (For reusable components in React)**  
+4️⃣ **Type Narrowing & Discriminated Unions 🧐**  
+5️⃣ **Enums & Tuples (Not critical, but good to know)**  
+6️⃣ **Mapped & Conditional Types (More advanced, but useful later)**  
 
+---
 
 
 
