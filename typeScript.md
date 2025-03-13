@@ -284,6 +284,13 @@ type PartialUser = { [K in keyof User]?: User[K] };
 ---
 
 
+## 📌 **Conditional Types**
+```ts
+type IsString<T> = T extends string ? "yes" : "no";
+
+type Test1 = IsString<string>; // "yes"
+type Test2 = IsString<number>; // "no"
+```
 
 
 
