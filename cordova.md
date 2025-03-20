@@ -11,3 +11,12 @@ Apache **Cordova** is an **open-source mobile development framework** that allow
 ---
 
 
+## 🔧 **Setting Up Cordova**
+
+### 1️⃣ **Install Cordova CLI**
+To install Cordova globally, run:
+
+```sh
+npm install -g cordova
+```
+
