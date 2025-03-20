@@ -37,3 +37,8 @@ cordova platform add ios  # For iOS (Mac required)
 cordova run android --device  # Run on a real Android device
 cordova run ios --device  # Run on a real iOS device
 ```
+
+### 5️⃣ **Check Installed Platforms**
+```sh
+cordova platform ls
+```
