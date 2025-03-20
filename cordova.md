@@ -107,3 +107,8 @@ function takePhoto() {
 ---
 
 
+## 🛠 **Debugging Cordova Apps**
+
+### 1️⃣ **Console Logging in Cordova**
+Since Cordova apps run on **mobile devices**, debugging isn't as simple as using `console.log()`. Instead, use **remote debugging**:
+
