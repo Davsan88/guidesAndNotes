@@ -20,3 +20,9 @@ To install Cordova globally, run:
 npm install -g cordova
 ```
 
+### 2️⃣ **Create a New Cordova Project**
+```sh
+cordova create myApp com.example.myapp MyApp
+cd myApp
+```
+
