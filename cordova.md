@@ -159,3 +159,11 @@ signInWithPopup(auth, provider)
 ---
 
 
+## ⚠️ **Limitations of Cordova**
+- **Performance**: Slower compared to fully **native apps**.
+- **Plugin Dependency**: Relying on **third-party plugins** can be **risky**.
+- **Not Future-Proof**: Cordova is **losing popularity** to newer alternatives like **Capacitor**.
+
+---
+
+
