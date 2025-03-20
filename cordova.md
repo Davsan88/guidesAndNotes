@@ -132,3 +132,11 @@ This lets you **test some features** but won't work for **native APIs** like the
 ---
 
 
+## ⚡ **Firebase + Cordova**
+Cordova supports **Firebase Authentication, Firestore,** and **Push Notifications**.
+
+### 1️⃣ **Installing Firebase Plugin**
+```sh
+cordova plugin add cordova-plugin-fcm-with-dependecy-updated
+```
+
