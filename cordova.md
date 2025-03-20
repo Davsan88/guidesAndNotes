@@ -63,3 +63,13 @@ For example, to install the **Camera plugin**:
 cordova plugin add cordova-plugin-camera
 ```
 
+### 2️⃣ **Listing Installed Plugins**
+```sh
+cordova plugin ls
+```
+
+### 3️⃣ **Removing a Plugin**
+```sh
+cordova plugin remove <plugin-name>
+```
+
