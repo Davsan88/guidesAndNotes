@@ -123,3 +123,12 @@ Connect your **Android device** and **debug remotely**.
 Develop > Your App > Inspect
 ```
 
+### 2️⃣ **Running Cordova in the Browser (Limited)**
+```sh
+cordova serve
+```
+This lets you **test some features** but won't work for **native APIs** like the **camera**.
+
+---
+
+
