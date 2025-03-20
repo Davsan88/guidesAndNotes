@@ -140,3 +140,22 @@ Cordova supports **Firebase Authentication, Firestore,** and **Push Notification
 cordova plugin add cordova-plugin-fcm-with-dependecy-updated
 ```
 
+### 2️⃣ **Using Firebase Authentication in Cordova**
+```js
+import { getAuth, signInWithPopup, GoogleAuthProvider } from "firebase/auth";
+
+const auth = getAuth();
+const provider = new GoogleAuthProvider();
+
+signInWithPopup(auth, provider)
+  .then((result) => {
+    console.log("User signed in:", result.user);
+  })
+  .catch((error) => {
+    console.error("Error signing in:", error);
+  });
+```
+
+---
+
+
