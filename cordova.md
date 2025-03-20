@@ -73,3 +73,24 @@ cordova plugin ls
 cordova plugin remove <plugin-name>
 ```
 
+### 4️⃣ **Using Plugins in JavaScript**
+Example: **Using the Camera Plugin**
+```js
+declare var navigator: any; // Required for Cordova plugins
+
+function takePhoto() {
+    navigator.camera.getPicture(
+        (imageData) => {
+            console.log("Photo taken:", imageData);
+        },
+        (err) => {
+            console.error("Camera error:", err);
+        },
+        { quality: 50, destinationType: navigator.camera.DestinationType.DATA_URL }
+    );
+}
+```
+
+---
+
+
