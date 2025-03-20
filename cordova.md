@@ -167,3 +167,16 @@ signInWithPopup(auth, provider)
 ---
 
 
+## 🚀 **Cordova vs Capacitor**
+| Feature | Cordova | Capacitor |
+|---------|---------|---------|
+| **Setup** | Requires more configuration | Easier setup |
+| **Plugin Support** | Relies on community plugins | Native plugin support |
+| **Performance** | WebView-based, slower | Uses WebView + Native APIs |
+| **Future-Proof** | Losing popularity | Actively maintained |
+
+If your team is **sticking with Cordova**, focus on **learning plugins, debugging,** and **Firebase integration**. But if there's room to modernize, **Capacitor is the better choice** for **Angular + Firebase projects**.
+
+---
+
+
