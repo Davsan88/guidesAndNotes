@@ -42,3 +42,10 @@ cordova run ios --device  # Run on a real iOS device
 ```sh
 cordova platform ls
 ```
+
+### 6️⃣ **Remove a Platform**
+```sh
+cordova platform remove android
+```
+
+---
