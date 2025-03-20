@@ -32,3 +32,8 @@ cordova platform add android  # For Android
 cordova platform add ios  # For iOS (Mac required)
 ```
 
+### 4️⃣ **Run the App on a Device/Emulator**
+```sh
+cordova run android --device  # Run on a real Android device
+cordova run ios --device  # Run on a real iOS device
+```
