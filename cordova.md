@@ -26,3 +26,9 @@ cordova create myApp com.example.myapp MyApp
 cd myApp
 ```
 
+### 3️⃣ **Add a Platform (Android/iOS)**
+```sh
+cordova platform add android  # For Android
+cordova platform add ios  # For iOS (Mac required)
+```
+
