@@ -49,3 +49,17 @@ cordova platform remove android
 ```
 
 ---
+
+
+## 🔌 **Cordova Plugins (Access Native Features)**
+Cordova uses **plugins** to allow **JavaScript** to interact with **native device capabilities**.
+
+### 1️⃣ **Installing Plugins**
+```sh
+cordova plugin add <plugin-name>
+```
+For example, to install the **Camera plugin**:
+```sh
+cordova plugin add cordova-plugin-camera
+```
+
