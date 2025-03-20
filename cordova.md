@@ -94,3 +94,16 @@ function takePhoto() {
 ---
 
 
+## 📲 **Popular Cordova Plugins**
+| Plugin | Purpose |
+|---------|---------|
+| `cordova-plugin-camera` | Access device camera |
+| `cordova-plugin-geolocation` | Get user location |
+| `cordova-plugin-file` | Read/write files |
+| `cordova-plugin-device` | Get device info |
+| `cordova-plugin-network-information` | Check network status |
+| `cordova-plugin-fcm-with-dependecy-updated` | Push notifications (Firebase) |
+
+---
+
+
