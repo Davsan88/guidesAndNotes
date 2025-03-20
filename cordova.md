@@ -112,3 +112,14 @@ function takePhoto() {
 ### 1️⃣ **Console Logging in Cordova**
 Since Cordova apps run on **mobile devices**, debugging isn't as simple as using `console.log()`. Instead, use **remote debugging**:
 
+#### **Android: Use Chrome DevTools**
+```sh
+chrome://inspect
+```
+Connect your **Android device** and **debug remotely**.
+
+#### **iOS: Use Safari Web Inspector**
+```sh
+Develop > Your App > Inspect
+```
+
