@@ -102,6 +102,11 @@ Consider the array `[2, 1, 5, 1, 3, 2]` with `k = 3`.
 
 Consider the array `[2, 1, 5, 1, 3, 2]` with a window size `k = 3`:
 
+### **Initial Window (Indices 0 to 2):**
+
+- **Window Elements:** `[2, 1, 5]`  
+- **Sum Calculation:** `2 + 1 + 5 = 8`
+
 
 
 ---
