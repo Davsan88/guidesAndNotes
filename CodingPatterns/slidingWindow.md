@@ -121,6 +121,13 @@ Consider the array `[2, 1, 5, 1, 3, 2]` with a window size `k = 3`:
 - **Updated Sum:** `7 - 1 + 3 = 9`
 - **New Window:** `[5, 1, 3]`
 
+### **Slide the Window (i = 5):**
+
+- **New Element Entering:** Element at index `5` is `2`.
+- **Element Leaving:** Element at index `5 - 3 = 2` is `5`.
+- **Updated Sum:** `9 - 5 + 2 = 6`
+- **New Window:** `[1, 3, 2]`
+
 
 
 ---
