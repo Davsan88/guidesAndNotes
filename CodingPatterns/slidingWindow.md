@@ -107,6 +107,13 @@ Consider the array `[2, 1, 5, 1, 3, 2]` with a window size `k = 3`:
 - **Window Elements:** `[2, 1, 5]`  
 - **Sum Calculation:** `2 + 1 + 5 = 8`
 
+### **Slide the Window (i = 3):**
+
+- **New Element Entering:** Element at index `3` is `1`.
+- **Element Leaving:** Element at index `3 - 3 = 0` is `2`.
+- **Updated Sum:** `8 - 2 + 1 = 7`
+- **New Window:** `[1, 5, 1]`
+
 
 
 ---
