@@ -11,3 +11,14 @@ This is all you need to read, understand, and contribute to an Angular codebase 
 In Angular, components are like React components — they control a part of the UI.  
 A typical Angular component has 3 parts:
 
+```ts
+@Component({
+  selector: 'app-recipe',              // What the tag will look like in HTML: <app-recipe>
+  templateUrl: './recipe.component.html',  // The HTML file
+  styleUrls: ['./recipe.component.css']    // The CSS file(s)
+})
+export class RecipeComponent {
+  recipeName = 'Paella'; // Some data the component controls
+}
+```
+
