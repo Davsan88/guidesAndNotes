@@ -42,3 +42,13 @@ The main one is usually `AppModule`, in `app.module.ts`. It tells Angular:
 - What components your app has  
 - What features you're using (like forms, HTTP, etc.)
 
+Here’s the boilerplate:
+
+```ts
+@NgModule({
+  declarations: [AppComponent, RecipeComponent], // Your components
+  imports: [BrowserModule, FormsModule],         // Built-in tools
+  bootstrap: [AppComponent]                      // Starting point
+})
+export class AppModule {}
+```
