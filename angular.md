@@ -75,3 +75,11 @@ const routes: Routes = [
 })
 export class AppRoutingModule {}
 ```
+
+**Display the routed component:**  
+In your `app.component.html` (or wherever), add:
+
+```html
+<router-outlet></router-outlet>
+```
+
