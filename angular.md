@@ -52,3 +52,11 @@ Here’s the boilerplate:
 })
 export class AppModule {}
 ```
+
+---
+
+
+## ✅ 3. Routing – Moving Between Pages
+
+Angular uses routing to show different views based on the URL, without reloading the page (just like React Router).
+
