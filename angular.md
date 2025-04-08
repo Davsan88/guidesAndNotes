@@ -34,3 +34,11 @@ You can use the component in another template like:
 ---
 
 
+## ✅ 2. Modules – Grouping Everything
+
+Angular apps are made of modules — think of them like folders of related features.  
+The main one is usually `AppModule`, in `app.module.ts`. It tells Angular:
+
+- What components your app has  
+- What features you're using (like forms, HTTP, etc.)
+
