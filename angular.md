@@ -22,3 +22,15 @@ export class RecipeComponent {
 }
 ```
 
+### 🧠 TL;DR  
+You define the UI in `recipe.component.html`.  
+You define logic and data in `recipe.component.ts`.  
+You can use the component in another template like:
+
+```html
+<app-recipe></app-recipe>
+```
+
+---
+
+
