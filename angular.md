@@ -60,3 +60,18 @@ export class AppModule {}
 
 Angular uses routing to show different views based on the URL, without reloading the page (just like React Router).
 
+**Setup:**  
+In `app-routing.module.ts`:
+
+```ts
+const routes: Routes = [
+  { path: 'recipes', component: RecipeComponent },
+  { path: '', redirectTo: '/recipes', pathMatch: 'full' }
+];
+
+@NgModule({
+  imports: [RouterModule.forRoot(routes)],
+  exports: [RouterModule]
+})
+export class AppRoutingModule {}
+```
