@@ -83,3 +83,12 @@ In your `app.component.html` (or wherever), add:
 <router-outlet></router-outlet>
 ```
 
+**Navigation in HTML:**
+
+```html
+<a routerLink="/recipes">Go to Recipes</a>
+```
+
+---
+
+
