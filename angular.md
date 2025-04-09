@@ -92,3 +92,7 @@ In your `app.component.html` (or wherever), add:
 ---
 
 
+## ✅ 4. Services – Shared Logic & Data
+
+A service is a class that holds logic or data you want to share across components (like fetching recipes from an API).
+
