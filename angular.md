@@ -107,3 +107,13 @@ export class RecipeService {
 }
 ```
 
+To use this in a component:
+
+```ts
+constructor(private recipeService: RecipeService) {}
+
+ngOnInit() {
+  this.recipes = this.recipeService.getRecipes();
+}
+```
+
