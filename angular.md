@@ -96,3 +96,14 @@ In your `app.component.html` (or wherever), add:
 
 A service is a class that holds logic or data you want to share across components (like fetching recipes from an API).
 
+```ts
+@Injectable({
+  providedIn: 'root' // Available everywhere
+})
+export class RecipeService {
+  getRecipes() {
+    return ['Pizza', 'Paella', 'Sushi'];
+  }
+}
+```
+
