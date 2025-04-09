@@ -117,3 +117,9 @@ ngOnInit() {
 }
 ```
 
+🧠 **This is Angular’s version of dependency injection:**  
+You ask Angular to give you an instance of the service — it does the work.
+
+---
+
+
