@@ -133,3 +133,10 @@ Want a user to type in a field and update a variable? Use `[(ngModel)]`.
 recipeName = '';
 ```
 
+**In the HTML:**
+
+```html
+<input [(ngModel)]="recipeName" />
+<p>You typed: {{ recipeName }}</p>
+```
+
