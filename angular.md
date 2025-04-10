@@ -140,3 +140,12 @@ recipeName = '';
 <p>You typed: {{ recipeName }}</p>
 ```
 
+**Important:** You must import `FormsModule` in your `AppModule` for `ngModel` to work.
+
+```ts
+import { FormsModule } from '@angular/forms';
+```
+
+---
+
+
