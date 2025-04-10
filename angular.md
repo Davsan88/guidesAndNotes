@@ -127,3 +127,9 @@ You ask Angular to give you an instance of the service — it does the work.
 
 Want a user to type in a field and update a variable? Use `[(ngModel)]`.
 
+**In your component:**
+
+```ts
+recipeName = '';
+```
+
