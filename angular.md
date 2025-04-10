@@ -123,3 +123,7 @@ You ask Angular to give you an instance of the service — it does the work.
 ---
 
 
+## ✅ 5. Forms & Two-Way Binding
+
+Want a user to type in a field and update a variable? Use `[(ngModel)]`.
+
