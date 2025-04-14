@@ -149,3 +149,10 @@ import { FormsModule } from '@angular/forms';
 ---
 
 
+## ✅ 6. Directives – Showing and Looping Things
+
+Angular gives you "mini keywords" for templates.
+
+- `*ngIf` — shows something conditionally  
+- `*ngFor` — loops over a list
+
