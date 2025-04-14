@@ -179,3 +179,8 @@ This is Angular’s version of props and events.
 @Input() title: string;
 ```
 
+```html
+<!-- In parent component template -->
+<app-recipe [title]="'My Recipe Book'"></app-recipe>
+```
+
