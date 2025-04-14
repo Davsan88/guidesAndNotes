@@ -172,3 +172,10 @@ These work kind of like `{ condition && (...) }` and `.map()` in React JSX.
 
 This is Angular’s version of props and events.
 
+### Parent → Child: Pass data using `@Input()`
+
+```ts
+// In recipe.component.ts
+@Input() title: string;
+```
+
