@@ -163,3 +163,8 @@ Angular gives you "mini keywords" for templates.
 </ul>
 ```
 
+These work kind of like `{ condition && (...) }` and `.map()` in React JSX.
+
+---
+
+
