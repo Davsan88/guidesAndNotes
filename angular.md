@@ -156,3 +156,10 @@ Angular gives you "mini keywords" for templates.
 - `*ngIf` — shows something conditionally  
 - `*ngFor` — loops over a list
 
+<ul>
+  <li *ngFor="let recipe of recipes">
+    {{ recipe }}
+  </li>
+</ul>
+```
+
