@@ -168,3 +168,7 @@ These work kind of like `{ condition && (...) }` and `.map()` in React JSX.
 ---
 
 
+## ✅ 7. @Input and @Output – Passing Data Between Components
+
+This is Angular’s version of props and events.
+
