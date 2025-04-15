@@ -186,3 +186,11 @@ This is Angular’s version of props and events.
 
 ### Child → Parent: Emit events using `@Output()`
 
+```ts
+@Output() recipeLiked = new EventEmitter<string>();
+
+someMethod() {
+  this.recipeLiked.emit('Paella');
+}
+```
+
