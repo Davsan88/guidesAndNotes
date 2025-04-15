@@ -184,3 +184,5 @@ This is Angular’s version of props and events.
 <app-recipe [title]="'My Recipe Book'"></app-recipe>
 ```
 
+### Child → Parent: Emit events using `@Output()`
+
