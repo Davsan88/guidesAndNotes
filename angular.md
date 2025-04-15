@@ -194,3 +194,11 @@ someMethod() {
 }
 ```
 
+```html
+<!-- In parent template -->
+<app-recipe (recipeLiked)="handleLike($event)"></app-recipe>
+```
+
+---
+
+
