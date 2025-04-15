@@ -202,3 +202,15 @@ someMethod() {
 ---
 
 
+## 🧠 Recap – Your Mini Angular Checklist
+
+| ✅ Concept       | 🔥 Why You Need It                           |
+|------------------|---------------------------------------------|
+| Components       | Core building blocks — like React components |
+| Modules          | Register and group your components          |
+| Routing          | Navigate between "pages" without full reloads |
+| Services         | Share data/logic between components         |
+| Forms            | Bind input fields to component data         |
+| Directives       | `*ngIf`, `*ngFor` for logic in templates    |
+| Input/Output     | Component communication (like props & events) |
+
